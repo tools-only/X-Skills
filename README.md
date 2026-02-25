@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1967 AI-powered skills** organized into 15 categories.
+A curated collection of **1970 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (43 skills)
-- **Automation/Workflow** (92 skills)
-- **Commercial** (85 skills)
-- **Communication** (62 skills)
-- **Content Creation** (178 skills)
-- **Daily Assistant** (113 skills)
+- **Automation/Scripting** (41 skills)
+- **Automation/Workflow** (91 skills)
+- **Commercial** (91 skills)
+- **Communication** (64 skills)
+- **Content Creation** (186 skills)
+- **Daily Assistant** (111 skills)
 - **Data Analysis** (170 skills)
-- **Development** (616 skills)
-- **Development/Devops** (247 skills)
-- **Development/Testing** (44 skills)
+- **Development** (606 skills)
+- **Development/Devops** (252 skills)
+- **Development/Testing** (45 skills)
 - **Development/Tools** (191 skills)
-- **Investment** (35 skills)
-- **Other** (2 skills)
+- **Investment** (32 skills)
+- **Other** (1 skill)
 - **Productivity** (16 skills)
 - **Research** (73 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (43 skills)
+### Automation/Scripting (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -220,16 +220,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Time Spine](automation/scripting/092-time-spine_7a1d4728/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/time-spine.md) | ⭐ 193 | `automation` |
 | [Phase 2 Agents Core.Prompt](automation/scripting/085-phase-2-agents-coreprompt_812b7a36/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-2-agents-core.prompt.md) | ⭐ 93 | `automation` |
 | [Phase 4 Conductor.Prompt](automation/scripting/086-phase-4-conductorprompt_9dad8672/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-4-conductor.prompt.md) | ⭐ 93 | `automation` |
-| [Documentation](automation/scripting/documentation_fa1f1931/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/.claude/rules/documentation.md) | ⭐ 109 | `automation` |
-| [Uniswap Driver](automation/scripting/uniswap-driver_787471ca/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 109 | `automation` |
-| [Claude](automation/scripting/claude_dae370de/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/CLAUDE.md) | ⭐ 109 | `automation` |
-| [Advanced Patterns](automation/scripting/advanced-patterns_f29e4e97/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/references/advanced-patterns.md) | ⭐ 109 | `automation` |
-| [Clients And Transports](automation/scripting/clients-and-transports_87645fce/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/clients-and-transports.md) | ⭐ 109 | `automation` |
-| [Reading Data](automation/scripting/reading-data_22cc20f5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/reading-data.md) | ⭐ 109 | `automation` |
-| [Uniswap Cca](automation/scripting/uniswap-cca_4f47f266/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-cca.md) | ⭐ 109 | `automation` |
-| [Contract Patterns](automation/scripting/contract-patterns_647e8380/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/contract-patterns.md) | ⭐ 109 | `automation` |
+| [Documentation](automation/scripting/092-documentation_fa1f1931/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/.claude/rules/documentation.md) | ⭐ 109 | `automation` |
+| [Uniswap Driver](automation/scripting/093-uniswap-driver_787471ca/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 109 | `automation` |
+| [Claude](automation/scripting/094-claude_dae370de/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/CLAUDE.md) | ⭐ 109 | `automation` |
+| [Advanced Patterns](automation/scripting/095-advanced-patterns_f29e4e97/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/references/advanced-patterns.md) | ⭐ 109 | `automation` |
+| [Clients And Transports](automation/scripting/096-clients-and-transports_87645fce/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/clients-and-transports.md) | ⭐ 109 | `automation` |
+| [Reading Data](automation/scripting/097-reading-data_22cc20f5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/reading-data.md) | ⭐ 109 | `automation` |
 
-### Automation/Workflow (92 skills)
+### Automation/Workflow (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -324,9 +322,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue Child 07 Governance](automation/workflow/139-issue-child-07-governance_886369a4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-07-governance.md) | ⭐ 93 | `automation` |
 | [Phase 5 Quality Gates.Prompt](automation/workflow/140-phase-5-quality-gatesprompt_19689274/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-5-quality-gates.prompt.md) | ⭐ 93 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f3e28c52/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 294 | `automation` |
-| [Running Evals](automation/workflow/running-evals_24448437/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/evals/running-evals.md) | ⭐ 109 | `automation` |
 
-### Commercial (85 skills)
+### Commercial (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -412,11 +409,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instruction Resolution](commercial/106-instruction-resolution_a780251c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/instruction-resolution.md) | ⭐ 91 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_9f98cca3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/patterns-quick-ref.md) | ⭐ 91 | `commercial` |
 | [Roadmap](commercial/174-roadmap_26e6ab38/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 3.7k | `commercial` |
-| [Basic Deployment](commercial/basic-deployment_533d9fd0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/deployer/cases/basic-deployment.md) | ⭐ 109 | `commercial` |
-| [Security Checklist Completeness](commercial/security-checklist-completeness_59836e15/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/security-checklist-completeness.md) | ⭐ 109 | `commercial` |
-| [Chains](commercial/chains_0f62db34/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/references/chains.md) | ⭐ 109 | `commercial` |
+| [Basic Deployment](commercial/371-basic-deployment_533d9fd0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/deployer/cases/basic-deployment.md) | ⭐ 109 | `commercial` |
+| [Security Checklist Completeness](commercial/372-security-checklist-completeness_59836e15/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/security-checklist-completeness.md) | ⭐ 109 | `commercial` |
+| [Chains](commercial/373-chains_0f62db34/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/references/chains.md) | ⭐ 109 | `commercial` |
+| [Claude](commercial/claude_6bc2e728/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 536 | `commercial` |
+| [Skill](commercial/name-skill_229dead8/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-products/SKILL.md) | ⭐ 536 | `commercial` |
+| [Skill](commercial/name-skill_6503e5e1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-setup/SKILL.md) | ⭐ 536 | `shopify` `api` |
+| [Content Types](commercial/content-types_9f18f467/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-content/references/content-types.md) | ⭐ 536 | `commercial` |
+| [Csv Format](commercial/csv-format_f82b2d1f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-products/references/csv-format.md) | ⭐ 536 | `commercial` |
+| [Graphql Mutations](commercial/graphql-mutations_36c79194/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-products/references/graphql-mutations.md) | ⭐ 536 | `commercial` |
 
-### Communication (62 skills)
+### Communication (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -481,9 +484,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Perplexity](communication/249-perplexity_4820e57e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 36.2k | `communication` |
 | [Credential Identity Plan](communication/257-credential-identity-plan_00ad36cf/) | [adenhq/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/credential-identity-plan.md) | 🔥 7.8k | `communication` |
 | [Symfony Patterns](communication/112-symfony-patterns_fa9f01da/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/php-pro/references/symfony-patterns.md) | ⭐ 3.7k | `kernel.event_subscriber` |
-| [Index](communication/index_a3b34250/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/index.md) | ⭐ 109 | `communication` |
+| [Index](communication/157-index_a3b34250/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/index.md) | ⭐ 109 | `communication` |
+| [Deprecated Patterns](communication/deprecated-patterns_22cc34bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/references/deprecated-patterns.md) | ⭐ 536 | `communication` |
+| [Wp Cli Essentials](communication/wp-cli-essentials_5bb5b133/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-setup/references/wp-cli-essentials.md) | ⭐ 536 | `communication` |
 
-### Content Creation (178 skills)
+### Content Creation (186 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -657,16 +662,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_2d40e5d0/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/blog-writing-guide/SKILL.md) | ⭐ 294 | `content creation` |
 | [V1.81.12](content-creation/351-v18112_97100352/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.2k | `content creation` |
 | [Skill](content-creation/049-name-skill_196f983c/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/gemini-forge/SKILL.md) | ⭐ 10 | `content creation` |
-| [Pr Workflow](content-creation/pr-workflow_97d75bd8/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/contributing/pr-workflow.md) | ⭐ 109 | `content creation` |
-| [Writing Evals](content-creation/writing-evals_386f9b17/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/evals/writing-evals.md) | ⭐ 109 | `content creation` |
-| [Creating Plugins](content-creation/creating-plugins_d2faebf1/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/creating-plugins.md) | ⭐ 109 | `content creation` |
-| [Skill](content-creation/name-skill_b885f95e/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/SKILL.md) | ⭐ 109 | `content creation` |
-| [Wagmi React](content-creation/wagmi-react_e854d7d4/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/wagmi-react.md) | ⭐ 109 | `content creation` |
-| [Writing Transactions](content-creation/writing-transactions_92bd7873/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/writing-transactions.md) | ⭐ 109 | `content creation` |
-| [Agent Agnostic](content-creation/agent-agnostic_a61981d8/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/.claude/rules/agent-agnostic.md) | ⭐ 109 | `content creation` |
-| [Viem Integration](content-creation/viem-integration_0e68638f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/viem-integration.md) | ⭐ 109 | `content creation` |
+| [Pr Workflow](content-creation/083-pr-workflow_97d75bd8/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/contributing/pr-workflow.md) | ⭐ 109 | `content creation` |
+| [Writing Evals](content-creation/356-writing-evals_386f9b17/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/evals/writing-evals.md) | ⭐ 109 | `content creation` |
+| [Creating Plugins](content-creation/357-creating-plugins_d2faebf1/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/creating-plugins.md) | ⭐ 109 | `content creation` |
+| [Skill](content-creation/049-name-skill_b885f95e/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/SKILL.md) | ⭐ 109 | `content creation` |
+| [Wagmi React](content-creation/358-wagmi-react_e854d7d4/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/wagmi-react.md) | ⭐ 109 | `content creation` |
+| [Writing Transactions](content-creation/359-writing-transactions_92bd7873/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/writing-transactions.md) | ⭐ 109 | `content creation` |
+| [Skill](content-creation/name-skill_60f63ec7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/skill-creator/SKILL.md) | ⭐ 536 | `content creation` |
+| [Skill](content-creation/name-skill_9d7be937/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-content/SKILL.md) | ⭐ 536 | `news` `products` |
+| [Skill](content-creation/name-skill_a0cd6956/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-content/SKILL.md) | ⭐ 536 | `content creation` |
+| [Skill](content-creation/name-skill_b0a9ac4e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-elementor/SKILL.md) | ⭐ 536 | `content creation` |
+| [Api Scopes](content-creation/api-scopes_ca81d4b3/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-setup/references/api-scopes.md) | ⭐ 536 | `content creation` |
+| [Rest Api Endpoints](content-creation/rest-api-endpoints_eead28d4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-content/references/rest-api-endpoints.md) | ⭐ 536 | `content creation` |
+| [Wp Cli Content](content-creation/wp-cli-content_9d7c65f6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-content/references/wp-cli-content.md) | ⭐ 536 | `content creation` |
+| [Elementor Workflows](content-creation/elementor-workflows_1e407b9c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-elementor/references/elementor-workflows.md) | ⭐ 536 | `content creation` |
+| [Skill](content-creation/name-skill_abed0d6a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-setup/SKILL.md) | ⭐ 536 | `wordpress` `api` |
+| [Report Template](content-creation/report-template_2dd48593/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/responsiveness-check/references/report-template.md) | ⭐ 536 | `content creation` |
 
-### Daily Assistant (113 skills)
+### Daily Assistant (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -777,12 +790,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue Child 08 Documentation](daily-assistant/276-issue-child-08-documentation_382e2600/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-08-documentation.md) | ⭐ 93 | `daily assistant` |
 | [00 Session Start.Prompt](daily-assistant/277-00-session-startprompt_e8b745e3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/00-session-start.prompt.md) | ⭐ 93 | `daily assistant` |
 | [Cost Tracking](daily-assistant/053-cost_tracking_8ee7f6ae/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md) | 🔥 36.5k | `model-anthropic-claude-v2.1` `app-ishaan-prod` |
-| [Index](daily-assistant/index_e8db109c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/index.md) | ⭐ 109 | `daily assistant` |
-| [Claude](daily-assistant/claude_575a8037/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/CLAUDE.md) | ⭐ 109 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_315499bb/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/configurator/SKILL.md) | ⭐ 109 | `daily assistant` |
-| [Configurator](daily-assistant/configurator_ac22807d/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/configurator.md) | ⭐ 109 | `daily assistant` |
-| [Basic Configuration](daily-assistant/basic-configuration_02527b8e/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/configurator/cases/basic-configuration.md) | ⭐ 109 | `daily assistant` |
-| [Base Hook Template](daily-assistant/base-hook-template_ad623dde/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/references/base-hook-template.md) | ⭐ 109 | `daily assistant` |
+| [Index](daily-assistant/052-index_e8db109c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/index.md) | ⭐ 109 | `daily assistant` |
+| [Claude](daily-assistant/037-claude_575a8037/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/CLAUDE.md) | ⭐ 109 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_315499bb/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/configurator/SKILL.md) | ⭐ 109 | `daily assistant` |
+| [Commit Hook](daily-assistant/commit-hook_07292f6c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/context-manager/references/commit-hook.md) | ⭐ 536 | `daily assistant` |
 
 ### Data Analysis (170 skills)
 
@@ -959,7 +970,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Approve Synthesis](data-analysis/518-approve-synthesis_215d4d21/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/approve-synthesis.md) | ⭐ 3.7k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ff51650a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/annotating-task-lineage/SKILL.md) | ⭐ 239 | `data analysis` |
 
-### Development (616 skills)
+### Development (606 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1546,41 +1557,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_bb6f7bf4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/CLAUDE.md) | ⭐ 3.7k | `development` |
 | [Skill](development/1178-name-skill_9f371086/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/atlassian-mcp/SKILL.md) | ⭐ 3.7k | `development` |
 | [Create Implementation Plan](development/228-create-implementation-plan_d8c665ce/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/planning/create-implementation-plan.md) | ⭐ 3.7k | `development` |
-| [Monorepo Structure](development/monorepo-structure_6b41a36f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/architecture/monorepo-structure.md) | ⭐ 109 | `development` |
-| [Index](development/index_a156149f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/contributing/index.md) | ⭐ 109 | `development` |
-| [Index](development/index_edce5d7d/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/getting-started/index.md) | ⭐ 109 | `development` |
-| [V4 Security Foundations](development/v4-security-foundations_20f5b501/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/v4-security-foundations.md) | ⭐ 109 | `development` |
-| [Claude](development/claude_0c6d92ae/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/CLAUDE.md) | ⭐ 109 | `development` |
-| [Security Pitfalls](development/security-pitfalls_195561fd/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/security-pitfalls.md) | ⭐ 109 | `development` |
-| [Access Control Patterns](development/access-control-patterns_97de2c9d/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/access-control-patterns.md) | ⭐ 109 | `development` |
-| [Combined Vulnerability Code Review](development/combined-vulnerability-code-review_b0a3f548/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/combined-vulnerability-code-review.md) | ⭐ 109 | `development` |
-| [Noop Rug Pull Identification](development/noop-rug-pull-identification_9a91632b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/noop-rug-pull-identification.md) | ⭐ 109 | `development` |
-| [Permission Flags Risk Assessment](development/permission-flags-risk-assessment_aaddde09/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/permission-flags-risk-assessment.md) | ⭐ 109 | `development` |
-| [Wagmi React](development/wagmi-react_0f0f1e95/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/viem-integration/cases/wagmi-react.md) | ⭐ 109 | `development` |
-| [Swap Integration Expert](development/swap-integration-expert_b0947791/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/agents/swap-integration-expert.md) | ⭐ 109 | `development` |
-| [Viem Integration Expert](development/viem-integration-expert_051ed8b6/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/agents/viem-integration-expert.md) | ⭐ 109 | `development` |
-| [Skill](development/name-skill_2d66ed07/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/SKILL.md) | ⭐ 109 | `development` |
-| [Skill](development/name-skill_f8d029e8/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/SKILL.md) | ⭐ 109 | `development` |
-| [Position Types](development/position-types_67b98f97/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/position-types.md) | ⭐ 109 | `development` |
-| [Audit Checklist](development/audit-checklist_f5a32af5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/references/audit-checklist.md) | ⭐ 109 | `development` |
-| [Vulnerabilities Catalog](development/vulnerabilities-catalog_50f1e28f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/references/vulnerabilities-catalog.md) | ⭐ 109 | `development` |
-| [Claude](development/claude_b0558e0f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/CLAUDE.md) | ⭐ 109 | `development` |
-| [Overview](development/overview_10bba00a/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/OVERVIEW.md) | ⭐ 109 | `development` |
-| [Index](development/index_1b480b18/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/index.md) | ⭐ 109 | `development` |
-| [Index](development/index_3c350dee/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/evals/index.md) | ⭐ 109 | `development` |
-| [Quick Start](development/quick-start_0b071063/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/getting-started/quick-start.md) | ⭐ 109 | `development` |
-| [Uniswap Hooks](development/uniswap-hooks_623506dd/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-hooks.md) | ⭐ 109 | `development` |
-| [Uniswap Viem](development/uniswap-viem_0785a854/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-viem.md) | ⭐ 109 | `development` |
-| [Deployer](development/deployer_8f13554a/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/deployer.md) | ⭐ 109 | `development` |
-| [Swap Integration](development/swap-integration_06fb9e21/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-integration.md) | ⭐ 109 | `development` |
-| [Claude](development/claude_ca2059e0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/CLAUDE.md) | ⭐ 109 | `development` |
-| [Delta Accounting Edge Cases](development/delta-accounting-edge-cases_c4b27240/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/delta-accounting-edge-cases.md) | ⭐ 109 | `development` |
-| [Delta Accounting Understanding](development/delta-accounting-understanding_ca1412dc/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/delta-accounting-understanding.md) | ⭐ 109 | `development` |
-| [Basic](development/basic_8da5b3b3/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/viem-integration/cases/basic.md) | ⭐ 109 | `development` |
-| [Accounts And Keys](development/accounts-and-keys_7988bf0f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/skills/viem-integration/references/accounts-and-keys.md) | ⭐ 109 | `development` |
-| [Reading Material 1 I](development/reading_material_1_i_0a2c3187/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/reading_material_1_I.md) | ⭐ 635 | `development` |
+| [Monorepo Structure](development/2908-monorepo-structure_6b41a36f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/architecture/monorepo-structure.md) | ⭐ 109 | `development` |
+| [Index](development/468-index_a156149f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/contributing/index.md) | ⭐ 109 | `development` |
+| [Index](development/468-index_edce5d7d/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/getting-started/index.md) | ⭐ 109 | `development` |
+| [V4 Security Foundations](development/2912-v4-security-foundations_20f5b501/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/v4-security-foundations.md) | ⭐ 109 | `development` |
+| [Claude](development/140-claude_0c6d92ae/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/CLAUDE.md) | ⭐ 109 | `development` |
+| [Security Pitfalls](development/2913-security-pitfalls_195561fd/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/security-pitfalls.md) | ⭐ 109 | `development` |
+| [Access Control Patterns](development/2914-access-control-patterns_97de2c9d/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/access-control-patterns.md) | ⭐ 109 | `development` |
+| [Combined Vulnerability Code Review](development/2915-combined-vulnerability-code-review_b0a3f548/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/combined-vulnerability-code-review.md) | ⭐ 109 | `development` |
+| [Noop Rug Pull Identification](development/2916-noop-rug-pull-identification_9a91632b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/noop-rug-pull-identification.md) | ⭐ 109 | `development` |
+| [Permission Flags Risk Assessment](development/2917-permission-flags-risk-assessment_aaddde09/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/v4-security-foundations/cases/permission-flags-risk-assessment.md) | ⭐ 109 | `development` |
+| [Wagmi React](development/2918-wagmi-react_0f0f1e95/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/viem-integration/cases/wagmi-react.md) | ⭐ 109 | `development` |
+| [Swap Integration Expert](development/2919-swap-integration-expert_b0947791/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/agents/swap-integration-expert.md) | ⭐ 109 | `development` |
+| [Viem Integration Expert](development/2920-viem-integration-expert_051ed8b6/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-viem/agents/viem-integration-expert.md) | ⭐ 109 | `development` |
+| [Skill](development/1178-name-skill_2d66ed07/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/SKILL.md) | ⭐ 109 | `development` |
+| [Skill](development/1178-name-skill_f8d029e8/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/SKILL.md) | ⭐ 109 | `development` |
+| [Position Types](development/2921-position-types_67b98f97/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/position-types.md) | ⭐ 109 | `development` |
+| [Audit Checklist](development/1930-audit-checklist_f5a32af5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/references/audit-checklist.md) | ⭐ 109 | `development` |
+| [Vulnerabilities Catalog](development/2922-vulnerabilities-catalog_50f1e28f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-hooks/skills/v4-security-foundations/references/vulnerabilities-catalog.md) | ⭐ 109 | `development` |
+| [Skill](development/name-skill_c5d191cf/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/vite-flare-starter/SKILL.md) | ⭐ 536 | `development` |
+| [Skill](development/name-skill_d86c10dc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/SKILL.md) | ⭐ 536 | `development` |
+| [Topic Index](development/topic-index_fa75544c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/references/topic-index.md) | ⭐ 536 | `development` |
+| [Skill](development/name-skill_6d239c0a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/responsiveness-check/SKILL.md) | ⭐ 536 | `development` |
+| [Templates](development/templates_259fc109/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/references/templates.md) | ⭐ 536 | `development` |
 
-### Development/Devops (247 skills)
+### Development/Devops (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1832,10 +1833,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_5c10e7f7/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/SKILL.md) | ⭐ 239 | `development` |
 | [Skill](development/devops/014-name-skill_dde1ffd8/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/deploying-airflow/SKILL.md) | ⭐ 239 | `development` |
 | [Skill](development/devops/014-name-skill_0e175574/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/setting-up-astro-project/SKILL.md) | ⭐ 239 | `development` |
-| [Claude](development/devops/claude_b335066a/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/.github/workflows/CLAUDE.md) | ⭐ 109 | `development` |
-| [Index](development/devops/index_a76c8982/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/architecture/index.md) | ⭐ 109 | `development` |
+| [Claude](development/devops/205-claude_b335066a/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/.github/workflows/CLAUDE.md) | ⭐ 109 | `development` |
+| [Skill](development/devops/name-skill_295854ad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/context-manager/SKILL.md) | ⭐ 536 | `development` |
+| [Skill](development/devops/name-skill_7621df25/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/SKILL.md) | ⭐ 536 | `development` |
+| [Skill](development/devops/name-skill_cbe51c1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-kickoff/SKILL.md) | ⭐ 536 | `development` |
+| [Permission Presets](development/devops/permission-presets_ee39569b/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/references/permission-presets.md) | ⭐ 536 | `development` |
+| [Claude Md Templates](development/devops/claude-md-templates_59dff39f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-kickoff/references/claude-md-templates.md) | ⭐ 536 | `development` |
+| [Permission Presets](development/devops/permission-presets_6b1cf3ed/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-kickoff/references/permission-presets.md) | ⭐ 536 | `development` |
 
-### Development/Testing (44 skills)
+### Development/Testing (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1883,6 +1889,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_be3db193/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
 | [Troubleshooting](development/testing/027-troubleshooting_f0d39806/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/troubleshooting.md) | ⭐ 771 | `development` |
 | [Complex Data Types](development/testing/083-complex-data-types_52c2575b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/complex-data-types.md) | ⭐ 91 | `development` |
+| [Breakpoints](development/testing/breakpoints_357f75d9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/responsiveness-check/references/breakpoints.md) | ⭐ 536 | `development` |
 
 ### Development/Tools (191 skills)
 
@@ -2075,12 +2082,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Credits](development/tools/339-credits_acab3540/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/CREDITS.md) | ⭐ 91 | `development` |
 | [Skill](development/tools/002-name-skill_0ff98299/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/SKILL.md) | ⭐ 91 | `development` |
 | [Credential System Analysis](development/tools/340-credential-system-analysis_1da38287/) | [adenhq/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/credential-system-analysis.md) | 🔥 7.8k | `development` |
-| [Full Range V2](development/tools/full-range-v2_f13a265b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/liquidity-planner/cases/full-range-v2.md) | ⭐ 109 | `development` |
-| [V4 Position](development/tools/v4-position_ac975176/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/liquidity-planner/cases/v4-position.md) | ⭐ 109 | `development` |
-| [Skill](development/tools/name-skill_e0a3564b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/deployer/SKILL.md) | ⭐ 109 | `development` |
-| [Skill](development/tools/name-skill_8349cb4b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/SKILL.md) | ⭐ 109 | `development` |
+| [Full Range V2](development/tools/340-full-range-v2_f13a265b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/liquidity-planner/cases/full-range-v2.md) | ⭐ 109 | `development` |
+| [V4 Position](development/tools/341-v4-position_ac975176/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/liquidity-planner/cases/v4-position.md) | ⭐ 109 | `development` |
+| [Skill](development/tools/002-name-skill_e0a3564b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/deployer/SKILL.md) | ⭐ 109 | `development` |
+| [Skill](development/tools/002-name-skill_8349cb4b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/SKILL.md) | ⭐ 109 | `development` |
 
-### Investment (35 skills)
+### Investment (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2108,24 +2115,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Datasets](investment/056-datasets_4ed7be2a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/datasets.md) | 🔥 9.2k | `investment` |
 | [Datasets Securities](investment/057-datasets-securities_25b464e0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/datasets-securities.md) | 🔥 9.2k | `investment` |
 | [Google Kms](investment/052-google_kms_2f84634f/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/secret_managers/google_kms.md) | 🔥 36.5k | `investment` |
-| [Uniswap Trading](investment/uniswap-trading_b7b20165/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-trading.md) | ⭐ 109 | `investment` |
-| [Claude](investment/claude_c7da34ef/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/CLAUDE.md) | ⭐ 109 | `investment` |
-| [Basic](investment/basic_1a39036b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/basic.md) | ⭐ 109 | `investment` |
-| [Eth To Token Swap](investment/eth-to-token-swap_860221ea/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/eth-to-token-swap.md) | ⭐ 109 | `investment` |
-| [Smart Account Swap](investment/smart-account-swap_85d21c6f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/smart-account-swap.md) | ⭐ 109 | `investment` |
-| [Token Discovery](investment/token-discovery_a03cae36/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-planner/cases/token-discovery.md) | ⭐ 109 | `investment` |
-| [Skill](investment/name-skill_e12dbf2c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/SKILL.md) | ⭐ 109 | `investment` |
-| [Data Providers](investment/data-providers_69bbdab0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/references/data-providers.md) | ⭐ 109 | `investment` |
-| [Installation](investment/installation_46547176/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/getting-started/installation.md) | ⭐ 109 | `investment` |
-| [Basic V3 Position](investment/basic-v3-position_5870074e/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/liquidity-planner/cases/basic-v3-position.md) | ⭐ 109 | `investment` |
-| [Basic Swap](investment/basic-swap_04fcafcf/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-planner/cases/basic-swap.md) | ⭐ 109 | `investment` |
+| [Uniswap Trading](investment/051-uniswap-trading_b7b20165/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-trading.md) | ⭐ 109 | `investment` |
+| [Claude](investment/052-claude_c7da34ef/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/CLAUDE.md) | ⭐ 109 | `investment` |
+| [Basic](investment/053-basic_1a39036b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/basic.md) | ⭐ 109 | `investment` |
+| [Eth To Token Swap](investment/054-eth-to-token-swap_860221ea/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/eth-to-token-swap.md) | ⭐ 109 | `investment` |
+| [Smart Account Swap](investment/055-smart-account-swap_85d21c6f/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-integration/cases/smart-account-swap.md) | ⭐ 109 | `investment` |
+| [Token Discovery](investment/056-token-discovery_a03cae36/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-planner/cases/token-discovery.md) | ⭐ 109 | `investment` |
+| [Skill](investment/021-name-skill_e12dbf2c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/SKILL.md) | ⭐ 109 | `investment` |
+| [Data Providers](investment/057-data-providers_69bbdab0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/references/data-providers.md) | ⭐ 109 | `investment` |
 
-### Other (2 skills)
+### Other (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
-| [Cross Chain Swap](other/cross-chain-swap_5a86ecf5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/evals/suites/swap-planner/cases/cross-chain-swap.md) | ⭐ 109 | `other` |
 
 ### Productivity (16 skills)
 
@@ -2224,8 +2227,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Model Fingerprints](research/263-model-fingerprints_557e707b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md) | ⭐ 972 | `research` |
 | [Vocabulary Patterns](research/264-vocabulary-patterns_e1991609/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md) | ⭐ 972 | `research` |
 | [Issue Child 04 Subagents](research/257-issue-child-04-subagents_634cb553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-04-subagents.md) | ⭐ 93 | `research` |
-| [Swap Planner](research/swap-planner_205d63ab/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 109 | `research` |
-| [Data Providers](research/data-providers_b758b4c5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/data-providers.md) | ⭐ 109 | `research` |
+| [Swap Planner](research/258-swap-planner_205d63ab/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 109 | `research` |
+| [Data Providers](research/259-data-providers_b758b4c5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/data-providers.md) | ⭐ 109 | `research` |
 
 ## How Skills Are Organized
 
@@ -2277,5 +2280,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 01:38:40 UTC*
+*Last updated: 2026-02-25 02:35:24 UTC*
 *Automatically maintained by SkillFlow*
