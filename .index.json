@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T16:10:32.483147",
+  "updated_at": "2026-02-25T17:08:03.070989",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -29261,6 +29261,34 @@
       "source_url": "https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/messaging-patterns.md",
       "display_name": "Messaging Patterns",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "bce1ebf4376097eef38416008ff97dc3f6d97b066b6007e13e917ebad4ce1372",
+      "source_path": "skills/add-feishu/SKILL.md",
+      "source_repo": "sugarforever/01coder-agent-skills",
+      "local_path": "development/1178-name-skill_bce1ebf4",
+      "category": "development",
+      "name": "name-skill_bce1ebf4",
+      "indexed_at": "2026-02-25T17:08:02.930347",
+      "repo_stars": 59,
+      "repo_updated_at": "2026-02-24T23:06:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/add-feishu/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "666697adf908b4a1e2a9632b0141794d3141b8c2fca9056c4518fbb13b8d5e08",
+      "source_path": "skills/publish-substack-article/SKILL.md",
+      "source_repo": "sugarforever/01coder-agent-skills",
+      "local_path": "content-creation/049-name-skill_666697ad",
+      "category": "content-creation",
+      "name": "name-skill_666697ad",
+      "indexed_at": "2026-02-25T17:08:03.070923",
+      "repo_stars": 59,
+      "repo_updated_at": "2026-02-09T20:08:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-substack-article/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

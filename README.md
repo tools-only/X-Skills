@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (50 skills)
+- **Automation/Scripting** (49 skills)
 - **Automation/Workflow** (96 skills)
 - **Commercial** (99 skills)
-- **Communication** (77 skills)
-- **Content Creation** (193 skills)
-- **Daily Assistant** (117 skills)
+- **Communication** (76 skills)
+- **Content Creation** (194 skills)
+- **Daily Assistant** (118 skills)
 - **Data Analysis** (184 skills)
-- **Development** (643 skills)
+- **Development** (644 skills)
 - **Development/Devops** (262 skills)
 - **Development/Testing** (46 skills)
-- **Development/Tools** (200 skills)
+- **Development/Tools** (199 skills)
 - **Investment** (33 skills)
 - **Other** (3 skills)
 - **Productivity** (17 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (50 skills)
+### Automation/Scripting (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -231,10 +231,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Conventional Commits Fix Skillmd Frontmatter Broken Links An](automation/scripting/087-p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an_6a149fda/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an.md) | ⭐ 20 | `automation` |
 | [Pivot Techniques](automation/scripting/088-pivot_techniques_67ee48dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/pivot_techniques.md) | ⭐ 44 | `automation` |
 | [Data Driven Optimize Overall Guide](automation/scripting/093-data_driven_optimize_overall_guide_329d321c/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_overall_guide.md) | ⭐ 11 | `automation` |
-| [Skill](automation/scripting/name-skill_57473979/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudwatch/SKILL.md) | ⭐ 996 | `automation` |
-| [Alarms Metrics](automation/scripting/alarms-metrics_e79fc78d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudwatch/alarms-metrics.md) | ⭐ 996 | `automation` |
-| [Skill](automation/scripting/name-skill_31dee493/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eventbridge/SKILL.md) | ⭐ 996 | `automation` |
-| [Template Patterns](automation/scripting/template-patterns_d3962850/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudformation/template-patterns.md) | ⭐ 996 | `automation` |
+| [Skill](automation/scripting/003-name-skill_57473979/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudwatch/SKILL.md) | ⭐ 996 | `automation` |
+| [Alarms Metrics](automation/scripting/099-alarms-metrics_e79fc78d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudwatch/alarms-metrics.md) | ⭐ 996 | `automation` |
+| [Skill](automation/scripting/003-name-skill_31dee493/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eventbridge/SKILL.md) | ⭐ 996 | `automation` |
 
 ### Automation/Workflow (96 skills)
 
@@ -434,14 +433,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Graphql Mutations](commercial/375-graphql-mutations_36c79194/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-products/references/graphql-mutations.md) | ⭐ 536 | `commercial` |
 | [Agents](commercial/007-agents_ffc3815e/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/AGENTS.md) | ⭐ 103 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_6cbfa360/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/patterns-quick-ref.md) | ⭐ 94 | `commercial` |
-| [Skill](commercial/name-skill_35cb977a/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/community/b12-claude-plugin/skills/website-generator/SKILL.md) | ⭐ 1.4k | `commercial` |
-| [Query Patterns](commercial/query-patterns_19c2e603/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/dynamodb/query-patterns.md) | ⭐ 996 | `commercial` |
-| [Task Definitions](commercial/task-definitions_9899a4f7/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ecs/task-definitions.md) | ⭐ 996 | `commercial` |
-| [Skill](commercial/name-skill_3eb29bfa/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/SKILL.md) | ⭐ 996 | `commercial` |
-| [Skill](commercial/name-skill_d256ef62/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/s3/SKILL.md) | ⭐ 996 | `commercial` |
-| [Skill](commercial/name-skill_70bcc108/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/SKILL.md) | ⭐ 996 | `commercial` |
+| [Skill](commercial/210-name-skill_35cb977a/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/community/b12-claude-plugin/skills/website-generator/SKILL.md) | ⭐ 1.4k | `commercial` |
+| [Query Patterns](commercial/378-query-patterns_19c2e603/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/dynamodb/query-patterns.md) | ⭐ 996 | `commercial` |
+| [Task Definitions](commercial/379-task-definitions_9899a4f7/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ecs/task-definitions.md) | ⭐ 996 | `commercial` |
+| [Skill](commercial/210-name-skill_3eb29bfa/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/SKILL.md) | ⭐ 996 | `commercial` |
+| [Skill](commercial/210-name-skill_d256ef62/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/s3/SKILL.md) | ⭐ 996 | `commercial` |
+| [Skill](commercial/210-name-skill_70bcc108/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/SKILL.md) | ⭐ 996 | `commercial` |
 
-### Communication (77 skills)
+### Communication (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -519,11 +518,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Routing](communication/260-notification-routing_0daba767/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/notification-routing.md) | ⭐ 17 | `communication` |
 | [Skill](communication/127-name-skill_b6531b9d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/quo/SKILL.md) | ⭐ 17 | `communication` |
 | [Skill](communication/127-name-skill_54048224/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 17 | `communication` |
-| [Notification Patterns](communication/notification-patterns_60f7521d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sns/notification-patterns.md) | ⭐ 996 | `communication` |
-| [Workflow Patterns](communication/workflow-patterns_0bcc67c1/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/workflow-patterns.md) | ⭐ 996 | `communication` |
-| [Auth Flows](communication/auth-flows_b6ed6140/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cognito/auth-flows.md) | ⭐ 996 | `communication` |
+| [Notification Patterns](communication/260-notification-patterns_60f7521d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sns/notification-patterns.md) | ⭐ 996 | `communication` |
+| [Workflow Patterns](communication/261-workflow-patterns_0bcc67c1/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/workflow-patterns.md) | ⭐ 996 | `communication` |
 
-### Content Creation (193 skills)
+### Content Creation (194 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -720,8 +718,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Grounding Multiagent](content-creation/361-grounding-multiagent_4efde5a5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/grounding-multiagent.md) | ⭐ 94 | `content creation` |
 | [Skill](content-creation/049-name-skill_3a3f68f4/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/SKILL.md) | ⭐ 14 | `content creation` |
 | [Skill](content-creation/049-name-skill_3a9748d2/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_666697ad/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-substack-article/SKILL.md) | ⭐ 59 | `content creation` |
 
-### Daily Assistant (117 skills)
+### Daily Assistant (118 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -840,8 +839,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Machine Setup](daily-assistant/264-machine-setup_68f74d22/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/machine-setup.md) | ⭐ 17 | `daily assistant` |
 | [Update Model](daily-assistant/285-update-model_280fdd36/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_ebfddafc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_f3081798/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/SKILL.md) | ⭐ 996 | `daily assistant` |
-| [Messaging Patterns](daily-assistant/messaging-patterns_1c8a9f4d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/messaging-patterns.md) | ⭐ 996 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f3081798/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/SKILL.md) | ⭐ 996 | `daily assistant` |
+| [Messaging Patterns](daily-assistant/277-messaging-patterns_1c8a9f4d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/messaging-patterns.md) | ⭐ 996 | `daily assistant` |
+| [Index.Ts.Intent](daily-assistant/indextsintent_740ac19c/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/add-feishu/modify/src/index.ts.intent.md) | ⭐ 59 | `daily assistant` |
 
 ### Data Analysis (184 skills)
 
@@ -1032,7 +1032,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_e33d4fe2/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-figure/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_61502b0d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 
-### Development (643 skills)
+### Development (644 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1663,22 +1663,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sources](development/2963-sources_085b029b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/sources.md) | ⭐ 94 | `development` |
 | [Extension](development/2913-extension_428bd2a2/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/guide/extension.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_18ffbf09/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-literature/SKILL.md) | ⭐ 14 | `development` |
-| [References](development/references_1e87f333/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/REFERENCES.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_943d1aa9/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/api-gateway/SKILL.md) | ⭐ 996 | `development` |
-| [Integration Patterns](development/integration-patterns_7cd0d0e0/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/api-gateway/integration-patterns.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_31654958/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudformation/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_65216c1e/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cognito/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_0a5eecb0/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/dynamodb/SKILL.md) | ⭐ 996 | `development` |
-| [Instance Management](development/instance-management_460c712f/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ec2/instance-management.md) | ⭐ 996 | `development` |
-| [Event Patterns](development/event-patterns_0db6525a/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eventbridge/event-patterns.md) | ⭐ 996 | `development` |
-| [Best Practices](development/best-practices_0f9a569a/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/best-practices.md) | ⭐ 996 | `development` |
-| [Policies](development/policies_97396345/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/policies.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_79a78fcd/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/SKILL.md) | ⭐ 996 | `development` |
-| [Debugging](development/debugging_5442c528/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/debugging.md) | ⭐ 996 | `development` |
-| [Rotation Strategies](development/rotation-strategies_75b13bd7/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/rotation-strategies.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_ba222109/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sns/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_a2adda39/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/name-skill_e082dd00/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/SKILL.md) | ⭐ 996 | `development` |
+| [References](development/898-references_1e87f333/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/REFERENCES.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_943d1aa9/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/api-gateway/SKILL.md) | ⭐ 996 | `development` |
+| [Integration Patterns](development/477-integration-patterns_7cd0d0e0/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/api-gateway/integration-patterns.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_31654958/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudformation/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_65216c1e/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cognito/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_0a5eecb0/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/dynamodb/SKILL.md) | ⭐ 996 | `development` |
+| [Instance Management](development/2907-instance-management_460c712f/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ec2/instance-management.md) | ⭐ 996 | `development` |
+| [Event Patterns](development/349-event-patterns_0db6525a/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eventbridge/event-patterns.md) | ⭐ 996 | `development` |
+| [Best Practices](development/102-best-practices_0f9a569a/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/best-practices.md) | ⭐ 996 | `development` |
+| [Policies](development/699-policies_97396345/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/policies.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_79a78fcd/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/SKILL.md) | ⭐ 996 | `development` |
+| [Debugging](development/266-debugging_5442c528/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/debugging.md) | ⭐ 996 | `development` |
+| [Rotation Strategies](development/2908-rotation-strategies_75b13bd7/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/rotation-strategies.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_ba222109/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sns/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_a2adda39/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/1178-name-skill_e082dd00/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/name-skill_bce1ebf4/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/add-feishu/SKILL.md) | ⭐ 59 | `development` |
 
 ### Development/Devops (262 skills)
 
@@ -1942,13 +1943,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quick Reference](development/devops/378-quick_reference_1f0f2bf4/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.8k | `development` |
 | [Known Issues](development/devops/385-known-issues_b69383eb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/known-issues.md) | ⭐ 94 | `development` |
 | [Deployment](development/devops/258-deployment_61429611/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/deployment.md) | ⭐ 17 | `development` |
-| [Skill](development/devops/name-skill_2633bb2b/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/bedrock/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/devops/name-skill_1199ef9d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ec2/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/devops/name-skill_7d16c78f/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ecs/SKILL.md) | ⭐ 996 | `development` |
-| [Skill](development/devops/name-skill_ab99e180/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eks/SKILL.md) | ⭐ 996 | `development` |
-| [Cluster Setup](development/devops/cluster-setup_2501966d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eks/cluster-setup.md) | ⭐ 996 | `development` |
-| [Deployment](development/devops/deployment_cb667787/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/deployment.md) | ⭐ 996 | `development` |
-| [Administration](development/devops/administration_e341d872/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/administration.md) | ⭐ 996 | `development` |
+| [Skill](development/devops/014-name-skill_2633bb2b/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/bedrock/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/devops/014-name-skill_1199ef9d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ec2/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/devops/014-name-skill_7d16c78f/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/ecs/SKILL.md) | ⭐ 996 | `development` |
+| [Skill](development/devops/014-name-skill_ab99e180/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eks/SKILL.md) | ⭐ 996 | `development` |
+| [Cluster Setup](development/devops/370-cluster-setup_2501966d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eks/cluster-setup.md) | ⭐ 996 | `development` |
+| [Deployment](development/devops/258-deployment_cb667787/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/lambda/deployment.md) | ⭐ 996 | `development` |
+| [Administration](development/devops/371-administration_e341d872/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/administration.md) | ⭐ 996 | `development` |
 
 ### Development/Testing (46 skills)
 
@@ -2001,7 +2002,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_cb2003cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/installing-skills/SKILL.md) | ⭐ 103 | `development` |
 | [Development](development/testing/083-development_1aeb018b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/development.md) | ⭐ 17 | `development` |
 
-### Development/Tools (200 skills)
+### Development/Tools (199 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2204,7 +2205,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Development](development/tools/187-development_3590331d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/development.md) | ⭐ 17 | `development` |
 | [05 Sessions](development/tools/287-05-sessions_49c932a4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 3.7k | `development` |
 | [05 Sessions](development/tools/287-05-sessions_f591f19e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 3.7k | `development` |
-| [Model Invocation](development/tools/model-invocation_ba327576/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/bedrock/model-invocation.md) | ⭐ 996 | `development` |
 
 ### Investment (33 skills)
 
@@ -2403,5 +2403,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 16:10:32 UTC*
+*Last updated: 2026-02-25 17:08:03 UTC*
 *Automatically maintained by SkillFlow*
