@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2117 AI-powered skills** organized into 15 categories.
+A curated collection of **2134 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,19 +10,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (51 skills)
 - **Automation/Workflow** (96 skills)
-- **Commercial** (99 skills)
+- **Commercial** (100 skills)
 - **Communication** (76 skills)
 - **Content Creation** (195 skills)
-- **Daily Assistant** (117 skills)
+- **Daily Assistant** (118 skills)
 - **Data Analysis** (186 skills)
-- **Development** (650 skills)
+- **Development** (649 skills)
 - **Development/Devops** (267 skills)
-- **Development/Testing** (49 skills)
-- **Development/Tools** (204 skills)
+- **Development/Testing** (48 skills)
+- **Development/Tools** (203 skills)
 - **Investment** (33 skills)
 - **Other** (3 skills)
 - **Productivity** (17 skills)
-- **Research** (74 skills)
+- **Research** (92 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -235,7 +235,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Alarms Metrics](automation/scripting/099-alarms-metrics_e79fc78d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/cloudwatch/alarms-metrics.md) | ⭐ 996 | `automation` |
 | [Skill](automation/scripting/003-name-skill_31dee493/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/eventbridge/SKILL.md) | ⭐ 996 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_cd07a165/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.7k | `automation` |
-| [Managing Packages](automation/scripting/managing-packages_17afa6fe/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 168 | `automation` |
+| [Managing Packages](automation/scripting/100-managing-packages_17afa6fe/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 168 | `automation` |
 
 ### Automation/Workflow (96 skills)
 
@@ -338,7 +338,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/138-instructions_98648468/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 70 | `automation` |
 | [Gemini](automation/workflow/138-gemini_23da392f/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/GEMINI.md) | ⭐ 11 | `automation` |
 
-### Commercial (99 skills)
+### Commercial (100 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -441,6 +441,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_3eb29bfa/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/SKILL.md) | ⭐ 996 | `commercial` |
 | [Skill](commercial/210-name-skill_d256ef62/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/s3/SKILL.md) | ⭐ 996 | `commercial` |
 | [Skill](commercial/210-name-skill_70bcc108/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/SKILL.md) | ⭐ 996 | `commercial` |
+| [Index](commercial/index_a535f48d/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/latex-thesis-zh/index.md) | ⭐ 39 | `commercial` |
 
 ### Communication (76 skills)
 
@@ -721,9 +722,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_3a3f68f4/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/SKILL.md) | ⭐ 14 | `content creation` |
 | [Skill](content-creation/049-name-skill_3a9748d2/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_666697ad/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-substack-article/SKILL.md) | ⭐ 59 | `content creation` |
-| [Skill](content-creation/name-skill_78f639fa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/answering-natural-language-questions-with-dbt/SKILL.md) | ⭐ 168 | `content creation` |
+| [Skill](content-creation/049-name-skill_78f639fa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/answering-natural-language-questions-with-dbt/SKILL.md) | ⭐ 168 | `content creation` |
 
-### Daily Assistant (117 skills)
+### Daily Assistant (118 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -844,6 +845,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_ebfddafc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f3081798/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/iam/SKILL.md) | ⭐ 996 | `daily assistant` |
 | [Messaging Patterns](daily-assistant/277-messaging-patterns_1c8a9f4d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/messaging-patterns.md) | ⭐ 996 | `daily assistant` |
+| [Audit Guide](daily-assistant/audit_guide_76800c34/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/AUDIT_GUIDE.md) | ⭐ 39 | `daily assistant` |
 
 ### Data Analysis (186 skills)
 
@@ -1034,9 +1036,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_e33d4fe2/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-figure/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_61502b0d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_921bf3cf/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
-| [Skill](data-analysis/name-skill_0decfa5a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 168 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0decfa5a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 168 | `data analysis` |
 
-### Development (650 skills)
+### Development (649 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1557,7 +1559,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_6af133cf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/graph-query/SKILL.md) | 🔥 20.7k | `development` |
 | [Skill](development/1178-name-skill_34d7aa67/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/memory-search/SKILL.md) | 🔥 20.7k | `development` |
 | [Quality Checklist](development/2893-quality-checklist_0809ed01/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/references/quality-checklist.md) | ⭐ 34 | `development` |
-| [Skill](development/name-skill_ef61506d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/1178-name-skill_3111866b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 193 | `development` |
 | [Managing Packages](development/543-managing-packages_301391af/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 193 | `development` |
 | [Readme Ru](development/2894-readme_ru_5a27631d/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md) | ⭐ 22 | `development` |
 | [Claude](development/140-claude_3632398f/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/CLAUDE.md) | ⭐ 39 | `development` |
@@ -1687,9 +1689,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Faq](development/360-faq_d6a7490c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 3.7k | `development` |
 | [Faq](development/360-faq_cbe166eb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 3.7k | `development` |
 | [Skill](development/1178-name-skill_ef61506d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 168 | `development` |
-| [Skill](development/name-skill_172c9251/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/SKILL.md) | ⭐ 168 | `development` |
-| [Troubleshooting](development/troubleshooting_3bdaf933/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/troubleshooting.md) | ⭐ 168 | `development` |
-| [Investigation Template](development/investigation-template_351ea629/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/troubleshooting-dbt-job-errors/references/investigation-template.md) | ⭐ 168 | `development` |
+| [Skill](development/1178-name-skill_172c9251/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/SKILL.md) | ⭐ 168 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_3bdaf933/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/troubleshooting.md) | ⭐ 168 | `development` |
 
 ### Development/Devops (267 skills)
 
@@ -1964,9 +1965,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](development/devops/314-01-configuration_76285438/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 3.7k | `development` |
 | [Observability](development/devops/366-observability_c86d215e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 453 | `development` |
 | [Observability Architecture](development/devops/379-observability-architecture_d129f938/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/docs/observability-architecture.md) | ⭐ 453 | `development` |
-| [Finding Credentials](development/devops/finding-credentials_07ebffe9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/finding-credentials.md) | ⭐ 168 | `development` |
+| [Finding Credentials](development/devops/372-finding-credentials_07ebffe9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/finding-credentials.md) | ⭐ 168 | `development` |
 
-### Development/Testing (49 skills)
+### Development/Testing (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2016,11 +2017,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Complex Data Types](development/testing/083-complex-data-types_52c2575b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/complex-data-types.md) | ⭐ 91 | `development` |
 | [Skill](development/testing/002-name-skill_cb2003cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/installing-skills/SKILL.md) | ⭐ 103 | `development` |
 | [Development](development/testing/083-development_1aeb018b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/development.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_15784f4e/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/.claude/skills/auditing-skills/SKILL.md) | ⭐ 168 | `development` |
-| [Installing Dbt Fusion](development/testing/installing-dbt-fusion_c61e563d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 168 | `development` |
-| [Skill](development/testing/name-skill_0ec4cb35/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/adding-dbt-unit-test/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/testing/002-name-skill_15784f4e/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/.claude/skills/auditing-skills/SKILL.md) | ⭐ 168 | `development` |
+| [Installing Dbt Fusion](development/testing/086-installing-dbt-fusion_c61e563d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 168 | `development` |
 
-### Development/Tools (204 skills)
+### Development/Tools (203 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2194,7 +2194,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Debugging](development/tools/334-debugging_9691495e/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/DEBUGGING.md) | ⭐ 44 | `development` |
 | [Evaluation Metrics](development/tools/335-evaluation_metrics_a129229d/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/EVALUATION_METRICS.md) | ⭐ 44 | `development` |
 | [Skill](development/tools/002-name-skill_15916ba5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/SKILL.md) | ⭐ 34 | `development` |
-| [Skill](development/tools/name-skill_4b5a0c13/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/tools/002-name-skill_14b387f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 193 | `development` |
 | [Api](development/tools/050-api_06e2775a/) | [anthropics/anthropic-sdk-python](https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/api.md) | ⭐ 2.8k | `development` |
 | [Helpers](development/tools/339-helpers_c4b8ba5e/) | [anthropics/anthropic-sdk-python](https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/helpers.md) | ⭐ 2.8k | `development` |
 | [Skill](development/tools/002-name-skill_25b76693/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md) | ⭐ 192 | `development` |
@@ -2223,11 +2223,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Development](development/tools/187-development_3590331d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/development.md) | ⭐ 17 | `development` |
 | [05 Sessions](development/tools/287-05-sessions_49c932a4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 3.7k | `development` |
 | [05 Sessions](development/tools/287-05-sessions_f591f19e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 3.7k | `development` |
-| [Skill](development/tools/name-skill_85772b07/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 168 | `development` |
-| [Skill](development/tools/name-skill_87aa99e0/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/running-dbt-commands/SKILL.md) | ⭐ 168 | `development` |
-| [Skill](development/tools/name-skill_97c0c6d3/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/troubleshooting-dbt-job-errors/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/tools/002-name-skill_85772b07/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/tools/002-name-skill_87aa99e0/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/running-dbt-commands/SKILL.md) | ⭐ 168 | `development` |
+| [Skill](development/tools/002-name-skill_97c0c6d3/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/troubleshooting-dbt-job-errors/SKILL.md) | ⭐ 168 | `development` |
 | [Skill](development/tools/002-name-skill_4b5a0c13/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 168 | `development` |
-| [Environment Variables](development/tools/environment-variables_91841145/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/environment-variables.md) | ⭐ 168 | `development` |
 
 ### Investment (33 skills)
 
@@ -2297,7 +2296,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Coq Reviewer](productivity/174-coq-reviewer_2a58deca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/coq-reviewer.md) | ⭐ 10 | `productivity` |
 | [Data Driven Optimize Output Analysis](productivity/176-data_driven_optimize_output_analysis_e58bea19/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_output_analysis.md) | ⭐ 11 | `productivity` |
 
-### Research (74 skills)
+### Research (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2375,7 +2374,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue Child 04 Subagents](research/257-issue-child-04-subagents_634cb553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-04-subagents.md) | ⭐ 93 | `research` |
 | [Swap Planner](research/258-swap-planner_205d63ab/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 109 | `research` |
 | [Data Providers](research/259-data-providers_b758b4c5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/data-providers.md) | ⭐ 109 | `research` |
-| [Skill](research/name-skill_8f927bf2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/fetching-dbt-docs/SKILL.md) | ⭐ 168 | `research` |
+| [Readme Cn](research/readme_cn_85b0dc74/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/README_CN.md) | ⭐ 39 | `research` |
+| [Index](research/index_2438dd5b/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/index.md) | ⭐ 39 | `research` |
+| [Installation](research/installation_448acdaa/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/installation.md) | ⭐ 39 | `research` |
+| [Quick Start](research/quick-start_5ad00940/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/quick-start.md) | ⭐ 39 | `research` |
+| [Usage](research/usage_83e8894c/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/usage.md) | ⭐ 39 | `research` |
+| [Skill](research/name-skill_043d13f2/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/SKILL.md) | ⭐ 39 | `research` |
+| [2026 02 23 Paper Audit Design](research/2026-02-23-paper-audit-design_fe3e8361/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/plans/2026-02-23-paper-audit-design.md) | ⭐ 39 | `research` |
+| [Index](research/index_b6772c96/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/index.md) | ⭐ 39 | `research` |
+| [Installation](research/installation_c9ec8bdf/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/installation.md) | ⭐ 39 | `research` |
+| [Quick Start](research/quick-start_dfa9fdc0/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/quick-start.md) | ⭐ 39 | `research` |
+| [Usage](research/usage_57d771b3/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/usage.md) | ⭐ 39 | `research` |
+| [Index](research/index_7b5b8b5f/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/skills/latex-paper-en/index.md) | ⭐ 39 | `research` |
+| [Index](research/index_3a6ccdbe/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/skills/latex-thesis-zh/index.md) | ⭐ 39 | `research` |
+| [Index](research/index_6416eb08/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/skills/typst-paper/index.md) | ⭐ 39 | `research` |
+| [Checklist](research/checklist_9514dcf5/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/CHECKLIST.md) | ⭐ 39 | `research` |
+| [Review Criteria](research/review_criteria_751cee66/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/REVIEW_CRITERIA.md) | ⭐ 39 | `research` |
+| [Index](research/index_46f9da6a/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/latex-paper-en/index.md) | ⭐ 39 | `research` |
+| [Index](research/index_276456c8/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/typst-paper/index.md) | ⭐ 39 | `research` |
+| [Agents](research/agents_9d44aa82/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/AGENTS.md) | ⭐ 39 | `research` |
 
 ## How Skills Are Organized
 
@@ -2427,5 +2444,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 17:10:49 UTC*
+*Last updated: 2026-02-25 17:11:18 UTC*
 *Automatically maintained by SkillFlow*
