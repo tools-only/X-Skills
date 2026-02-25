@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T17:09:11.674130",
+  "updated_at": "2026-02-25T17:10:17.876259",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -29373,6 +29373,34 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
       "display_name": "01 Configuration",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "c86d215e23c12bbeb620bb4242a915c8f3d3379a880b29c63d0d52fed8c6d7f9",
+      "source_path": "docs/OBSERVABILITY.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/366-observability_c86d215e",
+      "category": "development/devops",
+      "name": "observability_c86d215e",
+      "indexed_at": "2026-02-25T17:10:17.429839",
+      "repo_stars": 453,
+      "repo_updated_at": "2026-02-25T07:35:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md",
+      "display_name": "Observability",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d129f938eaa4914b82537a6a8587a77aac132b7f5fc24d6770578790073eaa57",
+      "source_path": "terraform/aws-ecs/docs/observability-architecture.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/379-observability-architecture_d129f938",
+      "category": "development/devops",
+      "name": "observability-architecture_d129f938",
+      "indexed_at": "2026-02-25T17:10:17.876208",
+      "repo_stars": 453,
+      "repo_updated_at": "2026-02-25T07:35:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/docs/observability-architecture.md",
+      "display_name": "Observability Architecture",
+      "tags": "[\"development\"]"
     }
   ]
 }
