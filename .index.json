@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T06:38:49.005765",
+  "updated_at": "2026-02-25T07:38:41.718863",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -28266,6 +28266,48 @@
       "repo_updated_at": "2026-02-24T21:42:20+00:00",
       "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/syntax-reference.md",
       "display_name": "Syntax Reference",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "c4438a2bfaacc98041bc2f16e187221ed44705da83aa8c788625dacae15ce9d7",
+      "source_path": "skills/atac/SKILL.md",
+      "source_repo": "ATaC-team/ATaC",
+      "local_path": "automation/workflow/002-name-skill_c4438a2b",
+      "category": "automation/workflow",
+      "name": "name-skill_c4438a2b",
+      "indexed_at": "2026-02-25T07:37:22.932022",
+      "repo_stars": 70,
+      "repo_updated_at": "2026-02-25T03:43:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "98648468057834cf1bc9684e61341b395b2abf84cdfa268255ce8b90410f2d61",
+      "source_path": "src/atac/mcp/INSTRUCTIONS.md",
+      "source_repo": "ATaC-team/ATaC",
+      "local_path": "automation/workflow/138-instructions_98648468",
+      "category": "automation/workflow",
+      "name": "instructions_98648468",
+      "indexed_at": "2026-02-25T07:37:23.419105",
+      "repo_stars": 70,
+      "repo_updated_at": "2026-02-25T03:43:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md",
+      "display_name": "Instructions",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "4913638677fd63142a72b1a11f86bb57ab53424504fde538eb7dbd75f5436303",
+      "source_path": "AGENTS.md",
+      "source_repo": "LocalSymmetry/lofn",
+      "local_path": "data-analysis/341-agents_49136386",
+      "category": "data-analysis",
+      "name": "agents_49136386",
+      "indexed_at": "2026-02-25T07:38:41.718788",
+      "repo_stars": 15,
+      "repo_updated_at": "2025-09-06T17:37:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/LocalSymmetry/lofn/main/AGENTS.md",
+      "display_name": "Agents",
       "tags": "[\"data analysis\"]"
     }
   ]
