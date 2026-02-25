@@ -1,0 +1,70 @@
+# Introduction
+
+AI Skills Hub is a cross-platform resource manager for AI CLI tools, providing unified skills, commands, and prompts for Claude Code, Codex CLI, Gemini CLI, Qwen Code, and more.
+
+## What are Skills?
+
+Skills are reusable AI instruction modules that enhance Claude Code's capabilities in specific domains. Each skill is defined in a `SKILL.md` file with:
+
+- Clear instructions for the AI
+- Domain-specific knowledge
+- Best practices and patterns
+- Optional supporting files (configs, tips, references)
+
+## Core Features
+
+- **Modular Design** - Each skill is self-contained and focused on a specific task
+- **Easy Installation** - Simple CLI commands or modern TUI interface
+- **Update Detection** - Automatically detect outdated installations
+- **Cross-Platform** - Works on Linux, macOS, and Windows
+- **Multi-Target** - Supports Claude Code, Codex CLI, Gemini, Qwen, Antigravity, and Windsurf
+- **Chinese Support** - Full support for Chinese characters in TUI
+
+## Installation Methods
+
+### TUI (Recommended)
+
+Modern terminal interface with visual feedback and update detection:
+
+```bash
+just mcs
+```
+
+Features:
+- 🧭 Platform select + two-column main layout
+- 🔄 Outdated detection (skills + commands)
+- ⌨️ Keyboard-first workflow with popup navigation
+- 🔁 Compatibility wrapper for legacy `install_tui.py`
+
+[Learn more about TUI →](/guide/tui)
+
+### CLI
+
+Traditional command-line interface:
+
+```bash
+uv run python src/install.py install-all
+```
+
+[Learn more about CLI →](/guide/installation)
+
+## Available Skills
+
+| Skill | Description |
+|-------|-------------|
+| article-cover | Generate professional SVG cover images |
+| codex | Codex CLI integration for code analysis |
+| excalidraw | Create hand-drawn style diagrams |
+| frontend-design | Build production-grade frontend interfaces |
+| gemini-image | AI image generation via Gemini API |
+| research | Technical research with citations |
+| interview-plan | Socratic interview to refine requirements and generate executable plan |
+| tech-blog | Write technical blog posts |
+| tech-design-doc | Generate technical design documents |
+
+## Next Steps
+
+- [TUI Guide](/guide/tui) - Modern terminal interface (recommended)
+- [Installation](/guide/installation) - Set up AI Skills Hub
+- [Commands](/guide/commands) - Learn available CLI commands
+- [Creating Skills](/guide/creating-skills) - Build your own skills
