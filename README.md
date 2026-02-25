@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2005 AI-powered skills** organized into 15 categories.
+A curated collection of **2006 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (190 skills)
 - **Daily Assistant** (112 skills)
 - **Data Analysis** (177 skills)
-- **Development** (617 skills)
+- **Development** (618 skills)
 - **Development/Devops** (253 skills)
 - **Development/Testing** (45 skills)
 - **Development/Tools** (195 skills)
@@ -988,7 +988,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Action Plan](data-analysis/408-action_plan_da7e2f31/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/ACTION_PLAN.md) | 🔥 9.8k | `data analysis` |
 | [Pdf Image Extraction](data-analysis/166-pdf_image_extraction_92e163ca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_IMAGE_EXTRACTION.md) | 🔥 9.8k | `data analysis` |
 
-### Development (617 skills)
+### Development (618 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1338,7 +1338,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Royal Marines](development/3082-royal-marines_92007cea/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/royal-marines.md) | ⭐ 143 | `development` |
 | [Context Guide](development/2884-context_guide_789638a4/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/guides/CONTEXT_GUIDE.md) | ⭐ 24 | `development` |
 | [Workflow Troubleshooting](development/2875-workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
-| [Configuration](development/configuration_ead92782/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
+| [Configuration](development/191-configuration_41aedf4b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
 | [Session Summary](development/2877-session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_8f7ac62b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md) | ⭐ 915 | `development` |
 | [Skill](development/1178-name-skill_a93c5015/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/new-feature-design/SKILL.md) | ⭐ 449 | `development` |
@@ -1609,6 +1609,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [06 Troubleshooting](development/2912-06-troubleshooting_b4f31460/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/06-troubleshooting.md) | 🔥 9.8k | `development` |
 | [Cli Reference](development/1593-cli_reference_cd51d682/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CLI_REFERENCE.md) | 🔥 9.8k | `development` |
 | [Configuration](development/191-configuration_ead92782/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
+| [Index](development/index_20c95059/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/gpt_5_3_codex/index.md) | 🔥 36.7k | `openai` `gpt-5.3-codex` `codex` |
 
 ### Development/Devops (253 skills)
 
@@ -2315,5 +2316,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 05:38:13 UTC*
+*Last updated: 2026-02-25 06:36:18 UTC*
 *Automatically maintained by SkillFlow*
