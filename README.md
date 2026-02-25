@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2047 AI-powered skills** organized into 15 categories.
+A curated collection of **2057 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,18 +11,18 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (46 skills)
 - **Automation/Workflow** (96 skills)
 - **Commercial** (93 skills)
-- **Communication** (70 skills)
-- **Content Creation** (192 skills)
-- **Daily Assistant** (112 skills)
+- **Communication** (75 skills)
+- **Content Creation** (193 skills)
+- **Daily Assistant** (117 skills)
 - **Data Analysis** (184 skills)
-- **Development** (628 skills)
+- **Development** (627 skills)
 - **Development/Devops** (255 skills)
 - **Development/Testing** (46 skills)
 - **Development/Tools** (199 skills)
 - **Investment** (33 skills)
-- **Other** (1 skill)
+- **Other** (3 skills)
 - **Productivity** (17 skills)
-- **Research** (75 skills)
+- **Research** (73 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -230,7 +230,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P0 Reduce Session Start Context Load Via Rules Path Scoping And](automation/scripting/086-p0-reduce-session-start-context-load-via-rules-path-scoping-and_02072592/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p0-reduce-session-start-context-load-via-rules-path-scoping-and.md) | ⭐ 20 | `automation` |
 | [P2 Conventional Commits Fix Skillmd Frontmatter Broken Links An](automation/scripting/087-p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an_6a149fda/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an.md) | ⭐ 20 | `automation` |
 | [Pivot Techniques](automation/scripting/088-pivot_techniques_67ee48dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/pivot_techniques.md) | ⭐ 44 | `automation` |
-| [Data Driven Optimize Overall Guide](automation/scripting/data_driven_optimize_overall_guide_329d321c/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_overall_guide.md) | ⭐ 11 | `automation` |
+| [Data Driven Optimize Overall Guide](automation/scripting/093-data_driven_optimize_overall_guide_329d321c/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_overall_guide.md) | ⭐ 11 | `automation` |
 
 ### Automation/Workflow (96 skills)
 
@@ -331,7 +331,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_e303efd1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/SKILL.md) | ⭐ 94 | `automation` |
 | [Skill](automation/workflow/002-name-skill_c4438a2b/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 70 | `automation` |
 | [Instructions](automation/workflow/138-instructions_98648468/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 70 | `automation` |
-| [Gemini](automation/workflow/gemini_23da392f/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/GEMINI.md) | ⭐ 11 | `automation` |
+| [Gemini](automation/workflow/138-gemini_23da392f/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/GEMINI.md) | ⭐ 11 | `automation` |
 
 ### Commercial (93 skills)
 
@@ -431,7 +431,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](commercial/007-agents_ffc3815e/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/AGENTS.md) | ⭐ 103 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_6cbfa360/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/patterns-quick-ref.md) | ⭐ 94 | `commercial` |
 
-### Communication (70 skills)
+### Communication (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -450,7 +450,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Tracking](communication/251-cost_tracking_1bfec4b3/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/COST_TRACKING.md) | ⭐ 43 | `communication` |
 | [Openclaw Integration](communication/253-openclaw_integration_9a5f9478/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openclaw_integration.md) | 🔥 36.1k | `communication` |
 | [Tool Reference](communication/253-tool-reference_51413bad/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
-| [Skill](communication/127-name-skill_933b4179/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 13 | `communication` |
+| [Skill](communication/name-skill_54048224/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 17 | `communication` |
 | [Agent](communication/253-agent_dcf1a7b4/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 13 | `communication` |
 | [Skill](communication/127-name-skill_6ad0ed8f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/SKILL.md) | ⭐ 10 | `communication` |
 | [Ambiguity Patterns](communication/253-ambiguity_patterns_6fbc78bd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/references/ambiguity_patterns.md) | ⭐ 10 | `communication` |
@@ -499,14 +499,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](communication/157-index_a3b34250/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/index.md) | ⭐ 109 | `communication` |
 | [Deprecated Patterns](communication/258-deprecated-patterns_22cc34bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/references/deprecated-patterns.md) | ⭐ 536 | `communication` |
 | [Wp Cli Essentials](communication/259-wp-cli-essentials_5bb5b133/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-setup/references/wp-cli-essentials.md) | ⭐ 536 | `communication` |
-| [Readme Cn](communication/readme_cn_8f94083c/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/README_CN.md) | ⭐ 17 | `communication` |
-| [Api](communication/api_c63ad902/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/api.md) | ⭐ 17 | `communication` |
-| [Architecture](communication/architecture_14c74c67/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/architecture.md) | ⭐ 17 | `communication` |
-| [Api](communication/api_9dd0e001/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/api.md) | ⭐ 17 | `communication` |
-| [Architecture](communication/architecture_22e0ff0e/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/architecture.md) | ⭐ 17 | `communication` |
-| [Finchbot Flexible Ai Agent Framework](communication/finchbot-flexible-ai-agent-framework_4e01f93f/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/blog/finchbot-flexible-ai-agent-framework.md) | ⭐ 17 | `communication` |
+| [Readme Cn](communication/256-readme_cn_8f94083c/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/README_CN.md) | ⭐ 17 | `communication` |
+| [Api](communication/233-api_c63ad902/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/api.md) | ⭐ 17 | `communication` |
+| [Architecture](communication/257-architecture_14c74c67/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/architecture.md) | ⭐ 17 | `communication` |
+| [Api](communication/233-api_9dd0e001/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/api.md) | ⭐ 17 | `communication` |
+| [Architecture](communication/257-architecture_22e0ff0e/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/architecture.md) | ⭐ 17 | `communication` |
+| [Finchbot Flexible Ai Agent Framework](communication/258-finchbot-flexible-ai-agent-framework_4e01f93f/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/blog/finchbot-flexible-ai-agent-framework.md) | ⭐ 17 | `communication` |
+| [Health Check](communication/health-check_d5527978/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/health-check.md) | ⭐ 17 | `communication` |
+| [Notification Routing](communication/notification-routing_0daba767/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/notification-routing.md) | ⭐ 17 | `communication` |
+| [Skill](communication/name-skill_b6531b9d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/quo/SKILL.md) | ⭐ 17 | `communication` |
+| [Skill](communication/127-name-skill_54048224/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 17 | `communication` |
+| [Agents](communication/agents_dae7e7fc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/AGENTS.md) | ⭐ 17 | `communication` |
 
-### Content Creation (192 skills)
+### Content Creation (193 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -567,7 +572,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platforms](content-creation/212-platforms_1737d684/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/platforms.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_15483b26/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cfb-data/SKILL.md) | ⭐ 24 | `content creation` |
 | [Skill](content-creation/049-name-skill_4213150f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/049-name-skill_e26dd851/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_3a9748d2/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_db245f9b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-master/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_35f1170f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_24937c5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/SKILL.md) | ⭐ 10 | `content creation` |
@@ -701,9 +706,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Haystack](content-creation/287-haystack_3a5ec073/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/HAYSTACK.md) | 🔥 9.8k | `content creation` |
 | [02 Scraping](content-creation/365-02-scraping_30e228db/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/02-scraping.md) | 🔥 9.8k | `content creation` |
 | [Grounding Multiagent](content-creation/361-grounding-multiagent_4efde5a5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/grounding-multiagent.md) | ⭐ 94 | `content creation` |
-| [Tools](content-creation/tools_bd451810/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/finchbot_workspace/TOOLS.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_3a3f68f4/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_3a9748d2/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (112 skills)
+### Daily Assistant (117 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -734,8 +740,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commands](daily-assistant/271-commands_29378f0a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 24 | `daily assistant` |
 | [Commands](daily-assistant/271-commands_5dfbe33f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/commands.md) | ⭐ 24 | `daily assistant` |
 | [Schemas](daily-assistant/272-schemas_34ab5339/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/schemas.md) | ⭐ 24 | `daily assistant` |
-| [Update Model](daily-assistant/262-update-model_2796dd59/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 13 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_1882d3aa/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 13 | `daily assistant` |
+| [Update Model](daily-assistant/update-model_280fdd36/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_ebfddafc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_76f22eb9/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/smart-delegation/SKILL.md) | ⭐ 13 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_c007a5d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_90ef8c73/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
@@ -819,6 +825,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_315499bb/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/configurator/SKILL.md) | ⭐ 109 | `daily assistant` |
 | [Commit Hook](daily-assistant/287-commit-hook_07292f6c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/context-manager/references/commit-hook.md) | ⭐ 536 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_8d4139bd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/SKILL.md) | ⭐ 44 | `daily assistant` |
+| [Machine Setup](daily-assistant/machine-setup_68f74d22/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/machine-setup.md) | ⭐ 17 | `daily assistant` |
+| [Update Model](daily-assistant/285-update-model_280fdd36/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_ebfddafc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Boot](daily-assistant/boot_b64604f2/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/BOOT.md) | ⭐ 17 | `daily assistant` |
+| [Memory](daily-assistant/memory_320d2471/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/MEMORY.md) | ⭐ 17 | `daily assistant` |
 
 ### Data Analysis (184 skills)
 
@@ -1003,13 +1014,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pdf Image Extraction](data-analysis/166-pdf_image_extraction_92e163ca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_IMAGE_EXTRACTION.md) | 🔥 9.8k | `data analysis` |
 | [Syntax Reference](data-analysis/486-syntax-reference_7fe5ae49/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/syntax-reference.md) | ⭐ 94 | `data analysis` |
 | [Agents](data-analysis/341-agents_49136386/) | [LocalSymmetry/lofn](https://raw.githubusercontent.com/LocalSymmetry/lofn/main/AGENTS.md) | ⭐ 15 | `data analysis` |
-| [Data Driven Optimize Tuning Guide](data-analysis/data_driven_optimize_tuning_guide_402eab49/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_tuning_guide.md) | ⭐ 11 | `data analysis` |
-| [Deployment](data-analysis/deployment_2e8e618b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/deployment.md) | ⭐ 17 | `data analysis` |
-| [Finchbot Flexible Ai Agent Framework](data-analysis/finchbot-flexible-ai-agent-framework_a6e6836d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/blog/finchbot-flexible-ai-agent-framework.md) | ⭐ 17 | `data analysis` |
-| [Config](data-analysis/config_1400696b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/config.md) | ⭐ 17 | `data analysis` |
-| [Extension](data-analysis/extension_60baa317/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/guide/extension.md) | ⭐ 17 | `data analysis` |
+| [Data Driven Optimize Tuning Guide](data-analysis/519-data_driven_optimize_tuning_guide_402eab49/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_tuning_guide.md) | ⭐ 11 | `data analysis` |
+| [Deployment](data-analysis/520-deployment_2e8e618b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/deployment.md) | ⭐ 17 | `data analysis` |
+| [Finchbot Flexible Ai Agent Framework](data-analysis/521-finchbot-flexible-ai-agent-framework_a6e6836d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/blog/finchbot-flexible-ai-agent-framework.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e33d4fe2/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-figure/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_61502b0d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 
-### Development (628 skills)
+### Development (627 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1638,9 +1649,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Guide](development/2961-cli-guide_d6264849/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/cli-guide.md) | ⭐ 94 | `development` |
 | [Production Gotchas](development/2962-production-gotchas_96890dd6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/production-gotchas.md) | ⭐ 94 | `development` |
 | [Sources](development/2963-sources_085b029b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/sources.md) | ⭐ 94 | `development` |
-| [Extension](development/extension_428bd2a2/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/guide/extension.md) | ⭐ 17 | `development` |
-| [Usage](development/usage_c7afd89b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/guide/usage.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_24cc6ba4/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/src/finchbot/skills/weather/SKILL.md) | ⭐ 17 | `development` |
+| [Extension](development/2913-extension_428bd2a2/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/guide/extension.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_18ffbf09/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-literature/SKILL.md) | ⭐ 14 | `development` |
 
 ### Development/Devops (255 skills)
 
@@ -1903,7 +1913,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Qdrant](development/devops/273-qdrant_1399da48/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/QDRANT.md) | 🔥 9.8k | `development` |
 | [Quick Reference](development/devops/378-quick_reference_1f0f2bf4/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.8k | `development` |
 | [Known Issues](development/devops/385-known-issues_b69383eb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/known-issues.md) | ⭐ 94 | `development` |
-| [Deployment](development/devops/deployment_61429611/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/deployment.md) | ⭐ 17 | `development` |
+| [Deployment](development/devops/258-deployment_61429611/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/deployment.md) | ⭐ 17 | `development` |
 
 ### Development/Testing (46 skills)
 
@@ -1954,7 +1964,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/testing/027-troubleshooting_f0d39806/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/troubleshooting.md) | ⭐ 771 | `development` |
 | [Complex Data Types](development/testing/083-complex-data-types_52c2575b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/complex-data-types.md) | ⭐ 91 | `development` |
 | [Skill](development/testing/002-name-skill_cb2003cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/installing-skills/SKILL.md) | ⭐ 103 | `development` |
-| [Development](development/testing/development_1aeb018b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/development.md) | ⭐ 17 | `development` |
+| [Development](development/testing/083-development_1aeb018b/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/development.md) | ⭐ 17 | `development` |
 
 ### Development/Tools (199 skills)
 
@@ -2156,9 +2166,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Subprocess Audit](development/tools/336-subprocess-audit_3e7361df/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.planning/subprocess-audit.md) | ⭐ 20 | `development` |
 | [Claude](development/tools/017-claude_9cde84ea/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.8k | `development` |
 | [Skill](development/tools/002-name-skill_52eb3b00/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/SKILL.md) | ⭐ 94 | `development` |
-| [Development](development/tools/development_3590331d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/development.md) | ⭐ 17 | `development` |
-| [Config](development/tools/config_4435463a/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/config.md) | ⭐ 17 | `development` |
-| [Usage](development/tools/usage_d7ade6dd/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/zh-CN/guide/usage.md) | ⭐ 17 | `development` |
+| [Development](development/tools/187-development_3590331d/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/docs/en-US/development.md) | ⭐ 17 | `development` |
+| [05 Sessions](development/tools/287-05-sessions_49c932a4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 3.7k | `development` |
+| [05 Sessions](development/tools/287-05-sessions_f591f19e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 3.7k | `development` |
 
 ### Investment (33 skills)
 
@@ -2198,11 +2208,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Data Providers](investment/057-data-providers_69bbdab0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/references/data-providers.md) | ⭐ 109 | `investment` |
 | [Strategy Archetypes](investment/051-strategy_archetypes_b495998f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/strategy_archetypes.md) | ⭐ 44 | `investment` |
 
-### Other (1 skills)
+### Other (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Review Criteria](other/036-review-criteria_c02c92f2/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/references/review-criteria.md) | ⭐ 14 | `other` |
+| [Writing Guide](other/037-writing-guide_1d8f4f89/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/references/writing-guide.md) | ⭐ 14 | `other` |
 
 ### Productivity (17 skills)
 
@@ -2224,9 +2236,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_5833ac61/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-ideation/SKILL.md) | ⭐ 1.4k | `productivity` |
 | [Entity Facts](productivity/175-entity-facts_f66d3c9f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/entity-facts.md) | 🔥 9.2k | `productivity` |
 | [Coq Reviewer](productivity/174-coq-reviewer_2a58deca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/coq-reviewer.md) | ⭐ 10 | `productivity` |
-| [Data Driven Optimize Output Analysis](productivity/data_driven_optimize_output_analysis_e58bea19/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_output_analysis.md) | ⭐ 11 | `productivity` |
+| [Data Driven Optimize Output Analysis](productivity/176-data_driven_optimize_output_analysis_e58bea19/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_output_analysis.md) | ⭐ 11 | `productivity` |
 
-### Research (75 skills)
+### Research (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2304,8 +2316,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue Child 04 Subagents](research/257-issue-child-04-subagents_634cb553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-04-subagents.md) | ⭐ 93 | `research` |
 | [Swap Planner](research/258-swap-planner_205d63ab/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 109 | `research` |
 | [Data Providers](research/259-data-providers_b758b4c5/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/references/data-providers.md) | ⭐ 109 | `research` |
-| [Skill](research/name-skill_bb5f7e56/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/src/finchbot/skills/skill-creator/SKILL.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_882a8ea5/) | [xt765/FinchBot](https://raw.githubusercontent.com/xt765/FinchBot/master/src/finchbot/skills/summarize/SKILL.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -2357,5 +2367,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 08:35:30 UTC*
+*Last updated: 2026-02-25 16:08:42 UTC*
 *Automatically maintained by SkillFlow*
