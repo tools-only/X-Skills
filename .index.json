@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T02:38:21.691454",
+  "updated_at": "2026-02-25T03:35:54.925937",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -27819,6 +27819,20 @@
       "source_url": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/strategy_archetypes.md",
       "display_name": "Strategy Archetypes",
       "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "161c6f6d16cd9c4ced7a5bbe05b1538b4dbb7273ccc7b2cb159a11acf2262026",
+      "source_path": "docs/my-website/docs/mcp.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/025-mcp_161c6f6d",
+      "category": "development/devops",
+      "name": "mcp_161c6f6d",
+      "indexed_at": "2026-02-25T03:35:54.925893",
+      "repo_stars": 36674,
+      "repo_updated_at": "2026-02-19T02:53:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md",
+      "display_name": "Mcp",
+      "tags": "[\"development\"]"
     }
   ]
 }
