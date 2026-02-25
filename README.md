@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2206 AI-powered skills** organized into 15 categories.
+A curated collection of **2205 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (51 skills)
-- **Automation/Workflow** (96 skills)
+- **Automation/Workflow** (97 skills)
 - **Commercial** (100 skills)
 - **Communication** (78 skills)
-- **Content Creation** (219 skills)
+- **Content Creation** (218 skills)
 - **Daily Assistant** (118 skills)
-- **Data Analysis** (187 skills)
-- **Development** (656 skills)
-- **Development/Devops** (268 skills)
+- **Data Analysis** (186 skills)
+- **Development** (657 skills)
+- **Development/Devops** (267 skills)
 - **Development/Testing** (48 skills)
-- **Development/Tools** (239 skills)
+- **Development/Tools** (240 skills)
 - **Investment** (33 skills)
 - **Other** (3 skills)
 - **Productivity** (17 skills)
-- **Research** (93 skills)
+- **Research** (92 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -237,7 +237,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_cd07a165/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.7k | `automation` |
 | [Managing Packages](automation/scripting/100-managing-packages_17afa6fe/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 168 | `automation` |
 
-### Automation/Workflow (96 skills)
+### Automation/Workflow (97 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -337,6 +337,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_c4438a2b/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 70 | `automation` |
 | [Instructions](automation/workflow/138-instructions_98648468/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 70 | `automation` |
 | [Gemini](automation/workflow/138-gemini_23da392f/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/GEMINI.md) | ⭐ 11 | `automation` |
+| [Github Action](automation/workflow/github-action_7a5099bb/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/github-action.md) | ⭐ 227 | `automation` |
 
 ### Commercial (100 skills)
 
@@ -441,7 +442,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_3eb29bfa/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/rds/SKILL.md) | ⭐ 996 | `commercial` |
 | [Skill](commercial/210-name-skill_d256ef62/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/s3/SKILL.md) | ⭐ 996 | `commercial` |
 | [Skill](commercial/210-name-skill_70bcc108/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/SKILL.md) | ⭐ 996 | `commercial` |
-| [Ui Credentials](commercial/ui_credentials_5836695e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_credentials.md) | 🔥 36.7k | `commercial` |
+| [Ui Credentials](commercial/227-ui_credentials_5836695e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_credentials.md) | 🔥 36.7k | `commercial` |
 
 ### Communication (78 skills)
 
@@ -524,9 +525,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Patterns](communication/260-notification-patterns_60f7521d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sns/notification-patterns.md) | ⭐ 996 | `communication` |
 | [Workflow Patterns](communication/261-workflow-patterns_0bcc67c1/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/workflow-patterns.md) | ⭐ 996 | `communication` |
 | [2026 02 22 04 30 00 Compact Ux Issues](communication/260-2026-02-22_04-30-00_compact_ux_issues_aeaa6f63/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_04-30-00_compact_ux_issues.md) | ⭐ 113 | `communication` |
-| [Presidio Pii Masking](communication/presidio_pii_masking_72eaa1e5/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.7k | `communication` |
+| [Presidio Pii Masking](communication/255-presidio_pii_masking_72eaa1e5/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.7k | `communication` |
 
-### Content Creation (219 skills)
+### Content Creation (218 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -747,8 +748,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_2afbd1e1/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/skills/ai-llm-skills/gemini/SKILL.md) | ⭐ 10 | `cli` `gemini` `code-generation` |
 | [Tools](content-creation/379-tools_8b68f5d6/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/skills/ai-llm-skills/gemini/tools.md) | ⭐ 10 | `content creation` |
 | [2026 02 23 Parallel Tool Calls Rollout Plan](content-creation/362-2026-02-23-parallel-tool-calls-rollout-plan_659577bf/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/metadata/research/2026-02-23-parallel-tool-calls-rollout-plan.md) | ⭐ 113 | `content creation` |
-| [Slack](content-creation/slack_87887677/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/slack.md) | ⭐ 399 | `content creation` |
-| [Generatecontent](content-creation/generatecontent_ef8fb94a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/generateContent.md) | 🔥 36.7k | `content creation` |
+| [Slack](content-creation/360-slack_87887677/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/slack.md) | ⭐ 399 | `content creation` |
 
 ### Daily Assistant (118 skills)
 
@@ -873,7 +873,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Messaging Patterns](daily-assistant/277-messaging-patterns_1c8a9f4d/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/sqs/messaging-patterns.md) | ⭐ 996 | `daily assistant` |
 | [Audit Guide](daily-assistant/266-audit_guide_76800c34/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/AUDIT_GUIDE.md) | ⭐ 39 | `daily assistant` |
 
-### Data Analysis (187 skills)
+### Data Analysis (186 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1063,9 +1063,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](data-analysis/436-readme_cn_61502b0d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_921bf3cf/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_0decfa5a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 168 | `data analysis` |
-| [Openrouter](data-analysis/openrouter_39efe859/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/openrouter.md) | ⭐ 399 | `data analysis` |
 
-### Development (656 skills)
+### Development (657 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1721,12 +1720,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_b028586c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 113 | `development` |
 | [Claude](development/140-claude_94f40933/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
 | [System Prompt](development/1050-system_prompt_2ff950f9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/src/tunacode/prompts/system_prompt.md) | ⭐ 113 | `development` |
-| [Agents](development/agents_56c803d2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.7k | `development` |
-| [Claude](development/claude_abc2fc67/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/CLAUDE.md) | 🔥 36.7k | `development` |
-| [Forward Client Headers](development/forward_client_headers_c0129ce1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 36.7k | `development` |
-| [Skill](development/use-skill_d072ad81/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/examples/security-auditor/.claude/skills/owasp-top-10/SKILL.md) | ⭐ 399 | `development` |
+| [Agents](development/028-agents_56c803d2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.7k | `development` |
+| [Claude](development/140-claude_abc2fc67/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/CLAUDE.md) | 🔥 36.7k | `development` |
+| [Forward Client Headers](development/2721-forward_client_headers_c0129ce1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 36.7k | `development` |
+| [Vs Clawrouter](development/vs-clawrouter_e704e35a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/vs-clawrouter.md) | ⭐ 227 | `development` |
+| [Reddit Claude Code Comment](development/reddit-claude-code-comment_93b2ebba/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-claude-code-comment.md) | ⭐ 227 | `development` |
 
-### Development/Devops (268 skills)
+### Development/Devops (267 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2000,7 +2000,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Observability](development/devops/366-observability_c86d215e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 453 | `development` |
 | [Observability Architecture](development/devops/379-observability-architecture_d129f938/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/docs/observability-architecture.md) | ⭐ 453 | `development` |
 | [Finding Credentials](development/devops/372-finding-credentials_07ebffe9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/finding-credentials.md) | ⭐ 168 | `development` |
-| [Bug Report](development/devops/bug_report_1e37a827/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 399 | `development` |
 
 ### Development/Testing (48 skills)
 
@@ -2055,7 +2054,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_15784f4e/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/.claude/skills/auditing-skills/SKILL.md) | ⭐ 168 | `development` |
 | [Installing Dbt Fusion](development/testing/086-installing-dbt-fusion_c61e563d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 168 | `development` |
 
-### Development/Tools (239 skills)
+### Development/Tools (240 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2298,6 +2297,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Strict Css Modules](development/tools/362-strict-css-modules_4880e0b8/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/skills/tech-stack-skills/vue-best-practices/rules/strict-css-modules.md) | ⭐ 10 | `development` |
 | [2026 02 23 Parallel Tool Call Rollout](development/tools/341-2026-02-23_parallel-tool-call-rollout_cc19323e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-23_parallel-tool-call-rollout.md) | ⭐ 113 | `tinyagent` `parallel-tool-calls` `concurrency-cap` |
 | [UI Layer](development/tools/342-ui_d8aef110/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/ui/ui.md) | ⭐ 113 | `development` |
+| [Hn Claude Code Post](development/tools/hn-claude-code-post_c82110e0/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/hn-claude-code-post.md) | ⭐ 227 | `development` |
 
 ### Investment (33 skills)
 
@@ -2367,7 +2367,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Coq Reviewer](productivity/174-coq-reviewer_2a58deca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/coq-reviewer.md) | ⭐ 10 | `productivity` |
 | [Data Driven Optimize Output Analysis](productivity/176-data_driven_optimize_output_analysis_e58bea19/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_output_analysis.md) | ⭐ 11 | `productivity` |
 
-### Research (93 skills)
+### Research (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2463,8 +2463,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Review Criteria](research/264-review_criteria_751cee66/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/REVIEW_CRITERIA.md) | ⭐ 39 | `research` |
 | [Index](research/258-index_46f9da6a/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/latex-paper-en/index.md) | ⭐ 39 | `research` |
 | [Index](research/258-index_276456c8/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/typst-paper/index.md) | ⭐ 39 | `research` |
-| [Deployment](research/deployment_30fadbe5/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/deployment.md) | ⭐ 399 | `research` |
-| [Feature Request](research/feature_request_e01d48d8/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 399 | `research` |
+| [Deployment](research/260-deployment_30fadbe5/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/deployment.md) | ⭐ 399 | `research` |
 
 ## How Skills Are Organized
 
@@ -2516,5 +2515,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 21:10:03 UTC*
+*Last updated: 2026-02-25 21:11:17 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T21:10:03.208306",
+  "updated_at": "2026-02-25T21:11:17.145368",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -30815,6 +30815,34 @@
       "source_url": "https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/deployment.md",
       "display_name": "Deployment",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "c82110e0346e1f9e88343a9c8cad5031242f2ca9047f3132674cac3a24046b58",
+      "source_path": "docs/hn-claude-code-post.md",
+      "source_repo": "doramirdor/NadirClaw",
+      "local_path": "development/tools/363-hn-claude-code-post_c82110e0",
+      "category": "development/tools",
+      "name": "hn-claude-code-post_c82110e0",
+      "indexed_at": "2026-02-25T21:11:16.441092",
+      "repo_stars": 227,
+      "repo_updated_at": "2026-02-25T14:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/hn-claude-code-post.md",
+      "display_name": "Hn Claude Code Post",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e704e35aee01f5a4b15f218b5d5351891bb0d181935ae1c150ba98c3ee882409",
+      "source_path": "docs/vs-clawrouter.md",
+      "source_repo": "doramirdor/NadirClaw",
+      "local_path": "development/2920-vs-clawrouter_e704e35a",
+      "category": "development",
+      "name": "vs-clawrouter_e704e35a",
+      "indexed_at": "2026-02-25T21:11:17.145275",
+      "repo_stars": 227,
+      "repo_updated_at": "2026-02-25T00:41:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/vs-clawrouter.md",
+      "display_name": "Vs Clawrouter",
+      "tags": "[\"development\"]"
     }
   ]
 }
