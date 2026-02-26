@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T14:08:23.854712",
+  "updated_at": "2026-02-26T17:46:21.814327",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -33530,6 +33530,48 @@
       "repo_updated_at": "2026-02-26T11:54:47+00:00",
       "source_url": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md",
       "display_name": "Gemini",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6ea7f6eab07da659f265cec5729c40590f28d5c4f0373527240d8ef5b2870b75",
+      "source_path": "skills/hpc-deployment/slurm-job-script-generator/SKILL.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "automation/scripting/003-name-skill_6ea7f6ea",
+      "category": "automation/scripting",
+      "name": "name-skill_6ea7f6ea",
+      "indexed_at": "2026-02-26T17:46:20.029521",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-02-25T14:01:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/hpc-deployment/slurm-job-script-generator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "ef58f60f42303ec3016a66c23dfbc19dbf5a2098e6f113a9f25454f69c7600ee",
+      "source_path": "skills/hpc-deployment/slurm-job-script-generator/references/slurm_directives.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "automation/scripting/090-slurm_directives_ef58f60f",
+      "category": "automation/scripting",
+      "name": "slurm_directives_ef58f60f",
+      "indexed_at": "2026-02-26T17:46:20.673168",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-02-25T14:01:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/hpc-deployment/slurm-job-script-generator/references/slurm_directives.md",
+      "display_name": "Slurm Directives",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0740f5f5820cabe5fe055e915c97a248ef83eabc768274f36e72eacc62a2f47d",
+      "source_path": "skills/ontology/ontology-mapper/SKILL.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "development/tools/002-name-skill_0740f5f5",
+      "category": "development/tools",
+      "name": "name-skill_0740f5f5",
+      "indexed_at": "2026-02-26T17:46:21.814283",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-02-25T15:33:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-mapper/SKILL.md",
+      "display_name": "Skill",
       "tags": "[\"development\"]"
     }
   ]

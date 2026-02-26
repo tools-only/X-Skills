@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2395 AI-powered skills** organized into 15 categories.
+A curated collection of **2400 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (56 skills)
+- **Automation/Scripting** (59 skills)
 - **Automation/Workflow** (109 skills)
 - **Commercial** (104 skills)
 - **Communication** (79 skills)
@@ -18,11 +18,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Development** (694 skills)
 - **Development/Devops** (296 skills)
 - **Development/Testing** (52 skills)
-- **Development/Tools** (280 skills)
+- **Development/Tools** (281 skills)
 - **Investment** (35 skills)
 - **Other** (3 skills)
 - **Productivity** (17 skills)
-- **Research** (93 skills)
+- **Research** (94 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (56 skills)
+### Automation/Scripting (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -241,6 +241,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Script Invocation](automation/scripting/089-script-invocation_b5e05b64/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/rules/script-invocation.md) | ⭐ 20 | `automation` |
 | [Meta And External Analyzers](automation/scripting/089-meta-and-external-analyzers_eee7912a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-and-external-analyzers.md) | ⭐ 996 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_3251ce7f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.8k | `automation` |
+| [Skill](automation/scripting/name-skill_6ea7f6ea/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/hpc-deployment/slurm-job-script-generator/SKILL.md) | ⭐ 21 | `automation` |
+| [Slurm Directives](automation/scripting/slurm_directives_ef58f60f/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/hpc-deployment/slurm-job-script-generator/references/slurm_directives.md) | ⭐ 21 | `automation` |
+| [Cmso Guide](automation/scripting/cmso_guide_f7fd1bbc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/references/cmso_guide.md) | ⭐ 21 | `automation` |
 
 ### Automation/Workflow (109 skills)
 
@@ -1838,7 +1841,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reddit Outreach](development/2928-reddit-outreach_9024c464/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-outreach.md) | ⭐ 231 | `development` |
 | [Readme Pypi](development/2942-readme_pypi_754b0482/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/README_PYPI.md) | ⭐ 35 | `development` |
 | [01 Overview](development/2703-01-overview_114f93ef/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 3.8k | `development` |
-| [Gemini](development/gemini_3cc162bf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md) | ⭐ 30 | `development` |
+| [Gemini](development/1371-gemini_3cc162bf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md) | ⭐ 30 | `development` |
 
 ### Development/Devops (296 skills)
 
@@ -2201,7 +2204,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/testing/027-troubleshooting_f96c4391/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/troubleshooting.md) | ⭐ 13 | `development` |
 | [Plan Review](development/testing/082-plan_review_e3634912/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_review.md) | ⭐ 14 | `development` |
 
-### Development/Tools (280 skills)
+### Development/Tools (281 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2484,7 +2487,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_3166acae/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 25.1k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_8f82b203/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 25.1k | `development` |
 | [01 Overview](development/tools/365-01-overview_acd186c3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 3.8k | `development` |
-| [Codex](development/tools/codex_78999762/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/codex/agents/codex.md) | ⭐ 30 | `development` |
+| [Codex](development/tools/367-codex_78999762/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/codex/agents/codex.md) | ⭐ 30 | `development` |
+| [Skill](development/tools/name-skill_0740f5f5/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-mapper/SKILL.md) | ⭐ 21 | `development` |
 
 ### Investment (35 skills)
 
@@ -2556,7 +2560,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Coq Reviewer](productivity/174-coq-reviewer_2a58deca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/coq-reviewer.md) | ⭐ 10 | `productivity` |
 | [Data Driven Optimize Output Analysis](productivity/176-data_driven_optimize_output_analysis_e58bea19/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/src/vertex/prompt_optimizer/docs/data_driven_optimize_output_analysis.md) | ⭐ 11 | `productivity` |
 
-### Research (93 skills)
+### Research (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2654,6 +2658,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](research/258-index_276456c8/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/typst-paper/index.md) | ⭐ 39 | `research` |
 | [Deployment](research/260-deployment_30fadbe5/) | [tomascupr/sandstorm](https://raw.githubusercontent.com/tomascupr/sandstorm/main/docs/deployment.md) | ⭐ 399 | `research` |
 | [Skill Content Optimization](research/257-skill-content-optimization_12ecadeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/rules/skill-content-optimization.md) | ⭐ 20 | `research` |
+| [Mapping Patterns](research/mapping_patterns_54e5d93e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-mapper/references/mapping_patterns.md) | ⭐ 21 | `research` |
 
 ## How Skills Are Organized
 
@@ -2705,5 +2710,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-26 14:08:24 UTC*
+*Last updated: 2026-02-26 17:46:22 UTC*
 *Automatically maintained by SkillFlow*
