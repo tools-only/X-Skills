@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2329 AI-powered skills** organized into 15 categories.
+A curated collection of **2342 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (55 skills)
-- **Automation/Workflow** (104 skills)
+- **Automation/Workflow** (105 skills)
 - **Commercial** (103 skills)
 - **Communication** (79 skills)
-- **Content Creation** (246 skills)
-- **Daily Assistant** (127 skills)
-- **Data Analysis** (196 skills)
-- **Development** (691 skills)
+- **Content Creation** (247 skills)
+- **Daily Assistant** (134 skills)
+- **Data Analysis** (197 skills)
+- **Development** (692 skills)
 - **Development/Devops** (277 skills)
 - **Development/Testing** (52 skills)
 - **Development/Tools** (253 skills)
-- **Investment** (33 skills)
+- **Investment** (35 skills)
 - **Other** (3 skills)
 - **Productivity** (17 skills)
 - **Research** (93 skills)
@@ -241,7 +241,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Script Invocation](automation/scripting/089-script-invocation_b5e05b64/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/rules/script-invocation.md) | ⭐ 20 | `automation` |
 | [Meta And External Analyzers](automation/scripting/089-meta-and-external-analyzers_eee7912a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-and-external-analyzers.md) | ⭐ 996 | `automation` |
 
-### Automation/Workflow (104 skills)
+### Automation/Workflow (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -335,7 +335,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue 85 Parent](automation/workflow/138-issue-85-parent_3f21764a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-85-parent.md) | ⭐ 93 | `automation` |
 | [Issue Child 07 Governance](automation/workflow/139-issue-child-07-governance_886369a4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-07-governance.md) | ⭐ 93 | `automation` |
 | [Phase 5 Quality Gates.Prompt](automation/workflow/140-phase-5-quality-gatesprompt_19689274/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-5-quality-gates.prompt.md) | ⭐ 93 | `automation` |
-| [Skill](automation/workflow/002-name-skill_f3e28c52/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 294 | `automation` |
+| [Skill](automation/workflow/name-skill_07322339/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 327 | `automation` |
 | [04 Packaging](automation/workflow/137-04-packaging_37ce51c3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/04-packaging.md) | 🔥 9.8k | `automation` |
 | [Skill](automation/workflow/002-name-skill_e303efd1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/SKILL.md) | ⭐ 94 | `automation` |
 | [Skill](automation/workflow/002-name-skill_c4438a2b/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 70 | `automation` |
@@ -349,6 +349,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plan Update](automation/workflow/141-plan_update_0506a11c/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_update.md) | ⭐ 14 | `automation` |
 | [Api Endpoints Detail](automation/workflow/142-api-endpoints-detail_1dc02130/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-endpoints-detail.md) | ⭐ 996 | `automation` |
 | [Scan Policies Overview](automation/workflow/143-scan-policies-overview_b6e723a9/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/scan-policies-overview.md) | ⭐ 996 | `automation` |
+| [Skill](automation/workflow/002-name-skill_07322339/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 327 | `automation` |
 
 ### Commercial (103 skills)
 
@@ -542,7 +543,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Presidio Pii Masking](communication/255-presidio_pii_masking_72eaa1e5/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.7k | `communication` |
 | [Request Tags](communication/261-request_tags_9e2dbdb2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md) | 🔥 36.8k | `AWS_IAM_PROD` |
 
-### Content Creation (246 skills)
+### Content Creation (247 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -602,7 +603,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontmatter Options](content-creation/362-frontmatter-options_2e27656a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
 | [Platforms](content-creation/212-platforms_1737d684/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/platforms.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_15483b26/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cfb-data/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/049-name-skill_4213150f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/name-skill_561f192a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 35 | `content creation` |
 | [Skill](content-creation/049-name-skill_e26dd851/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_db245f9b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-master/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_35f1170f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/SKILL.md) | ⭐ 10 | `content creation` |
@@ -792,8 +793,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Binary Handling](content-creation/382-binary-handling_396075ca/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/binary-handling.md) | ⭐ 996 | `content creation` |
 | [Index](content-creation/019-index_4393d065/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/index.md) | ⭐ 996 | `content creation` |
 | [Custom Policy Configuration](content-creation/383-custom-policy-configuration_ab8909ba/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/custom-policy-configuration.md) | ⭐ 996 | `content creation` |
+| [Skill](content-creation/049-name-skill_561f192a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 35 | `content creation` |
 
-### Daily Assistant (127 skills)
+### Daily Assistant (134 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -814,14 +816,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_d5f7ff6c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-sop/SKILL.md) | ⭐ 41 | `daily assistant` |
 | [Security Analysis V070](daily-assistant/267-security_analysis_v070_14e0aad1/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/SECURITY_ANALYSIS_v070.md) | ⭐ 34 | `daily assistant` |
 | [Quality Checklist](daily-assistant/268-quality-checklist_aed25b68/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/quality-checklist.md) | ⭐ 34 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_3480447c/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_35f731fa/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_a23716e1/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c98a02bc/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_2f202946/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_60046f1b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/SKILL.md) | ⭐ 35 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_df9bd73a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nba-data/SKILL.md) | ⭐ 24 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_c4d6be83/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nfl-data/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_cc67ac0f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nhl-data/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_9307b4b7/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/tennis-data/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Commands](daily-assistant/271-commands_29378f0a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_5f43a437/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nhl-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_40c8150e/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/tennis-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Commands](daily-assistant/commands_e0569fae/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 35 | `daily assistant` |
 | [Commands](daily-assistant/271-commands_5dfbe33f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/commands.md) | ⭐ 24 | `daily assistant` |
 | [Schemas](daily-assistant/272-schemas_34ab5339/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/schemas.md) | ⭐ 24 | `daily assistant` |
 | [Update Model](daily-assistant/262-update-model_2796dd59/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 13 | `daily assistant` |
@@ -924,8 +926,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_929b7b7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 20 | `daily assistant` |
 | [Implementation Finalise](daily-assistant/267-implementation_finalise_57fab0cc/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_finalise.md) | ⭐ 14 | `daily assistant` |
 | [Implementation Needs Rework](daily-assistant/268-implementation_needs_rework_48eca288/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_needs_rework.md) | ⭐ 14 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c98a02bc/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_2f202946/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_60046f1b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_5f43a437/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nhl-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_40c8150e/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/tennis-data/SKILL.md) | ⭐ 35 | `daily assistant` |
+| [Commands](daily-assistant/269-commands_e0569fae/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 35 | `daily assistant` |
+| [Schemas](daily-assistant/schemas_74b5ce04/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/schemas.md) | ⭐ 35 | `daily assistant` |
 
-### Data Analysis (196 skills)
+### Data Analysis (197 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -997,7 +1006,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_3bb374d5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Script Patterns](data-analysis/482-script-patterns_842143ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/script-patterns.md) | ⭐ 34 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3ac3579a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cbb-data/SKILL.md) | ⭐ 24 | `data analysis` |
-| [Skill](data-analysis/226-name-skill_154869da/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 24 | `data analysis` |
+| [Skill](data-analysis/name-skill_9cec1933/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 35 | `data analysis` |
 | [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_15ac6ffa/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
@@ -1125,8 +1134,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](data-analysis/113-index_5de3ab77/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/features/index.md) | ⭐ 996 | `data analysis` |
 | [Output Formats](data-analysis/493-output-formats_a20b81d1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/output-formats.md) | ⭐ 996 | `data analysis` |
 | [Static Analyzer](data-analysis/494-static-analyzer_b6239da6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/static-analyzer.md) | ⭐ 996 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9cec1933/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 35 | `data analysis` |
 
-### Development (691 skills)
+### Development (692 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1819,8 +1829,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_4080a558/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/index.md) | ⭐ 996 | `development` |
 | [Llm Analyzer](development/1978-llm-analyzer_ed34ff51/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/llm-analyzer.md) | ⭐ 996 | `development` |
 | [Writing Custom Rules](development/2936-writing-custom-rules_b5ad5d1b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/writing-custom-rules.md) | ⭐ 996 | `development` |
-| [Devto Post](development/devto-post_a93d5914/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-post.md) | ⭐ 231 | `development` |
-| [Reddit Outreach](development/reddit-outreach_9024c464/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-outreach.md) | ⭐ 231 | `development` |
+| [Devto Post](development/2927-devto-post_a93d5914/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-post.md) | ⭐ 231 | `development` |
+| [Reddit Outreach](development/2928-reddit-outreach_9024c464/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-outreach.md) | ⭐ 231 | `development` |
+| [Readme Pypi](development/readme_pypi_754b0482/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/README_PYPI.md) | ⭐ 35 | `development` |
 
 ### Development/Devops (277 skills)
 
@@ -2422,7 +2433,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Policy Quick Reference](development/tools/366-policy-quick-reference_edfe4863/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/policy-quick-reference.md) | ⭐ 996 | `development` |
 | [Meta Analyzer](development/tools/201-meta-analyzer_8d3541b3/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-analyzer.md) | ⭐ 996 | `development` |
 
-### Investment (33 skills)
+### Investment (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2430,8 +2441,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Input Schema](investment/048-input-schema_cad1183d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-review-monitor/references/input-schema.md) | ⭐ 41 | `investment` |
 | [Theme Detection Methodology](investment/049-theme_detection_methodology_bfb5c432/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 41 | `investment` |
 | [Skill](investment/050-description-skill_8b0ec79b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/thinking-partner/SKILL.md) | ⭐ 34 | `investment` |
-| [Skill](investment/021-name-skill_76ec2b17/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/SKILL.md) | ⭐ 24 | `investment` |
-| [Skill](investment/021-name-skill_b71219b9/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/polymarket/SKILL.md) | ⭐ 24 | `investment` |
+| [Skill](investment/name-skill_8a2c71b3/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/SKILL.md) | ⭐ 35 | `investment` |
+| [Skill](investment/name-skill_d18e23a4/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/polymarket/SKILL.md) | ⭐ 35 | `investment` |
 | [Skill](investment/021-name-skill_9fd4c364/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/wnba-data/SKILL.md) | ⭐ 24 | `investment` |
 | [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
 | [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
@@ -2459,6 +2470,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_e12dbf2c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/liquidity-planner/SKILL.md) | ⭐ 109 | `investment` |
 | [Data Providers](investment/057-data-providers_69bbdab0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/references/data-providers.md) | ⭐ 109 | `investment` |
 | [Strategy Archetypes](investment/051-strategy_archetypes_b495998f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/strategy_archetypes.md) | ⭐ 44 | `investment` |
+| [Skill](investment/021-name-skill_8a2c71b3/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/SKILL.md) | ⭐ 35 | `investment` |
+| [Skill](investment/021-name-skill_d18e23a4/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/polymarket/SKILL.md) | ⭐ 35 | `investment` |
 
 ### Other (3 skills)
 
@@ -2639,5 +2652,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-26 10:09:38 UTC*
+*Last updated: 2026-02-26 11:10:00 UTC*
 *Automatically maintained by SkillFlow*
