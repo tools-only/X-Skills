@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2280 AI-powered skills** organized into 15 categories.
+A curated collection of **2297 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (54 skills)
-- **Automation/Workflow** (99 skills)
+- **Automation/Workflow** (102 skills)
 - **Commercial** (103 skills)
-- **Communication** (80 skills)
+- **Communication** (79 skills)
 - **Content Creation** (243 skills)
-- **Daily Assistant** (125 skills)
+- **Daily Assistant** (128 skills)
 - **Data Analysis** (190 skills)
-- **Development** (672 skills)
+- **Development** (679 skills)
 - **Development/Devops** (269 skills)
-- **Development/Testing** (51 skills)
-- **Development/Tools** (247 skills)
+- **Development/Testing** (53 skills)
+- **Development/Tools** (251 skills)
 - **Investment** (33 skills)
-- **Other** (4 skills)
+- **Other** (3 skills)
 - **Productivity** (17 skills)
 - **Research** (93 skills)
 
@@ -240,7 +240,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog](automation/scripting/085-backlog_350f727b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
 | [Script Invocation](automation/scripting/089-script-invocation_b5e05b64/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/rules/script-invocation.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (99 skills)
+### Automation/Workflow (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -343,6 +343,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_5439d6af/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 26 | `automation` |
 | [Git Workflow](automation/workflow/138-git-workflow_b7f09196/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 29 | `automation` |
 | [Migration Guide](automation/workflow/138-migration-guide_5af1537e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/migration-guide.md) | ⭐ 20 | `automation` |
+| [Discuss](automation/workflow/discuss_31e4b190/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/discuss.md) | ⭐ 14 | `automation` |
+| [Issue Create](automation/workflow/issue_create_40fc5d63/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_create.md) | ⭐ 14 | `automation` |
+| [Plan Update](automation/workflow/plan_update_0506a11c/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_update.md) | ⭐ 14 | `automation` |
 
 ### Commercial (103 skills)
 
@@ -449,10 +452,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_70bcc108/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/secrets-manager/SKILL.md) | ⭐ 996 | `commercial` |
 | [Ui Credentials](commercial/227-ui_credentials_5836695e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_credentials.md) | 🔥 36.7k | `commercial` |
 | [Skill](commercial/210-name-skill_e0242bcd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/SKILL.md) | ⭐ 20 | `commercial` |
-| [Usage Patterns](commercial/usage_patterns_160086bf/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/usage_patterns.md) | ⭐ 13 | `commercial` |
-| [Authentication](commercial/authentication_1d04c7b1/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/AUTHENTICATION.md) | ⭐ 13 | `commercial` |
+| [Usage Patterns](commercial/378-usage_patterns_160086bf/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/usage_patterns.md) | ⭐ 13 | `commercial` |
+| [Rebase](commercial/rebase_b6f347d5/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/rebase.md) | ⭐ 14 | `commercial` |
 
-### Communication (80 skills)
+### Communication (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -535,7 +538,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 22 04 30 00 Compact Ux Issues](communication/260-2026-02-22_04-30-00_compact_ux_issues_aeaa6f63/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_04-30-00_compact_ux_issues.md) | ⭐ 113 | `communication` |
 | [Presidio Pii Masking](communication/255-presidio_pii_masking_72eaa1e5/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.7k | `communication` |
 | [Request Tags](communication/261-request_tags_9e2dbdb2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md) | 🔥 36.8k | `AWS_IAM_PROD` |
-| [Api Reference](communication/api_reference_0dfc8189/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/api_reference.md) | ⭐ 13 | `communication` |
 
 ### Content Creation (243 skills)
 
@@ -782,10 +784,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Contextual Ai Documentation Optimizer](content-creation/384-contextual-ai-documentation-optimizer_87cf633c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 20 | `content creation` |
 | [Error Codes](content-creation/385-error_codes_57b9e0e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/docs/ERROR_CODES.md) | ⭐ 20 | `content creation` |
 | [Claude Rules Extraction](content-creation/386-claude-rules-extraction_98f20935/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/optimize-claude-md/references/claude-rules-extraction.md) | ⭐ 20 | `content creation` |
-| [Skill](content-creation/name-skill_bfed06d2/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/SKILL.md) | ⭐ 13 | `content creation` |
-| [Integration Api Discovery](content-creation/integration_api_discovery_41fae3be/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/integration_api_discovery.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/049-name-skill_bfed06d2/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/SKILL.md) | ⭐ 13 | `content creation` |
+| [Issue Update](content-creation/issue_update_31923a2e/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_update.md) | ⭐ 14 | `content creation` |
 
-### Daily Assistant (125 skills)
+### Daily Assistant (128 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -914,6 +916,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Stage 1 Implementation Summary](daily-assistant/266-stage_1_implementation_summary_8a4eb62a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_IMPLEMENTATION_SUMMARY.md) | 🔥 9.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_d8dbb89d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.agent/skills/planning-with-files/SKILL.md) | 🔥 14.5k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_929b7b7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 20 | `daily assistant` |
+| [Implementation Finalise](daily-assistant/implementation_finalise_57fab0cc/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_finalise.md) | ⭐ 14 | `daily assistant` |
+| [Implementation Needs Rework](daily-assistant/implementation_needs_rework_48eca288/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_needs_rework.md) | ⭐ 14 | `daily assistant` |
+| [Task Tracker](daily-assistant/task_tracker_25baa2f2/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/pr_info/TASK_TRACKER.md) | ⭐ 14 | `daily assistant` |
 
 ### Data Analysis (190 skills)
 
@@ -1110,7 +1115,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hooks Doc](data-analysis/492-hooks-doc_8874bed2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/plugin-creator-hooks/hooks-doc.md) | ⭐ 20 | `data analysis` |
 | [Pipeline Map](data-analysis/493-pipeline-map_6920d964/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/notes/pipeline-map.md) | ⭐ 20 | `data analysis` |
 
-### Development (672 skills)
+### Development (679 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1624,7 +1629,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Elisp Reviewer](development/2894-elisp-reviewer_e8bee658/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/elisp-reviewer.md) | ⭐ 10 | `development` |
 | [Haskell Reviewer](development/2895-haskell-reviewer_2fbb2c8b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/haskell-reviewer.md) | ⭐ 10 | `development` |
 | [Nix Reviewer](development/2896-nix-reviewer_095ccae9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/nix-reviewer.md) | ⭐ 10 | `development` |
-| [Deep Review](development/deep-review_7b558401/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/deep-review.md) | ⭐ 12 | `development` |
+| [Deep Review](development/2897-deep-review_5dd2490e/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/deep-review.md) | ⭐ 10 | `development` |
 | [Quick Review](development/2898-quick-review_ce49ff17/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/quick-review.md) | ⭐ 10 | `development` |
 | [Security Review](development/2899-security-review_c43ed1f0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/security-review.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_1359a23c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/docs-search/SKILL.md) | 🔥 20.7k | `development` |
@@ -1784,8 +1789,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_84f51710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/scientific-thinking/SKILL.md) | ⭐ 20 | `development` |
 | [Ai Analysis Subagent Fix](development/2921-ai-analysis-subagent-fix_3737a701/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/notes/ai-analysis-subagent-fix.md) | ⭐ 20 | `development` |
 | [Duplicate Draft Fix](development/2922-duplicate-draft-fix_b001a0bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/notes/duplicate-draft-fix.md) | ⭐ 20 | `development` |
-| [Typescript Reviewer](development/typescript-reviewer_2b74bb6c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-reviewer.md) | ⭐ 12 | `development` |
+| [Typescript Reviewer](development/2916-typescript-reviewer_2b74bb6c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-reviewer.md) | ⭐ 12 | `development` |
 | [Deep Review](development/2917-deep-review_7b558401/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/deep-review.md) | ⭐ 12 | `development` |
+| [Install](development/install_ad1d9559/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/INSTALL.md) | ⭐ 14 | `development` |
+| [Claude](development/claude_dcd8c2bf/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/Claude.md) | ⭐ 14 | `development` |
+| [Implementation Approve](development/implementation_approve_aa8dfd6a/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_approve.md) | ⭐ 14 | `development` |
+| [Implementation New Tasks](development/implementation_new_tasks_2135aa9e/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_new_tasks.md) | ⭐ 14 | `development` |
+| [Implementation Review](development/implementation_review_9f330b77/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_review.md) | ⭐ 14 | `development` |
+| [Issue Analyse](development/issue_analyse_1717abc3/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_analyse.md) | ⭐ 14 | `development` |
+| [Plan Approve](development/plan_approve_a1cb59a0/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_approve.md) | ⭐ 14 | `development` |
 
 ### Development/Devops (269 skills)
 
@@ -2064,7 +2076,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openai Yaml](development/devops/297-openai_yaml_ffac3931/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 163 | `development` |
 | [Agents](development/devops/053-agents_b5618f59/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.9k | `development` |
 
-### Development/Testing (51 skills)
+### Development/Testing (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2118,9 +2130,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installing Dbt Fusion](development/testing/086-installing-dbt-fusion_c61e563d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 168 | `development` |
 | [Python Cli Architect](development/testing/082-python-cli-architect_754c78cc/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/python-cli-architect.md) | ⭐ 20 | `development` |
 | [Quick Reference](development/testing/083-quick-reference_c487b9f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/quick-reference.md) | ⭐ 20 | `development` |
-| [Troubleshooting](development/testing/troubleshooting_f96c4391/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/troubleshooting.md) | ⭐ 13 | `development` |
+| [Troubleshooting](development/testing/027-troubleshooting_f96c4391/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/troubleshooting.md) | ⭐ 13 | `development` |
+| [Plan Review](development/testing/plan_review_e3634912/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_review.md) | ⭐ 14 | `development` |
+| [Code Index](development/testing/code_index_f69a9e1a/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
-### Development/Tools (247 skills)
+### Development/Tools (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2369,8 +2383,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_5a1cea06/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 14.5k | `development` |
 | [Github Copilot Hooks Doc](development/tools/363-github-copilot-hooks-doc_b86e5ca7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/plugin-creator-hooks/github-copilot-hooks-doc.md) | ⭐ 20 | `development` |
 | [Vscode Copilot Hooks Doc](development/tools/364-vscode-copilot-hooks-doc_b9d46fa0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/plugin-creator-hooks/vscode-copilot-hooks-doc.md) | ⭐ 20 | `development` |
-| [Readme.Zh Cn](development/tools/readmezh-cn_70baefca/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/README.zh-CN.md) | ⭐ 13 | `development` |
-| [Integration Plan From Live Product](development/tools/integration_plan_from_live_product_fd290184/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/integration_plan_from_live_product.md) | ⭐ 13 | `development` |
+| [Readme.Zh Cn](development/tools/221-readmezh-cn_70baefca/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/README.zh-CN.md) | ⭐ 13 | `development` |
+| [Integration Plan From Live Product](development/tools/341-integration_plan_from_live_product_fd290184/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/integration_plan_from_live_product.md) | ⭐ 13 | `development` |
+| [Code Index](development/tools/code_index_fa186a57/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Commit Push](development/tools/commit_push_c0cd219b/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/commit_push.md) | ⭐ 14 | `development` |
+| [Issue Approve](development/tools/issue_approve_9d5c2661/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_approve.md) | ⭐ 14 | `development` |
+| [Agents](development/tools/agents_d4061abe/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/AGENTS.md) | ⭐ 2.5k | `development` |
 
 ### Investment (33 skills)
 
@@ -2410,14 +2428,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Data Providers](investment/057-data-providers_69bbdab0/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/skills/swap-planner/references/data-providers.md) | ⭐ 109 | `investment` |
 | [Strategy Archetypes](investment/051-strategy_archetypes_b495998f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/strategy-pivot-designer/references/strategy_archetypes.md) | ⭐ 44 | `investment` |
 
-### Other (4 skills)
+### Other (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 | [Review Criteria](other/036-review-criteria_c02c92f2/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/references/review-criteria.md) | ⭐ 14 | `other` |
 | [Writing Guide](other/037-writing-guide_1d8f4f89/) | [njzjz/nsfc-agent-skills](https://raw.githubusercontent.com/njzjz/nsfc-agent-skills/master/nsfc-write/references/writing-guide.md) | ⭐ 14 | `other` |
-| [Bugbot](other/bugbot_eeb5f7cb/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/bugbot.md) | ⭐ 12 | `other` |
 
 ### Productivity (17 skills)
 
@@ -2590,5 +2607,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-26 06:09:26 UTC*
+*Last updated: 2026-02-26 08:09:59 UTC*
 *Automatically maintained by SkillFlow*
