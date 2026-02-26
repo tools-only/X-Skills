@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2335 AI-powered skills** organized into 15 categories.
+A curated collection of **2329 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,16 +8,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (58 skills)
+- **Automation/Scripting** (55 skills)
 - **Automation/Workflow** (104 skills)
 - **Commercial** (103 skills)
 - **Communication** (79 skills)
 - **Content Creation** (246 skills)
 - **Daily Assistant** (127 skills)
 - **Data Analysis** (196 skills)
-- **Development** (690 skills)
-- **Development/Devops** (280 skills)
-- **Development/Testing** (53 skills)
+- **Development** (691 skills)
+- **Development/Devops** (277 skills)
+- **Development/Testing** (52 skills)
 - **Development/Tools** (253 skills)
 - **Investment** (33 skills)
 - **Other** (3 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (58 skills)
+### Automation/Scripting (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -239,10 +239,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_b68c3dbc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 29 | `automation` |
 | [Backlog](automation/scripting/085-backlog_350f727b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
 | [Script Invocation](automation/scripting/089-script-invocation_b5e05b64/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/rules/script-invocation.md) | ⭐ 20 | `automation` |
-| [Meta And External Analyzers](automation/scripting/meta-and-external-analyzers_eee7912a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-and-external-analyzers.md) | ⭐ 996 | `automation` |
-| [Examples And How To](automation/scripting/examples-and-how-to_7fbedd02/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/guides/examples-and-how-to.md) | ⭐ 996 | `automation` |
-| [Api Endpoint Reference](automation/scripting/api-endpoint-reference_48afe1f4/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/api-endpoint-reference.md) | ⭐ 996 | `automation` |
-| [Api Rationale](automation/scripting/api-rationale_0a631f2b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-rationale.md) | ⭐ 996 | `automation` |
+| [Meta And External Analyzers](automation/scripting/089-meta-and-external-analyzers_eee7912a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-and-external-analyzers.md) | ⭐ 996 | `automation` |
 
 ### Automation/Workflow (104 skills)
 
@@ -350,8 +347,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Discuss](automation/workflow/139-discuss_31e4b190/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/discuss.md) | ⭐ 14 | `automation` |
 | [Issue Create](automation/workflow/140-issue_create_40fc5d63/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_create.md) | ⭐ 14 | `automation` |
 | [Plan Update](automation/workflow/141-plan_update_0506a11c/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_update.md) | ⭐ 14 | `automation` |
-| [Api Endpoints Detail](automation/workflow/api-endpoints-detail_1dc02130/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-endpoints-detail.md) | ⭐ 996 | `automation` |
-| [Scan Policies Overview](automation/workflow/scan-policies-overview_b6e723a9/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/scan-policies-overview.md) | ⭐ 996 | `automation` |
+| [Api Endpoints Detail](automation/workflow/142-api-endpoints-detail_1dc02130/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-endpoints-detail.md) | ⭐ 996 | `automation` |
+| [Scan Policies Overview](automation/workflow/143-scan-policies-overview_b6e723a9/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/scan-policies-overview.md) | ⭐ 996 | `automation` |
 
 ### Commercial (103 skills)
 
@@ -792,9 +789,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Rules Extraction](content-creation/386-claude-rules-extraction_98f20935/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/optimize-claude-md/references/claude-rules-extraction.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_bfed06d2/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/SKILL.md) | ⭐ 13 | `content creation` |
 | [Issue Update](content-creation/381-issue_update_31923a2e/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_update.md) | ⭐ 14 | `content creation` |
-| [Binary Handling](content-creation/binary-handling_396075ca/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/binary-handling.md) | ⭐ 996 | `content creation` |
-| [Index](content-creation/index_4393d065/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/index.md) | ⭐ 996 | `content creation` |
-| [Custom Policy Configuration](content-creation/custom-policy-configuration_ab8909ba/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/custom-policy-configuration.md) | ⭐ 996 | `content creation` |
+| [Binary Handling](content-creation/382-binary-handling_396075ca/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/binary-handling.md) | ⭐ 996 | `content creation` |
+| [Index](content-creation/019-index_4393d065/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/index.md) | ⭐ 996 | `content creation` |
+| [Custom Policy Configuration](content-creation/383-custom-policy-configuration_ab8909ba/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/custom-policy-configuration.md) | ⭐ 996 | `content creation` |
 
 ### Daily Assistant (127 skills)
 
@@ -1122,14 +1119,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Hooks Doc](data-analysis/491-claude-hooks-doc_26ce66e3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/plugin-creator-hooks/claude-hooks-doc.md) | ⭐ 20 | `data analysis` |
 | [Hooks Doc](data-analysis/492-hooks-doc_8874bed2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/plugin-creator-hooks/hooks-doc.md) | ⭐ 20 | `data analysis` |
 | [Pipeline Map](data-analysis/493-pipeline-map_6920d964/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/notes/pipeline-map.md) | ⭐ 20 | `data analysis` |
-| [Feature](data-analysis/feature_e4390fc6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/FEATURE.md) | ⭐ 996 | `data analysis` |
-| [Scanning Pipeline](data-analysis/scanning-pipeline_c1e428d6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/scanning-pipeline.md) | ⭐ 996 | `data analysis` |
-| [Threat Taxonomy](data-analysis/threat-taxonomy_6a8f5448/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/threat-taxonomy.md) | ⭐ 996 | `data analysis` |
-| [Index](data-analysis/index_5de3ab77/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/features/index.md) | ⭐ 996 | `data analysis` |
-| [Output Formats](data-analysis/output-formats_a20b81d1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/output-formats.md) | ⭐ 996 | `data analysis` |
-| [Static Analyzer](data-analysis/static-analyzer_b6239da6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/static-analyzer.md) | ⭐ 996 | `data analysis` |
+| [Feature](data-analysis/490-feature_e4390fc6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/FEATURE.md) | ⭐ 996 | `data analysis` |
+| [Scanning Pipeline](data-analysis/491-scanning-pipeline_c1e428d6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/scanning-pipeline.md) | ⭐ 996 | `data analysis` |
+| [Threat Taxonomy](data-analysis/492-threat-taxonomy_6a8f5448/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/threat-taxonomy.md) | ⭐ 996 | `data analysis` |
+| [Index](data-analysis/113-index_5de3ab77/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/features/index.md) | ⭐ 996 | `data analysis` |
+| [Output Formats](data-analysis/493-output-formats_a20b81d1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/output-formats.md) | ⭐ 996 | `data analysis` |
+| [Static Analyzer](data-analysis/494-static-analyzer_b6239da6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/static-analyzer.md) | ⭐ 996 | `data analysis` |
 
-### Development (690 skills)
+### Development (691 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1812,19 +1809,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implementation Review](development/2930-implementation_review_9f330b77/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/implementation_review.md) | ⭐ 14 | `development` |
 | [Issue Analyse](development/2931-issue_analyse_1717abc3/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_analyse.md) | ⭐ 14 | `development` |
 | [Plan Approve](development/2932-plan_approve_a1cb59a0/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_approve.md) | ⭐ 14 | `development` |
-| [Readme.En](development/readmeen_e1deaf76/) | [Ha1baraA11/Prompt-Recon](https://raw.githubusercontent.com/Ha1baraA11/Prompt-Recon/main/README.en.md) | ⭐ 31 | `development` |
-| [Readme.Zh Tw](development/readmezh-tw_b47c75b0/) | [Ha1baraA11/Prompt-Recon](https://raw.githubusercontent.com/Ha1baraA11/Prompt-Recon/main/README.zh-TW.md) | ⭐ 31 | `development` |
-| [Github Actions](development/github-actions_172d2106/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/github-actions.md) | ⭐ 996 | `development` |
-| [Cli Command Reference](development/cli-command-reference_e12b5537/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/cli-command-reference.md) | ⭐ 996 | `development` |
-| [Python Sdk](development/python-sdk_29d33d6e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/python-sdk.md) | ⭐ 996 | `development` |
-| [Aidefense Analyzer](development/aidefense-analyzer_21afc3c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/aidefense-analyzer.md) | ⭐ 996 | `development` |
-| [Behavioral Analyzer](development/behavioral-analyzer_6b1588c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/behavioral-analyzer.md) | ⭐ 996 | `development` |
-| [Index](development/index_4080a558/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/index.md) | ⭐ 996 | `development` |
-| [Llm Analyzer](development/llm-analyzer_ed34ff51/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/llm-analyzer.md) | ⭐ 996 | `development` |
-| [Writing Custom Rules](development/writing-custom-rules_b5ad5d1b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/writing-custom-rules.md) | ⭐ 996 | `development` |
-| [Security Model](development/security-model_bafec2e1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/concepts/security-model.md) | ⭐ 996 | `development` |
+| [Readme.En](development/2933-readmeen_e1deaf76/) | [Ha1baraA11/Prompt-Recon](https://raw.githubusercontent.com/Ha1baraA11/Prompt-Recon/main/README.en.md) | ⭐ 31 | `development` |
+| [Readme.Zh Tw](development/2664-readmezh-tw_b47c75b0/) | [Ha1baraA11/Prompt-Recon](https://raw.githubusercontent.com/Ha1baraA11/Prompt-Recon/main/README.zh-TW.md) | ⭐ 31 | `development` |
+| [Github Actions](development/2934-github-actions_172d2106/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/github-actions.md) | ⭐ 996 | `development` |
+| [Cli Command Reference](development/2935-cli-command-reference_e12b5537/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/cli-command-reference.md) | ⭐ 996 | `development` |
+| [Python Sdk](development/744-python-sdk_29d33d6e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/python-sdk.md) | ⭐ 996 | `development` |
+| [Aidefense Analyzer](development/1976-aidefense-analyzer_21afc3c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/aidefense-analyzer.md) | ⭐ 996 | `development` |
+| [Behavioral Analyzer](development/1977-behavioral-analyzer_6b1588c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/behavioral-analyzer.md) | ⭐ 996 | `development` |
+| [Index](development/468-index_4080a558/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/index.md) | ⭐ 996 | `development` |
+| [Llm Analyzer](development/1978-llm-analyzer_ed34ff51/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/llm-analyzer.md) | ⭐ 996 | `development` |
+| [Writing Custom Rules](development/2936-writing-custom-rules_b5ad5d1b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/writing-custom-rules.md) | ⭐ 996 | `development` |
+| [Devto Post](development/devto-post_a93d5914/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-post.md) | ⭐ 231 | `development` |
+| [Reddit Outreach](development/reddit-outreach_9024c464/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-outreach.md) | ⭐ 231 | `development` |
 
-### Development/Devops (280 skills)
+### Development/Devops (277 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2100,19 +2098,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Finding Credentials](development/devops/372-finding-credentials_07ebffe9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/finding-credentials.md) | ⭐ 168 | `development` |
 | [Openai Yaml](development/devops/297-openai_yaml_ffac3931/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 163 | `development` |
 | [Agents](development/devops/053-agents_b5618f59/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.9k | `development` |
-| [Remote Skills Analysis](development/devops/remote-skills-analysis_cf9efa85/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/concepts/remote-skills-analysis.md) | ⭐ 996 | `development` |
-| [Integrations](development/devops/integrations_001e1b1c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/development/integrations.md) | ⭐ 996 | `development` |
-| [Quick Start](development/devops/quick-start_51d5cfd6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/getting-started/quick-start.md) | ⭐ 996 | `development` |
-| [Configuration Reference](development/devops/configuration-reference_d8daaa04/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/configuration-reference.md) | ⭐ 996 | `development` |
-| [Dependencies And Llm Providers](development/devops/dependencies-and-llm-providers_df680c4c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/dependencies-and-llm-providers.md) | ⭐ 996 | `development` |
-| [Index](development/devops/index_cee121c6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/index.md) | ⭐ 996 | `development` |
-| [Api Operations](development/devops/api-operations_1cfe7f98/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-operations.md) | ⭐ 996 | `development` |
-| [Installation And Configuration](development/devops/installation-and-configuration_fe876c5e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/installation-and-configuration.md) | ⭐ 996 | `development` |
-| [Api Server](development/devops/api-server_8f6d6db4/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-server.md) | ⭐ 996 | `development` |
-| [Cli Usage](development/devops/cli-usage_3d1759f7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/cli-usage.md) | ⭐ 996 | `development` |
-| [Index](development/devops/index_b44e8fae/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/index.md) | ⭐ 996 | `development` |
+| [Remote Skills Analysis](development/devops/180-remote-skills-analysis_cf9efa85/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/concepts/remote-skills-analysis.md) | ⭐ 996 | `development` |
+| [Integrations](development/devops/346-integrations_001e1b1c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/development/integrations.md) | ⭐ 996 | `development` |
+| [Quick Start](development/devops/369-quick-start_51d5cfd6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/getting-started/quick-start.md) | ⭐ 996 | `development` |
+| [Configuration Reference](development/devops/370-configuration-reference_d8daaa04/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/configuration-reference.md) | ⭐ 996 | `development` |
+| [Dependencies And Llm Providers](development/devops/371-dependencies-and-llm-providers_df680c4c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/dependencies-and-llm-providers.md) | ⭐ 996 | `development` |
+| [Index](development/devops/050-index_cee121c6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/index.md) | ⭐ 996 | `development` |
+| [Api Operations](development/devops/372-api-operations_1cfe7f98/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/api-operations.md) | ⭐ 996 | `development` |
+| [Installation And Configuration](development/devops/373-installation-and-configuration_fe876c5e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/installation-and-configuration.md) | ⭐ 996 | `development` |
 
-### Development/Testing (53 skills)
+### Development/Testing (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2168,7 +2163,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quick Reference](development/testing/083-quick-reference_c487b9f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/quick-reference.md) | ⭐ 20 | `development` |
 | [Troubleshooting](development/testing/027-troubleshooting_f96c4391/) | [p697/youmind-skill](https://raw.githubusercontent.com/p697/youmind-skill/main/references/troubleshooting.md) | ⭐ 13 | `development` |
 | [Plan Review](development/testing/082-plan_review_e3634912/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/plan_review.md) | ⭐ 14 | `development` |
-| [Setup And Testing](development/testing/setup-and-testing_645ae2fb/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/development/setup-and-testing.md) | ⭐ 996 | `development` |
 
 ### Development/Tools (253 skills)
 
@@ -2424,9 +2418,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Index](development/tools/282-code_index_fa186a57/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Commit Push](development/tools/364-commit_push_c0cd219b/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/commit_push.md) | ⭐ 14 | `development` |
 | [Issue Approve](development/tools/365-issue_approve_9d5c2661/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/commands/issue_approve.md) | ⭐ 14 | `development` |
-| [Index](development/tools/index_afd75c8a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/development/index.md) | ⭐ 996 | `development` |
-| [Policy Quick Reference](development/tools/policy-quick-reference_edfe4863/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/policy-quick-reference.md) | ⭐ 996 | `development` |
-| [Meta Analyzer](development/tools/meta-analyzer_8d3541b3/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-analyzer.md) | ⭐ 996 | `development` |
+| [Index](development/tools/062-index_afd75c8a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/development/index.md) | ⭐ 996 | `development` |
+| [Policy Quick Reference](development/tools/366-policy-quick-reference_edfe4863/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/reference/policy-quick-reference.md) | ⭐ 996 | `development` |
+| [Meta Analyzer](development/tools/201-meta-analyzer_8d3541b3/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture/analyzers/meta-analyzer.md) | ⭐ 996 | `development` |
 
 ### Investment (33 skills)
 
@@ -2645,5 +2639,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-26 10:08:25 UTC*
+*Last updated: 2026-02-26 10:09:38 UTC*
 *Automatically maintained by SkillFlow*

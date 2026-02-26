@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T10:08:25.250495",
+  "updated_at": "2026-02-26T10:09:38.494272",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -32579,6 +32579,34 @@
       "source_url": "https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/user-guide/scan-policies-overview.md",
       "display_name": "Scan Policies Overview",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "a93d5914fa79faddb77dac3b94f3720a42b17ba6affbed22a7f1c70988a7e4f5",
+      "source_path": "docs/devto-post.md",
+      "source_repo": "doramirdor/NadirClaw",
+      "local_path": "development/2927-devto-post_a93d5914",
+      "category": "development",
+      "name": "devto-post_a93d5914",
+      "indexed_at": "2026-02-26T10:09:37.919876",
+      "repo_stars": 231,
+      "repo_updated_at": "2026-02-26T04:12:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-post.md",
+      "display_name": "Devto Post",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9024c4643b792cf99e55ec541da74e0a22f5e8d7738b5f097ef0d640edd90e05",
+      "source_path": "docs/reddit-outreach.md",
+      "source_repo": "doramirdor/NadirClaw",
+      "local_path": "development/2928-reddit-outreach_9024c464",
+      "category": "development",
+      "name": "reddit-outreach_9024c464",
+      "indexed_at": "2026-02-26T10:09:38.494218",
+      "repo_stars": 231,
+      "repo_updated_at": "2026-02-26T04:12:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-outreach.md",
+      "display_name": "Reddit Outreach",
+      "tags": "[\"development\"]"
     }
   ]
 }
