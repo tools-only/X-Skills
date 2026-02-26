@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T05:09:42.534294",
+  "updated_at": "2026-02-26T06:09:26.001206",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -31767,6 +31767,104 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/migration-guide.md",
       "display_name": "Migration Guide",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "160086bf69fc63e0d701f43c9268bcd035fcdec5d27a1951cac537bcb996ac94",
+      "source_path": "references/usage_patterns.md",
+      "source_repo": "p697/youmind-skill",
+      "local_path": "commercial/378-usage_patterns_160086bf",
+      "category": "commercial",
+      "name": "usage_patterns_160086bf",
+      "indexed_at": "2026-02-26T06:09:23.268311",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-22T10:44:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/p697/youmind-skill/main/references/usage_patterns.md",
+      "display_name": "Usage Patterns",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "70baefcaa18e09f161e7fe12f222d795dd1ae59c5c90f18780df86901dc6fa46",
+      "source_path": "README.zh-CN.md",
+      "source_repo": "p697/youmind-skill",
+      "local_path": "development/tools/221-readmezh-cn_70baefca",
+      "category": "development/tools",
+      "name": "readmezh-cn_70baefca",
+      "indexed_at": "2026-02-26T06:09:23.656784",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-26T02:54:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/p697/youmind-skill/main/README.zh-CN.md",
+      "display_name": "Readme.Zh Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fd290184b92271d23dc9cab7c43afc98d04eadabdc9c89420b9af7ac3ff8802c",
+      "source_path": "references/integration_plan_from_live_product.md",
+      "source_repo": "p697/youmind-skill",
+      "local_path": "development/tools/341-integration_plan_from_live_product_fd290184",
+      "category": "development/tools",
+      "name": "integration_plan_from_live_product_fd290184",
+      "indexed_at": "2026-02-26T06:09:24.067380",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-25T12:15:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/p697/youmind-skill/main/references/integration_plan_from_live_product.md",
+      "display_name": "Integration Plan From Live Product",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "bfed06d22190eb164b2c89b7e03b39af34d4bcc9598a2ca51191b2e15780b069",
+      "source_path": "SKILL.md",
+      "source_repo": "p697/youmind-skill",
+      "local_path": "content-creation/049-name-skill_bfed06d2",
+      "category": "content-creation",
+      "name": "name-skill_bfed06d2",
+      "indexed_at": "2026-02-26T06:09:24.438849",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-26T02:54:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/p697/youmind-skill/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "f96c4391868ec6579b0d5354e47979966d2362b3f844fa61c9712572a95e1794",
+      "source_path": "references/troubleshooting.md",
+      "source_repo": "p697/youmind-skill",
+      "local_path": "development/testing/027-troubleshooting_f96c4391",
+      "category": "development/testing",
+      "name": "troubleshooting_f96c4391",
+      "indexed_at": "2026-02-26T06:09:24.841918",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-23T02:09:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/p697/youmind-skill/main/references/troubleshooting.md",
+      "display_name": "Troubleshooting",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2b74bb6c2bb4fb7d1105dbc68d6b56382969b111659951e285443dc1a7be8110",
+      "source_path": "agents/typescript-reviewer.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2916-typescript-reviewer_2b74bb6c",
+      "category": "development",
+      "name": "typescript-reviewer_2b74bb6c",
+      "indexed_at": "2026-02-26T06:09:25.457654",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-25T20:17:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-reviewer.md",
+      "display_name": "Typescript Reviewer",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7b55840146b1f4bae46d260bc5b3a0907da9edf47a82d0b017320922d09205fd",
+      "source_path": "commands/deep-review.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2917-deep-review_7b558401",
+      "category": "development",
+      "name": "deep-review_7b558401",
+      "indexed_at": "2026-02-26T06:09:26.001137",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-25T20:17:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/deep-review.md",
+      "display_name": "Deep Review",
+      "tags": "[\"development\"]"
     }
   ]
 }
