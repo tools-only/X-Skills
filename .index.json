@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T02:08:32.585695",
+  "updated_at": "2026-02-26T03:10:46.952246",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -31053,6 +31053,62 @@
       "source_url": "https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md",
       "display_name": "Openai Yaml",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "02bfe68e2f758cf601c8fe1321369e1affd02ea8b7c383cb316bed70ed474708",
+      "source_path": "AGENTS.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/028-agents_02bfe68e",
+      "category": "development",
+      "name": "agents_02bfe68e",
+      "indexed_at": "2026-02-26T03:10:45.021298",
+      "repo_stars": 36798,
+      "repo_updated_at": "2026-02-25T18:37:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "737409114e2c2a6a5206ab7b5c2b7badbb6e0fbc4ceff7b9c0023c7254853b6d",
+      "source_path": "docs/my-website/docs/proxy/cost_tracking.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "daily-assistant/053-cost_tracking_73740911",
+      "category": "daily-assistant",
+      "name": "cost_tracking_73740911",
+      "indexed_at": "2026-02-26T03:10:45.499117",
+      "repo_stars": 36798,
+      "repo_updated_at": "2026-02-25T22:29:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md",
+      "display_name": "Cost Tracking",
+      "tags": "[\"model-anthropic-claude-v2.1\", \"app-ishaan-prod\"]"
+    },
+    {
+      "file_hash": "eadca3450e375e103494113c5959b3f3ad21376a19117c946711a01fef4d3725",
+      "source_path": "docs/my-website/docs/proxy/credential_usage_tracking.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "daily-assistant/286-credential_usage_tracking_eadca345",
+      "category": "daily-assistant",
+      "name": "credential_usage_tracking_eadca345",
+      "indexed_at": "2026-02-26T03:10:46.110181",
+      "repo_stars": 36798,
+      "repo_updated_at": "2026-02-25T18:52:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/credential_usage_tracking.md",
+      "display_name": "Credential Usage Tracking",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "9e2dbdb2f85b5ab84a46b9ecafca8523250689e3faec35f1720e4869381932e2",
+      "source_path": "docs/my-website/docs/proxy/request_tags.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/261-request_tags_9e2dbdb2",
+      "category": "communication",
+      "name": "request_tags_9e2dbdb2",
+      "indexed_at": "2026-02-26T03:10:46.951717",
+      "repo_stars": 36798,
+      "repo_updated_at": "2026-02-25T22:29:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md",
+      "display_name": "Request Tags",
+      "tags": "[\"AWS_IAM_PROD\"]"
     }
   ]
 }
