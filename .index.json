@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T12:08:29.063414",
+  "updated_at": "2026-02-26T13:11:41.206229",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -33447,6 +33447,62 @@
       "source_url": "https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md",
       "display_name": "Readme Flat Skills Updated",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "d5b09d4653cbad5319328c484a9fcaa3316c5ce434fc00b960aea287a910b011",
+      "source_path": "docs/zh/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_d5b09d46",
+      "category": "development/devops",
+      "name": "01-configuration_d5b09d46",
+      "indexed_at": "2026-02-26T13:11:37.162496",
+      "repo_stars": 3846,
+      "repo_updated_at": "2026-02-26T12:27:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "acd186c3bc61314f1c1b4ddfa249f615388d3490a3710e264c31680eb4788b13",
+      "source_path": "docs/en/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/tools/365-01-overview_acd186c3",
+      "category": "development/tools",
+      "name": "01-overview_acd186c3",
+      "indexed_at": "2026-02-26T13:11:38.028774",
+      "repo_stars": 3846,
+      "repo_updated_at": "2026-02-26T09:25:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3251ce7fba01e9eac241c4e5d30650bdb8fe65fe9d47d043b3be9385777a0288",
+      "source_path": "docs/en/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "automation/scripting/080-01-configuration_3251ce7f",
+      "category": "automation/scripting",
+      "name": "01-configuration_3251ce7f",
+      "indexed_at": "2026-02-26T13:11:39.319629",
+      "repo_stars": 3846,
+      "repo_updated_at": "2026-02-26T12:27:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "114f93efa02d511b6be56b24c3a113781a0809977135881ae050523269d225cb",
+      "source_path": "docs/zh/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2703-01-overview_114f93ef",
+      "category": "development",
+      "name": "01-overview_114f93ef",
+      "indexed_at": "2026-02-26T13:11:41.206151",
+      "repo_stars": 3846,
+      "repo_updated_at": "2026-02-26T09:25:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
     }
   ]
 }
