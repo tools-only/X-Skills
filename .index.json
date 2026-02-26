@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T13:11:41.206229",
+  "updated_at": "2026-02-26T14:08:23.854712",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -33502,6 +33502,34 @@
       "repo_updated_at": "2026-02-26T09:25:42+00:00",
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md",
       "display_name": "01 Overview",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "78999762962c4b04082a886e4a8789d1787c4c30d44af26e323c8e7e76484554",
+      "source_path": "plugins/codex/agents/codex.md",
+      "source_repo": "henkisdabro/wookstar-claude-plugins",
+      "local_path": "development/tools/367-codex_78999762",
+      "category": "development/tools",
+      "name": "codex_78999762",
+      "indexed_at": "2026-02-26T14:08:23.596502",
+      "repo_stars": 30,
+      "repo_updated_at": "2026-02-26T11:54:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/codex/agents/codex.md",
+      "display_name": "Codex",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3cc162bf1417c54a0d71f470f7a2fde41de2ef461dc724f4ed734bd743527ccf",
+      "source_path": "plugins/gemini/agents/gemini.md",
+      "source_repo": "henkisdabro/wookstar-claude-plugins",
+      "local_path": "development/1371-gemini_3cc162bf",
+      "category": "development",
+      "name": "gemini_3cc162bf",
+      "indexed_at": "2026-02-26T14:08:23.854537",
+      "repo_stars": 30,
+      "repo_updated_at": "2026-02-26T11:54:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md",
+      "display_name": "Gemini",
       "tags": "[\"development\"]"
     }
   ]
