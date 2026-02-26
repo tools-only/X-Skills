@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T03:10:46.952246",
+  "updated_at": "2026-02-26T04:08:25.240402",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -31109,6 +31109,90 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md",
       "display_name": "Request Tags",
       "tags": "[\"AWS_IAM_PROD\"]"
+    },
+    {
+      "file_hash": "25c4b3b6ceb52d3d13b55a597c18f564a00d7ae7618399e67b4a3e23408cb4c4",
+      "source_path": "skills/planning-with-files/SKILL.md",
+      "source_repo": "OthmanAdi/planning-with-files",
+      "local_path": "content-creation/049-name-skill_25c4b3b6",
+      "category": "content-creation",
+      "name": "name-skill_25c4b3b6",
+      "indexed_at": "2026-02-26T04:08:22.101790",
+      "repo_stars": 14553,
+      "repo_updated_at": "2026-02-25T20:15:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/skills/planning-with-files/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "b5618f5964747b9902daed81ff8d9d7ee9fa46db3255e11f37714d2f8fd7d01c",
+      "source_path": "AGENTS.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/devops/053-agents_b5618f59",
+      "category": "development/devops",
+      "name": "agents_b5618f59",
+      "indexed_at": "2026-02-26T04:08:22.612441",
+      "repo_stars": 9852,
+      "repo_updated_at": "2026-02-25T18:47:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f36e64afd9b37a2898acac0d33b67b5d2ed4f43a90c99f3f553d781589d548b0",
+      "source_path": "docs/strategy/ARBITRARY_LIMITS_AND_DEAD_CODE_PLAN.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/2922-arbitrary_limits_and_dead_code_plan_f36e64af",
+      "category": "development",
+      "name": "arbitrary_limits_and_dead_code_plan_f36e64af",
+      "indexed_at": "2026-02-26T04:08:23.232911",
+      "repo_stars": 9852,
+      "repo_updated_at": "2026-02-25T21:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/ARBITRARY_LIMITS_AND_DEAD_CODE_PLAN.md",
+      "display_name": "Arbitrary Limits And Dead Code Plan",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c561a18a909593810143ac9db3d46ca2202a5a10146470bfc1d0454b4919d30c",
+      "source_path": "docs/strategy/STAGE_1_CORRECTED_IMPLEMENTATION.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/2923-stage_1_corrected_implementation_c561a18a",
+      "category": "development",
+      "name": "stage_1_corrected_implementation_c561a18a",
+      "indexed_at": "2026-02-26T04:08:23.874543",
+      "repo_stars": 9852,
+      "repo_updated_at": "2026-02-25T21:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_CORRECTED_IMPLEMENTATION.md",
+      "display_name": "Stage 1 Corrected Implementation",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b3c5102eebe358696afbfe8026c77e92a23a4d25b7e6fc512c03bec7f5518cbe",
+      "source_path": "docs/strategy/STAGE_1_REVIEW_AND_VERIFICATION.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/2924-stage_1_review_and_verification_b3c5102e",
+      "category": "development",
+      "name": "stage_1_review_and_verification_b3c5102e",
+      "indexed_at": "2026-02-26T04:08:24.589357",
+      "repo_stars": 9852,
+      "repo_updated_at": "2026-02-25T21:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_REVIEW_AND_VERIFICATION.md",
+      "display_name": "Stage 1 Review And Verification",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8a4eb62a98d71dcc3f483d6c296d582cd1505a88c1ea292bbfb2a523ed8a88eb",
+      "source_path": "docs/strategy/STAGE_1_IMPLEMENTATION_SUMMARY.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "daily-assistant/266-stage_1_implementation_summary_8a4eb62a",
+      "category": "daily-assistant",
+      "name": "stage_1_implementation_summary_8a4eb62a",
+      "indexed_at": "2026-02-26T04:08:25.240216",
+      "repo_stars": 9852,
+      "repo_updated_at": "2026-02-25T21:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_IMPLEMENTATION_SUMMARY.md",
+      "display_name": "Stage 1 Implementation Summary",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }

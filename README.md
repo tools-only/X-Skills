@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2223 AI-powered skills** organized into 15 categories.
+A curated collection of **2228 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,11 +12,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (98 skills)
 - **Commercial** (100 skills)
 - **Communication** (79 skills)
-- **Content Creation** (221 skills)
-- **Daily Assistant** (122 skills)
+- **Content Creation** (222 skills)
+- **Daily Assistant** (123 skills)
 - **Data Analysis** (186 skills)
-- **Development** (662 skills)
-- **Development/Devops** (268 skills)
+- **Development** (664 skills)
+- **Development/Devops** (269 skills)
 - **Development/Testing** (48 skills)
 - **Development/Tools** (242 skills)
 - **Investment** (33 skills)
@@ -528,9 +528,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow Patterns](communication/261-workflow-patterns_0bcc67c1/) | [itsmostafa/aws-agent-skills](https://raw.githubusercontent.com/itsmostafa/aws-agent-skills/main/skills/step-functions/workflow-patterns.md) | ⭐ 996 | `communication` |
 | [2026 02 22 04 30 00 Compact Ux Issues](communication/260-2026-02-22_04-30-00_compact_ux_issues_aeaa6f63/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_04-30-00_compact_ux_issues.md) | ⭐ 113 | `communication` |
 | [Presidio Pii Masking](communication/255-presidio_pii_masking_72eaa1e5/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.7k | `communication` |
-| [Request Tags](communication/request_tags_9e2dbdb2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md) | 🔥 36.8k | `AWS_IAM_PROD` |
+| [Request Tags](communication/261-request_tags_9e2dbdb2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_tags.md) | 🔥 36.8k | `AWS_IAM_PROD` |
 
-### Content Creation (221 skills)
+### Content Creation (222 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -755,8 +755,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Validator](content-creation/380-validator_cead443d/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/team/validator.md) | ⭐ 29 | `content creation` |
 | [Skill](content-creation/049-name-skill_4effcf5c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/SKILL.md) | ⭐ 29 | `content creation` |
 | [Skill](content-creation/049-name-skill_36cd1b8b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/dev/SKILL.md) | ⭐ 29 | `content creation` |
+| [Skill](content-creation/name-skill_25c4b3b6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/skills/planning-with-files/SKILL.md) | 🔥 14.6k | `content creation` |
 
-### Daily Assistant (122 skills)
+### Daily Assistant (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -866,7 +867,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Terraform Azure Planning.Agent](daily-assistant/275-terraform-azure-planningagent_749f2328/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-azure-planning.agent.md) | ⭐ 93 | `daily assistant` |
 | [Issue Child 08 Documentation](daily-assistant/276-issue-child-08-documentation_382e2600/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-08-documentation.md) | ⭐ 93 | `daily assistant` |
 | [00 Session Start.Prompt](daily-assistant/277-00-session-startprompt_e8b745e3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/00-session-start.prompt.md) | ⭐ 93 | `daily assistant` |
-| [Cost Tracking](daily-assistant/cost_tracking_73740911/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md) | 🔥 36.8k | `model-anthropic-claude-v2.1` `app-ishaan-prod` |
+| [Cost Tracking](daily-assistant/053-cost_tracking_8ee7f6ae/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md) | 🔥 36.5k | `model-anthropic-claude-v2.1` `app-ishaan-prod` |
 | [Index](daily-assistant/052-index_e8db109c/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/index.md) | ⭐ 109 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_575a8037/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/CLAUDE.md) | ⭐ 109 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_315499bb/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-cca/skills/configurator/SKILL.md) | ⭐ 109 | `daily assistant` |
@@ -881,7 +882,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow](daily-assistant/085-workflow_3d22b270/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/workflow.md) | ⭐ 29 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7bccaf69/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/planner-workflow/SKILL.md) | ⭐ 29 | `daily assistant` |
 | [Cost Tracking](daily-assistant/053-cost_tracking_73740911/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md) | 🔥 36.8k | `model-anthropic-claude-v2.1` `app-ishaan-prod` |
-| [Credential Usage Tracking](daily-assistant/credential_usage_tracking_eadca345/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/credential_usage_tracking.md) | 🔥 36.8k | `daily assistant` |
+| [Credential Usage Tracking](daily-assistant/286-credential_usage_tracking_eadca345/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/credential_usage_tracking.md) | 🔥 36.8k | `daily assistant` |
+| [Stage 1 Implementation Summary](daily-assistant/stage_1_implementation_summary_8a4eb62a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_IMPLEMENTATION_SUMMARY.md) | 🔥 9.9k | `daily assistant` |
 
 ### Data Analysis (186 skills)
 
@@ -1074,7 +1076,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](data-analysis/436-readme_cn_921bf3cf/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.7k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_0decfa5a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 168 | `data analysis` |
 
-### Development (662 skills)
+### Development (664 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1730,7 +1732,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_b028586c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 113 | `development` |
 | [Claude](development/140-claude_94f40933/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
 | [System Prompt](development/1050-system_prompt_2ff950f9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/src/tunacode/prompts/system_prompt.md) | ⭐ 113 | `development` |
-| [Agents](development/agents_02bfe68e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.8k | `development` |
+| [Agents](development/028-agents_56c803d2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.7k | `development` |
 | [Claude](development/140-claude_abc2fc67/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/CLAUDE.md) | 🔥 36.7k | `development` |
 | [Forward Client Headers](development/2721-forward_client_headers_c0129ce1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 36.7k | `development` |
 | [Vs Clawrouter](development/2920-vs-clawrouter_e704e35a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/vs-clawrouter.md) | ⭐ 227 | `development` |
@@ -1739,9 +1741,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_fd05e75b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/builder-workflow/SKILL.md) | ⭐ 29 | `development` |
 | [Skill](development/1178-name-skill_a17383bf/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/SKILL.md) | ⭐ 163 | `development` |
 | [Agents](development/028-agents_02bfe68e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.8k | `development` |
-| [Lakera Ai](development/lakera_ai_89745ddb/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/lakera_ai.md) | 🔥 36.8k | `development` |
+| [Arbitrary Limits And Dead Code Plan](development/arbitrary_limits_and_dead_code_plan_f36e64af/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/ARBITRARY_LIMITS_AND_DEAD_CODE_PLAN.md) | 🔥 9.9k | `development` |
+| [Stage 1 Corrected Implementation](development/stage_1_corrected_implementation_c561a18a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_CORRECTED_IMPLEMENTATION.md) | 🔥 9.9k | `development` |
+| [Stage 1 Review And Verification](development/stage_1_review_and_verification_b3c5102e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/STAGE_1_REVIEW_AND_VERIFICATION.md) | 🔥 9.9k | `development` |
 
-### Development/Devops (268 skills)
+### Development/Devops (269 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1841,7 +1845,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Zh Cn](development/devops/438-readme_zh-cn_b5fce0bf/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 820 | `development` |
 | [Mcp](development/devops/025-mcp_b3a0b417/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/concepts/mcp.md) | ⭐ 820 | `development` |
 | [Securing](development/devops/361-securing_0ab63085/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
-| [Agents](development/devops/053-agents_05228376/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.7k | `development` |
+| [Agents](development/devops/agents_b5618f59/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.9k | `development` |
 | [Environment Variables](development/devops/362-environment_variables_588fc08a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/ENVIRONMENT_VARIABLES.md) | 🔥 9.7k | `development` |
 | [05 Workflows](development/devops/363-05-workflows_75f7af4a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
 | [Quick Reference](development/devops/364-quick_reference_07ac890f/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.7k | `development` |
@@ -2016,6 +2020,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Observability Architecture](development/devops/379-observability-architecture_d129f938/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/docs/observability-architecture.md) | ⭐ 453 | `development` |
 | [Finding Credentials](development/devops/372-finding-credentials_07ebffe9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/configuring-dbt-mcp-server/references/finding-credentials.md) | ⭐ 168 | `development` |
 | [Openai Yaml](development/devops/297-openai_yaml_ffac3931/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 163 | `development` |
+| [Agents](development/devops/053-agents_b5618f59/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.9k | `development` |
 
 ### Development/Testing (48 skills)
 
@@ -2533,5 +2538,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-26 03:10:47 UTC*
+*Last updated: 2026-02-26 04:08:25 UTC*
 *Automatically maintained by SkillFlow*
