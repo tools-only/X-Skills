@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2205 AI-powered skills** organized into 15 categories.
+A curated collection of **2204 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,7 +9,7 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (51 skills)
-- **Automation/Workflow** (97 skills)
+- **Automation/Workflow** (96 skills)
 - **Commercial** (100 skills)
 - **Communication** (78 skills)
 - **Content Creation** (218 skills)
@@ -237,7 +237,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_cd07a165/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.7k | `automation` |
 | [Managing Packages](automation/scripting/100-managing-packages_17afa6fe/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 168 | `automation` |
 
-### Automation/Workflow (97 skills)
+### Automation/Workflow (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -337,7 +337,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_c4438a2b/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 70 | `automation` |
 | [Instructions](automation/workflow/138-instructions_98648468/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 70 | `automation` |
 | [Gemini](automation/workflow/138-gemini_23da392f/) | [gemini-cli-extensions/vertex](https://raw.githubusercontent.com/gemini-cli-extensions/vertex/main/GEMINI.md) | ⭐ 11 | `automation` |
-| [Github Action](automation/workflow/github-action_7a5099bb/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/github-action.md) | ⭐ 227 | `automation` |
 
 ### Commercial (100 skills)
 
@@ -1723,8 +1722,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_56c803d2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/AGENTS.md) | 🔥 36.7k | `development` |
 | [Claude](development/140-claude_abc2fc67/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/CLAUDE.md) | 🔥 36.7k | `development` |
 | [Forward Client Headers](development/2721-forward_client_headers_c0129ce1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 36.7k | `development` |
-| [Vs Clawrouter](development/vs-clawrouter_e704e35a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/vs-clawrouter.md) | ⭐ 227 | `development` |
-| [Reddit Claude Code Comment](development/reddit-claude-code-comment_93b2ebba/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/reddit-claude-code-comment.md) | ⭐ 227 | `development` |
+| [Vs Clawrouter](development/2920-vs-clawrouter_e704e35a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/vs-clawrouter.md) | ⭐ 227 | `development` |
+| [Testing Guide](development/testing_guide_a25486a5/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/tests/TESTING_GUIDE.md) | ⭐ 989 | `development` |
 
 ### Development/Devops (267 skills)
 
@@ -2297,7 +2296,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Strict Css Modules](development/tools/362-strict-css-modules_4880e0b8/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/skills/tech-stack-skills/vue-best-practices/rules/strict-css-modules.md) | ⭐ 10 | `development` |
 | [2026 02 23 Parallel Tool Call Rollout](development/tools/341-2026-02-23_parallel-tool-call-rollout_cc19323e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-23_parallel-tool-call-rollout.md) | ⭐ 113 | `tinyagent` `parallel-tool-calls` `concurrency-cap` |
 | [UI Layer](development/tools/342-ui_d8aef110/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/ui/ui.md) | ⭐ 113 | `development` |
-| [Hn Claude Code Post](development/tools/hn-claude-code-post_c82110e0/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/hn-claude-code-post.md) | ⭐ 227 | `development` |
+| [Hn Claude Code Post](development/tools/363-hn-claude-code-post_c82110e0/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/hn-claude-code-post.md) | ⭐ 227 | `development` |
 
 ### Investment (33 skills)
 
@@ -2515,5 +2514,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 21:11:17 UTC*
+*Last updated: 2026-02-26 00:11:00 UTC*
 *Automatically maintained by SkillFlow*
