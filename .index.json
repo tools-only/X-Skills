@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T20:48:02.346078",
+  "updated_at": "2026-02-26T21:47:15.386046",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -490,6 +490,20 @@
       "repo_updated_at": "2026-02-26T08:53:24+00:00",
       "source_url": "https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/skills/workflow-skills/interview-openspec/resources/OPENSPEC_INTERVIEW_DIMENSIONS.md",
       "display_name": "Openspec Interview Dimensions",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "35452de769459188979e846c68df266362dceb00275db7ec15ee30283284a99a",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "development/1201-readmeja_35452de7",
+      "category": "development",
+      "name": "readmeja_35452de7",
+      "indexed_at": "2026-02-26T21:47:15.384201",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-25T09:29:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
       "tags": "[\"development\"]"
     }
   ]
