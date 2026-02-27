@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **906 AI-powered skills** organized into 15 categories.
+A curated collection of **924 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (60 skills)
+- **Automation/Scripting** (61 skills)
 - **Automation/Workflow** (176 skills)
 - **Commercial** (54 skills)
 - **Communication** (28 skills)
-- **Content Creation** (75 skills)
-- **Daily Assistant** (48 skills)
-- **Data Analysis** (43 skills)
-- **Development** (219 skills)
+- **Content Creation** (76 skills)
+- **Daily Assistant** (50 skills)
+- **Data Analysis** (47 skills)
+- **Development** (224 skills)
 - **Development/Devops** (73 skills)
 - **Development/Testing** (15 skills)
-- **Development/Tools** (50 skills)
-- **Investment** (17 skills)
+- **Development/Tools** (51 skills)
+- **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (21 skills)
-- **Research** (25 skills)
+- **Research** (27 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (60 skills)
+### Automation/Scripting (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -245,6 +245,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_47931fb1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/game-development/pc-games/SKILL.md) | 🔥 13.9k | `automation` |
 | [Skill](automation/scripting/003-name-skill_43af504e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/game-development/web-games/SKILL.md) | 🔥 13.9k | `automation` |
 | [Skill](automation/scripting/003-name-skill_a471a895/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/libreoffice/calc/SKILL.md) | 🔥 13.9k | `automation` |
+| [Uniswap Driver](automation/scripting/uniswap-driver_6ed6ed96/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 130 | `automation` |
 
 ### Automation/Workflow (176 skills)
 
@@ -519,7 +520,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_3fe12461/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/slack-gif-creator/SKILL.md) | 🔥 13.9k | `communication` |
 | [Skill](communication/127-name-skill_e2326fed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/upstash-qstash/SKILL.md) | 🔥 13.9k | `communication` |
 
-### Content Creation (75 skills)
+### Content Creation (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -598,8 +599,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_845f1dc5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/whatsapp-automation/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_c68eb579/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/xlsx-official/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_73ad2192/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/xss-html-injection/SKILL.md) | 🔥 13.9k | `content creation` |
+| [Skill](content-creation/name-skill_0b6d8cb4/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/add-molab-badge/SKILL.md) | ⭐ 52 | `content creation` |
 
-### Daily Assistant (48 skills)
+### Daily Assistant (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -651,8 +653,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_7b8aa6ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/track-management/SKILL.md) | 🔥 13.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_986e42f5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/using-superpowers/SKILL.md) | 🔥 13.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_299e3396/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/verification-before-completion/SKILL.md) | 🔥 13.9k | `daily assistant` |
+| [Index](daily-assistant/index_464fd71b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/index.md) | ⭐ 130 | `daily assistant` |
+| [Claude](daily-assistant/claude_967a7d58/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/CLAUDE.md) | ⭐ 130 | `daily assistant` |
 
-### Data Analysis (43 skills)
+### Data Analysis (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -699,8 +703,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontend](data-analysis/502-frontend_2a5cfb09/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/frontend.md) | ⭐ 13 | `data analysis` |
 | [Overview](data-analysis/503-overview_0974fcfd/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/overview.md) | ⭐ 13 | `data analysis` |
 | [Trpc](data-analysis/504-trpc_e55724ce/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/trpc.md) | ⭐ 13 | `data analysis` |
+| [Phase4 Detection](data-analysis/phase4-detection_7dee7d81/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/phase4-detection.md) | ⭐ 293 | `data analysis` |
+| [Pipeline Phases](data-analysis/pipeline-phases_01041310/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/pipeline-phases.md) | ⭐ 293 | `data analysis` |
+| [Quality Standards](data-analysis/quality-standards_bf8c1ab8/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/quality-standards.md) | ⭐ 293 | `data analysis` |
+| [Pyodide Packages](data-analysis/pyodide-packages_bbb0f687/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/wasm-compatibility/references/pyodide-packages.md) | ⭐ 52 | `data analysis` |
 
-### Development (219 skills)
+### Development (224 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -922,7 +930,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8934aa35/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_7f15798a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zapier-make-patterns/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_fdae94f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/security/aws-secrets-rotation/SKILL.md) | 🔥 13.9k | `development` |
-| [Skill](development/name-skill_a95e8f64/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md) | ⭐ 41 | `development` |
+| [Skill](development/1178-name-skill_a95e8f64/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md) | ⭐ 41 | `development` |
+| [Skill](development/name-skill_d3573840/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/SKILL.md) | ⭐ 293 | `development` |
+| [Agent Skill Creator Full Brief](development/agent-skill-creator-full-brief_70aab80a/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/Dynamous/Content-Ideation/agent-skill-creator-full-brief.md) | ⭐ 293 | `development` |
+| [Overview](development/overview_5c2e86e3/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/OVERVIEW.md) | ⭐ 130 | `development` |
+| [Skill](development/name-skill_8ea64245/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/SKILL.md) | ⭐ 130 | `development` |
+| [Sql](development/sql_5c2a2f0a/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/SQL.md) | ⭐ 52 | `development` |
 
 ### Development/Devops (73 skills)
 
@@ -1022,7 +1035,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
 
-### Development/Tools (50 skills)
+### Development/Tools (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1076,8 +1089,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fabb3077/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/SKILL.md) | ⭐ 13 | `development` |
 | [Databricks Cli Install](development/tools/372-databricks-cli-install_ad904585/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-install.md) | ⭐ 13 | `development` |
 | [Code Index](development/tools/282-code_index_a8e950fb/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Skill](development/tools/name-skill_522e2ffc/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/wasm-compatibility/SKILL.md) | ⭐ 52 | `development` |
 
-### Investment (17 skills)
+### Investment (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1098,6 +1112,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_8301cf1d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/quality-nonconformance/SKILL.md) | 🔥 13.9k | `investment` |
 | [Skill](investment/021-name-skill_54dac2de/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/risk-metrics-calculation/SKILL.md) | 🔥 13.9k | `investment` |
 | [Skill](investment/021-name-skill_d7f692ed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/startup-business-analyst-business-case/SKILL.md) | 🔥 13.9k | `investment` |
+| [Multi Agent Guide](investment/multi-agent-guide_db50cf80/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/multi-agent-guide.md) | ⭐ 293 | `investment` |
+| [Skill](investment/name-skill_ccd2df2b/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/examples/stock-analyzer/SKILL.md) | ⭐ 293 | `investment` |
 
 ### Other (2 skills)
 
@@ -1132,7 +1148,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_5a2cd2a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/viral-generator-builder/SKILL.md) | 🔥 13.9k | `productivity` |
 | [Skill](productivity/093-name-skill_8f90834d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-changelog/SKILL.md) | 🔥 13.9k | `productivity` |
 
-### Research (25 skills)
+### Research (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1161,6 +1177,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_092aec56/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/startup-analyst/SKILL.md) | 🔥 13.9k | `research` |
 | [Skill](research/139-name-skill_11a300c1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/startup-business-analyst-market-opportunity/SKILL.md) | 🔥 13.9k | `research` |
 | [Skill](research/139-name-skill_34edf9bc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-onboarding/SKILL.md) | 🔥 13.9k | `research` |
+| [Liquidity Planner](research/liquidity-planner_39a0a3d3/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/liquidity-planner.md) | ⭐ 130 | `research` |
+| [Swap Planner](research/swap-planner_5e8b8727/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 130 | `research` |
 
 ## How Skills Are Organized
 
@@ -1212,5 +1230,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 15:16:44 UTC*
+*Last updated: 2026-02-27 16:14:42 UTC*
 *Automatically maintained by SkillFlow*
