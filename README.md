@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **935 AI-powered skills** organized into 15 categories.
+A curated collection of **1205 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (62 skills)
-- **Automation/Workflow** (177 skills)
-- **Commercial** (54 skills)
-- **Communication** (28 skills)
-- **Content Creation** (77 skills)
-- **Daily Assistant** (50 skills)
-- **Data Analysis** (48 skills)
-- **Development** (226 skills)
-- **Development/Devops** (76 skills)
-- **Development/Testing** (15 skills)
-- **Development/Tools** (52 skills)
+- **Automation/Scripting** (66 skills)
+- **Automation/Workflow** (193 skills)
+- **Commercial** (59 skills)
+- **Communication** (34 skills)
+- **Content Creation** (132 skills)
+- **Daily Assistant** (66 skills)
+- **Data Analysis** (60 skills)
+- **Development** (315 skills)
+- **Development/Devops** (98 skills)
+- **Development/Testing** (21 skills)
+- **Development/Tools** (73 skills)
 - **Investment** (18 skills)
 - **Other** (2 skills)
-- **Productivity** (22 skills)
-- **Research** (28 skills)
+- **Productivity** (27 skills)
+- **Research** (41 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (62 skills)
+### Automation/Scripting (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -247,8 +247,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_a471a895/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/libreoffice/calc/SKILL.md) | 🔥 13.9k | `automation` |
 | [Uniswap Driver](automation/scripting/096-uniswap-driver_6ed6ed96/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 130 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_8330a722/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.0k | `automation` |
+| [2026 02 23 Veille Cc Releases 2144 2150](automation/scripting/2026-02-23-veille-cc-releases-2144-2150_d5446d04/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-23-veille-cc-releases-2144-2150.md) | ⭐ 396 | `automation` |
+| [Explain](automation/scripting/explain_feb5a241/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/explain.md) | ⭐ 396 | `automation` |
+| [Git Worktree Clean](automation/scripting/git-worktree-clean_2a19a074/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/git-worktree-clean.md) | ⭐ 396 | `automation` |
+| [Mode Learning](automation/scripting/mode_learning_ede477c0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/modes/MODE_Learning.md) | ⭐ 396 | `config` `workflows` `agents` |
 
-### Automation/Workflow (177 skills)
+### Automation/Workflow (193 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -429,8 +433,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Data Exploration](automation/workflow/148-data-exploration_68b4b3e4/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/data-exploration.md) | ⭐ 13 | `automation` |
 | [Databricks Cli Auth](automation/workflow/149-databricks-cli-auth_d30d5288/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-auth.md) | ⭐ 13 | `automation` |
 | [Skills Date Tracking](automation/workflow/140-skills_date_tracking_3aad529e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SKILLS_DATE_TRACKING.md) | 🔥 15.3k | `automation` |
+| [Quiz Quality Dashboard](automation/workflow/quiz-quality-dashboard_c7446995/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/claudedocs/quiz-quality-dashboard.md) | ⭐ 396 | `automation` |
+| [Audit Prompt](automation/workflow/audit-prompt_66521584/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/tools/audit-prompt.md) | ⭐ 396 | `automation` |
+| [Sync](automation/workflow/sync_4af05ec7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/.claude/commands/sync.md) | ⭐ 396 | `automation` |
+| [Update Infos Release](automation/workflow/update-infos-release_df6733d1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/.claude/commands/update-infos-release.md) | ⭐ 396 | `automation` |
+| [Anthropic 2026 Agentic Coding Trends](automation/workflow/anthropic-2026-agentic-coding-trends_330f3240/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/anthropic-2026-agentic-coding-trends.md) | ⭐ 396 | `automation` |
+| [Claudekit Evaluation](automation/workflow/claudekit-evaluation_37a2e0f1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/claudekit-evaluation.md) | ⭐ 396 | `automation` |
+| [Kajan Siva Insights Command](automation/workflow/kajan-siva-insights-command_62393e17/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/kajan-siva-insights-command.md) | ⭐ 396 | `automation` |
+| [Sylvain Chabaud Spec To Code Factory](automation/workflow/sylvain-chabaud-spec-to-code-factory_ea69b43a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/sylvain-chabaud-spec-to-code-factory.md) | ⭐ 396 | `automation` |
+| [Weller Session Migration Skill](automation/workflow/weller-session-migration-skill_21fc31e4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/weller-session-migration-skill.md) | ⭐ 396 | `automation` |
+| [06 Development Workflows](automation/workflow/06-development-workflows_2e48415a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/06-development-workflows.md) | ⭐ 396 | `workflows` `tdd` `spec-first` |
+| [Tts Setup](automation/workflow/tts-setup_e3fc1ad6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/tts-setup.md) | ⭐ 396 | `workflow` `tts` `tutorial` |
+| [Product Designer](automation/workflow/product-designer_51aa2c5a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/claude-md/product-designer.md) | ⭐ 396 | `claude-md` `template` `design-patterns` |
+| [Audit Agents Skills](automation/workflow/audit-agents-skills_9ccf176b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/audit-agents-skills.md) | ⭐ 396 | `automation` |
+| [Review Plan](automation/workflow/review-plan_8eca9a36/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/review-plan.md) | ⭐ 396 | `automation` |
+| [Analytics Agent](automation/workflow/analytics-agent_33d2ba92/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/analytics-with-eval/analytics-agent.md) | ⭐ 396 | `automation` |
+| [Skill](automation/workflow/name-skill_7198918f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-3-concepts/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
 
-### Commercial (54 skills)
+### Commercial (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -488,8 +508,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_dd15e392/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/terraform-aws-modules/SKILL.md) | 🔥 13.9k | `commercial` |
 | [Skill](commercial/210-name-skill_c25c4f67/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/workflow-orchestration-patterns/SKILL.md) | 🔥 13.9k | `commercial` |
 | [Skill](commercial/210-name-skill_9ff101ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/game-development/game-art/SKILL.md) | 🔥 13.9k | `commercial` |
+| [Devops Sre](commercial/devops-sre_f5518c94/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/devops-sre.md) | ⭐ 396 | `devops` `guide` `ci-cd` |
+| [2026 02 19 Linkedin Context Engineering Augment](commercial/2026-02-19-linkedin-context-engineering-augment_53eae151/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-linkedin-context-engineering-augment.md) | ⭐ 396 | `commercial` |
+| [Grenier Agent Skill Quality](commercial/grenier-agent-skill-quality_24df2a84/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/grenier-agent-skill-quality.md) | ⭐ 396 | `commercial` |
+| [Tdd With Claude](commercial/tdd-with-claude_3d61962d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/tdd-with-claude.md) | ⭐ 396 | `workflow` `tdd` `testing` |
+| [Pattern Evaluation](commercial/pattern-evaluation_17b59bfe/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/design-patterns/checklists/pattern-evaluation.md) | ⭐ 396 | `cheatsheet` `design-patterns` `code-review` |
 
-### Communication (28 skills)
+### Communication (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -521,8 +546,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_660df10a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/slack-bot-builder/SKILL.md) | 🔥 13.9k | `communication` |
 | [Skill](communication/127-name-skill_3fe12461/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/slack-gif-creator/SKILL.md) | 🔥 13.9k | `communication` |
 | [Skill](communication/127-name-skill_e2326fed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/upstash-qstash/SKILL.md) | 🔥 13.9k | `communication` |
+| [Claude Code Releases](communication/claude-code-releases_e7c9f26a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/claude-code-releases.md) | ⭐ 396 | `reference` `release` |
+| [Clawdbot Twitter Analysis](communication/clawdbot-twitter-analysis_c60d1411/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/clawdbot-twitter-analysis.md) | ⭐ 396 | `communication` |
+| [Skill](communication/name-skill_cd4e4446/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/skill-creator/SKILL.md) | ⭐ 396 | `meta` `skill` `generator` |
+| [Report Template](communication/report-template_ae2acb8e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/analytics-with-eval/eval/report-template.md) | ⭐ 396 | `template` `agents` `testing` |
+| [Slack Template](communication/slack-template_372c48ce/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/release-notes-generator/assets/slack-template.md) | ⭐ 396 | `communication` |
+| [Feedback Draft](communication/feedback-draft_a721032f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-4-position/templates/feedback-draft.md) | ⭐ 396 | `communication` |
 
-### Content Creation (77 skills)
+### Content Creation (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -603,8 +634,63 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_73ad2192/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/xss-html-injection/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_0b6d8cb4/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/add-molab-badge/SKILL.md) | ⭐ 52 | `content creation` |
 | [Skill](content-creation/049-name-skill_0604f168/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/convex/SKILL.md) | 🔥 15.3k | `content creation` |
+| [Claude](content-creation/claude_19c32142/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/CLAUDE.md) | ⭐ 396 | `content creation` |
+| [Audit Report](content-creation/audit-report_746a1be9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/claudedocs/audit-report.md) | ⭐ 396 | `content creation` |
+| [Methodologies](content-creation/methodologies_8c049b84/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/methodologies.md) | ⭐ 396 | `reference` `tdd` `design-patterns` |
+| [Remarkable Ai](content-creation/remarkable-ai_1c0be66a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/remarkable-ai.md) | ⭐ 396 | `mcp` `integration` `hardware` |
+| [Security Hardening](content-creation/security-hardening_85ef6f9e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/security-hardening.md) | ⭐ 396 | `security` `guide` `hooks` |
+| [Visual Reference](content-creation/visual-reference_5aa6b813/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/visual-reference.md) | ⭐ 396 | `reference` `architecture` `cheatsheet` |
+| [025 Vercel Agents Md Vs Skills Eval](content-creation/025-vercel-agents-md-vs-skills-eval_7d3131d4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/025-vercel-agents-md-vs-skills-eval.md) | ⭐ 396 | `content creation` |
+| [026 Contribution Metrics Blog](content-creation/026-contribution-metrics-blog_01f6c465/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/026-contribution-metrics-blog.md) | ⭐ 396 | `content creation` |
+| [2026 01 27 Claude Code Hidden Feature Social Post](content-creation/2026-01-27-claude-code-hidden-feature-social-post_222d709e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-01-27-claude-code-hidden-feature-social-post.md) | ⭐ 396 | `content creation` |
+| [2026 02 19 Allanhillgeek Decomposition Agentic Dev](content-creation/2026-02-19-allanhillgeek-decomposition-agentic-dev_6a40f92b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-allanhillgeek-decomposition-agentic-dev.md) | ⭐ 396 | `content creation` |
+| [2026 02 22 Boris Cherny Worktree Tips Reddit](content-creation/2026-02-22-boris-cherny-worktree-tips-reddit_0741e492/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-22-boris-cherny-worktree-tips-reddit.md) | ⭐ 396 | `content creation` |
+| [2026 02 25 Boris Cherny Lenny Newsletter Podcast](content-creation/2026-02-25-boris-cherny-lenny-newsletter-podcast_89786623/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-25-boris-cherny-lenny-newsletter-podcast.md) | ⭐ 396 | `content creation` |
+| [Addy Osmani Good Spec](content-creation/addy-osmani-good-spec_371d302e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/addy-osmani-good-spec.md) | ⭐ 396 | `content creation` |
+| [Alan Tour Eiffel Paradigm](content-creation/alan-tour-eiffel-paradigm_9f686276/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/alan-tour-eiffel-paradigm.md) | ⭐ 396 | `content creation` |
+| [Awesome Claude Skills Github](content-creation/awesome-claude-skills-github_d51df8a3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/awesome-claude-skills-github.md) | ⭐ 396 | `content creation` |
+| [Claude Mem Evaluation](content-creation/claude-mem-evaluation_a5bc1ef7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/claude-mem-evaluation.md) | ⭐ 396 | `content creation` |
+| [Dclaude Docker Wrapper](content-creation/dclaude-docker-wrapper_d0d42267/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/dclaude-docker-wrapper.md) | ⭐ 396 | `content creation` |
+| [Hugo Ai Impact 2026](content-creation/hugo-ai-impact-2026_476b2a9c/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/hugo-ai-impact-2026.md) | ⭐ 396 | `content creation` |
+| [Lorenz Session Handoffs 2026](content-creation/lorenz-session-handoffs-2026_59566c7a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/lorenz-session-handoffs-2026.md) | ⭐ 396 | `content creation` |
+| [Mikul Gohil Hooks Evaluation](content-creation/mikul-gohil-hooks-evaluation_67880da4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/mikul-gohil-hooks-evaluation.md) | ⭐ 396 | `content creation` |
+| [Nick Jensen Plugins](content-creation/nick-jensen-plugins_05920cbd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/nick-jensen-plugins.md) | ⭐ 396 | `content creation` |
+| [Nick Tune Feedback Loops](content-creation/nick-tune-feedback-loops_53005f5d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/nick-tune-feedback-loops.md) | ⭐ 396 | `content creation` |
+| [Rtk Evaluation](content-creation/rtk-evaluation_c1fd22b7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/rtk-evaluation.md) | ⭐ 396 | `content creation` |
+| [Sankalp Claude Code Experience](content-creation/sankalp-claude-code-experience_5250f782/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/sankalp-claude-code-experience.md) | ⭐ 396 | `content creation` |
+| [Shiptypes Evaluation](content-creation/shiptypes-evaluation_59ddbd6c/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/shiptypes-evaluation.md) | ⭐ 396 | `content creation` |
+| [Siddhant Khare Ai Fatigue](content-creation/siddhant-khare-ai-fatigue_88ccfa34/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/siddhant-khare-ai-fatigue.md) | ⭐ 396 | `content creation` |
+| [Skill Doctor Github Action](content-creation/skill-doctor-github-action_961d3f04/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/skill-doctor-github-action.md) | ⭐ 396 | `content creation` |
+| [Snyk Toxicskills Evaluation](content-creation/snyk-toxicskills-evaluation_a8ae1bf3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/snyk-toxicskills-evaluation.md) | ⭐ 396 | `content creation` |
+| [Steinberger Inference Speed](content-creation/steinberger-inference-speed_b70ae659/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/steinberger-inference-speed.md) | ⭐ 396 | `content creation` |
+| [Vibe Coding Rusitschka](content-creation/vibe-coding-rusitschka_c7785444/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/vibe-coding-rusitschka.md) | ⭐ 396 | `content creation` |
+| [Wasp Fullstack Essentials Eval](content-creation/wasp-fullstack-essentials-eval_93990070/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/wasp-fullstack-essentials-eval.md) | ⭐ 396 | `content creation` |
+| [Watch List](content-creation/watch-list_6bc73f53/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/watch-list.md) | ⭐ 396 | `content creation` |
+| [Wooldridge Productivity Stack](content-creation/wooldridge-productivity-stack_592c8dd0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/wooldridge-productivity-stack.md) | ⭐ 396 | `content creation` |
+| [Worktrunk Evaluation](content-creation/worktrunk-evaluation_b44d8ed6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/worktrunk-evaluation.md) | ⭐ 396 | `content creation` |
+| [Zolkos Insights Deep Dive](content-creation/zolkos-insights-deep-dive_4b2f08c7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/zolkos-insights-deep-dive.md) | ⭐ 396 | `content creation` |
+| [Agent Teams Quick Start](content-creation/agent-teams-quick-start_9084d8c1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/agent-teams-quick-start.md) | ⭐ 396 | `workflow` `agents` `tutorial` |
+| [Design To Code](content-creation/design-to-code_f3cb0639/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/design-to-code.md) | ⭐ 396 | `workflow` `mcp` `integration` |
+| [Talk Pipeline](content-creation/talk-pipeline_1c11f69f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/talk-pipeline.md) | ⭐ 396 | `workflow` `skills` `pipeline` |
+| [Task Management](content-creation/task-management_5b1f41d4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/task-management.md) | ⭐ 396 | `workflow` `guide` `agents` |
+| [2026 02 20 Mergify Cross System Support Investigator](content-creation/2026-02-20-mergify-cross-system-support-investigator_d6e1d7f8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-20-mergify-cross-system-support-investigator.md) | ⭐ 396 | `content creation` |
+| [2026 02 22 Guillaume Moigneu Worktree Linkedin](content-creation/2026-02-22-guillaume-moigneu-worktree-linkedin_e4c2031e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-22-guillaume-moigneu-worktree-linkedin.md) | ⭐ 396 | `content creation` |
+| [2026 02 23 Anthropic Ai Fluency Index](content-creation/2026-02-23-anthropic-ai-fluency-index_d319a808/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-23-anthropic-ai-fluency-index.md) | ⭐ 396 | `content creation` |
+| [Google Antigravity Evaluation](content-creation/google-antigravity-evaluation_3fe3b055/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/google-antigravity-evaluation.md) | ⭐ 396 | `content creation` |
+| [Paddo Team Tips Eval](content-creation/paddo-team-tips-eval_fdcb2e09/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/paddo-team-tips-eval.md) | ⭐ 396 | `content creation` |
+| [Architecture Reviewer](content-creation/architecture-reviewer_5b2f9c66/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/architecture-reviewer.md) | ⭐ 396 | `content creation` |
+| [Diagnose](content-creation/diagnose_82e4975e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/diagnose.md) | ⭐ 396 | `content creation` |
+| [Claude Mem](content-creation/claude-mem_d4e7e76e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/plugins/claude-mem.md) | ⭐ 396 | `plugin` `memory` `integration` |
+| [Remotion Quickstart](content-creation/remotion-quickstart_b1b9f21c/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/workflows/remotion-quickstart.md) | ⭐ 396 | `tutorial` `workflow` `integration` |
+| [Skill](content-creation/name-skill_9eb9dbe2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/SKILL.md) | ⭐ 396 | `changelog` `social-media` `content` |
+| [Sessions](content-creation/sessions_ae707189/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/sessions.md) | ⭐ 396 | `content creation` |
+| [Changelog Parsing Rules](content-creation/changelog-parsing-rules_285b8d1f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/references/changelog-parsing-rules.md) | ⭐ 396 | `content creation` |
+| [Content Transformation](content-creation/content-transformation_a955e2e4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/references/content-transformation.md) | ⭐ 396 | `content creation` |
+| [Skill](content-creation/name-skill_f1c21760/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/orchestrator/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
+| [Skill](content-creation/name-skill_99230ad8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-1-extract/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
+| [Skill](content-creation/name-skill_9f04bb02/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-5-script/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
 
-### Daily Assistant (50 skills)
+### Daily Assistant (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -658,8 +744,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_299e3396/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/verification-before-completion/SKILL.md) | 🔥 13.9k | `daily assistant` |
 | [Index](daily-assistant/052-index_464fd71b/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/index.md) | ⭐ 130 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_967a7d58/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-driver/CLAUDE.md) | ⭐ 130 | `daily assistant` |
+| [Search Tools Cheatsheet](daily-assistant/search-tools-cheatsheet_509f712d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/search-tools-cheatsheet.md) | ⭐ 396 | `cheatsheet` `search` `reference` |
+| [Ultimate Guide](daily-assistant/ultimate-guide_5debb661/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/ultimate-guide.md) | ⭐ 396 | `guide` `reference` `workflows` |
+| [Onboarding Prompt](daily-assistant/onboarding-prompt_1209e470/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/tools/onboarding-prompt.md) | ⭐ 396 | `daily assistant` |
+| [016 Gang Rui Tasks Api Limitations](daily-assistant/016-gang-rui-tasks-api-limitations_866753b4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/016-gang-rui-tasks-api-limitations.md) | ⭐ 396 | `daily assistant` |
+| [017 Pat Cullen Final Review](daily-assistant/017-pat-cullen-final-review_cef8c035/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/017-pat-cullen-final-review.md) | ⭐ 396 | `daily assistant` |
+| [069 Claude Code Best Practice Repo Eval](daily-assistant/069-claude-code-best-practice-repo-eval_382140df/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/069-claude-code-best-practice-repo-eval.md) | ⭐ 396 | `daily assistant` |
+| [Eval Claude Code Releases Jan2026](daily-assistant/eval-claude-code-releases-jan2026_e13c6c88/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/eval-claude-code-releases-jan2026.md) | ⭐ 396 | `daily assistant` |
+| [Gsd Evaluation](daily-assistant/gsd-evaluation_74780fa8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/gsd-evaluation.md) | ⭐ 396 | `daily assistant` |
+| [Reddit Claude Code Max Plan Optimization](daily-assistant/reddit-claude-code-max-plan-optimization_1bbecacd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/reddit-claude-code-max-plan-optimization.md) | ⭐ 396 | `daily assistant` |
+| [Iterative Refinement](daily-assistant/iterative-refinement_f7302fe5/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/iterative-refinement.md) | ⭐ 396 | `workflow` `guide` `design-patterns` |
+| [2026 02 19 Stasbel Skillmind Boris Cherny Workflow](daily-assistant/2026-02-19-stasbel-skillmind-boris-cherny-workflow_516ddf40/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-stasbel-skillmind-boris-cherny-workflow.md) | ⭐ 396 | `daily assistant` |
+| [Catchup](daily-assistant/catchup_8c741d66/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/catchup.md) | ⭐ 396 | `daily assistant` |
+| [Git Worktree Remove](daily-assistant/git-worktree-remove_81d2038b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/git-worktree-remove.md) | ⭐ 396 | `daily assistant` |
+| [Costs](daily-assistant/costs_abed6307/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/costs.md) | ⭐ 396 | `daily assistant` |
+| [Mcp Status](daily-assistant/mcp-status_5e8d0f33/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/mcp-status.md) | ⭐ 396 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_a2b3bf0e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-6-revision/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
 
-### Data Analysis (48 skills)
+### Data Analysis (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -711,8 +813,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quality Standards](data-analysis/494-quality-standards_bf8c1ab8/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/quality-standards.md) | ⭐ 293 | `data analysis` |
 | [Pyodide Packages](data-analysis/495-pyodide-packages_bbb0f687/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/wasm-compatibility/references/pyodide-packages.md) | ⭐ 52 | `data analysis` |
 | [Smart Auto Categorization](data-analysis/490-smart_auto_categorization_fc7a88c8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SMART_AUTO_CATEGORIZATION.md) | 🔥 15.3k | `data analysis` |
+| [Third Party Tools](data-analysis/third-party-tools_1a045dcb/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/third-party-tools.md) | ⭐ 396 | `reference` `integration` `plugin` |
+| [Version](data-analysis/version_6d40df74/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/.claude/commands/version.md) | ⭐ 396 | `data analysis` |
+| [Ui Ux Pro Max Skill](data-analysis/ui-ux-pro-max-skill_60fc0d73/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/ui-ux-pro-max-skill.md) | ⭐ 396 | `data analysis` |
+| [Pdf Generation](data-analysis/pdf-generation_5efe7d50/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/pdf-generation.md) | ⭐ 396 | `workflow` `guide` `integration` |
+| [Search Tools Mastery](data-analysis/search-tools-mastery_c4e741ba/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/search-tools-mastery.md) | ⭐ 396 | `workflow` `search` `guide` |
+| [Git Worktree Status](data-analysis/git-worktree-status_2cf6b9b4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/git-worktree-status.md) | ⭐ 396 | `data analysis` |
+| [Skill](data-analysis/name-skill_5cf902f0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/SKILL.md) | ⭐ 396 | `dashboard` `tui` `monitoring` |
+| [Skill](data-analysis/name-skill_5c6ffff0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/landing-page-generator/SKILL.md) | ⭐ 396 | `landing-page` `static-site` `github-pages` |
+| [Web](data-analysis/web_b4583d88/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/web.md) | ⭐ 396 | `data analysis` |
+| [Newsletter Template](data-analysis/newsletter-template_81c43372/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/assets/newsletter-template.md) | ⭐ 396 | `data analysis` |
+| [Before After](data-analysis/before-after_257459da/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/voice-refine/examples/before-after.md) | ⭐ 396 | `reference` `tts` `skill` |
+| [Kimi Prompt Template](data-analysis/kimi-prompt-template_feb61b5d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-5-script/templates/kimi-prompt-template.md) | ⭐ 396 | `data analysis` |
 
-### Development (226 skills)
+### Development (315 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -941,9 +1055,98 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8ea64245/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/packages/plugins/uniswap-trading/skills/swap-integration/SKILL.md) | ⭐ 130 | `development` |
 | [Skills Update Guide](development/2899-skills_update_guide_f89e919e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/SKILLS_UPDATE_GUIDE.md) | 🔥 15.3k | `development` |
 | [Skill](development/1178-name-skill_7d33128c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/temporal-golang-pro/SKILL.md) | 🔥 15.3k | `development` |
-| [Agent](development/agent_a3db8a5e/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.5k | `development` |
+| [Competitive Analysis](development/competitive-analysis_ddb8e13a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/competitive-analysis.md) | ⭐ 396 | `development` |
+| [Adoption Approaches](development/adoption-approaches_083810c5/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/adoption-approaches.md) | ⭐ 396 | `guide` `config` `workflows` |
+| [Ai Ecosystem](development/ai-ecosystem_281bf0e5/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/ai-ecosystem.md) | ⭐ 396 | `ai-ecosystem` `guide` `workflows` |
+| [Architecture](development/architecture_ce895880/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/architecture.md) | ⭐ 396 | `architecture` `guide` `performance` |
+| [Known Issues](development/known-issues_26f89f5e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/known-issues.md) | ⭐ 396 | `reference` `security` `debugging` |
+| [Learning With Ai](development/learning-with-ai_912bebee/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/learning-with-ai.md) | ⭐ 396 | `guide` `workflows` |
+| [Audit Cheatsheet Prompt](development/audit-cheatsheet-prompt_27b3e5c6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/tools/audit-cheatsheet-prompt.md) | ⭐ 396 | `development` |
+| [Readme Changes Summary](development/readme-changes-summary_77ad21af/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/drafts/README-changes-summary.md) | ⭐ 396 | `development` |
+| [Resource Comparison](development/resource-comparison_3f01c08f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/drafts/resource-comparison.md) | ⭐ 396 | `development` |
+| [015 Everything Claude Code Github Repo](development/015-everything-claude-code-github-repo_d6ae65fb/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/015-everything-claude-code-github-repo.md) | ⭐ 396 | `production` `plugin` `configs` |
+| [023 Community Discussions Report Jan2026](development/023-community-discussions-report-jan2026_d67f5507/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/023-community-discussions-report-jan2026.md) | ⭐ 396 | `development` |
+| [024 Addy Osmani 80 Percent Problem](development/024-addy-osmani-80-percent-problem_0f11d388/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/024-addy-osmani-80-percent-problem.md) | ⭐ 396 | `development` |
+| [2026 02 07 Paul Rayner Agent Teams Linkedin](development/2026-02-07-paul-rayner-agent-teams-linkedin_a20e9ebb/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-07-paul-rayner-agent-teams-linkedin.md) | ⭐ 396 | `development` |
+| [2026 02 14 Simone Ruggiero Qmd Token Savings Medium](development/2026-02-14-simone-ruggiero-qmd-token-savings-medium_08c45472/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-14-simone-ruggiero-qmd-token-savings-medium.md) | ⭐ 396 | `development` |
+| [2026 02 19 Augment Context Engine Mcp](development/2026-02-19-augment-context-engine-mcp_3a9a6c73/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-augment-context-engine-mcp.md) | ⭐ 396 | `development` |
+| [2026 02 23 Agentsview Session Analytics](development/2026-02-23-agentsview-session-analytics_d98c3a59/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-23-agentsview-session-analytics.md) | ⭐ 396 | `development` |
+| [2026 02 25 Claude Code Remote Control](development/2026-02-25-claude-code-remote-control_c9ef4d1b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-25-claude-code-remote-control.md) | ⭐ 396 | `development` |
+| [2026 02 25 Context Evaluator Packmind](development/2026-02-25-context-evaluator-packmind_179880b0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-25-context-evaluator-packmind.md) | ⭐ 396 | `development` |
+| [2026 02 25 Kairn Memory Mcp](development/2026-02-25-kairn-memory-mcp_f1bffb51/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-25-kairn-memory-mcp.md) | ⭐ 396 | `development` |
+| [Anaconda Croce Evaluation](development/anaconda-croce-evaluation_b3c9a7d7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/anaconda-croce-evaluation.md) | ⭐ 396 | `development` |
+| [Anthropic Releases Jan16 23 2026](development/anthropic-releases-jan16-23-2026_a6c30247/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/anthropic-releases-jan16-23-2026.md) | ⭐ 396 | `development` |
+| [Aristote Ai Instructions Patterns](development/aristote-ai-instructions-patterns_2c06b44f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/aristote-ai-instructions-patterns.md) | ⭐ 396 | `development` |
+| [Astgrep Flavien Metivier](development/astgrep-flavien-metivier_20b535a7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/astgrep-flavien-metivier.md) | ⭐ 396 | `development` |
+| [Ccboard Activity Module Plan](development/ccboard-activity-module-plan_ce55003f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/ccboard-activity-module-plan.md) | ⭐ 396 | `development` |
+| [Docker Sandboxes Isolation](development/docker-sandboxes-isolation_8e8107c0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/docker-sandboxes-isolation.md) | ⭐ 396 | `development` |
+| [Mcp Apps Announcement](development/mcp-apps-announcement_0b3099ce/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/mcp-apps-announcement.md) | ⭐ 396 | `development` |
+| [Native Sandbox Official Docs](development/native-sandbox-official-docs_4ba173f9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/native-sandbox-official-docs.md) | ⭐ 396 | `development` |
+| [Ratinaud Config Management Evaluation](development/ratinaud-config-management-evaluation_cf1c20b3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/ratinaud-config-management-evaluation.md) | ⭐ 396 | `development` |
+| [Remotion Claude Code Video](development/remotion-claude-code-video_87c44fc1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/remotion-claude-code-video.md) | ⭐ 396 | `development` |
+| [Self Improve Skill](development/self-improve-skill_c6888232/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/self-improve-skill.md) | ⭐ 396 | `development` |
+| [System Prompts Official Vs Community](development/system-prompts-official-vs-community_a1759f78/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/system-prompts-official-vs-community.md) | ⭐ 396 | `development` |
+| [System Prompts Opus 4 6 Update](development/system-prompts-opus-4-6-update_f6ab4be7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/system-prompts-opus-4-6-update.md) | ⭐ 396 | `development` |
+| [Uml Oop Diagrams](development/uml-oop-diagrams_5a13b4d1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/uml-oop-diagrams.md) | ⭐ 396 | `development` |
+| [Veille Hebdo Cc 2026 02 16](development/veille-hebdo-cc-2026-02-16_01d4adfe/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/veille-hebdo-cc-2026-02-16.md) | ⭐ 396 | `development` |
+| [10 Adoption And Learning](development/10-adoption-and-learning_b8823f32/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/10-adoption-and-learning.md) | ⭐ 396 | `adoption` `learning` `onboarding` |
+| [Agent Teams](development/agent-teams_48ee4806/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/agent-teams.md) | ⭐ 396 | `workflow` `agents` `architecture` |
+| [Dual Instance Planning](development/dual-instance-planning_6df22e66/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/dual-instance-planning.md) | ⭐ 396 | `workflow` `architecture` `design-patterns` |
+| [Plan Driven](development/plan-driven_beea0160/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/plan-driven.md) | ⭐ 396 | `workflow` `guide` `architecture` |
+| [Skeleton Projects](development/skeleton-projects_6d3bea44/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/skeleton-projects.md) | ⭐ 396 | `workflow` `architecture` `template` |
+| [Spec First](development/spec-first_03372c1f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/spec-first.md) | ⭐ 396 | `workflow` `architecture` `config` |
+| [Team Ai Instructions](development/team-ai-instructions_25576ce2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/team-ai-instructions.md) | ⭐ 396 | `workflow` `team` `claude-md` |
+| [Cowork](development/cowork_1b37d9fc/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/cowork.md) | ⭐ 396 | `guide` `agents` `workflows` |
+| [Readme New](development/readme-new_3f17cd5d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/drafts/README-new.md) | ⭐ 396 | `development` |
+| [2026 02 22 Veille Hebdo Anthropic 17 23 Fev](development/2026-02-22-veille-hebdo-anthropic-17-23-fev_96161879/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-22-veille-hebdo-anthropic-17-23-fev.md) | ⭐ 396 | `development` |
+| [Boris Tane How I Use Claude Code](development/boris-tane-how-i-use-claude-code_0e84da16/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/boris-tane-how-i-use-claude-code.md) | ⭐ 396 | `development` |
+| [Code Reviewer](development/code-reviewer_6d2d512f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/code-reviewer.md) | ⭐ 396 | `development` |
+| [Implementer](development/implementer_31854196/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/implementer.md) | ⭐ 396 | `development` |
+| [Planner](development/planner_56fffc92/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/planner.md) | ⭐ 396 | `development` |
+| [Refactoring Specialist](development/refactoring-specialist_f31a1059/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/refactoring-specialist.md) | ⭐ 396 | `development` |
+| [Security Auditor](development/security-auditor_27617113/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/security-auditor.md) | ⭐ 396 | `development` |
+| [Security Patcher](development/security-patcher_eebfc73c/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/security-patcher.md) | ⭐ 396 | `development` |
+| [Test Writer](development/test-writer_701f7365/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/test-writer.md) | ⭐ 396 | `development` |
+| [Learning Mode](development/learning-mode_16400af6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/claude-md/learning-mode.md) | ⭐ 396 | `claude-md` `template` `workflows` |
+| [Tts Enabled](development/tts-enabled_e5f12dd9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/claude-md/tts-enabled.md) | ⭐ 396 | `claude-md` `template` `tts` |
+| [Commit](development/commit_a374d9b4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/commit.md) | ⭐ 396 | `development` |
+| [Generate Tests](development/generate-tests_1562cc66/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/generate-tests.md) | ⭐ 396 | `development` |
+| [pr](development/pr_f521d8af/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/pr.md) | ⭐ 396 | `development` |
+| [Refactor](development/refactor_fbf4b8dd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/refactor.md) | ⭐ 396 | `development` |
+| [Review Pr](development/review-pr_d94a1e33/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/review-pr.md) | ⭐ 396 | `development` |
+| [Security Check](development/security-check_0ff4f56d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/security-check.md) | ⭐ 396 | `development` |
+| [Sonarqube](development/sonarqube_1dbf7586/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/sonarqube.md) | ⭐ 396 | `development` |
+| [Validate Changes](development/validate-changes_8573a91e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/validate-changes.md) | ⭐ 396 | `development` |
+| [Contributing Ai Disclosure](development/contributing-ai-disclosure_d2439ba2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/config/CONTRIBUTING-ai-disclosure.md) | ⭐ 396 | `template` `config` `ai-ecosystem` |
+| [Pull Request Template Ai](development/pull_request_template-ai_b6807d78/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/config/PULL_REQUEST_TEMPLATE-ai.md) | ⭐ 396 | `template` `config` `ai-ecosystem` |
+| [Se Cove](development/se-cove_109a9533/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/plugins/se-cove.md) | ⭐ 396 | `development` |
+| [Architecture Review](development/architecture-review_d675d530/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/rules/architecture-review.md) | ⭐ 396 | `development` |
+| [Code Quality Review](development/code-quality-review_1f8175e4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/rules/code-quality-review.md) | ⭐ 396 | `development` |
+| [Performance Review](development/performance-review_d0ea57b7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/rules/performance-review.md) | ⭐ 396 | `development` |
+| [Test Review](development/test-review_83c07b50/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/rules/test-review.md) | ⭐ 396 | `development` |
+| [Anchor Catalog](development/anchor-catalog_d3449447/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/semantic-anchors/anchor-catalog.md) | ⭐ 396 | `reference` `semantic-anchors` `architecture` |
+| [Ast Grep Patterns](development/ast-grep-patterns_f9eb68ff/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ast-grep-patterns.md) | ⭐ 396 | `development` |
+| [Claude Skeleton](development/claude-skeleton_1d333479/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/team-config/claude-skeleton.md) | ⭐ 396 | `development` |
+| [Session Handoff Lorenz](development/session-handoff-lorenz_9b750ed0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/templates/session-handoff-lorenz.md) | ⭐ 396 | `template` `memory` `workflows` |
+| [Memory Stack Integration](development/memory-stack-integration_4480df26/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/workflows/memory-stack-integration.md) | ⭐ 396 | `workflow` `memory` `integration` |
+| [Alternatives](development/alternatives_ab0afb81/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/learn/alternatives.md) | ⭐ 396 | `development` |
+| [Quiz](development/quiz_f7645691/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/learn/quiz.md) | ⭐ 396 | `development` |
+| [Code Review](development/code-review_86099d95/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/github-actions/prompts/code-review.md) | ⭐ 396 | `development` |
+| [Troubleshooting](development/troubleshooting_7ae1d137/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/integrations/agent-vibes/troubleshooting.md) | ⭐ 396 | `guide` `tts` `debugging` |
+| [Skill](development/name-skill_31d90e12/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/audit-agents-skills/SKILL.md) | ⭐ 396 | `quality` `audit` `agents` |
+| [Dashboard](development/dashboard_42482b3f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/dashboard.md) | ⭐ 396 | `development` |
+| [Install](development/install_1c0036fc/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/ccboard/commands/install.md) | ⭐ 396 | `development` |
+| [Behavioral](development/behavioral_d65e39b3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/design-patterns/reference/behavioral.md) | ⭐ 396 | `reference` `design-patterns` `architecture` |
+| [Structural](development/structural_219dfb03/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/design-patterns/reference/structural.md) | ⭐ 396 | `reference` `design-patterns` `architecture` |
+| [Linkedin Template](development/linkedin-template_c95ae4b9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/assets/linkedin-template.md) | ⭐ 396 | `development` |
+| [Twitter Template](development/twitter-template_737b0fcd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/assets/twitter-template.md) | ⭐ 396 | `development` |
+| [Version Output](development/version-output_f8e59360/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/examples/version-output.md) | ⭐ 396 | `development` |
+| [Week Output](development/week-output_e4b917ea/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/examples/week-output.md) | ⭐ 396 | `development` |
+| [Landing Pattern](development/landing-pattern_7611936d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/landing-page-generator/references/landing-pattern.md) | ⭐ 396 | `development` |
+| [Changelog Template](development/changelog-template_4dc7e2a8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/release-notes-generator/assets/changelog-template.md) | ⭐ 396 | `development` |
+| [Tech To Product Mappings](development/tech-to-product-mappings_293dced9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/release-notes-generator/references/tech-to-product-mappings.md) | ⭐ 396 | `development` |
 
-### Development/Devops (76 skills)
+### Development/Devops (98 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1023,8 +1226,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](development/devops/314-01-configuration_c0375f13/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.0k | `development` |
 | [Categorization Implementation](development/devops/369-categorization_implementation_593e3c06/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/CATEGORIZATION_IMPLEMENTATION.md) | 🔥 15.3k | `development` |
 | [Skill](development/devops/014-name-skill_674bba11/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/seo-forensic-incident-response/SKILL.md) | 🔥 15.3k | `development` |
+| [Agent Evaluation](development/devops/agent-evaluation_7f30c26e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/agent-evaluation.md) | ⭐ 396 | `agents` `testing` `guide` |
+| [Cheatsheet](development/devops/cheatsheet_6f60012d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/cheatsheet.md) | ⭐ 396 | `cheatsheet` `reference` |
+| [Mcp Servers Ecosystem](development/devops/mcp-servers-ecosystem_e5a5f904/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/mcp-servers-ecosystem.md) | ⭐ 396 | `mcp` `reference` `integration` |
+| [Production Safety](development/devops/production-safety_83ca58c4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/production-safety.md) | ⭐ 396 | `security` `guide` `devops` |
+| [Sandbox Isolation](development/devops/sandbox-isolation_73edc089/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/sandbox-isolation.md) | ⭐ 396 | `security` `sandbox` `devops` |
+| [Sandbox Native](development/devops/sandbox-native_918d2658/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/sandbox-native.md) | ⭐ 396 | `security` `sandbox` `guide` |
+| [Mobile Access](development/devops/mobile-access_f0f79a36/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/tools/mobile-access.md) | ⭐ 396 | `development` |
+| [Reddit Post](development/devops/reddit-post_c08723d0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/drafts/reddit-post.md) | ⭐ 396 | `development` |
+| [Git Mcp Server Evaluation](development/devops/git-mcp-server-evaluation_7a36b6ba/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/git-mcp-server-evaluation.md) | ⭐ 396 | `development` |
+| [Nao Framework](development/devops/nao-framework_9f964bbb/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/nao-framework.md) | ⭐ 396 | `development` |
+| [Rakesh Gohel Aakash Gupta Master Claude Code](development/devops/rakesh-gohel-aakash-gupta-master-claude-code_54b73e30/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/rakesh-gohel-aakash-gupta-master-claude-code.md) | ⭐ 396 | `development` |
+| [08 Security And Production](development/devops/08-security-and-production_c040c164/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/08-security-and-production.md) | ⭐ 396 | `security` `production` `sandbox` |
+| [Exploration Workflow](development/devops/exploration-workflow_2e8f6ac8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/exploration-workflow.md) | ⭐ 396 | `workflow` `architecture` `design-patterns` |
+| [Om Nalinde 30 Concepts Infographic](development/devops/om-nalinde-30-concepts-infographic_06d6f3fd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/om-nalinde-30-concepts-infographic.md) | ⭐ 396 | `development` |
+| [Release Notes](development/devops/release-notes_c7b5009b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/release-notes.md) | ⭐ 396 | `development` |
+| [Sandbox Status](development/devops/sandbox-status_49b1c078/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/sandbox-status.md) | ⭐ 396 | `development` |
+| [Security Audit](development/devops/security-audit_ca25909b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/security-audit.md) | ⭐ 396 | `development` |
+| [Ship](development/devops/ship_9d47a5b3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/ship.md) | ⭐ 396 | `development` |
+| [Security Checklist](development/devops/security-checklist_5dbc3b76/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/security-checklist.md) | ⭐ 396 | `development` |
+| [Database Branch Setup](development/devops/database-branch-setup_fa254de9/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/workflows/database-branch-setup.md) | ⭐ 396 | `workflow` `git` `devops` |
+| [05 Mcp Ecosystem](development/devops/05-mcp-ecosystem_d71ba8b4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/05-mcp-ecosystem.md) | ⭐ 396 | `mcp` `security` `architecture` |
+| [Skill](development/devops/name-skill_d3f7ea05/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/release-notes-generator/SKILL.md) | ⭐ 396 | `release-notes` `changelog` `slack` |
 
-### Development/Testing (15 skills)
+### Development/Testing (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1043,8 +1268,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_23c7b055/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-orchestrator/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
+| [Output Evaluator](development/testing/output-evaluator_96af6507/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/output-evaluator.md) | ⭐ 396 | `development` |
+| [Git Worktree](development/testing/git-worktree_7428b476/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/git-worktree.md) | ⭐ 396 | `development` |
+| [Tdd Workflow](development/testing/tdd-workflow_349c5509/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/tdd-workflow.md) | ⭐ 396 | `development` |
+| [Skill](development/testing/name-skill_b40ec7ba/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/design-patterns/SKILL.md) | ⭐ 396 | `development` |
+| [Creational](development/testing/creational_1ecdebb5/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/design-patterns/reference/creational.md) | ⭐ 396 | `reference` `design-patterns` `architecture` |
+| [Commit Categories](development/testing/commit-categories_a5664ea2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/release-notes-generator/references/commit-categories.md) | ⭐ 396 | `development` |
 
-### Development/Tools (52 skills)
+### Development/Tools (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1100,6 +1331,27 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Index](development/tools/282-code_index_a8e950fb/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Skill](development/tools/002-name-skill_522e2ffc/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/wasm-compatibility/SKILL.md) | ⭐ 52 | `development` |
 | [Date Tracking Implementation](development/tools/337-date_tracking_implementation_fa93921c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/DATE_TRACKING_IMPLEMENTATION.md) | 🔥 15.3k | `development` |
+| [Ai Traceability](development/tools/ai-traceability_c5cafdf2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/ai-traceability.md) | ⭐ 396 | `guide` `git` `workflows` |
+| [Data Privacy](development/tools/data-privacy_a000ab31/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/data-privacy.md) | ⭐ 396 | `privacy` `security` `guide` |
+| [Observability](development/tools/observability_e31e70a7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/observability.md) | ⭐ 396 | `observability` `guide` `performance` |
+| [2026 02 22 Fp Dev Issue Tracker](development/tools/2026-02-22-fp-dev-issue-tracker_ccaba095/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-22-fp-dev-issue-tracker.md) | ⭐ 396 | `development` |
+| [Agentskills Io Specification](development/tools/agentskills-io-specification_16dd0fd8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/agentskills-io-specification.md) | ⭐ 396 | `development` |
+| [Beyond Vibe Coding](development/tools/beyond-vibe-coding_2653177c/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/beyond-vibe-coding.md) | ⭐ 396 | `development` |
+| [Entire Cli](development/tools/entire-cli_6284a9f7/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/entire-cli.md) | ⭐ 396 | `development` |
+| [Melvyn Malherbe Async Hooks Linkedin](development/tools/melvyn-malherbe-async-hooks-linkedin_a5c178ff/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/melvyn-malherbe-async-hooks-linkedin.md) | ⭐ 396 | `development` |
+| [01 Foundations](development/tools/01-foundations_53a44763/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/01-foundations.md) | ⭐ 396 | `foundations` `architecture` `getting-started` |
+| [04 Architecture Internals](development/tools/04-architecture-internals_af3c05f0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/04-architecture-internals.md) | ⭐ 396 | `architecture` `internals` `master-loop` |
+| [07 Multi Agent Patterns](development/tools/07-multi-agent-patterns_c3cc8adc/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/07-multi-agent-patterns.md) | ⭐ 396 | `multi-agent` `patterns` `worktrees` |
+| [09 Cost And Optimization](development/tools/09-cost-and-optimization_44eb9ab6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/09-cost-and-optimization.md) | ⭐ 396 | `cost` `optimization` `models` |
+| [Gur Sannikov Embedded Os Linkedin](development/tools/gur-sannikov-embedded-os-linkedin_8205c034/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/gur-sannikov-embedded-os-linkedin.md) | ⭐ 396 | `development` |
+| [Devops Sre](development/tools/devops-sre_a03ec3a6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/claude-md/devops-sre.md) | ⭐ 396 | `claude-md` `template` `devops` |
+| [Rtk Optimized](development/tools/rtk-optimized_04bc1bbc/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/claude-md/rtk-optimized.md) | ⭐ 396 | `claude-md` `template` `performance` |
+| [Pdf Generator](development/tools/pdf-generator_9cbc3d98/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/pdf-generator.md) | ⭐ 396 | `development` |
+| [02 Context And Sessions](development/tools/02-context-and-sessions_5a1cec2b/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/02-context-and-sessions.md) | ⭐ 396 | `context` `sessions` `memory` |
+| [03 Configuration System](development/tools/03-configuration-system_445582ec/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/03-configuration-system.md) | ⭐ 396 | `configuration` `hooks` `agents` |
+| [Installation](development/tools/installation_f8aae1da/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/integrations/agent-vibes/installation.md) | ⭐ 396 | `guide` `tts` `integration` |
+| [Skill](development/tools/name-skill_10d0a1d4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/rtk-optimizer/SKILL.md) | ⭐ 396 | `optimization` `tokens` `efficiency` |
+| [Skill](development/tools/name-skill_8dbabf85/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-4-position/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
 
 ### Investment (18 skills)
 
@@ -1131,7 +1383,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
 
-### Productivity (22 skills)
+### Productivity (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1157,8 +1409,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_5a2cd2a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/viral-generator-builder/SKILL.md) | 🔥 13.9k | `productivity` |
 | [Skill](productivity/093-name-skill_8f90834d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-changelog/SKILL.md) | 🔥 13.9k | `productivity` |
 | [Implementation Playbook](productivity/175-implementation-playbook_2c7486bd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/temporal-golang-pro/resources/implementation-playbook.md) | 🔥 15.3k | `productivity` |
+| [Devops Sre](productivity/devops-sre_e03ddd92/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/agents/devops-sre.md) | ⭐ 396 | `productivity` |
+| [Optimize](productivity/optimize_c1430e93/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/optimize.md) | ⭐ 396 | `productivity` |
+| [Teach](productivity/teach_fedd1cc6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/learn/teach.md) | ⭐ 396 | `productivity` |
+| [Skill](productivity/name-skill_368d6cb3/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/voice-refine/SKILL.md) | ⭐ 396 | `productivity` |
+| [Tone Guidelines](productivity/tone-guidelines_2ddc9fed/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/references/tone-guidelines.md) | ⭐ 396 | `productivity` |
 
-### Research (28 skills)
+### Research (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1190,6 +1447,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Liquidity Planner](research/265-liquidity-planner_39a0a3d3/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/liquidity-planner.md) | ⭐ 130 | `research` |
 | [Swap Planner](research/266-swap-planner_5e8b8727/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/skills/swap-planner.md) | ⭐ 130 | `research` |
 | [Skill](research/139-name-skill_6c19ba60/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/local-legal-seo-audit/SKILL.md) | 🔥 15.3k | `research` |
+| [Ideas](research/ideas_c05529a1/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/IDEAS.md) | ⭐ 396 | `research` |
+| [2026 02 19 Echoes Of Ai Maintainability Study](research/2026-02-19-echoes-of-ai-maintainability-study_2788489d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-echoes-of-ai-maintainability-study.md) | ⭐ 396 | `research` |
+| [Addy Osmani Linkedin Anthropic Study](research/addy-osmani-linkedin-anthropic-study_f7746b1f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/addy-osmani-linkedin-anthropic-study.md) | ⭐ 396 | `research` |
+| [Agents Md Empirical Study 2602 11988](research/agents-md-empirical-study-2602-11988_d28bbbea/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/agents-md-empirical-study-2602-11988.md) | ⭐ 396 | `research` |
+| [Boris Cowork Video Eval](research/boris-cowork-video-eval_c06b4f9e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/boris-cowork-video-eval.md) | ⭐ 396 | `research` |
+| [Jon Williams Dual Instance Pattern](research/jon-williams-dual-instance-pattern_a728d19f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/jon-williams-dual-instance-pattern.md) | ⭐ 396 | `research` |
+| [Prompt Repetition Paper](research/prompt-repetition-paper_7f42a4bf/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/prompt-repetition-paper.md) | ⭐ 396 | `research` |
+| [Se Cove Plugin](research/se-cove-plugin_d9e939fd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/se-cove-plugin.md) | ⭐ 396 | `research` |
+| [2026 02 19 Linkedin Activity 7428930570451083264](research/2026-02-19-linkedin-activity-7428930570451083264_5b94df60/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-linkedin-activity-7428930570451083264.md) | ⭐ 396 | `research` |
+| [Update Threat Db](research/update-threat-db_fe514330/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/commands/update-threat-db.md) | ⭐ 396 | `research` |
+| [Voice Catalog](research/voice-catalog_b46ab02e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/integrations/agent-vibes/voice-catalog.md) | ⭐ 396 | `reference` `tts` `integration` |
+| [Slack Template](research/slack-template_b95bab9a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/guide-recap/assets/slack-template.md) | ⭐ 396 | `research` |
+| [Skill](research/name-skill_c875974e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/examples/skills/talk-pipeline/stage-2-research/SKILL.md) | ⭐ 396 | `talk` `pipeline` `presentation` |
 
 ## How Skills Are Organized
 
@@ -1241,5 +1511,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 18:15:34 UTC*
+*Last updated: 2026-02-27 19:14:10 UTC*
 *Automatically maintained by SkillFlow*
