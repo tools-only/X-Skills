@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-26T22:46:09.249448",
+  "updated_at": "2026-02-27T00:50:00.976188",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -1457,6 +1457,104 @@
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/pentacles/nine-of-pentacles.md",
       "display_name": "Nine Of Pentacles",
       "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "d1c06dc8c1fc7ece8c4a9d26d30f26191569ed0472788f53719c2e17ff7acb23",
+      "source_path": "plexe/CODE_INDEX.md",
+      "source_repo": "plexe-ai/plexe",
+      "local_path": "development/tools/282-code_index_d1c06dc8",
+      "category": "development/tools",
+      "name": "code_index_d1c06dc8",
+      "indexed_at": "2026-02-27T00:49:53.311673",
+      "repo_stars": 2540,
+      "repo_updated_at": "2026-02-26T15:23:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
+      "display_name": "Code Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c917be58c2caeb0ecebe821e8723e5f03a0d50ecf2f94abfcc55edcc5af24bb5",
+      "source_path": "CLAUDE.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "development/devops/205-claude_c917be58",
+      "category": "development/devops",
+      "name": "claude_c917be58",
+      "indexed_at": "2026-02-27T00:50:00.755614",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-19T16:11:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ea8c4627139a0ace14e45537a605c957e4442c8be12b969acea2e02fcc663129",
+      "source_path": "skills/connectors-available/SKILL.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "investment/021-name-skill_ea8c4627",
+      "category": "investment",
+      "name": "name-skill_ea8c4627",
+      "indexed_at": "2026-02-27T00:50:00.782518",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-07T04:08:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "247714ad3eb0a946683369376ad8e81341deb4122c7c3e8f138d0ba506e5b660",
+      "source_path": "skills/slides-generator/SKILL.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "automation/workflow/002-name-skill_247714ad",
+      "category": "automation/workflow",
+      "name": "name-skill_247714ad",
+      "indexed_at": "2026-02-27T00:50:00.795696",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-07T01:29:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/slides-generator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0040aeee9558498546173bb6d6b6be353844d7160eabf088f31efb1d607f571f",
+      "source_path": "skills/lp-agent/references/lp_executor_guide.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "automation/workflow/139-lp_executor_guide_0040aeee",
+      "category": "automation/workflow",
+      "name": "lp_executor_guide_0040aeee",
+      "indexed_at": "2026-02-27T00:50:00.884829",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-25T05:51:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/references/lp_executor_guide.md",
+      "display_name": "Lp Executor Guide",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "d516ab638f03feb9a35815e811539c59758643bcc86234e0cfff02ebc28da72b",
+      "source_path": "skills/lp-agent/SKILL.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "data-analysis/226-name-skill_d516ab63",
+      "category": "data-analysis",
+      "name": "name-skill_d516ab63",
+      "indexed_at": "2026-02-27T00:50:00.897413",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-25T07:05:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "63b97f02c3fca8f61b5b993d49ed4a003a295e0286ba06f4b352ee31db975266",
+      "source_path": "skills/lp-agent/references/lp_rebalancer_guide.md",
+      "source_repo": "hummingbot/skills",
+      "local_path": "productivity/174-lp_rebalancer_guide_63b97f02",
+      "category": "productivity",
+      "name": "lp_rebalancer_guide_63b97f02",
+      "indexed_at": "2026-02-27T00:50:00.976126",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-25T05:51:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/references/lp_rebalancer_guide.md",
+      "display_name": "Lp Rebalancer Guide",
+      "tags": "[\"productivity\"]"
     }
   ]
 }
