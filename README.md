@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **908 AI-powered skills** organized into 15 categories.
+A curated collection of **906 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (60 skills)
 - **Automation/Workflow** (176 skills)
-- **Commercial** (55 skills)
+- **Commercial** (54 skills)
 - **Communication** (28 skills)
 - **Content Creation** (75 skills)
 - **Daily Assistant** (48 skills)
-- **Data Analysis** (45 skills)
-- **Development** (219 skills)
+- **Data Analysis** (43 skills)
+- **Development** (218 skills)
 - **Development/Devops** (73 skills)
-- **Development/Testing** (15 skills)
-- **Development/Tools** (49 skills)
+- **Development/Testing** (16 skills)
+- **Development/Tools** (50 skills)
 - **Investment** (17 skills)
 - **Other** (2 skills)
 - **Productivity** (21 skills)
@@ -423,11 +423,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_a28a8196/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/libreoffice/impress/SKILL.md) | 🔥 13.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_b7bfad60/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/libreoffice/writer/SKILL.md) | 🔥 13.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_58a9e1a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/security/aws-iam-best-practices/SKILL.md) | 🔥 13.9k | `automation` |
-| [Asset Bundles](automation/workflow/asset-bundles_e0cde027/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/asset-bundles.md) | ⭐ 13 | `automation` |
-| [Data Exploration](automation/workflow/data-exploration_68b4b3e4/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/data-exploration.md) | ⭐ 13 | `automation` |
-| [Databricks Cli Auth](automation/workflow/databricks-cli-auth_d30d5288/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-auth.md) | ⭐ 13 | `automation` |
+| [Asset Bundles](automation/workflow/147-asset-bundles_e0cde027/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/asset-bundles.md) | ⭐ 13 | `automation` |
+| [Data Exploration](automation/workflow/148-data-exploration_68b4b3e4/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/data-exploration.md) | ⭐ 13 | `automation` |
+| [Databricks Cli Auth](automation/workflow/149-databricks-cli-auth_d30d5288/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-auth.md) | ⭐ 13 | `automation` |
 
-### Commercial (55 skills)
+### Commercial (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -485,7 +485,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_dd15e392/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/terraform-aws-modules/SKILL.md) | 🔥 13.9k | `commercial` |
 | [Skill](commercial/210-name-skill_c25c4f67/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/workflow-orchestration-patterns/SKILL.md) | 🔥 13.9k | `commercial` |
 | [Skill](commercial/210-name-skill_9ff101ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/game-development/game-art/SKILL.md) | 🔥 13.9k | `commercial` |
-| [Claude](commercial/claude_439b0b7d/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/CLAUDE.md) | ⭐ 13 | `commercial` |
 
 ### Communication (28 skills)
 
@@ -653,7 +652,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_986e42f5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/using-superpowers/SKILL.md) | 🔥 13.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_299e3396/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/verification-before-completion/SKILL.md) | 🔥 13.9k | `daily assistant` |
 
-### Data Analysis (45 skills)
+### Data Analysis (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -697,13 +696,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_2bb5a6b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ui-ux-pro-max/SKILL.md) | 🔥 13.9k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1cd75c08/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/using-git-worktrees/SKILL.md) | 🔥 13.9k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_00e4d228/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wireshark-analysis/SKILL.md) | 🔥 13.9k | `data analysis` |
-| [Frontend](data-analysis/frontend_2a5cfb09/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/frontend.md) | ⭐ 13 | `data analysis` |
-| [Overview](data-analysis/overview_0974fcfd/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/overview.md) | ⭐ 13 | `data analysis` |
-| [Trpc](data-analysis/trpc_e55724ce/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/trpc.md) | ⭐ 13 | `data analysis` |
-| [Appkit Sdk](data-analysis/appkit-sdk_d1e27f1b/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/appkit-sdk.md) | ⭐ 13 | `data analysis` |
-| [Sql Queries](data-analysis/sql-queries_a7c05cd5/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/sql-queries.md) | ⭐ 13 | `data analysis` |
+| [Frontend](data-analysis/502-frontend_2a5cfb09/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/frontend.md) | ⭐ 13 | `data analysis` |
+| [Overview](data-analysis/503-overview_0974fcfd/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/overview.md) | ⭐ 13 | `data analysis` |
+| [Trpc](data-analysis/504-trpc_e55724ce/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/trpc.md) | ⭐ 13 | `data analysis` |
 
-### Development (219 skills)
+### Development (218 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -925,7 +922,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8934aa35/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_7f15798a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zapier-make-patterns/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_fdae94f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/security/aws-secrets-rotation/SKILL.md) | 🔥 13.9k | `development` |
-| [Testing](development/testing_980e0a8c/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/testing.md) | ⭐ 13 | `development` |
 
 ### Development/Devops (73 skills)
 
@@ -1003,9 +999,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_02b51c7a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/temporal-python-pro/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/devops/014-name-skill_71341d0f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/terraform-skill/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/devops/014-name-skill_a2d598f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vercel-deployment/SKILL.md) | 🔥 13.9k | `development` |
-| [Skill](development/devops/name-skill_73fec275/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/devops/014-name-skill_73fec275/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/SKILL.md) | ⭐ 13 | `development` |
 
-### Development/Testing (15 skills)
+### Development/Testing (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1024,8 +1020,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_23c7b055/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-orchestrator/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
+| [Code Index](development/testing/code_index_cda329e7/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
-### Development/Tools (49 skills)
+### Development/Tools (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1038,7 +1035,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector C Cli Data Fetch](development/tools/370-vector-c-cli-data-fetch_f11d2333/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-c-cli-data-fetch.md) | ⭐ 2.9k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_e9fd259e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.9k | `development` |
 | [Create Data Extensions](development/tools/371-create-data-extensions_2210ce14/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.9k | `development` |
-| [Code Index](development/tools/282-code_index_d1c06dc8/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Code Index](development/tools/code_index_a8e950fb/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Skill](development/tools/002-name-skill_ad5c103c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_b244adfc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-validator/SKILL.md) | ⭐ 20 | `development` |
 | [Vertex Realtime](development/tools/366-vertex_realtime_fdde2fa3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/vertex_realtime.md) | 🔥 36.9k | `development` |
@@ -1076,8 +1073,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_0bac9fc0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/workflow-patterns/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/tools/002-name-skill_bbe62bfa/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/writing-skills/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/tools/002-name-skill_aba7d708/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/security/aws-security-audit/SKILL.md) | 🔥 13.9k | `development` |
-| [Skill](development/tools/name-skill_fabb3077/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/SKILL.md) | ⭐ 13 | `development` |
-| [Databricks Cli Install](development/tools/databricks-cli-install_ad904585/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-install.md) | ⭐ 13 | `development` |
+| [Skill](development/tools/002-name-skill_fabb3077/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/SKILL.md) | ⭐ 13 | `development` |
+| [Databricks Cli Install](development/tools/372-databricks-cli-install_ad904585/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks/databricks-cli-install.md) | ⭐ 13 | `development` |
+| [Code Index](development/tools/282-code_index_a8e950fb/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Investment (17 skills)
 
@@ -1214,5 +1212,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 14:13:46 UTC*
+*Last updated: 2026-02-27 14:16:34 UTC*
 *Automatically maintained by SkillFlow*

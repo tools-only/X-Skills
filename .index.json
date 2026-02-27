@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-27T14:13:46.293380",
+  "updated_at": "2026-02-27T14:16:34.594373",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -12657,6 +12657,20 @@
       "source_url": "https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/trpc.md",
       "display_name": "Trpc",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a8e950fb532441593a1389aa5a5e024e9979eb5319959af0b942983191884669",
+      "source_path": "plexe/CODE_INDEX.md",
+      "source_repo": "plexe-ai/plexe",
+      "local_path": "development/tools/282-code_index_a8e950fb",
+      "category": "development/tools",
+      "name": "code_index_a8e950fb",
+      "indexed_at": "2026-02-27T14:16:34.594284",
+      "repo_stars": 2541,
+      "repo_updated_at": "2026-02-27T11:27:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
+      "display_name": "Code Index",
+      "tags": "[\"development\"]"
     }
   ]
 }
