@@ -15,9 +15,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (75 skills)
 - **Daily Assistant** (48 skills)
 - **Data Analysis** (43 skills)
-- **Development** (218 skills)
+- **Development** (219 skills)
 - **Development/Devops** (73 skills)
-- **Development/Testing** (16 skills)
+- **Development/Testing** (15 skills)
 - **Development/Tools** (50 skills)
 - **Investment** (17 skills)
 - **Other** (2 skills)
@@ -700,7 +700,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Overview](data-analysis/503-overview_0974fcfd/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/overview.md) | ⭐ 13 | `data analysis` |
 | [Trpc](data-analysis/504-trpc_e55724ce/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/references/appkit/trpc.md) | ⭐ 13 | `data analysis` |
 
-### Development (218 skills)
+### Development (219 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -922,6 +922,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8934aa35/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_7f15798a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zapier-make-patterns/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_fdae94f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/security/aws-secrets-rotation/SKILL.md) | 🔥 13.9k | `development` |
+| [Skill](development/name-skill_a95e8f64/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md) | ⭐ 41 | `development` |
 
 ### Development/Devops (73 skills)
 
@@ -1001,7 +1002,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_a2d598f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vercel-deployment/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/devops/014-name-skill_73fec275/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/SKILL.md) | ⭐ 13 | `development` |
 
-### Development/Testing (16 skills)
+### Development/Testing (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1020,7 +1021,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_23c7b055/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-orchestrator/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
-| [Code Index](development/testing/code_index_cda329e7/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Development/Tools (50 skills)
 
@@ -1035,7 +1035,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector C Cli Data Fetch](development/tools/370-vector-c-cli-data-fetch_f11d2333/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-c-cli-data-fetch.md) | ⭐ 2.9k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_e9fd259e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.9k | `development` |
 | [Create Data Extensions](development/tools/371-create-data-extensions_2210ce14/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.9k | `development` |
-| [Code Index](development/tools/code_index_a8e950fb/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Code Index](development/tools/282-code_index_d1c06dc8/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Skill](development/tools/002-name-skill_ad5c103c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_b244adfc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-validator/SKILL.md) | ⭐ 20 | `development` |
 | [Vertex Realtime](development/tools/366-vertex_realtime_fdde2fa3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/vertex_realtime.md) | 🔥 36.9k | `development` |
@@ -1212,5 +1212,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 14:16:34 UTC*
+*Last updated: 2026-02-27 15:16:44 UTC*
 *Automatically maintained by SkillFlow*
