@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-27T16:14:42.554528",
+  "updated_at": "2026-02-27T17:14:49.250266",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -12908,6 +12908,34 @@
       "repo_updated_at": "2026-02-27T00:01:04+00:00",
       "source_url": "https://raw.githubusercontent.com/marimo-team/skills/main/skills/wasm-compatibility/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8330a722ae3cc44ab4aaebb03ed827341fc02412653522c49a9ce1aef6f618d2",
+      "source_path": "docs/en/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "automation/scripting/080-01-configuration_8330a722",
+      "category": "automation/scripting",
+      "name": "01-configuration_8330a722",
+      "indexed_at": "2026-02-27T17:14:49.124048",
+      "repo_stars": 4009,
+      "repo_updated_at": "2026-02-27T10:51:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "c0375f13df77d77f3c9b6fd9b12e86293a13b944ac54a02a94e983c469979199",
+      "source_path": "docs/zh/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_c0375f13",
+      "category": "development/devops",
+      "name": "01-configuration_c0375f13",
+      "indexed_at": "2026-02-27T17:14:49.250034",
+      "repo_stars": 4009,
+      "repo_updated_at": "2026-02-27T10:51:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md",
+      "display_name": "01 Configuration",
       "tags": "[\"development\"]"
     }
   ]
