@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-27T00:50:00.976188",
+  "updated_at": "2026-02-27T01:50:31.629426",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -1555,6 +1555,118 @@
       "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/references/lp_rebalancer_guide.md",
       "display_name": "Lp Rebalancer Guide",
       "tags": "[\"productivity\"]"
+    },
+    {
+      "file_hash": "ad5c103c6022b2e011bd68576c12623af02e89c049cff42ab20c7bb837142315",
+      "source_path": "skills/ontology/ontology-explorer/SKILL.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "development/tools/002-name-skill_ad5c103c",
+      "category": "development/tools",
+      "name": "name-skill_ad5c103c",
+      "indexed_at": "2026-02-27T01:50:30.995968",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-25T15:33:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b244adfc948709c4c2df684844a3d128506eec2cbd5049488210b34a1bc42431",
+      "source_path": "skills/ontology/ontology-validator/SKILL.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "development/tools/002-name-skill_b244adfc",
+      "category": "development/tools",
+      "name": "name-skill_b244adfc",
+      "indexed_at": "2026-02-27T01:50:31.029498",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-25T15:33:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-validator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fdde2fa3e61c57897a39118241dc069310b1f58ad30d1a8e8a7739ad56a447a9",
+      "source_path": "docs/my-website/docs/providers/vertex_realtime.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/tools/366-vertex_realtime_fdde2fa3",
+      "category": "development/tools",
+      "name": "vertex_realtime_fdde2fa3",
+      "indexed_at": "2026-02-27T01:50:31.159107",
+      "repo_stars": 36904,
+      "repo_updated_at": "2026-02-26T06:11:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/vertex_realtime.md",
+      "display_name": "Vertex Realtime",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "647ea66b08435adc29b365b7a150365cbb7079b84efb3eb586ab38f93d269947",
+      "source_path": "AGENTS.md",
+      "source_repo": "gptme/gptme",
+      "local_path": "development/tools/015-agents_647ea66b",
+      "category": "development/tools",
+      "name": "agents_647ea66b",
+      "indexed_at": "2026-02-27T01:50:31.199319",
+      "repo_stars": 4204,
+      "repo_updated_at": "2026-02-26T14:07:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/gptme/gptme/master/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ef58f60f42303ec3016a66c23dfbc19dbf5a2098e6f113a9f25454f69c7600ee",
+      "source_path": "skills/hpc-deployment/slurm-job-script-generator/references/slurm_directives.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "automation/scripting/090-slurm_directives_ef58f60f",
+      "category": "automation/scripting",
+      "name": "slurm_directives_ef58f60f",
+      "indexed_at": "2026-02-27T01:50:31.295945",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-25T14:01:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/hpc-deployment/slurm-job-script-generator/references/slurm_directives.md",
+      "display_name": "Slurm Directives",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0a4c01c8c8a283435d530f383c7ff0d0414f26376e277300709131bf1c6a8173",
+      "source_path": "skills/ontology/ontology-explorer/references/asmo_guide.md",
+      "source_repo": "HeshamFS/materials-simulation-skills",
+      "local_path": "research/258-asmo_guide_0a4c01c8",
+      "category": "research",
+      "name": "asmo_guide_0a4c01c8",
+      "indexed_at": "2026-02-27T01:50:31.418111",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-25T15:33:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/references/asmo_guide.md",
+      "display_name": "Asmo Guide",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "65a0ecf2da334ab0cef47082a7d705a907d54cd5aadba56d00dcb28100654ac6",
+      "source_path": "cookbook/misc/RELEASE_NOTES_GENERATION_INSTRUCTIONS.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/020-release_notes_generation_instructions_65a0ecf2",
+      "category": "development/devops",
+      "name": "release_notes_generation_instructions_65a0ecf2",
+      "indexed_at": "2026-02-27T01:50:31.471312",
+      "repo_stars": 36904,
+      "repo_updated_at": "2025-12-06T18:40:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/cookbook/misc/RELEASE_NOTES_GENERATION_INSTRUCTIONS.md",
+      "display_name": "Release Notes Generation Instructions",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8affec2b324dc9c229d19f946f2d2a311124ff2f0d9fa8256859b01dfcd1ba12",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/387-config_settings_8affec2b",
+      "category": "content-creation",
+      "name": "config_settings_8affec2b",
+      "indexed_at": "2026-02-27T01:50:31.629366",
+      "repo_stars": 36904,
+      "repo_updated_at": "2026-02-26T07:46:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
     }
   ]
 }
