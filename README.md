@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1177 AI-powered skills** organized into 15 categories.
+A curated collection of **1287 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (64 skills)
-- **Automation/Workflow** (192 skills)
+- **Automation/Scripting** (69 skills)
+- **Automation/Workflow** (197 skills)
 - **Commercial** (66 skills)
 - **Communication** (33 skills)
-- **Content Creation** (126 skills)
-- **Daily Assistant** (77 skills)
-- **Data Analysis** (60 skills)
-- **Development** (287 skills)
-- **Development/Devops** (104 skills)
+- **Content Creation** (138 skills)
+- **Daily Assistant** (88 skills)
+- **Data Analysis** (62 skills)
+- **Development** (306 skills)
+- **Development/Devops** (121 skills)
 - **Development/Testing** (16 skills)
-- **Development/Tools** (71 skills)
-- **Investment** (18 skills)
+- **Development/Tools** (104 skills)
+- **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (24 skills)
-- **Research** (37 skills)
+- **Research** (42 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (64 skills)
+### Automation/Scripting (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -248,9 +248,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Uniswap Driver](automation/scripting/096-uniswap-driver_6ed6ed96/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 130 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_8330a722/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.0k | `automation` |
 | [2026 02 23 Veille Cc Releases 2144 2150](automation/scripting/091-2026-02-23-veille-cc-releases-2144-2150_d5446d04/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-23-veille-cc-releases-2144-2150.md) | ⭐ 396 | `automation` |
-| [Assistant Upload](automation/scripting/assistant-upload_24cbbd6d/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-upload.md) | ⭐ 40 | `automation` |
+| [Assistant Upload](automation/scripting/092-assistant-upload_24cbbd6d/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-upload.md) | ⭐ 40 | `automation` |
+| [P0 Reduce Session Start Context Load Via Rules Path Scoping And](automation/scripting/089-p0-reduce-session-start-context-load-via-rules-path-scoping-and_ab758d53/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p0-reduce-session-start-context-load-via-rules-path-scoping-and.md) | ⭐ 20 | `automation` |
+| [P1 P1 Plugin Validator Pre Commit Output Is Too Noisy](automation/scripting/090-p1-p1-plugin-validator-pre-commit-output-is-too-noisy_f5487706/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-p1-plugin-validator-pre-commit-output-is-too-noisy.md) | ⭐ 20 | `automation` |
+| [P1 Sam Human Escalation Criteria](automation/scripting/091-p1-sam-human-escalation-criteria_8ba6d458/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-sam-human-escalation-criteria.md) | ⭐ 20 | `automation` |
+| [P1 Validate And Verify Orchestrator Discipline Plugin Hooks And](automation/scripting/096-p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and_0e71bf01/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and.md) | ⭐ 20 | `automation` |
+| [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e65c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (192 skills)
+### Automation/Workflow (197 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -444,8 +449,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tts Setup](automation/workflow/154-tts-setup_e3fc1ad6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/tts-setup.md) | ⭐ 396 | `workflow` `tts` `tutorial` |
 | [Tech Debt Tracker](automation/workflow/136-tech-debt-tracker_059c0eab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/exec-plans/tech-debt-tracker.md) | ⭐ 98 | `automation` |
 | [Character Reference](automation/workflow/137-character-reference_81a464fe/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 98 | `automation` |
-| [Assistant Context](automation/workflow/assistant-context_5ce22085/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-context.md) | ⭐ 40 | `automation` |
-| [Assistant List](automation/workflow/assistant-list_329dd3b1/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-list.md) | ⭐ 40 | `automation` |
+| [Assistant Context](automation/workflow/150-assistant-context_5ce22085/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-context.md) | ⭐ 40 | `automation` |
+| [Feature Context Enhance Skill Research Process](automation/workflow/136-feature-context-enhance-skill-research-process_1aaf8e09/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-enhance-skill-research-process.md) | ⭐ 20 | `automation` |
+| [Tasks 6 Enhance Skill Research Process](automation/workflow/137-tasks-6-enhance-skill-research-process_32da5209/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-6-enhance-skill-research-process.md) | ⭐ 20 | `automation` |
+| [Readme Flat Skills Az](automation/workflow/readme_flat_skills_az_cce3cc77/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 25.2k | `automation` |
+| [Readme Flat Skills Created](automation/workflow/readme_flat_skills_created_8c5ef21c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 25.2k | `automation` |
+| [Readme Flat Skills Releases](automation/workflow/readme_flat_skills_releases_a437a5c5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 25.2k | `automation` |
+| [Readme Flat Skills Updated](automation/workflow/readme_flat_skills_updated_d5866cf3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 25.2k | `automation` |
 
 ### Commercial (66 skills)
 
@@ -513,10 +523,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Requirements](commercial/380-01-requirements_a517748d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/01-requirements.md) | ⭐ 98 | `commercial` |
 | [03 Des Adr 0001 Cost Optimized N Tier Azure Architecture](commercial/381-03-des-adr-0001-cost-optimized-n-tier-azure-architecture_df4774b6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-adr-0001-cost-optimized-n-tier-azure-architecture.md) | ⭐ 98 | `commercial` |
 | [07 Ab Cost Estimate](commercial/382-07-ab-cost-estimate_c32d913b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-ab-cost-estimate.md) | ⭐ 98 | `commercial` |
-| [Full Skills](commercial/full-skills_38fc8787/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/FULL-SKILLS.md) | ⭐ 87 | `commercial` |
-| [Backend Development](commercial/backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
-| [Frontend Development](commercial/frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
-| [Version Control And Collaboration](commercial/version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
+| [Full Skills](commercial/375-full-skills_38fc8787/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/FULL-SKILLS.md) | ⭐ 87 | `commercial` |
+| [Backend Development](commercial/376-backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
+| [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
+| [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
 
 ### Communication (33 skills)
 
@@ -554,9 +564,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clawdbot Twitter Analysis](communication/254-clawdbot-twitter-analysis_c60d1411/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/clawdbot-twitter-analysis.md) | ⭐ 396 | `communication` |
 | [Context Optimize.Prompt](communication/260-context-optimizeprompt_c1dd481e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/context-optimize.prompt.md) | ⭐ 98 | `communication` |
 | [Workshop Checklist](communication/209-workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
-| [Business And Productivity](communication/business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
+| [Business And Productivity](communication/254-business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
 
-### Content Creation (126 skills)
+### Content Creation (138 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -682,12 +692,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Git Commit Push.Prompt](content-creation/367-git-commit-pushprompt_cbbdc7bb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/git-commit-push.prompt.md) | ⭐ 98 | `content creation` |
 | [07 Compliance Matrix](content-creation/368-07-compliance-matrix_51e7bcad/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-compliance-matrix.md) | ⭐ 98 | `content creation` |
 | [Skill](content-creation/049-name-skill_de8edaa7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 98 | `content creation` |
-| [Devops And Infrastructure](content-creation/devops-and-infrastructure_97e27c8f/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/devops-and-infrastructure.md) | ⭐ 87 | `content creation` |
-| [Machine Learning](content-creation/machine-learning_3210aa07/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/machine-learning.md) | ⭐ 87 | `content creation` |
-| [Tools And Utilities](content-creation/tools-and-utilities_e0955810/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/tools-and-utilities.md) | ⭐ 87 | `content creation` |
-| [Uncategorized](content-creation/uncategorized_bd89de14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/uncategorized.md) | ⭐ 87 | `content creation` |
+| [Devops And Infrastructure](content-creation/390-devops-and-infrastructure_97e27c8f/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/devops-and-infrastructure.md) | ⭐ 87 | `content creation` |
+| [Machine Learning](content-creation/391-machine-learning_3210aa07/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/machine-learning.md) | ⭐ 87 | `content creation` |
+| [Tools And Utilities](content-creation/392-tools-and-utilities_e0955810/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/tools-and-utilities.md) | ⭐ 87 | `content creation` |
+| [Uncategorized](content-creation/393-uncategorized_bd89de14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/uncategorized.md) | ⭐ 87 | `content creation` |
+| [Claude](content-creation/007-claude_292d0832/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `content creation` |
+| [Backlog Item Groomer](content-creation/365-backlog-item-groomer_988964e8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 20 | `content creation` |
+| [P1 Backlog System Redesign Github Issues As Source Of Truth Wit](content-creation/366-p1-backlog-system-redesign-github-issues-as-source-of-truth-wit_ba06b020/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlog-system-redesign-github-issues-as-source-of-truth-wit.md) | ⭐ 20 | `content creation` |
+| [P2 Update 5 Historical Plan Files Still Referencing Source Clau](content-creation/367-p2-update-5-historical-plan-files-still-referencing-source-clau_95d561ee/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-update-5-historical-plan-files-still-referencing-source-clau.md) | ⭐ 20 | `content creation` |
+| [Backlog Lifecycle.Draft](content-creation/368-backlog-lifecycledraft_7189f18b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/backlog-lifecycle.draft.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_4f495e80/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/backlog/SKILL.md) | ⭐ 20 | `content creation` |
+| [Subagent Refactorer](content-creation/369-subagent-refactorer_30e0b059/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/subagent-refactorer.md) | ⭐ 20 | `content creation` |
+| [Orchestrator Discipline](content-creation/370-orchestrator-discipline_98aae0be/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/orchestrator-discipline.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_07f510f2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/SKILL.md) | ⭐ 20 | `content creation` |
+| [Better Creator](content-creation/371-better-creator_c0c828b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/better-creator.md) | ⭐ 20 | `content creation` |
+| [Bibliography And Source Documentation](content-creation/372-bibliography-and-source-documentation_fc035430/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/bibliography-and-source-documentation.md) | ⭐ 20 | `content creation` |
+| [Linkedin Ruben Hassid](content-creation/373-linkedin-ruben-hassid_a567f189/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/linkedin-ruben-hassid.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (77 skills)
+### Daily Assistant (88 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -766,10 +788,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [07 Operations Runbook](daily-assistant/302-07-operations-runbook_5edc8070/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-operations-runbook.md) | ⭐ 98 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_87183b1c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 98 | `daily assistant` |
 | [Freshness Checklist](daily-assistant/237-freshness-checklist_3095604c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 98 | `daily assistant` |
-| [Ai And Llm](daily-assistant/ai-and-llm_539064e8/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/ai-and-llm.md) | ⭐ 87 | `daily assistant` |
-| [Data And Analytics](daily-assistant/data-and-analytics_d3798a14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/data-and-analytics.md) | ⭐ 87 | `daily assistant` |
+| [Ai And Llm](daily-assistant/276-ai-and-llm_539064e8/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/ai-and-llm.md) | ⭐ 87 | `daily assistant` |
+| [Data And Analytics](daily-assistant/277-data-and-analytics_d3798a14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/data-and-analytics.md) | ⭐ 87 | `daily assistant` |
+| [Project Workflow.Draft](daily-assistant/290-project_workflowdraft_1d6cc1db/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/project_workflow.draft.md) | ⭐ 20 | `daily assistant` |
+| [P1 Sam Error Recovery Rollback Procedures](daily-assistant/291-p1-sam-error-recovery-rollback-procedures_bbdcfcbb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-sam-error-recovery-rollback-procedures.md) | ⭐ 20 | `daily assistant` |
+| [P2 Multi Session Build State Lost During Context Compaction](daily-assistant/292-p2-multi-session-build-state-lost-during-context-compaction_a3274dd9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-multi-session-build-state-lost-during-context-compaction.md) | ⭐ 20 | `daily assistant` |
+| [P2 Sam Costtoken Management](daily-assistant/293-p2-sam-costtoken-management_4fa37ccd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-sam-costtoken-management.md) | ⭐ 20 | `daily assistant` |
+| [Sdlc Layer L0 Integration Suggestions](daily-assistant/294-sdlc-layer-l0-integration-suggestions_6c724260/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/sdlc-layer-L0-integration-suggestions.md) | ⭐ 20 | `daily assistant` |
+| [Close Resolve Procedure](daily-assistant/295-close-resolve-procedure_08e58b6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/close-resolve-procedure.md) | ⭐ 20 | `daily assistant` |
+| [Error Handling](daily-assistant/296-error-handling_0c98fb7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/error-handling.md) | ⭐ 20 | `daily assistant` |
+| [Github Integration](daily-assistant/297-github-integration_dc6c5c71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/github-integration.md) | ⭐ 20 | `daily assistant` |
+| [Step Procedures](daily-assistant/298-step-procedures_51ca3947/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/step-procedures.md) | ⭐ 20 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b17e04c4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/skills/orchestrator-discipline/SKILL.md) | ⭐ 20 | `daily assistant` |
+| [Pre Existing Issues Protocol](daily-assistant/299-pre-existing-issues-protocol_207bb9e6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/pre-existing-issues-protocol.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (60 skills)
+### Data Analysis (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -831,10 +864,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Governance Constraints](data-analysis/382-04-governance-constraints_f84335e2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-governance-constraints.md) | ⭐ 98 | `data analysis` |
 | [04 Preflight Check](data-analysis/497-04-preflight-check_22be87df/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-preflight-check.md) | ⭐ 98 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_8f5166bf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/golden-principles/SKILL.md) | ⭐ 98 | `data analysis` |
-| [Assistant Chat](data-analysis/assistant-chat_34b08162/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-chat.md) | ⭐ 40 | `data analysis` |
-| [Assistant Sync](data-analysis/assistant-sync_49662bbd/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-sync.md) | ⭐ 40 | `data analysis` |
+| [Assistant Chat](data-analysis/505-assistant-chat_34b08162/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-chat.md) | ⭐ 40 | `data analysis` |
+| [Assistant Sync](data-analysis/506-assistant-sync_49662bbd/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-sync.md) | ⭐ 40 | `data analysis` |
+| [P2 Backlogpy Plan Field Na Blocks Work Backlog Item Step 2](data-analysis/492-p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2_339d9961/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2.md) | ⭐ 20 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_df1c9d46/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/group-items-to-milestone/SKILL.md) | ⭐ 20 | `data analysis` |
 
-### Development (287 skills)
+### Development (306 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1119,14 +1154,33 @@ ls ~/.claude/skills/patch-research-agent/
 | [Terraform Review Subagent.Agent](development/3001-terraform-review-subagentagent_cb0ca2cf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-review-subagent.agent.md) | ⭐ 98 | `development` |
 | [Skill](development/1178-name-skill_aeaf6a7a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/terraform-patterns/SKILL.md) | ⭐ 98 | `development` |
 | [Token Estimation](development/3002-token-estimation_0cd1ceab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/references/token-estimation.md) | ⭐ 98 | `development` |
-| [Help](development/help_c712f940/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/help.md) | ⭐ 40 | `development` |
-| [Join Discord](development/join-discord_a7dc9ce8/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/join-discord.md) | ⭐ 40 | `development` |
-| [Documentation](development/documentation_19b1e3bf/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/documentation.md) | ⭐ 87 | `development` |
-| [Assistant Create](development/assistant-create_de75f5d2/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-create.md) | ⭐ 40 | `development` |
-| [Quickstart](development/quickstart_06707b60/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/quickstart.md) | ⭐ 40 | `development` |
-| [Install](development/install_6602605b/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/external-skills/install.md) | ⭐ 10 | `development` |
+| [Help](development/2962-help_c712f940/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/help.md) | ⭐ 40 | `development` |
+| [Join Discord](development/2963-join-discord_a7dc9ce8/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/join-discord.md) | ⭐ 40 | `development` |
+| [Documentation](development/317-documentation_19b1e3bf/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/documentation.md) | ⭐ 87 | `development` |
+| [Feature Context Conventional Commits Changelog Refs](development/2991-feature-context-conventional-commits-changelog-refs_cd0a5b75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-conventional-commits-changelog-refs.md) | ⭐ 20 | `development` |
+| [P1 Daily Releases Delegate Ai Analysis Step To Haiku Subagent A](development/2992-p1-daily-releases-delegate-ai-analysis-step-to-haiku-subagent-a_d7e8d124/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-daily-releases-delegate-ai-analysis-step-to-haiku-subagent-a.md) | ⭐ 20 | `development` |
+| [P1 Gitlab Skill Remove Hardcoded Corporate Url](development/2993-p1-gitlab-skill-remove-hardcoded-corporate-url_134d0fed/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-gitlab-skill-remove-hardcoded-corporate-url.md) | ⭐ 20 | `development` |
+| [P2 Configurable Token Thresholds For Pluginvalidatorpy](development/2994-p2-configurable-token-thresholds-for-pluginvalidatorpy_695f7c95/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-configurable-token-thresholds-for-pluginvalidatorpy.md) | ⭐ 20 | `development` |
+| [P2 Conventional Commits Fix Changelog References To Nonexistent](development/2995-p2-conventional-commits-fix-changelog-references-to-nonexistent_36cd8212/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-conventional-commits-fix-changelog-references-to-nonexistent.md) | ⭐ 20 | `development` |
+| [P2 Llamafile Fix Huggingface Model Urls Wrong Org Name Fabricat](development/2996-p2-llamafile-fix-huggingface-model-urls-wrong-org-name-fabricat_94026aad/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-llamafile-fix-huggingface-model-urls-wrong-org-name-fabricat.md) | ⭐ 20 | `development` |
+| [P2 Sam Context Size Management](development/2997-p2-sam-context-size-management_532e8b4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-sam-context-size-management.md) | ⭐ 20 | `development` |
+| [P2 Validate Agent Browser For Web Automation](development/2998-p2-validate-agent-browser-for-web-automation_300bab58/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-validate-agent-browser-for-web-automation.md) | ⭐ 20 | `development` |
+| [Backlog Item Groomed Schema](development/2999-backlog-item-groomed-schema_cc5c1be3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/backlog-item-groomed-schema.md) | ⭐ 20 | `development` |
+| [Sdlc Layer L2 Integration Suggestions](development/3000-sdlc-layer-l2-integration-suggestions_a312acf9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/sdlc-layer-L2-integration-suggestions.md) | ⭐ 20 | `development` |
+| [Sdlc Layer Candidates](development/3001-sdlc-layer-candidates_17c3b52e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/sdlc-layer-candidates.md) | ⭐ 20 | `development` |
+| [Research Agents](development/3002-research-agents_de5d5b1d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-agents.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_fbb17c91/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/external-pattern-integrator/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_dad9aa61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/SKILL.md) | ⭐ 20 | `development` |
+| [Linting Root Cause Resolver](development/1699-linting-root-cause-resolver_7f10fb68/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/agents/linting-root-cause-resolver.md) | ⭐ 20 | `development` |
+| [Agent Creator](development/1974-agent-creator_dc15bc78/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/agent-creator.md) | ⭐ 20 | `development` |
+| [Item Schema](development/3003-item-schema_2dda29a5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/backlog/references/item-schema.md) | ⭐ 20 | `development` |
+| [Issue Stories](development/3004-issue-stories_fd287dc9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/issue-stories.md) | ⭐ 20 | `development` |
+| [Auto Mode](development/3005-auto-mode_f8d2fb5e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/auto-mode.md) | ⭐ 20 | `development` |
+| [Sam Definition](development/3006-sam-definition_22348494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_acff1b61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_517e9de1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Devops (104 skills)
+### Development/Devops (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1234,6 +1288,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_70be61b0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 98 | `development` |
 | [Skill](development/devops/014-name-skill_c4e3ac8b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 98 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_c00776ce/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 98 | `development` |
+| [Architect Enhance Skill Research Process](development/devops/395-architect-enhance-skill-research-process_9509571e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-enhance-skill-research-process.md) | ⭐ 20 | `development` |
+| [Readme Awesome](development/devops/readme_awesome_dfbea990/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 25.2k | `development` |
+| [Readme Flat All Az](development/devops/readme_flat_all_az_c0810312/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat All Created](development/devops/readme_flat_all_created_ee7c2e12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat All Releases](development/devops/readme_flat_all_releases_e65a11c9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat All Updated](development/devops/readme_flat_all_updated_29827b07/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Claude Md Az](development/devops/readme_flat_claude-md_az_dea817d7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Claude Md Created](development/devops/readme_flat_claude-md_created_28e242dd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Claude Md Releases](development/devops/readme_flat_claude-md_releases_644422e2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Claude Md Updated](development/devops/readme_flat_claude-md_updated_e3ab5454/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Commands Az](development/devops/readme_flat_commands_az_eda557d2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Commands Created](development/devops/readme_flat_commands_created_55cd2d6c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Commands Updated](development/devops/readme_flat_commands_updated_f30c9d41/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_e16e8b46/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Tooling Created](development/devops/readme_flat_tooling_created_fc494ef6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Tooling Releases](development/devops/readme_flat_tooling_releases_41b26467/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Tooling Updated](development/devops/readme_flat_tooling_updated_610794ee/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 25.2k | `development` |
 
 ### Development/Testing (16 skills)
 
@@ -1254,9 +1325,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_23c7b055/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-orchestrator/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
-| [Testing And Quality](development/testing/testing-and-quality_cc62081a/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/testing-and-quality.md) | ⭐ 87 | `development` |
+| [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_56df1e96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 20 | `development` |
 
-### Development/Tools (71 skills)
+### Development/Tools (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1330,9 +1401,42 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Whatif Subagent.Agent](development/tools/345-bicep-whatif-subagentagent_e6e12287/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 98 | `development` |
 | [Challenger Review Subagent.Agent](development/tools/346-challenger-review-subagentagent_9cd1df37/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/challenger-review-subagent.agent.md) | ⭐ 98 | `development` |
 | [Terraform Plan Subagent.Agent](development/tools/347-terraform-plan-subagentagent_ff3c936c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-plan-subagent.agent.md) | ⭐ 98 | `development` |
-| [Query](development/tools/query_cda82841/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/query.md) | ⭐ 40 | `development` |
+| [Query](development/tools/373-query_cda82841/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/query.md) | ⭐ 40 | `development` |
+| [P1 Enhance Skill Research Process For Cli Tool Skills](development/tools/343-p1-enhance-skill-research-process-for-cli-tool-skills_d9768f43/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-enhance-skill-research-process-for-cli-tool-skills.md) | ⭐ 20 | `development` |
+| [Claude](development/tools/017-claude_1d91434d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/CLAUDE.md) | ⭐ 20 | `development` |
+| [Claude](development/tools/017-claude_04798c26/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/CLAUDE.md) | ⭐ 20 | `development` |
+| [Orchestrator Discipline Grooming 2026 02 20](development/tools/344-orchestrator-discipline-grooming-2026-02-20_86d47386/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/orchestrator-discipline-grooming-2026-02-20.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/002-name-skill_338454b5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 20 | `development` |
+| [Labels](development/tools/345-labels_bf1894af/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/labels.md) | ⭐ 20 | `development` |
+| [2026 02 20 Duckdb Lock Scope Flag](development/tools/346-2026-02-20-duckdb-lock-scope-flag_db726ef4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/plans/2026-02-20-duckdb-lock-scope-flag.md) | ⭐ 20 | `development` |
+| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_c780de37/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Clients Created](development/tools/readme_flat_clients_created_ef9a54dd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Clients Releases](development/tools/readme_flat_clients_releases_aa1e5eb6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_8976658f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_ad32176b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Docs Az](development/tools/readme_flat_docs_az_a977e738/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_2e73d114/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Docs Releases](development/tools/readme_flat_docs_releases_da77d64f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Docs Updated](development/tools/readme_flat_docs_updated_6e8e4828/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_7924eaed/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Hooks Created](development/tools/readme_flat_hooks_created_34b68c2f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Hooks Releases](development/tools/readme_flat_hooks_releases_449da397/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Hooks Updated](development/tools/readme_flat_hooks_updated_2854622c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_1f262d38/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Statusline Created](development/tools/readme_flat_statusline_created_69fef711/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Statusline Releases](development/tools/readme_flat_statusline_releases_cdcf8c55/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Statusline Updated](development/tools/readme_flat_statusline_updated_dbe56aa6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_a4594f41/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Styles Created](development/tools/readme_flat_styles_created_7cca61cd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Styles Releases](development/tools/readme_flat_styles_releases_21b86c7e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Styles Updated](development/tools/readme_flat_styles_updated_4bcf093c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_3b53dd04/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 25.2k | `development` |
+| [Readme Flat Workflows Created](development/tools/readme_flat_workflows_created_9a05b85d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 25.2k | `development` |
+| [Readme Flat Workflows Releases](development/tools/readme_flat_workflows_releases_4c79fd6f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 25.2k | `development` |
+| [Readme Flat Workflows Updated](development/tools/readme_flat_workflows_updated_69c00dc3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Readme Awesome.Template](development/tools/readme_awesometemplate_3b85c8b8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/templates/README_AWESOME.template.md) | 🔥 25.2k | `development` |
 
-### Investment (18 skills)
+### Investment (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1354,6 +1458,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_54dac2de/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/risk-metrics-calculation/SKILL.md) | 🔥 13.9k | `investment` |
 | [Skill](investment/021-name-skill_d7f692ed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/startup-business-analyst-business-case/SKILL.md) | 🔥 13.9k | `investment` |
 | [Multi Agent Guide](investment/050-multi-agent-guide_db50cf80/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/multi-agent-guide.md) | ⭐ 293 | `investment` |
+| [P1 Extract Claude Plugin Lint To Standalone Pypi Package](investment/050-p1-extract-claude-plugin-lint-to-standalone-pypi-package_1cdb3a9d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-extract-claude-plugin-lint-to-standalone-pypi-package.md) | ⭐ 20 | `investment` |
 
 ### Other (2 skills)
 
@@ -1391,7 +1496,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Definitions.Instructions](productivity/174-agent-definitionsinstructions_21fb2966/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-definitions.instructions.md) | ⭐ 98 | `productivity` |
 | [Skill](productivity/093-name-skill_5d80956d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/SKILL.md) | ⭐ 98 | `productivity` |
 
-### Research (37 skills)
+### Research (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1431,7 +1536,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Jon Williams Dual Instance Pattern](research/262-jon-williams-dual-instance-pattern_a728d19f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/jon-williams-dual-instance-pattern.md) | ⭐ 396 | `research` |
 | [Prompt Repetition Paper](research/263-prompt-repetition-paper_7f42a4bf/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/prompt-repetition-paper.md) | ⭐ 396 | `research` |
 | [Se Cove Plugin](research/264-se-cove-plugin_d9e939fd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/se-cove-plugin.md) | ⭐ 396 | `research` |
-| [Skill](research/name-skill_b5413631/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/skills/assistant/SKILL.md) | ⭐ 40 | `research` |
+| [Skill](research/139-name-skill_b5413631/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/skills/assistant/SKILL.md) | ⭐ 40 | `research` |
+| [P1 Meta Process Capture Expert Panel Dataset Builder](research/265-p1-meta-process-capture-expert-panel-dataset-builder_eceaac36/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-meta-process-capture-expert-panel-dataset-builder.md) | ⭐ 20 | `research` |
+| [Skill](research/139-name-skill_d13ac83d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
+| [Skill](research/139-name-skill_10620e57/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `research` |
+| [State Machine](research/266-state-machine_e67882d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/backlog/references/state-machine.md) | ⭐ 20 | `research` |
+| [Skill](research/139-name-skill_81afd6b8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/SKILL.md) | ⭐ 20 | `research` |
 
 ## How Skills Are Organized
 
@@ -1483,5 +1593,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 21:15:41 UTC*
+*Last updated: 2026-02-27 22:15:34 UTC*
 *Automatically maintained by SkillFlow*
