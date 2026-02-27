@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **210 AI-powered skills** organized into 15 categories.
+A curated collection of **220 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (18 skills)
-- **Automation/Workflow** (10 skills)
+- **Automation/Scripting** (19 skills)
+- **Automation/Workflow** (7 skills)
 - **Commercial** (7 skills)
 - **Communication** (9 skills)
 - **Content Creation** (18 skills)
 - **Daily Assistant** (17 skills)
-- **Data Analysis** (12 skills)
-- **Development** (42 skills)
-- **Development/Devops** (24 skills)
+- **Data Analysis** (13 skills)
+- **Development** (53 skills)
+- **Development/Devops** (23 skills)
 - **Development/Testing** (3 skills)
 - **Development/Tools** (19 skills)
 - **Investment** (8 skills)
 - **Other** (2 skills)
-- **Productivity** (6 skills)
+- **Productivity** (7 skills)
 - **Research** (15 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (18 skills)
+### Automation/Scripting (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -201,10 +201,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [P1 Sam Human Escalation Criteria](automation/scripting/091-p1-sam-human-escalation-criteria_22c63258/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-sam-human-escalation-criteria.md) | ⭐ 20 | `automation` |
 | [P2 Conventional Commits Fix Skillmd Frontmatter Broken Links An](automation/scripting/092-p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an_a2fe1a4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-conventional-commits-fix-skillmd-frontmatter-broken-links-an.md) | ⭐ 20 | `automation` |
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e309f768/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
-| [Session](automation/scripting/session_17d91954/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/commands/session.md) | ⭐ 543 | `automation` |
-| [Ux Audit](automation/scripting/ux-audit_63e6bfb2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/commands/ux-audit.md) | ⭐ 543 | `automation` |
+| [Session](automation/scripting/091-session_17d91954/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/commands/session.md) | ⭐ 543 | `automation` |
+| [Json Output](automation/scripting/json-output_9f8d7838/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/json-output.md) | ⭐ 643 | `automation` |
+| [Orc](automation/scripting/orc_a5d95af8/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 643 | `automation` |
 
-### Automation/Workflow (10 skills)
+### Automation/Workflow (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -215,9 +216,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Lp Executor Guide](automation/workflow/139-lp_executor_guide_0040aeee/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/references/lp_executor_guide.md) | ⭐ 11 | `automation` |
 | [Skill](automation/workflow/002-name-skill_4c881e3b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md) | ⭐ 763 | `automation` |
 | [Skill](automation/workflow/002-name-skill_0e789cbb/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/.github/skills/classify-temp-entries-to-section/SKILL.md) | ⭐ 392 | `automation` |
-| [Tanstack Start](automation/workflow/tanstack-start_6fca1b22/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/commands/tanstack-start.md) | ⭐ 543 | `automation` |
-| [Skill](automation/workflow/name-skill_77d78063/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/design-assets/skills/favicon-gen/SKILL.md) | ⭐ 543 | `automation` |
-| [Skill](automation/workflow/name-skill_b30c7212/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/design-assets/skills/image-processing/SKILL.md) | ⭐ 543 | `automation` |
 
 ### Commercial (7 skills)
 
@@ -227,9 +225,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ir Analysis](commercial/372-ir-analysis_473b57e4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/zeroize-audit/skills/zeroize-audit/references/ir-analysis.md) | ⭐ 2.9k | `commercial` |
 | [17 The Star](commercial/373-17-the-star_0cc63419/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/17-the-star.md) | ⭐ 2.9k | `commercial` |
 | [King Of Pentacles](commercial/374-king-of-pentacles_ee2168eb/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/pentacles/king-of-pentacles.md) | ⭐ 2.9k | `commercial` |
-| [Claude](commercial/claude_10641fac/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 543 | `commercial` |
-| [Skill](commercial/name-skill_e1fcc7c4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-setup/SKILL.md) | ⭐ 543 | `commercial` |
-| [Prompting Guide](commercial/prompting-guide_03d1c91a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/design-assets/skills/gemini-image-gen/references/prompting-guide.md) | ⭐ 543 | `commercial` |
+| [Claude](commercial/036-claude_10641fac/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 543 | `commercial` |
+| [Skill](commercial/210-name-skill_e1fcc7c4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/shopify/skills/shopify-setup/SKILL.md) | ⭐ 543 | `commercial` |
+| [Skill](commercial/name-skill_1b1d59b7/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgis-tables/SKILL.md) | ⭐ 1.6k | `commercial` |
 
 ### Communication (9 skills)
 
@@ -242,8 +240,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authentication](communication/016-authentication_432b0de4/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/user-guide/authentication.md) | ⭐ 177 | `communication` |
 | [Readme Cn](communication/252-readme_cn_f4fb8d9b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 763 | `communication` |
 | [Skill](communication/127-name-skill_bb401c33/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-chat-history/SKILL.md) | ⭐ 763 | `communication` |
-| [Skill](communication/name-skill_facee7f5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/writing/skills/aussie-business-english/SKILL.md) | ⭐ 543 | `communication` |
-| [Recipes](communication/recipes_07b045a2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/frontend/skills/shadcn-ui/references/recipes.md) | ⭐ 543 | `communication` |
+| [Skill](communication/127-name-skill_facee7f5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/writing/skills/aussie-business-english/SKILL.md) | ⭐ 543 | `communication` |
+| [Recipes](communication/253-recipes_07b045a2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/frontend/skills/shadcn-ui/references/recipes.md) | ⭐ 543 | `communication` |
 
 ### Content Creation (18 skills)
 
@@ -265,8 +263,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Config Settings](content-creation/387-config_settings_8affec2b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.9k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Models Research](content-creation/384-models_research_1bcb2c64/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/models_research.md) | ⭐ 392 | `content creation` |
 | [Johnw](content-creation/388-johnw_0c635fd9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/johnw.md) | ⭐ 12 | `content creation` |
-| [Skill](content-creation/name-skill_90a79ecb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/process-siren/skills/improve-processes/SKILL.md) | ⭐ 20 | `content creation` |
-| [Skill](content-creation/name-skill_c4d011f1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/wordpress/skills/wordpress-setup/SKILL.md) | ⭐ 543 | `content creation` |
+| [Skill](content-creation/049-name-skill_90a79ecb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/process-siren/skills/improve-processes/SKILL.md) | ⭐ 20 | `content creation` |
+| [Api](content-creation/api_a71b2d70/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.6k | `content creation` |
 
 ### Daily Assistant (17 skills)
 
@@ -288,9 +286,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Phase 6 Final Report](daily-assistant/274-phase-6-final-report_9a318c4d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/zeroize-audit/skills/zeroize-audit/workflows/phase-6-final-report.md) | ⭐ 2.9k | `daily assistant` |
 | [Ten Of Wands](daily-assistant/275-ten-of-wands_85a48ee3/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/wands/ten-of-wands.md) | ⭐ 2.9k | `daily assistant` |
 | [Systemd Setup](daily-assistant/266-systemd-setup_f4c67252/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/systemd-setup.md) | ⭐ 177 | `daily assistant` |
-| [Twitter V060](daily-assistant/twitter-v060_00f28c07/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/twitter-v060.md) | ⭐ 236 | `daily assistant` |
+| [Report](daily-assistant/report_a65e3fc4/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/report.md) | ⭐ 643 | `daily assistant` |
 
-### Data Analysis (12 skills)
+### Data Analysis (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -304,10 +302,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_d516ab63/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md) | ⭐ 11 | `data analysis` |
 | [Memory Architecture](data-analysis/377-memory_architecture_c2a7a6b8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/memory_architecture.md) | ⭐ 763 | `data analysis` |
 | [Nft Monitoring](data-analysis/495-nft-monitoring_be7eb631/) | [mensfeld/code-on-incus](https://raw.githubusercontent.com/mensfeld/code-on-incus/master/docs/NFT-MONITORING.md) | ⭐ 268 | `data analysis` |
-| [Ui Ux Pro Max Skill](data-analysis/ui-ux-pro-max-skill_b408db6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/ui-ux-pro-max-skill.md) | ⭐ 20 | `data analysis` |
-| [Skill](data-analysis/name-skill_a7129ee9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/integrations/skills/google-chat-messages/SKILL.md) | ⭐ 543 | `data analysis` |
+| [Ui Ux Pro Max Skill](data-analysis/501-ui-ux-pro-max-skill_b408db6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/ui-ux-pro-max-skill.md) | ⭐ 20 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a7129ee9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/integrations/skills/google-chat-messages/SKILL.md) | ⭐ 543 | `data analysis` |
+| [Nfsd](data-analysis/nfsd_0b74b7f0/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/nfsd.md) | ⭐ 643 | `data analysis` |
 
-### Development (42 skills)
+### Development (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -343,18 +342,29 @@ ls ~/.claude/skills/patch-research-agent/
 | [X Popular Papers](development/2946-x_popular_papers_f6579aef/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/x_popular_papers.md) | ⭐ 392 | `development` |
 | [Fix](development/2942-fix_4334049b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 12 | `development` |
 | [Azure](development/084-azure_bb4e38b3/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/azure.md) | ⭐ 392 | `development` |
-| [Research Agent Assessment](development/research-agent-assessment_c6d81a5d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/research-agent-assessment.md) | ⭐ 20 | `development` |
-| [Skill](development/name-skill_9d69f716/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/SKILL.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_07bba6a0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/vite-flare-starter/SKILL.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_1891cee6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/SKILL.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_6c7e72be/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/github-release/SKILL.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_b0e0b759/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/skill-creator/SKILL.md) | ⭐ 543 | `development` |
-| [Deployment](development/deployment_28c3c43e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/deployment.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_4fd07ecf/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/design-assets/skills/gemini-image-gen/SKILL.md) | ⭐ 543 | `development` |
-| [Skill](development/name-skill_b7b9f92f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/responsiveness-check/SKILL.md) | ⭐ 543 | `development` |
-| [Templates](development/templates_c5161a65/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/references/templates.md) | ⭐ 543 | `development` |
+| [Research Agent Assessment](development/2959-research-agent-assessment_c6d81a5d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/research-agent-assessment.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_9d69f716/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/SKILL.md) | ⭐ 543 | `development` |
+| [Skill](development/1178-name-skill_07bba6a0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/vite-flare-starter/SKILL.md) | ⭐ 543 | `development` |
+| [Skill](development/1178-name-skill_1891cee6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-guide/SKILL.md) | ⭐ 543 | `development` |
+| [Skill](development/1178-name-skill_6c7e72be/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/github-release/SKILL.md) | ⭐ 543 | `development` |
+| [Skill](development/1178-name-skill_b0e0b759/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/skill-creator/SKILL.md) | ⭐ 543 | `development` |
+| [Deployment](development/272-deployment_28c3c43e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/deployment.md) | ⭐ 543 | `development` |
+| [Argument Parsing](development/argument-parsing_f46ba92e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/argument-parsing.md) | ⭐ 643 | `development` |
+| [Coding Style](development/coding-style_1338db47/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/coding-style.md) | ⭐ 643 | `development` |
+| [Common Bugs](development/common-bugs_e52fe6c4/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/common-bugs.md) | ⭐ 643 | `development` |
+| [Kernel Compat](development/kernel-compat_2db6869f/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/kernel-compat.md) | ⭐ 643 | `development` |
+| [Netlink](development/netlink_b4900310/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/netlink.md) | ⭐ 643 | `development` |
+| [Patch Submission](development/patch-submission_32be650f/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/patch-submission.md) | ⭐ 643 | `development` |
+| [Review Core](development/review-core_89eff333/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/review-core.md) | ⭐ 643 | `development` |
+| [Technical Patterns](development/technical-patterns_0e516b8b/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/technical-patterns.md) | ⭐ 643 | `development` |
+| [Iproute Verify](development/iproute-verify_fdf36dc1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/slash-commands/iproute-verify.md) | ⭐ 643 | `development` |
+| [Mm Folio](development/mm-folio_2fa17c29/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-folio.md) | ⭐ 643 | `development` |
+| [Subsystem](development/subsystem_424e4d1c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 643 | `development` |
+| [False Positive Guide](development/false-positive-guide_e1255fae/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/false-positive-guide.md) | ⭐ 643 | `development` |
+| [Json](development/json_11fd65e4/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/json.md) | ⭐ 643 | `development` |
+| [Iproute Debug](development/iproute-debug_4c155e1c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/slash-commands/iproute-debug.md) | ⭐ 643 | `development` |
 
-### Development/Devops (24 skills)
+### Development/Devops (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -377,11 +387,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bifrost](development/devops/394-bifrost_81c5f947/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/llm-infrastructure/bifrost.md) | ⭐ 20 | `development` |
 | [Docs Mcp Server](development/devops/117-docs-mcp-server_79dbf0ef/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/docs-mcp-server.md) | ⭐ 20 | `development` |
 | [Mcpjam](development/devops/118-mcpjam_628da6fa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/mcpjam.md) | ⭐ 20 | `development` |
-| [Skill](development/devops/name-skill_f2fb6f03/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/SKILL.md) | ⭐ 543 | `development` |
-| [Architecture](development/devops/architecture_8a5a2c86/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/architecture.md) | ⭐ 543 | `development` |
-| [Customization Guide](development/devops/customization-guide_69b157f0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/vite-flare-starter/references/customization-guide.md) | ⭐ 543 | `development` |
-| [Devto V060](development/devops/devto-v060_d158348a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-v060.md) | ⭐ 236 | `development` |
-| [Permission Presets](development/devops/permission-presets_562dc9de/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/references/permission-presets.md) | ⭐ 543 | `development` |
+| [Skill](development/devops/014-name-skill_f2fb6f03/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/SKILL.md) | ⭐ 543 | `development` |
+| [Architecture](development/devops/032-architecture_8a5a2c86/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/architecture.md) | ⭐ 543 | `development` |
+| [Customization Guide](development/devops/375-customization-guide_69b157f0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/vite-flare-starter/references/customization-guide.md) | ⭐ 543 | `development` |
+| [Devto V060](development/devops/376-devto-v060_d158348a/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/devto-v060.md) | ⭐ 236 | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -411,9 +420,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_647ea66b/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/AGENTS.md) | ⭐ 4.2k | `development` |
 | [Claude Code Options](development/tools/367-claude-code-options_3b4b3a1f/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/user-guide/claude-code-options.md) | ⭐ 177 | `development` |
 | [Helpers](development/tools/368-helpers_24dafc5c/) | [anthropics/anthropic-sdk-python](https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/helpers.md) | ⭐ 2.8k | `development` |
-| [Skill](development/tools/name-skill_d043a7e0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-peer-review/SKILL.md) | ⭐ 543 | `development` |
-| [Project Health](development/tools/project-health_3eadc1b7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/commands/project-health.md) | ⭐ 543 | `development` |
-| [Release](development/tools/release_e34bdc1d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/commands/release.md) | ⭐ 543 | `development` |
+| [Skill](development/tools/002-name-skill_d043a7e0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/gemini-peer-review/SKILL.md) | ⭐ 543 | `development` |
+| [Iproute Review](development/tools/iproute-review_943594e2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/slash-commands/iproute-review.md) | ⭐ 643 | `development` |
+| [Iproute2](development/tools/iproute2_aafb9647/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/skills/iproute2.md) | ⭐ 643 | `development` |
 
 ### Investment (8 skills)
 
@@ -426,7 +435,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Seven Of Cups](investment/052-seven-of-cups_852b35c0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/cups/seven-of-cups.md) | ⭐ 2.9k | `investment` |
 | [Nine Of Pentacles](investment/053-nine-of-pentacles_272b240f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/pentacles/nine-of-pentacles.md) | ⭐ 2.9k | `investment` |
 | [Skill](investment/021-name-skill_ea8c4627/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md) | ⭐ 11 | `investment` |
-| [Server Functions](investment/server-functions_535f27be/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/server-functions.md) | ⭐ 543 | `investment` |
+| [Server Functions](investment/054-server-functions_535f27be/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/server-functions.md) | ⭐ 543 | `investment` |
 
 ### Other (2 skills)
 
@@ -435,7 +444,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
 
-### Productivity (6 skills)
+### Productivity (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -445,6 +454,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Knight Of Wands](productivity/177-knight-of-wands_4ae17136/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/wands/knight-of-wands.md) | ⭐ 2.9k | `productivity` |
 | [Page Of Wands](productivity/178-page-of-wands_6da5cc15/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/wands/page-of-wands.md) | ⭐ 2.9k | `productivity` |
 | [Lp Rebalancer Guide](productivity/174-lp_rebalancer_guide_63b97f02/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/references/lp_rebalancer_guide.md) | ⭐ 11 | `productivity` |
+| [Timers](productivity/timers_c4639e2e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/timers.md) | ⭐ 643 | `productivity` |
 
 ### Research (15 skills)
 
@@ -464,7 +474,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Asmo Guide](research/258-asmo_guide_0a4c01c8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/references/asmo_guide.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_e113c43e/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/.github/skills/add-new-entry/SKILL.md) | ⭐ 392 | `research` |
 | [Skill](research/139-name-skill_1ee806ea/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/.github/skills/update-cite-count/SKILL.md) | ⭐ 392 | `research` |
-| [Completeness Report Plugin Creator](research/completeness-report-plugin-creator_bf91f9a2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/completeness-report-plugin-creator.md) | ⭐ 20 | `research` |
+| [Completeness Report Plugin Creator](research/263-completeness-report-plugin-creator_bf91f9a2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/completeness-report-plugin-creator.md) | ⭐ 20 | `research` |
 
 ## How Skills Are Organized
 
@@ -516,5 +526,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 10:14:11 UTC*
+*Last updated: 2026-02-27 11:13:43 UTC*
 *Automatically maintained by SkillFlow*
