@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1166 AI-powered skills** organized into 15 categories.
+A curated collection of **1177 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (63 skills)
-- **Automation/Workflow** (193 skills)
-- **Commercial** (63 skills)
+- **Automation/Scripting** (64 skills)
+- **Automation/Workflow** (192 skills)
+- **Commercial** (66 skills)
 - **Communication** (33 skills)
-- **Content Creation** (124 skills)
-- **Daily Assistant** (76 skills)
-- **Data Analysis** (58 skills)
-- **Development** (283 skills)
-- **Development/Devops** (107 skills)
-- **Development/Testing** (15 skills)
+- **Content Creation** (126 skills)
+- **Daily Assistant** (77 skills)
+- **Data Analysis** (60 skills)
+- **Development** (287 skills)
+- **Development/Devops** (104 skills)
+- **Development/Testing** (16 skills)
 - **Development/Tools** (71 skills)
 - **Investment** (18 skills)
 - **Other** (2 skills)
 - **Productivity** (24 skills)
-- **Research** (36 skills)
+- **Research** (37 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (63 skills)
+### Automation/Scripting (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -248,8 +248,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Uniswap Driver](automation/scripting/096-uniswap-driver_6ed6ed96/) | [Uniswap/uniswap-ai](https://raw.githubusercontent.com/Uniswap/uniswap-ai/main/docs/plugins/uniswap-driver.md) | ⭐ 130 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_8330a722/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.0k | `automation` |
 | [2026 02 23 Veille Cc Releases 2144 2150](automation/scripting/091-2026-02-23-veille-cc-releases-2144-2150_d5446d04/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-23-veille-cc-releases-2144-2150.md) | ⭐ 396 | `automation` |
+| [Assistant Upload](automation/scripting/assistant-upload_24cbbd6d/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-upload.md) | ⭐ 40 | `automation` |
 
-### Automation/Workflow (193 skills)
+### Automation/Workflow (192 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -441,13 +442,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Weller Session Migration Skill](automation/workflow/152-weller-session-migration-skill_21fc31e4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/weller-session-migration-skill.md) | ⭐ 396 | `automation` |
 | [06 Development Workflows](automation/workflow/153-06-development-workflows_2e48415a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/06-development-workflows.md) | ⭐ 396 | `workflows` `tdd` `spec-first` |
 | [Tts Setup](automation/workflow/154-tts-setup_e3fc1ad6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/tts-setup.md) | ⭐ 396 | `workflow` `tts` `tutorial` |
-| [Tech Debt Tracker](automation/workflow/tech-debt-tracker_059c0eab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/exec-plans/tech-debt-tracker.md) | ⭐ 98 | `automation` |
-| [Character Reference](automation/workflow/character-reference_81a464fe/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 98 | `automation` |
-| [Generate Bicep.Prompt](automation/workflow/generate-bicepprompt_460a9b25/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/generate-bicep.prompt.md) | ⭐ 98 | `automation` |
-| [Bicep Lint Subagent.Agent](automation/workflow/bicep-lint-subagentagent_a0d74855/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-lint-subagent.agent.md) | ⭐ 98 | `automation` |
-| [Terraform Lint Subagent.Agent](automation/workflow/terraform-lint-subagentagent_b0772399/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-lint-subagent.agent.md) | ⭐ 98 | `automation` |
+| [Tech Debt Tracker](automation/workflow/136-tech-debt-tracker_059c0eab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/exec-plans/tech-debt-tracker.md) | ⭐ 98 | `automation` |
+| [Character Reference](automation/workflow/137-character-reference_81a464fe/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 98 | `automation` |
+| [Assistant Context](automation/workflow/assistant-context_5ce22085/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-context.md) | ⭐ 40 | `automation` |
+| [Assistant List](automation/workflow/assistant-list_329dd3b1/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-list.md) | ⭐ 40 | `automation` |
 
-### Commercial (63 skills)
+### Commercial (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -509,11 +509,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 19 Linkedin Context Engineering Augment](commercial/373-2026-02-19-linkedin-context-engineering-augment_53eae151/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/2026-02-19-linkedin-context-engineering-augment.md) | ⭐ 396 | `commercial` |
 | [Grenier Agent Skill Quality](commercial/374-grenier-agent-skill-quality_24df2a84/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/grenier-agent-skill-quality.md) | ⭐ 396 | `commercial` |
 | [Tdd With Claude](commercial/375-tdd-with-claude_3d61962d/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/tdd-with-claude.md) | ⭐ 396 | `workflow` `tdd` `testing` |
-| [00 Handoff](commercial/00-handoff_2bc2f529/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/00-handoff.md) | ⭐ 98 | `commercial` |
-| [01 Requirements](commercial/01-requirements_a517748d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/01-requirements.md) | ⭐ 98 | `commercial` |
-| [03 Des Adr 0001 Cost Optimized N Tier Azure Architecture](commercial/03-des-adr-0001-cost-optimized-n-tier-azure-architecture_df4774b6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-adr-0001-cost-optimized-n-tier-azure-architecture.md) | ⭐ 98 | `commercial` |
-| [07 Ab Cost Estimate](commercial/07-ab-cost-estimate_c32d913b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-ab-cost-estimate.md) | ⭐ 98 | `commercial` |
-| [07 Design Document](commercial/07-design-document_36645620/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-design-document.md) | ⭐ 98 | `commercial` |
+| [00 Handoff](commercial/379-00-handoff_2bc2f529/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/00-handoff.md) | ⭐ 98 | `commercial` |
+| [01 Requirements](commercial/380-01-requirements_a517748d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/01-requirements.md) | ⭐ 98 | `commercial` |
+| [03 Des Adr 0001 Cost Optimized N Tier Azure Architecture](commercial/381-03-des-adr-0001-cost-optimized-n-tier-azure-architecture_df4774b6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-adr-0001-cost-optimized-n-tier-azure-architecture.md) | ⭐ 98 | `commercial` |
+| [07 Ab Cost Estimate](commercial/382-07-ab-cost-estimate_c32d913b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-ab-cost-estimate.md) | ⭐ 98 | `commercial` |
+| [Full Skills](commercial/full-skills_38fc8787/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/FULL-SKILLS.md) | ⭐ 87 | `commercial` |
+| [Backend Development](commercial/backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
+| [Frontend Development](commercial/frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
+| [Version Control And Collaboration](commercial/version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
 
 ### Communication (33 skills)
 
@@ -549,11 +552,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_e2326fed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/upstash-qstash/SKILL.md) | 🔥 13.9k | `communication` |
 | [Claude Code Releases](communication/253-claude-code-releases_e7c9f26a/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/claude-code-releases.md) | ⭐ 396 | `reference` `release` |
 | [Clawdbot Twitter Analysis](communication/254-clawdbot-twitter-analysis_c60d1411/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/clawdbot-twitter-analysis.md) | ⭐ 396 | `communication` |
-| [Context Optimize.Prompt](communication/context-optimizeprompt_c1dd481e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/context-optimize.prompt.md) | ⭐ 98 | `communication` |
-| [Workshop Checklist](communication/workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
-| [05 Implementation Reference](communication/05-implementation-reference_f5cfd254/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/e2e-conductor-test/05-implementation-reference.md) | ⭐ 98 | `communication` |
+| [Context Optimize.Prompt](communication/260-context-optimizeprompt_c1dd481e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/context-optimize.prompt.md) | ⭐ 98 | `communication` |
+| [Workshop Checklist](communication/209-workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
+| [Business And Productivity](communication/business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
 
-### Content Creation (124 skills)
+### Content Creation (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -673,16 +676,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Design To Code](content-creation/420-design-to-code_f3cb0639/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/design-to-code.md) | ⭐ 396 | `workflow` `mcp` `integration` |
 | [Talk Pipeline](content-creation/421-talk-pipeline_1c11f69f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/talk-pipeline.md) | ⭐ 396 | `workflow` `skills` `pipeline` |
 | [Task Management](content-creation/422-task-management_5b1f41d4/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/task-management.md) | ⭐ 396 | `workflow` `guide` `agents` |
-| [Mastra](content-creation/mastra_5b1d113f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/mastra.md) | 🔥 14.6k | `content creation` |
-| [Skill](content-creation/name-skill_b58430ca/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.mastracode/skills/planning-with-files/SKILL.md) | 🔥 14.6k | `content creation` |
-| [01 Conductor.Agent](content-creation/01-conductoragent_c1cf2bf0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/01-conductor.agent.md) | ⭐ 98 | `content creation` |
-| [Git Commit Push.Prompt](content-creation/git-commit-pushprompt_cbbdc7bb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/git-commit-push.prompt.md) | ⭐ 98 | `content creation` |
-| [07 Compliance Matrix](content-creation/07-compliance-matrix_51e7bcad/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-compliance-matrix.md) | ⭐ 98 | `content creation` |
-| [Skill](content-creation/name-skill_de8edaa7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 98 | `content creation` |
-| [03 Des Adr 0002 Production Availability Zone Upgrade Path](content-creation/03-des-adr-0002-production-availability-zone-upgrade-path_0fb2f874/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-adr-0002-production-availability-zone-upgrade-path.md) | ⭐ 98 | `content creation` |
-| [07 Documentation Index](content-creation/07-documentation-index_68c28a3f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-documentation-index.md) | ⭐ 98 | `content creation` |
+| [Mastra](content-creation/365-mastra_5b1d113f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/mastra.md) | 🔥 14.6k | `content creation` |
+| [Skill](content-creation/049-name-skill_b58430ca/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.mastracode/skills/planning-with-files/SKILL.md) | 🔥 14.6k | `content creation` |
+| [01 Conductor.Agent](content-creation/366-01-conductoragent_c1cf2bf0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/01-conductor.agent.md) | ⭐ 98 | `content creation` |
+| [Git Commit Push.Prompt](content-creation/367-git-commit-pushprompt_cbbdc7bb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/git-commit-push.prompt.md) | ⭐ 98 | `content creation` |
+| [07 Compliance Matrix](content-creation/368-07-compliance-matrix_51e7bcad/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-compliance-matrix.md) | ⭐ 98 | `content creation` |
+| [Skill](content-creation/049-name-skill_de8edaa7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 98 | `content creation` |
+| [Devops And Infrastructure](content-creation/devops-and-infrastructure_97e27c8f/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/devops-and-infrastructure.md) | ⭐ 87 | `content creation` |
+| [Machine Learning](content-creation/machine-learning_3210aa07/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/machine-learning.md) | ⭐ 87 | `content creation` |
+| [Tools And Utilities](content-creation/tools-and-utilities_e0955810/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/tools-and-utilities.md) | ⭐ 87 | `content creation` |
+| [Uncategorized](content-creation/uncategorized_bd89de14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/uncategorized.md) | ⭐ 87 | `content creation` |
 
-### Daily Assistant (76 skills)
+### Daily Assistant (77 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -746,24 +751,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gsd Evaluation](daily-assistant/277-gsd-evaluation_74780fa8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/gsd-evaluation.md) | ⭐ 396 | `daily assistant` |
 | [Reddit Claude Code Max Plan Optimization](daily-assistant/278-reddit-claude-code-max-plan-optimization_1bbecacd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/reddit-claude-code-max-plan-optimization.md) | ⭐ 396 | `daily assistant` |
 | [Iterative Refinement](daily-assistant/279-iterative-refinement_f7302fe5/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/iterative-refinement.md) | ⭐ 396 | `workflow` `guide` `design-patterns` |
-| [02 Requirements.Agent](daily-assistant/02-requirementsagent_f43592e8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/02-requirements.agent.md) | ⭐ 98 | `daily assistant` |
-| [04 Design.Agent](daily-assistant/04-designagent_5b5665a2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/04-design.agent.md) | ⭐ 98 | `daily assistant` |
-| [05B Bicep Planner.Agent](daily-assistant/05b-bicep-planneragent_91ab3c3e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05b-bicep-planner.agent.md) | ⭐ 98 | `Environment` `ManagedBy` `Project` |
-| [05T Terraform Planner.Agent](daily-assistant/05t-terraform-planneragent_9dc5303d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05t-terraform-planner.agent.md) | ⭐ 98 | `Environment` `ManagedBy` `Project` |
-| [06B Bicep Codegen.Agent](daily-assistant/06b-bicep-codegenagent_cb04249c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06b-bicep-codegen.agent.md) | ⭐ 98 | `daily assistant` |
-| [06T Terraform Codegen.Agent](daily-assistant/06t-terraform-codegenagent_013d6899/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06t-terraform-codegen.agent.md) | ⭐ 98 | `daily assistant` |
-| [07B Bicep Deploy.Agent](daily-assistant/07b-bicep-deployagent_3f10ada9/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07b-bicep-deploy.agent.md) | ⭐ 98 | `daily assistant` |
-| [07T Terraform Deploy.Agent](daily-assistant/07t-terraform-deployagent_78271a3a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07t-terraform-deploy.agent.md) | ⭐ 98 | `daily assistant` |
-| [08 As Built.Agent](daily-assistant/08-as-builtagent_3b2a0fba/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/08-as-built.agent.md) | ⭐ 98 | `daily assistant` |
-| [09 Diagnose.Agent](daily-assistant/09-diagnoseagent_cce69863/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 98 | `daily assistant` |
-| [Azure Artifacts.Instructions](daily-assistant/azure-artifactsinstructions_e571e04f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/azure-artifacts.instructions.md) | ⭐ 98 | `daily assistant` |
-| [Doc Gardening.Prompt](daily-assistant/doc-gardeningprompt_2bb1c12c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/doc-gardening.prompt.md) | ⭐ 98 | `daily assistant` |
-| [07 Operations Runbook](daily-assistant/07-operations-runbook_5edc8070/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-operations-runbook.md) | ⭐ 98 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_87183b1c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 98 | `daily assistant` |
-| [Freshness Checklist](daily-assistant/freshness-checklist_3095604c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 98 | `daily assistant` |
-| [10 Challenger.Agent](daily-assistant/10-challengeragent_6fea81a0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/10-challenger.agent.md) | ⭐ 98 | `daily assistant` |
+| [02 Requirements.Agent](daily-assistant/290-02-requirementsagent_f43592e8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/02-requirements.agent.md) | ⭐ 98 | `daily assistant` |
+| [04 Design.Agent](daily-assistant/291-04-designagent_5b5665a2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/04-design.agent.md) | ⭐ 98 | `daily assistant` |
+| [05B Bicep Planner.Agent](daily-assistant/292-05b-bicep-planneragent_91ab3c3e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05b-bicep-planner.agent.md) | ⭐ 98 | `Environment` `ManagedBy` `Project` |
+| [05T Terraform Planner.Agent](daily-assistant/293-05t-terraform-planneragent_9dc5303d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05t-terraform-planner.agent.md) | ⭐ 98 | `Environment` `ManagedBy` `Project` |
+| [06B Bicep Codegen.Agent](daily-assistant/294-06b-bicep-codegenagent_cb04249c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06b-bicep-codegen.agent.md) | ⭐ 98 | `daily assistant` |
+| [06T Terraform Codegen.Agent](daily-assistant/295-06t-terraform-codegenagent_013d6899/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06t-terraform-codegen.agent.md) | ⭐ 98 | `daily assistant` |
+| [07B Bicep Deploy.Agent](daily-assistant/296-07b-bicep-deployagent_3f10ada9/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07b-bicep-deploy.agent.md) | ⭐ 98 | `daily assistant` |
+| [07T Terraform Deploy.Agent](daily-assistant/297-07t-terraform-deployagent_78271a3a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07t-terraform-deploy.agent.md) | ⭐ 98 | `daily assistant` |
+| [08 As Built.Agent](daily-assistant/298-08-as-builtagent_3b2a0fba/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/08-as-built.agent.md) | ⭐ 98 | `daily assistant` |
+| [09 Diagnose.Agent](daily-assistant/299-09-diagnoseagent_cce69863/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 98 | `daily assistant` |
+| [Azure Artifacts.Instructions](daily-assistant/300-azure-artifactsinstructions_e571e04f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/azure-artifacts.instructions.md) | ⭐ 98 | `daily assistant` |
+| [Doc Gardening.Prompt](daily-assistant/301-doc-gardeningprompt_2bb1c12c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/doc-gardening.prompt.md) | ⭐ 98 | `daily assistant` |
+| [07 Operations Runbook](daily-assistant/302-07-operations-runbook_5edc8070/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-operations-runbook.md) | ⭐ 98 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_87183b1c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 98 | `daily assistant` |
+| [Freshness Checklist](daily-assistant/237-freshness-checklist_3095604c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 98 | `daily assistant` |
+| [Ai And Llm](daily-assistant/ai-and-llm_539064e8/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/ai-and-llm.md) | ⭐ 87 | `daily assistant` |
+| [Data And Analytics](daily-assistant/data-and-analytics_d3798a14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/data-and-analytics.md) | ⭐ 87 | `daily assistant` |
 
-### Data Analysis (58 skills)
+### Data Analysis (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -820,13 +826,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ui Ux Pro Max Skill](data-analysis/498-ui-ux-pro-max-skill_60fc0d73/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/ui-ux-pro-max-skill.md) | ⭐ 396 | `data analysis` |
 | [Pdf Generation](data-analysis/499-pdf-generation_5efe7d50/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/pdf-generation.md) | ⭐ 396 | `workflow` `guide` `integration` |
 | [Search Tools Mastery](data-analysis/500-search-tools-mastery_c4e741ba/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/search-tools-mastery.md) | ⭐ 396 | `workflow` `search` `guide` |
-| [Workflow](data-analysis/workflow_9b59f15f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 98 | `data analysis` |
-| [03 Architect.Agent](data-analysis/03-architectagent_6508808b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 98 | `data analysis` |
-| [04 Governance Constraints](data-analysis/04-governance-constraints_f84335e2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-governance-constraints.md) | ⭐ 98 | `data analysis` |
-| [04 Preflight Check](data-analysis/04-preflight-check_22be87df/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-preflight-check.md) | ⭐ 98 | `data analysis` |
-| [Skill](data-analysis/name-skill_8f5166bf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/golden-principles/SKILL.md) | ⭐ 98 | `data analysis` |
+| [Workflow](data-analysis/246-workflow_9b59f15f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 98 | `data analysis` |
+| [03 Architect.Agent](data-analysis/496-03-architectagent_6508808b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 98 | `data analysis` |
+| [04 Governance Constraints](data-analysis/382-04-governance-constraints_f84335e2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-governance-constraints.md) | ⭐ 98 | `data analysis` |
+| [04 Preflight Check](data-analysis/497-04-preflight-check_22be87df/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-preflight-check.md) | ⭐ 98 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_8f5166bf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/golden-principles/SKILL.md) | ⭐ 98 | `data analysis` |
+| [Assistant Chat](data-analysis/assistant-chat_34b08162/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-chat.md) | ⭐ 40 | `data analysis` |
+| [Assistant Sync](data-analysis/assistant-sync_49662bbd/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-sync.md) | ⭐ 40 | `data analysis` |
 
-### Development (283 skills)
+### Development (287 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1096,25 +1104,29 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skeleton Projects](development/2983-skeleton-projects_6d3bea44/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/skeleton-projects.md) | ⭐ 396 | `workflow` `architecture` `template` |
 | [Spec First](development/2984-spec-first_03372c1f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/spec-first.md) | ⭐ 396 | `workflow` `architecture` `config` |
 | [Team Ai Instructions](development/2985-team-ai-instructions_25576ce2/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/team-ai-instructions.md) | ⭐ 396 | `workflow` `team` `claude-md` |
-| [Contributors](development/contributors_b462a0b1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 14.6k | `development` |
-| [Quality Score](development/quality_score_6be5a171/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/QUALITY_SCORE.md) | ⭐ 98 | `development` |
-| [Branch Ruleset Config](development/branch-ruleset-config_1e611247/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/branch-ruleset-config.md) | ⭐ 98 | `development` |
-| [Dev Containers](development/dev-containers_f8bd8f63/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/dev-containers.md) | ⭐ 98 | `development` |
-| [Bicep Policy Compliance.Instructions](development/bicep-policy-complianceinstructions_5e06f333/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/bicep-policy-compliance.instructions.md) | ⭐ 98 | `development` |
-| [Context Optimization.Instructions](development/context-optimizationinstructions_50c06df4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/context-optimization.instructions.md) | ⭐ 98 | `development` |
-| [Governance Discovery.Instructions](development/governance-discoveryinstructions_f0f67161/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md) | ⭐ 98 | `development` |
-| [Diagnose Resources.Prompt](development/diagnose-resourcesprompt_63f8bb2e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/diagnose-resources.prompt.md) | ⭐ 98 | `development` |
-| [04 Implementation Plan](development/04-implementation-plan_3d380732/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-implementation-plan.md) | ⭐ 98 | `development` |
-| [Agents](development/agents_b8da2eb7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/infra/terraform/AGENTS.md) | ⭐ 98 | `development` |
-| [Cost Estimate Subagent.Agent](development/cost-estimate-subagentagent_41e60205/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/cost-estimate-subagent.agent.md) | ⭐ 98 | `development` |
-| [Governance Discovery Subagent.Agent](development/governance-discovery-subagentagent_8968a33c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/governance-discovery-subagent.agent.md) | ⭐ 98 | `development` |
-| [Terraform Review Subagent.Agent](development/terraform-review-subagentagent_cb0ca2cf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-review-subagent.agent.md) | ⭐ 98 | `development` |
-| [Skill](development/name-skill_aeaf6a7a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/terraform-patterns/SKILL.md) | ⭐ 98 | `development` |
-| [Token Estimation](development/token-estimation_0cd1ceab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/references/token-estimation.md) | ⭐ 98 | `development` |
-| [Agents](development/agents_83ab9da1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/infra/bicep/AGENTS.md) | ⭐ 98 | `development` |
-| [05 Implementation Reference.Template](development/05-implementation-referencetemplate_dd88dbac/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/05-implementation-reference.template.md) | ⭐ 98 | `development` |
+| [Contributors](development/1897-contributors_b462a0b1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 14.6k | `development` |
+| [Quality Score](development/2991-quality_score_6be5a171/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/QUALITY_SCORE.md) | ⭐ 98 | `development` |
+| [Branch Ruleset Config](development/2992-branch-ruleset-config_1e611247/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/branch-ruleset-config.md) | ⭐ 98 | `development` |
+| [Dev Containers](development/2993-dev-containers_f8bd8f63/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/dev-containers.md) | ⭐ 98 | `development` |
+| [Bicep Policy Compliance.Instructions](development/2994-bicep-policy-complianceinstructions_5e06f333/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/bicep-policy-compliance.instructions.md) | ⭐ 98 | `development` |
+| [Context Optimization.Instructions](development/2995-context-optimizationinstructions_50c06df4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/context-optimization.instructions.md) | ⭐ 98 | `development` |
+| [Governance Discovery.Instructions](development/2996-governance-discoveryinstructions_f0f67161/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md) | ⭐ 98 | `development` |
+| [Diagnose Resources.Prompt](development/2997-diagnose-resourcesprompt_63f8bb2e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/diagnose-resources.prompt.md) | ⭐ 98 | `development` |
+| [04 Implementation Plan](development/2998-04-implementation-plan_3d380732/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/04-implementation-plan.md) | ⭐ 98 | `development` |
+| [Agents](development/028-agents_b8da2eb7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/infra/terraform/AGENTS.md) | ⭐ 98 | `development` |
+| [Cost Estimate Subagent.Agent](development/2999-cost-estimate-subagentagent_41e60205/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/cost-estimate-subagent.agent.md) | ⭐ 98 | `development` |
+| [Governance Discovery Subagent.Agent](development/3000-governance-discovery-subagentagent_8968a33c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/governance-discovery-subagent.agent.md) | ⭐ 98 | `development` |
+| [Terraform Review Subagent.Agent](development/3001-terraform-review-subagentagent_cb0ca2cf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-review-subagent.agent.md) | ⭐ 98 | `development` |
+| [Skill](development/1178-name-skill_aeaf6a7a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/terraform-patterns/SKILL.md) | ⭐ 98 | `development` |
+| [Token Estimation](development/3002-token-estimation_0cd1ceab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/references/token-estimation.md) | ⭐ 98 | `development` |
+| [Help](development/help_c712f940/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/help.md) | ⭐ 40 | `development` |
+| [Join Discord](development/join-discord_a7dc9ce8/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/join-discord.md) | ⭐ 40 | `development` |
+| [Documentation](development/documentation_19b1e3bf/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/documentation.md) | ⭐ 87 | `development` |
+| [Assistant Create](development/assistant-create_de75f5d2/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-create.md) | ⭐ 40 | `development` |
+| [Quickstart](development/quickstart_06707b60/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/quickstart.md) | ⭐ 40 | `development` |
+| [Install](development/install_6602605b/) | [bahayonghang/my-claude-code-settings](https://raw.githubusercontent.com/bahayonghang/my-claude-code-settings/master/content/external-skills/install.md) | ⭐ 10 | `development` |
 
-### Development/Devops (107 skills)
+### Development/Devops (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1207,26 +1219,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rakesh Gohel Aakash Gupta Master Claude Code](development/devops/384-rakesh-gohel-aakash-gupta-master-claude-code_54b73e30/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/rakesh-gohel-aakash-gupta-master-claude-code.md) | ⭐ 396 | `development` |
 | [08 Security And Production](development/devops/385-08-security-and-production_c040c164/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/08-security-and-production.md) | ⭐ 396 | `security` `production` `sandbox` |
 | [Exploration Workflow](development/devops/386-exploration-workflow_2e8f6ac8/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/workflows/exploration-workflow.md) | ⭐ 396 | `workflow` `architecture` `design-patterns` |
-| [Boxlite](development/devops/boxlite_8f5b794c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/boxlite.md) | 🔥 14.6k | `development` |
-| [Agents](development/devops/agents_04a27df0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/AGENTS.md) | ⭐ 98 | `development` |
-| [Copilot Instructions](development/devops/copilot-instructions_6f5dd2aa/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 98 | `development` |
-| [Glossary](development/devops/glossary_c5df6484/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/GLOSSARY.md) | ⭐ 98 | `development` |
-| [Quickstart](development/devops/quickstart_637156b2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 98 | `development` |
-| [Troubleshooting](development/devops/troubleshooting_e3539c3c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 98 | `development` |
-| [Terraform Code Best Practices.Instructions](development/devops/terraform-code-best-practicesinstructions_23280dc6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/terraform-code-best-practices.instructions.md) | ⭐ 98 | `development` |
-| [Terraform Policy Compliance.Instructions](development/devops/terraform-policy-complianceinstructions_6827f5c2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/terraform-policy-compliance.instructions.md) | ⭐ 98 | `development` |
-| [02 Architecture Assessment](development/devops/02-architecture-assessment_9d43b73e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/02-architecture-assessment.md) | ⭐ 98 | `development` |
-| [03 Des Cost Estimate](development/devops/03-des-cost-estimate_bae61ef6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-cost-estimate.md) | ⭐ 98 | `development` |
-| [06 Deployment Summary](development/devops/06-deployment-summary_00167906/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/06-deployment-summary.md) | ⭐ 98 | `development` |
-| [07 Backup Dr Plan](development/devops/07-backup-dr-plan_76326532/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-backup-dr-plan.md) | ⭐ 98 | `development` |
-| [Bicep Review Subagent.Agent](development/devops/bicep-review-subagentagent_70be61b0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 98 | `development` |
-| [Skill](development/devops/name-skill_c4e3ac8b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 98 | `development` |
-| [Repo Architecture](development/devops/repo-architecture_c00776ce/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 98 | `development` |
-| [05 Implementation Reference](development/devops/05-implementation-reference_5e2a66f4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/05-implementation-reference.md) | ⭐ 98 | `development` |
-| [05 Implementation Reference](development/devops/05-implementation-reference_a6484682/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/05-implementation-reference.md) | ⭐ 98 | `development` |
-| [07 Resource Inventory](development/devops/07-resource-inventory_0b4eb889/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-resource-inventory.md) | ⭐ 98 | `development` |
+| [Boxlite](development/devops/395-boxlite_8f5b794c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/boxlite.md) | 🔥 14.6k | `development` |
+| [Agents](development/devops/053-agents_04a27df0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/AGENTS.md) | ⭐ 98 | `development` |
+| [Copilot Instructions](development/devops/309-copilot-instructions_6f5dd2aa/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 98 | `development` |
+| [Glossary](development/devops/206-glossary_c5df6484/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/GLOSSARY.md) | ⭐ 98 | `development` |
+| [Quickstart](development/devops/179-quickstart_637156b2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 98 | `development` |
+| [Troubleshooting](development/devops/093-troubleshooting_e3539c3c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 98 | `development` |
+| [Terraform Code Best Practices.Instructions](development/devops/396-terraform-code-best-practicesinstructions_23280dc6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/terraform-code-best-practices.instructions.md) | ⭐ 98 | `development` |
+| [Terraform Policy Compliance.Instructions](development/devops/397-terraform-policy-complianceinstructions_6827f5c2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/terraform-policy-compliance.instructions.md) | ⭐ 98 | `development` |
+| [02 Architecture Assessment](development/devops/398-02-architecture-assessment_9d43b73e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/02-architecture-assessment.md) | ⭐ 98 | `development` |
+| [03 Des Cost Estimate](development/devops/210-03-des-cost-estimate_bae61ef6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/03-des-cost-estimate.md) | ⭐ 98 | `development` |
+| [06 Deployment Summary](development/devops/399-06-deployment-summary_00167906/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/06-deployment-summary.md) | ⭐ 98 | `development` |
+| [07 Backup Dr Plan](development/devops/400-07-backup-dr-plan_76326532/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/terraform-e2e/07-backup-dr-plan.md) | ⭐ 98 | `development` |
+| [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_70be61b0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 98 | `development` |
+| [Skill](development/devops/014-name-skill_c4e3ac8b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 98 | `development` |
+| [Repo Architecture](development/devops/310-repo-architecture_c00776ce/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 98 | `development` |
 
-### Development/Testing (15 skills)
+### Development/Testing (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1245,6 +1254,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_23c7b055/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-orchestrator/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
+| [Testing And Quality](development/testing/testing-and-quality_cc62081a/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/testing-and-quality.md) | ⭐ 87 | `development` |
 
 ### Development/Tools (71 skills)
 
@@ -1314,13 +1324,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Architecture Internals](development/tools/377-04-architecture-internals_af3c05f0/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/04-architecture-internals.md) | ⭐ 396 | `architecture` `internals` `master-loop` |
 | [07 Multi Agent Patterns](development/tools/378-07-multi-agent-patterns_c3cc8adc/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/07-multi-agent-patterns.md) | ⭐ 396 | `multi-agent` `patterns` `worktrees` |
 | [09 Cost And Optimization](development/tools/379-09-cost-and-optimization_44eb9ab6/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/diagrams/09-cost-and-optimization.md) | ⭐ 396 | `cost` `optimization` `models` |
-| [11 Context Optimizer.Agent](development/tools/11-context-optimizeragent_10c95447/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/11-context-optimizer.agent.md) | ⭐ 98 | `development` |
-| [Docs.Instructions](development/tools/docsinstructions_b6701650/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 98 | `development` |
-| [Plan Bicep.Prompt](development/tools/plan-bicepprompt_4dab8d97/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 98 | `development` |
-| [Bicep Whatif Subagent.Agent](development/tools/bicep-whatif-subagentagent_e6e12287/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 98 | `development` |
-| [Challenger Review Subagent.Agent](development/tools/challenger-review-subagentagent_9cd1df37/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/challenger-review-subagent.agent.md) | ⭐ 98 | `development` |
-| [Terraform Plan Subagent.Agent](development/tools/terraform-plan-subagentagent_ff3c936c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-plan-subagent.agent.md) | ⭐ 98 | `development` |
-| [Optimization Report](development/tools/optimization-report_3d39b4b8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/templates/optimization-report.md) | ⭐ 98 | `development` |
+| [11 Context Optimizer.Agent](development/tools/343-11-context-optimizeragent_10c95447/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/11-context-optimizer.agent.md) | ⭐ 98 | `development` |
+| [Docs.Instructions](development/tools/229-docsinstructions_b6701650/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 98 | `development` |
+| [Plan Bicep.Prompt](development/tools/344-plan-bicepprompt_4dab8d97/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 98 | `development` |
+| [Bicep Whatif Subagent.Agent](development/tools/345-bicep-whatif-subagentagent_e6e12287/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 98 | `development` |
+| [Challenger Review Subagent.Agent](development/tools/346-challenger-review-subagentagent_9cd1df37/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/challenger-review-subagent.agent.md) | ⭐ 98 | `development` |
+| [Terraform Plan Subagent.Agent](development/tools/347-terraform-plan-subagentagent_ff3c936c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/terraform-plan-subagent.agent.md) | ⭐ 98 | `development` |
+| [Query](development/tools/query_cda82841/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/query.md) | ⭐ 40 | `development` |
 
 ### Investment (18 skills)
 
@@ -1378,10 +1388,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_5a2cd2a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/viral-generator-builder/SKILL.md) | 🔥 13.9k | `productivity` |
 | [Skill](productivity/093-name-skill_8f90834d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-changelog/SKILL.md) | 🔥 13.9k | `productivity` |
 | [Implementation Playbook](productivity/175-implementation-playbook_2c7486bd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/temporal-golang-pro/resources/implementation-playbook.md) | 🔥 15.3k | `productivity` |
-| [Agent Definitions.Instructions](productivity/agent-definitionsinstructions_21fb2966/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-definitions.instructions.md) | ⭐ 98 | `productivity` |
-| [Skill](productivity/name-skill_5d80956d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/SKILL.md) | ⭐ 98 | `productivity` |
+| [Agent Definitions.Instructions](productivity/174-agent-definitionsinstructions_21fb2966/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-definitions.instructions.md) | ⭐ 98 | `productivity` |
+| [Skill](productivity/093-name-skill_5d80956d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/SKILL.md) | ⭐ 98 | `productivity` |
 
-### Research (36 skills)
+### Research (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1421,6 +1431,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Jon Williams Dual Instance Pattern](research/262-jon-williams-dual-instance-pattern_a728d19f/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/jon-williams-dual-instance-pattern.md) | ⭐ 396 | `research` |
 | [Prompt Repetition Paper](research/263-prompt-repetition-paper_7f42a4bf/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/prompt-repetition-paper.md) | ⭐ 396 | `research` |
 | [Se Cove Plugin](research/264-se-cove-plugin_d9e939fd/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/docs/resource-evaluations/se-cove-plugin.md) | ⭐ 396 | `research` |
+| [Skill](research/name-skill_b5413631/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/skills/assistant/SKILL.md) | ⭐ 40 | `research` |
 
 ## How Skills Are Organized
 
@@ -1472,5 +1483,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 19:15:08 UTC*
+*Last updated: 2026-02-27 21:15:41 UTC*
 *Automatically maintained by SkillFlow*

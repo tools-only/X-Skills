@@ -1,0 +1,24 @@
+# Error Handling Reference
+
+- `#N` not found: report and list open issues with `gh issue list -R Jamie-BitFlight/claude_skills --state open`
+- `#N` already closed: warn and stop; offer `close` or `resolve` if needed
+- `close #N` / `resolve #N` — issue not found: report and stop
+- Item not found: list available items from `.claude/backlog/` per-item files with their priority sections
+- Multiple matches: present numbered list, ask user to choose
+- Grooming fails: proceed without grooming context, note the gap in the feature request
+- RT-ICA returns BLOCKED: present missing inputs, wait for user, do not invoke `add-new-feature`, do not set `status:in-progress`
+- `add-new-feature` fails: report the failure, do not update per-item file
+- Plan file not found after planning: search `plan/` directory broadly, ask user to confirm the path
+- Grooming reports directory does not exist: treat all items as ungroomed
+- `close` with no `**Plan**:` field: report and offer `resolve` as alternative
+- `close` with incomplete checklist: list remaining tasks, do not close
+- `close` with verification FAIL: report per-criterion gaps, do not close
+- `close` on already-completed item: report closed date, do not re-close
+- `resolve` with no reason provided: block until user provides reason (reason is required evidence)
+- GitHub issue creation fails: report error, continue with per-item-file-only workflow; do not block SAM planning
+- `gh` not installed: run `uv run .claude/skills/gh/scripts/setup_gh.py` first
+- Label not found during issue create: `github_project_setup.py` creates it automatically
+- Milestone not found: skip milestone assignment; do not fail
+- `resume` with no `**Plan**:` field: offer to create a plan with `/work-backlog-item {title}`
+- `progress` with no active milestone: show backlog counts only; note no milestone found
+- `--quick` plan write fails: report and stop; do not update per-item file
