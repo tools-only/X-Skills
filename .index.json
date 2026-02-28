@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T17:37:15.272927",
+  "updated_at": "2026-02-28T17:38:04.633379",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -22624,6 +22624,20 @@
       "repo_updated_at": "2026-02-28T11:55:42+00:00",
       "source_url": "https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexnow/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "206ed75d5c044a8bf804661f542b02e3578b510017f5e5c2108b5456edf34e0f",
+      "source_path": "docs/my-website/release_notes/v1.81.14.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/397-v18114_206ed75d",
+      "category": "development/devops",
+      "name": "v18114_206ed75d",
+      "indexed_at": "2026-02-28T17:38:04.633312",
+      "repo_stars": 37111,
+      "repo_updated_at": "2026-02-23T19:23:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md",
+      "display_name": "V1.81.14",
       "tags": "[\"development\"]"
     }
   ]
