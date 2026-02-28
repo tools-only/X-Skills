@@ -1387,7 +1387,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_517e9de1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/SKILL.md) | ⭐ 20 | `development` |
 | [Claude](development/140-claude_ec5bc095/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/Claude.md) | ⭐ 14 | `development` |
 | [Codex Models](development/3013-codex-models_0649a305/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `development` |
-| [Readme.Zh Cn](development/822-readmezh-cn_77ca3d9c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md) | ⭐ 10 | `development` |
+| [Readme.Zh Cn](development/readmezh-cn_b7c6ab97/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md) | ⭐ 10 | `development` |
 | [Provider Permissions V0.1.X](development/3012-provider-permissions-v01x_0233a5bd/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/contracts/provider-permissions-v0.1.x.md) | ⭐ 10 | `development` |
 | [Notes](development/3013-notes_8206e669/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/notes.md) | ⭐ 10 | `development` |
 | [Summary](development/1038-summary_99a5a0cb/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/summary.md) | ⭐ 10 | `development` |
@@ -1493,8 +1493,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typical Structure](development/3026-typical-structure_59105e23/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-structure.md) | ⭐ 10 | `development` |
 | [Configuration](development/191-configuration_cc495d0d/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/configuration.md) | ⭐ 21 | `development` |
 | [Skill](development/1178-name-skill_db7f5440/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/skill-creator/SKILL.md) | ⭐ 21 | `development` |
-| [Agents](development/agents_18d4a25e/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_e90b1840/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/SKILL.md) | ⭐ 23 | `development` |
+| [Agents](development/028-agents_18d4a25e/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 23 | `development` |
+| [Readme.Zh Cn](development/822-readmezh-cn_b7c6ab97/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (136 skills)
 
@@ -2019,5 +2019,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 20:39:38 UTC*
+*Last updated: 2026-02-28 21:36:38 UTC*
 *Automatically maintained by SkillFlow*

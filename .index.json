@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T20:39:38.081149",
+  "updated_at": "2026-02-28T21:36:38.761734",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -23968,6 +23968,20 @@
       "repo_updated_at": "2026-02-27T05:54:24+00:00",
       "source_url": "https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md",
       "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b7c6ab97d522f2dbc0fdcbee74fa84e080931e14c3702b4d3332f6a8463fc15f",
+      "source_path": "README.zh-CN.md",
+      "source_repo": "mco-org/mco",
+      "local_path": "development/822-readmezh-cn_b7c6ab97",
+      "category": "development",
+      "name": "readmezh-cn_b7c6ab97",
+      "indexed_at": "2026-02-28T21:36:38.761690",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-27T05:22:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md",
+      "display_name": "Readme.Zh Cn",
       "tags": "[\"development\"]"
     }
   ]
