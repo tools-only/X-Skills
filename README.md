@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1462 AI-powered skills** organized into 15 categories.
+A curated collection of **1492 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (71 skills)
+- **Automation/Scripting** (73 skills)
 - **Automation/Workflow** (203 skills)
 - **Commercial** (67 skills)
-- **Communication** (41 skills)
-- **Content Creation** (168 skills)
-- **Daily Assistant** (97 skills)
-- **Data Analysis** (76 skills)
-- **Development** (351 skills)
-- **Development/Devops** (128 skills)
-- **Development/Testing** (21 skills)
-- **Development/Tools** (119 skills)
+- **Communication** (42 skills)
+- **Content Creation** (176 skills)
+- **Daily Assistant** (100 skills)
+- **Data Analysis** (81 skills)
+- **Development** (357 skills)
+- **Development/Devops** (129 skills)
+- **Development/Testing** (24 skills)
+- **Development/Tools** (121 skills)
 - **Investment** (23 skills)
 - **Other** (2 skills)
 - **Productivity** (29 skills)
-- **Research** (66 skills)
+- **Research** (65 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (71 skills)
+### Automation/Scripting (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -256,6 +256,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e65c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
 | [Index](automation/scripting/022-index_66d0f6a6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/scripts/INDEX.md) | ⭐ 10 | `automation` |
 | [Add Client Command](automation/scripting/092-add-client-command_15efc6f5/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/add-client-command.md) | ⭐ 10 | `automation` |
+| [Skill](automation/scripting/name-skill_b023afb4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-capability-analyzer/SKILL.md) | ⭐ 20 | `automation` |
+| [P1 Backlogpy Closeresolve Should Check For Open Prs Before Clos](automation/scripting/p1-backlogpy-closeresolve-should-check-for-open-prs-before-clos_e03bb728/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlogpy-closeresolve-should-check-for-open-prs-before-clos.md) | ⭐ 20 | `automation` |
 
 ### Automation/Workflow (203 skills)
 
@@ -462,8 +464,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [V0.1.2](automation/workflow/138-v012_50c8e312/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.2.md) | ⭐ 10 | `automation` |
 | [Guide](automation/workflow/139-guide_f412902d/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/GUIDE.md) | ⭐ 69 | `automation` |
 | [Architecture](automation/workflow/140-architecture_0ac5c29a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-skills/references/architecture.md) | ⭐ 104 | `automation` |
-| [Base 3 Macbook](automation/workflow/base-3-macbook_4a04c566/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-3-macbook.md) | ⭐ 3.2k | `automation` |
-| [Hn 1 Claude Code](automation/workflow/hn-1-claude-code_06c8b87a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-1-claude-code.md) | ⭐ 3.2k | `automation` |
+| [Base 3 Macbook](automation/workflow/141-base-3-macbook_4a04c566/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-3-macbook.md) | ⭐ 3.2k | `automation` |
+| [Hn 1 Claude Code](automation/workflow/142-hn-1-claude-code_06c8b87a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-1-claude-code.md) | ⭐ 3.2k | `automation` |
 
 ### Commercial (67 skills)
 
@@ -537,7 +539,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
 | [Pr Competitive Analysis](commercial/380-pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
 
-### Communication (41 skills)
+### Communication (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -582,8 +584,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](communication/260-readme_cn_02d3e493/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/README_CN.md) | ⭐ 4.1k | `communication` |
 | [Skill](communication/127-name-skill_6902ad1c/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/SKILL.md) | ⭐ 14 | `communication` |
 | [Query Guide](communication/262-query-guide_fbe1f096/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/query-guide.md) | ⭐ 14 | `communication` |
+| [Health](communication/health_472a6c36/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/health.md) | 🔥 37.0k | `communication` |
 
-### Content Creation (168 skills)
+### Content Creation (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -715,13 +718,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Uncategorized](content-creation/393-uncategorized_bd89de14/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/uncategorized.md) | ⭐ 87 | `content creation` |
 | [Claude](content-creation/007-claude_292d0832/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `content creation` |
 | [Backlog Item Groomer](content-creation/365-backlog-item-groomer_988964e8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 20 | `content creation` |
-| [P1 Backlog System Redesign Github Issues As Source Of Truth Wit](content-creation/366-p1-backlog-system-redesign-github-issues-as-source-of-truth-wit_ba06b020/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlog-system-redesign-github-issues-as-source-of-truth-wit.md) | ⭐ 20 | `content creation` |
+| [P1 Backlog System Redesign Github Issues As Source Of Truth Wit](content-creation/p1-backlog-system-redesign-github-issues-as-source-of-truth-wit_74c10e4e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlog-system-redesign-github-issues-as-source-of-truth-wit.md) | ⭐ 20 | `content creation` |
 | [P2 Update 5 Historical Plan Files Still Referencing Source Clau](content-creation/367-p2-update-5-historical-plan-files-still-referencing-source-clau_95d561ee/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-update-5-historical-plan-files-still-referencing-source-clau.md) | ⭐ 20 | `content creation` |
 | [Backlog Lifecycle.Draft](content-creation/368-backlog-lifecycledraft_7189f18b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/backlog-lifecycle.draft.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_4f495e80/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/backlog/SKILL.md) | ⭐ 20 | `content creation` |
 | [Subagent Refactorer](content-creation/369-subagent-refactorer_30e0b059/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/subagent-refactorer.md) | ⭐ 20 | `content creation` |
 | [Orchestrator Discipline](content-creation/370-orchestrator-discipline_98aae0be/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/orchestrator-discipline.md) | ⭐ 20 | `content creation` |
-| [Skill](content-creation/049-name-skill_07f510f2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/SKILL.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/name-skill_963d3d20/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/SKILL.md) | ⭐ 20 | `content creation` |
 | [Better Creator](content-creation/371-better-creator_c0c828b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/better-creator.md) | ⭐ 20 | `content creation` |
 | [Bibliography And Source Documentation](content-creation/372-bibliography-and-source-documentation_fc035430/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/bibliography-and-source-documentation.md) | ⭐ 20 | `content creation` |
 | [Linkedin Ruben Hassid](content-creation/373-linkedin-ruben-hassid_a567f189/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/linkedin-ruben-hassid.md) | ⭐ 20 | `content creation` |
@@ -737,26 +740,34 @@ ls ~/.claude/skills/patch-research-agent/
 | [React 19 Features](content-creation/375-react-19-features_0a5d8135/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/react-19-features.md) | ⭐ 14 | `content creation` |
 | [Claude](content-creation/007-claude_83a3abcd/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 81 | `content creation` |
 | [Claude](content-creation/007-claude_e32bd05f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 81 | `content creation` |
-| [Skill](content-creation/name-skill_44ec0660/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 3.2k | `content creation` |
-| [V2.1 Tweets](content-creation/v21-tweets_ebb056d8/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 3.2k | `content creation` |
-| [2026 02 25 Feat X Handle Resolution Plan](content-creation/2026-02-25-feat-x-handle-resolution-plan_a3d0bfc0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-x-handle-resolution-plan.md) | ⭐ 3.2k | `content creation` |
-| [Base 2 Seedance](content-creation/base-2-seedance_1008567c/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Base 4 Rap](content-creation/base-4-rap_923cf6bd/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-4-rap.md) | ⭐ 3.2k | `content creation` |
-| [Cross 2 Seedance Improved](content-creation/cross-2-seedance-improved_34f384ea/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-2-seedance-improved.md) | ⭐ 3.2k | `content creation` |
-| [Cross 2 Seedance](content-creation/cross-2-seedance_3d55836f/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Hn 2 Seedance](content-creation/hn-2-seedance_7c0a4732/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Hn 4 Rap](content-creation/hn-4-rap_d16a722a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-4-rap.md) | ⭐ 3.2k | `content creation` |
-| [Eval 2 Seedance](content-creation/eval-2-seedance_59721aad/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Cross 2 Seedance Improved](content-creation/cross-2-seedance-improved_c2f85261/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-2-seedance-improved.md) | ⭐ 3.2k | `content creation` |
-| [Cross 2 Seedance](content-creation/cross-2-seedance_6d6291b2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Cross 4 Rap Improved](content-creation/cross-4-rap-improved_ee57d9b9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-4-rap-improved.md) | ⭐ 3.2k | `content creation` |
-| [Cross 4 Rap](content-creation/cross-4-rap_31b4b887/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-4-rap.md) | ⭐ 3.2k | `content creation` |
-| [Hn 2 Seedance](content-creation/hn-2-seedance_01669398/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-2-seedance.md) | ⭐ 3.2k | `content creation` |
-| [Hn 4 Rap](content-creation/hn-4-rap_639ac557/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-4-rap.md) | ⭐ 3.2k | `content creation` |
-| [Research](content-creation/research_17077445/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 3.2k | `content creation` |
-| [Base 2 Seedance](content-creation/base-2-seedance_c0f94abc/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_44ec0660/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 3.2k | `content creation` |
+| [V2.1 Tweets](content-creation/375-v21-tweets_ebb056d8/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 3.2k | `content creation` |
+| [2026 02 25 Feat X Handle Resolution Plan](content-creation/376-2026-02-25-feat-x-handle-resolution-plan_a3d0bfc0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-x-handle-resolution-plan.md) | ⭐ 3.2k | `content creation` |
+| [Base 2 Seedance](content-creation/377-base-2-seedance_1008567c/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Base 4 Rap](content-creation/378-base-4-rap_923cf6bd/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-4-rap.md) | ⭐ 3.2k | `content creation` |
+| [Cross 2 Seedance Improved](content-creation/379-cross-2-seedance-improved_34f384ea/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-2-seedance-improved.md) | ⭐ 3.2k | `content creation` |
+| [Cross 2 Seedance](content-creation/380-cross-2-seedance_3d55836f/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Hn 2 Seedance](content-creation/381-hn-2-seedance_7c0a4732/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Hn 4 Rap](content-creation/382-hn-4-rap_d16a722a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-4-rap.md) | ⭐ 3.2k | `content creation` |
+| [Eval 2 Seedance](content-creation/383-eval-2-seedance_59721aad/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Cross 2 Seedance Improved](content-creation/379-cross-2-seedance-improved_c2f85261/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-2-seedance-improved.md) | ⭐ 3.2k | `content creation` |
+| [Cross 2 Seedance](content-creation/380-cross-2-seedance_6d6291b2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Cross 4 Rap Improved](content-creation/384-cross-4-rap-improved_ee57d9b9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-4-rap-improved.md) | ⭐ 3.2k | `content creation` |
+| [Cross 4 Rap](content-creation/385-cross-4-rap_31b4b887/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-4-rap.md) | ⭐ 3.2k | `content creation` |
+| [Hn 2 Seedance](content-creation/381-hn-2-seedance_01669398/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-2-seedance.md) | ⭐ 3.2k | `content creation` |
+| [Hn 4 Rap](content-creation/382-hn-4-rap_639ac557/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-4-rap.md) | ⭐ 3.2k | `content creation` |
+| [Research](content-creation/386-research_17077445/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 3.2k | `content creation` |
+| [P1 Backlog System Redesign Github Issues As Source Of Truth Wit](content-creation/369-p1-backlog-system-redesign-github-issues-as-source-of-truth-wit_74c10e4e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlog-system-redesign-github-issues-as-source-of-truth-wit.md) | ⭐ 20 | `content creation` |
+| [2026 02 27 Hooks Guide Design](content-creation/2026-02-27-hooks-guide-design_2cc86f72/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-27-hooks-guide-design.md) | ⭐ 20 | `content creation` |
+| [Rewrite Room Author](content-creation/rewrite-room-author_8af0eb0a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/agents/rewrite-room-author.md) | ⭐ 20 | `content creation` |
+| [Frontmatter Requirements](content-creation/frontmatter-requirements_7dca9413/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/.claude/rules/frontmatter-requirements.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_963d3d20/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/SKILL.md) | ⭐ 20 | `content creation` |
+| [Extraction Patterns](content-creation/extraction-patterns_30db05c0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/extraction-patterns.md) | ⭐ 20 | `content creation` |
+| [Quality Criteria](content-creation/quality-criteria_15715682/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/quality-criteria.md) | ⭐ 20 | `content creation` |
+| [P1 Backlogpy Add Implement Fuzzy Duplicate Detection Before Cre](content-creation/p1-backlogpy-add-implement-fuzzy-duplicate-detection-before-cre_18e40f92/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-backlogpy-add-implement-fuzzy-duplicate-detection-before-cre.md) | ⭐ 20 | `content creation` |
+| [Plugin Json](content-creation/plugin-json_ccae5d88/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/.claude/rules/plugin-json.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (97 skills)
+### Daily Assistant (100 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -855,10 +866,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](daily-assistant/109-reference_ee956fa8/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/granola/REFERENCE.md) | ⭐ 105 | `daily assistant` |
 | [Tools](daily-assistant/304-tools_5b2ac4a5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/TOOLS.md) | ⭐ 4.1k | `daily assistant` |
 | [Memory](daily-assistant/305-memory_64058ab0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/memory/MEMORY.md) | ⭐ 4.1k | `daily assistant` |
-| [Cross 3 Macbook Improved](daily-assistant/cross-3-macbook-improved_d60e3664/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-3-macbook-improved.md) | ⭐ 3.2k | `daily assistant` |
-| [Cross 3 Macbook](daily-assistant/cross-3-macbook_ce0fd0e9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-3-macbook.md) | ⭐ 3.2k | `daily assistant` |
+| [Cross 3 Macbook Improved](daily-assistant/304-cross-3-macbook-improved_d60e3664/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-3-macbook-improved.md) | ⭐ 3.2k | `daily assistant` |
+| [Cross 3 Macbook](daily-assistant/305-cross-3-macbook_ce0fd0e9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-3-macbook.md) | ⭐ 3.2k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_b5e6dde3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/SKILL.md) | ⭐ 20 | `daily assistant` |
+| [Input Resolution](daily-assistant/input-resolution_6f5010bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/input-resolution.md) | ⭐ 20 | `daily assistant` |
+| [Workflow Identification](daily-assistant/workflow-identification_c01746f8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/workflow-identification.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (76 skills)
+### Data Analysis (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -937,9 +951,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Create Macos Icon](data-analysis/506-create-macos-icon_276a448e/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/create-macos-icon.md) | ⭐ 10 | `data analysis` |
 | [Caption Guide](data-analysis/493-caption_guide_d14c32bf/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/latex-thesis-zh/resources/CAPTION_GUIDE.md) | ⭐ 44 | `data analysis` |
 | [Quick Reference](data-analysis/181-quick_reference_82c15999/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/academic-writing-skills/paper-audit/resources/references/QUICK_REFERENCE.md) | ⭐ 44 | `data analysis` |
-| [Skill](data-analysis/name-skill_4cc28c55/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-review/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_4cc28c55/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-review/SKILL.md) | ⭐ 15 | `data analysis` |
+| [2026 02 27 Hooks Guide Implementation](data-analysis/2026-02-27-hooks-guide-implementation_219c7c0b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-27-hooks-guide-implementation.md) | ⭐ 20 | `data analysis` |
+| [Rewrite Room Doc Converter](data-analysis/rewrite-room-doc-converter_04e1b84e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/agents/rewrite-room-doc-converter.md) | ⭐ 20 | `data analysis` |
+| [Skill](data-analysis/name-skill_b16f25d0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/plugin-creator/SKILL.md) | ⭐ 20 | `data analysis` |
+| [Environment Discovery](data-analysis/environment-discovery_af8cc3f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/resources/workflows/environment-discovery.md) | ⭐ 20 | `data analysis` |
+| [Python Version Resolution](data-analysis/python-version-resolution_b85cf5d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/resources/workflows/python-version-resolution.md) | ⭐ 20 | `data analysis` |
 
-### Development (351 skills)
+### Development (357 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1270,32 +1289,38 @@ ls ~/.claude/skills/patch-research-agent/
 | [Refactor](development/827-refactor_d0fe81a2/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/commands/refactor.md) | ⭐ 10 | `development` |
 | [Fix](development/2962-fix_7ef085bb/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 12 | `development` |
 | [Skill](development/1178-name-skill_e6e5652f/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 104 | `development` |
-| [Claude](development/claude_5ed87fdd/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/CLAUDE.md) | ⭐ 15 | `development` |
-| [Skill](development/name-skill_b2717ed5/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-comments/SKILL.md) | ⭐ 15 | `development` |
-| [Skill](development/name-skill_3be26685/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-screenshots/SKILL.md) | ⭐ 15 | `development` |
-| [2026 02 24 Feat Hacker News Source Plan](development/2026-02-24-feat-hacker-news-source-plan_1ed1de43/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-24-feat-hacker-news-source-plan.md) | ⭐ 3.2k | `development` |
-| [2026 02 24 Fix Hn Ordering And Emoji Plan](development/2026-02-24-fix-hn-ordering-and-emoji-plan_155af117/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-24-fix-hn-ordering-and-emoji-plan.md) | ⭐ 3.2k | `development` |
-| [2026 02 25 Feat Polymarket Prediction Market Source Plan](development/2026-02-25-feat-polymarket-prediction-market-source-plan_af3c6613/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-polymarket-prediction-market-source-plan.md) | ⭐ 3.2k | `development` |
-| [2026 02 25 Feat Youtube Relevance And Cross Source Linking Plan](development/2026-02-25-feat-youtube-relevance-and-cross-source-linking-plan_24c4f57e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-youtube-relevance-and-cross-source-linking-plan.md) | ⭐ 3.2k | `development` |
-| [Base 1 Claude Code](development/base-1-claude-code_e024ee20/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Base 5 React Svelte](development/base-5-react-svelte_030373b4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-5-react-svelte.md) | ⭐ 3.2k | `development` |
-| [Cross 1 Claude Code Improved](development/cross-1-claude-code-improved_576acfe7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-1-claude-code-improved.md) | ⭐ 3.2k | `development` |
-| [Cross 1 Claude Code](development/cross-1-claude-code_cd316f6b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Cross 5 React Svelte Improved](development/cross-5-react-svelte-improved_e30bcd9d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-5-react-svelte-improved.md) | ⭐ 3.2k | `development` |
-| [Hn 1 Claude Code](development/hn-1-claude-code_475e9314/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Hn 5 React Svelte](development/hn-5-react-svelte_8b07930b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-5-react-svelte.md) | ⭐ 3.2k | `development` |
-| [Eval 1 Claude Code](development/eval-1-claude-code_9a6b2f95/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Eval 5 React Svelte](development/eval-5-react-svelte_45eb626a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-5-react-svelte.md) | ⭐ 3.2k | `development` |
-| [Base 1 Claude Code](development/base-1-claude-code_291a6cd9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Base 4 Rap](development/base-4-rap_ac753226/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-4-rap.md) | ⭐ 3.2k | `development` |
-| [Base 5 React Svelte](development/base-5-react-svelte_cacd32f8/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-5-react-svelte.md) | ⭐ 3.2k | `development` |
-| [Cross 1 Claude Code Improved](development/cross-1-claude-code-improved_9fabc506/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-1-claude-code-improved.md) | ⭐ 3.2k | `development` |
-| [Cross 1 Claude Code](development/cross-1-claude-code_4312a653/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-1-claude-code.md) | ⭐ 3.2k | `development` |
-| [Cross 5 React Svelte Improved](development/cross-5-react-svelte-improved_6eeca115/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-5-react-svelte-improved.md) | ⭐ 3.2k | `development` |
-| [Cross 5 React Svelte](development/cross-5-react-svelte_11b34d9d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-5-react-svelte.md) | ⭐ 3.2k | `development` |
-| [Hn 5 React Svelte](development/hn-5-react-svelte_96856f6d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Claude](development/140-claude_5ed87fdd/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/CLAUDE.md) | ⭐ 15 | `development` |
+| [Skill](development/1178-name-skill_b2717ed5/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-comments/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/1178-name-skill_3be26685/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/pr-screenshots/SKILL.md) | ⭐ 15 | `development` |
+| [2026 02 24 Feat Hacker News Source Plan](development/3017-2026-02-24-feat-hacker-news-source-plan_1ed1de43/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-24-feat-hacker-news-source-plan.md) | ⭐ 3.2k | `development` |
+| [2026 02 24 Fix Hn Ordering And Emoji Plan](development/3018-2026-02-24-fix-hn-ordering-and-emoji-plan_155af117/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-24-fix-hn-ordering-and-emoji-plan.md) | ⭐ 3.2k | `development` |
+| [2026 02 25 Feat Polymarket Prediction Market Source Plan](development/3019-2026-02-25-feat-polymarket-prediction-market-source-plan_af3c6613/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-polymarket-prediction-market-source-plan.md) | ⭐ 3.2k | `development` |
+| [2026 02 25 Feat Youtube Relevance And Cross Source Linking Plan](development/3020-2026-02-25-feat-youtube-relevance-and-cross-source-linking-plan_24c4f57e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-youtube-relevance-and-cross-source-linking-plan.md) | ⭐ 3.2k | `development` |
+| [Base 1 Claude Code](development/3021-base-1-claude-code_e024ee20/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Base 5 React Svelte](development/3022-base-5-react-svelte_030373b4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Cross 1 Claude Code Improved](development/3023-cross-1-claude-code-improved_576acfe7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-1-claude-code-improved.md) | ⭐ 3.2k | `development` |
+| [Cross 1 Claude Code](development/3024-cross-1-claude-code_cd316f6b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Cross 5 React Svelte Improved](development/3025-cross-5-react-svelte-improved_e30bcd9d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-5-react-svelte-improved.md) | ⭐ 3.2k | `development` |
+| [Hn 1 Claude Code](development/3026-hn-1-claude-code_475e9314/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Hn 5 React Svelte](development/3027-hn-5-react-svelte_8b07930b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Eval 1 Claude Code](development/3028-eval-1-claude-code_9a6b2f95/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Eval 5 React Svelte](development/3029-eval-5-react-svelte_45eb626a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Base 1 Claude Code](development/3021-base-1-claude-code_291a6cd9/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Base 4 Rap](development/3030-base-4-rap_ac753226/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-4-rap.md) | ⭐ 3.2k | `development` |
+| [Base 5 React Svelte](development/3022-base-5-react-svelte_cacd32f8/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Cross 1 Claude Code Improved](development/3023-cross-1-claude-code-improved_9fabc506/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-1-claude-code-improved.md) | ⭐ 3.2k | `development` |
+| [Cross 1 Claude Code](development/3024-cross-1-claude-code_4312a653/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-1-claude-code.md) | ⭐ 3.2k | `development` |
+| [Cross 5 React Svelte Improved](development/3025-cross-5-react-svelte-improved_6eeca115/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-5-react-svelte-improved.md) | ⭐ 3.2k | `development` |
+| [Cross 5 React Svelte](development/3031-cross-5-react-svelte_11b34d9d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/cross-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [Hn 5 React Svelte](development/3027-hn-5-react-svelte_96856f6d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-5-react-svelte.md) | ⭐ 3.2k | `development` |
+| [.Continue Here](development/continue-here_e50afb31/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.continue-here.md) | ⭐ 20 | `development` |
+| [Refactor Design Holistic Linting](development/refactor-design-holistic-linting_fd50f84f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/refactor-design-holistic-linting.md) | ⭐ 20 | `development` |
+| [Installation](development/installation_3e5ba3fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/installation.md) | ⭐ 20 | `development` |
+| [Rules And Diagnostics](development/rules-and-diagnostics_e4257242/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/rules-and-diagnostics.md) | ⭐ 20 | `development` |
+| [Skill Structure Guide](development/skill-structure-guide_3fbfd57a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/skill-structure-guide.md) | ⭐ 20 | `development` |
+| [Author](development/author_837313c0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/the-rewrite-room/workflows/author.md) | ⭐ 20 | `development` |
 
-### Development/Devops (128 skills)
+### Development/Devops (129 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1427,8 +1452,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Aden Credential Sync](development/devops/099-aden-credential-sync_b6f44550/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/aden-credential-sync.md) | 🔥 8.4k | `development` |
 | [Configuration](development/devops/009-configuration_2d604955/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/configuration.md) | 🔥 8.4k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_3032dc4d/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/environment-setup.md) | 🔥 8.4k | `development` |
+| [Skill](development/devops/name-skill_ac54676e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Testing (21 skills)
+### Development/Testing (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1450,11 +1476,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_56df1e96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 20 | `development` |
 | [Capability Probe Spec](development/testing/083-capability-probe-spec_7c47621c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-probe-spec.md) | ⭐ 10 | `development` |
 | [Multi Cli Orchestrator Proposal](development/testing/084-multi-cli-orchestrator-proposal_43357673/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/multi-cli-orchestrator-proposal.md) | ⭐ 10 | `development` |
-| [Spec](development/testing/spec_5552ae37/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SPEC.md) | ⭐ 3.2k | `development` |
-| [2026 02 25 Feat Polymarket Quality Ranking Plan](development/testing/2026-02-25-feat-polymarket-quality-ranking-plan_2d6937b1/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-polymarket-quality-ranking-plan.md) | ⭐ 3.2k | `development` |
-| [2026 02 26 Fix Polymarket Query Expansion Data Availability Plan](development/testing/2026-02-26-fix-polymarket-query-expansion-data-availability-plan_29331cd2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-26-fix-polymarket-query-expansion-data-availability-plan.md) | ⭐ 3.2k | `development` |
+| [Spec](development/testing/085-spec_5552ae37/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SPEC.md) | ⭐ 3.2k | `development` |
+| [2026 02 25 Feat Polymarket Quality Ranking Plan](development/testing/086-2026-02-25-feat-polymarket-quality-ranking-plan_2d6937b1/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-polymarket-quality-ranking-plan.md) | ⭐ 3.2k | `development` |
+| [2026 02 26 Fix Polymarket Query Expansion Data Availability Plan](development/testing/087-2026-02-26-fix-polymarket-query-expansion-data-availability-plan_29331cd2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-26-fix-polymarket-query-expansion-data-availability-plan.md) | ⭐ 3.2k | `development` |
+| [Cli Reference](development/testing/cli-reference_558f7151/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/cli-reference.md) | ⭐ 20 | `development` |
+| [Configuration Schema](development/testing/configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
+| [Environment And Modules](development/testing/environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 
-### Development/Tools (119 skills)
+### Development/Tools (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1577,6 +1606,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_6118002d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 104 | `development` |
 | [Skill](development/tools/002-name-skill_a3a20191/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-skills/SKILL.md) | ⭐ 104 | `development` |
 | [Advanced Operations](development/tools/226-advanced-operations_1aeaa2c2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 104 | `development` |
+| [File Selection](development/tools/file-selection_3faedc94/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/file-selection.md) | ⭐ 20 | `development` |
+| [Describe Your Capabilities.Template](development/tools/describe-your-capabilitiestemplate_b083e2d4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-capability-analyzer/resources/describe-your-capabilities.template.md) | ⭐ 20 | `development` |
 
 ### Investment (23 skills)
 
@@ -1601,10 +1632,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_d7f692ed/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/startup-business-analyst-business-case/SKILL.md) | 🔥 13.9k | `investment` |
 | [Multi Agent Guide](investment/050-multi-agent-guide_db50cf80/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/multi-agent-guide.md) | ⭐ 293 | `investment` |
 | [P1 Extract Claude Plugin Lint To Standalone Pypi Package](investment/050-p1-extract-claude-plugin-lint-to-standalone-pypi-package_1cdb3a9d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-extract-claude-plugin-lint-to-standalone-pypi-package.md) | ⭐ 20 | `investment` |
-| [Base 3 Macbook](investment/base-3-macbook_8180c70e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-3-macbook.md) | ⭐ 3.2k | `investment` |
-| [Cross 3 Macbook Improved](investment/cross-3-macbook-improved_236dd57d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook-improved.md) | ⭐ 3.2k | `investment` |
-| [Cross 3 Macbook](investment/cross-3-macbook_66032292/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook.md) | ⭐ 3.2k | `investment` |
-| [Hn 3 Macbook](investment/hn-3-macbook_39af9db7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-3-macbook.md) | ⭐ 3.2k | `investment` |
+| [Base 3 Macbook](investment/051-base-3-macbook_8180c70e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/base-3-macbook.md) | ⭐ 3.2k | `investment` |
+| [Cross 3 Macbook Improved](investment/052-cross-3-macbook-improved_236dd57d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook-improved.md) | ⭐ 3.2k | `investment` |
+| [Cross 3 Macbook](investment/053-cross-3-macbook_66032292/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook.md) | ⭐ 3.2k | `investment` |
+| [Hn 3 Macbook](investment/054-hn-3-macbook_39af9db7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-3-macbook.md) | ⭐ 3.2k | `investment` |
 
 ### Other (2 skills)
 
@@ -1644,10 +1675,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Critic](productivity/174-critic_e600da33/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 81 | `productivity` |
 | [Validator](productivity/175-validator_201e59e1/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 81 | `productivity` |
 | [Pr Roadmap Planner](productivity/176-pr-roadmap-planner_939daac3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-roadmap-planner.md) | ⭐ 41 | `productivity` |
-| [Cross 4 Rap Improved](productivity/cross-4-rap-improved_5c691f18/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-4-rap-improved.md) | ⭐ 3.2k | `productivity` |
-| [Hn 3 Macbook](productivity/hn-3-macbook_21bb2434/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-3-macbook.md) | ⭐ 3.2k | `productivity` |
+| [Cross 4 Rap Improved](productivity/174-cross-4-rap-improved_5c691f18/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-4-rap-improved.md) | ⭐ 3.2k | `productivity` |
+| [Hn 3 Macbook](productivity/175-hn-3-macbook_21bb2434/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-3-macbook.md) | ⭐ 3.2k | `productivity` |
 
-### Research (66 skills)
+### Research (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1710,13 +1741,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](research/268-index_7440634f/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/latex-paper-en/index.md) | ⭐ 44 | `research` |
 | [Index](research/268-index_7dc7f681/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/paper-audit/index.md) | ⭐ 44 | `research` |
 | [Index](research/268-index_8e2f63c7/) | [bahayonghang/academic-writing-skills](https://raw.githubusercontent.com/bahayonghang/academic-writing-skills/main/docs/zh/skills/typst-paper/index.md) | ⭐ 44 | `research` |
-| [Summary](research/summary_64099e81/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/summary.md) | ⭐ 3.2k | `research` |
-| [2026 02 25 Feat Goat Synthesis Output Comparison Plan](research/2026-02-25-feat-goat-synthesis-output-comparison-plan_d93c4326/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-goat-synthesis-output-comparison-plan.md) | ⭐ 3.2k | `research` |
-| [2026 02 26 Feat Polymarket Smarter Synthesis Plan](research/2026-02-26-feat-polymarket-smarter-synthesis-plan_30846fb4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-26-feat-polymarket-smarter-synthesis-plan.md) | ⭐ 3.2k | `research` |
-| [Eval 3 Macbook](research/eval-3-macbook_67832f5a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-3-macbook.md) | ⭐ 3.2k | `research` |
-| [Eval 4 Rap](research/eval-4-rap_50c5bddc/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-4-rap.md) | ⭐ 3.2k | `research` |
-| [Cross Synthesis Prompt](research/cross-synthesis-prompt_b5346f04/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/cross-synthesis-prompt.md) | ⭐ 3.2k | `research` |
-| [Base Synthesis Prompt](research/base-synthesis-prompt_fddcac2f/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/base-synthesis-prompt.md) | ⭐ 3.2k | `research` |
+| [Summary](research/275-summary_64099e81/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/summary.md) | ⭐ 3.2k | `research` |
+| [2026 02 25 Feat Goat Synthesis Output Comparison Plan](research/276-2026-02-25-feat-goat-synthesis-output-comparison-plan_d93c4326/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-25-feat-goat-synthesis-output-comparison-plan.md) | ⭐ 3.2k | `research` |
+| [2026 02 26 Feat Polymarket Smarter Synthesis Plan](research/277-2026-02-26-feat-polymarket-smarter-synthesis-plan_30846fb4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-26-feat-polymarket-smarter-synthesis-plan.md) | ⭐ 3.2k | `research` |
+| [Eval 3 Macbook](research/278-eval-3-macbook_67832f5a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-3-macbook.md) | ⭐ 3.2k | `research` |
+| [Eval 4 Rap](research/279-eval-4-rap_50c5bddc/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-4-rap.md) | ⭐ 3.2k | `research` |
+| [Cross Synthesis Prompt](research/280-cross-synthesis-prompt_b5346f04/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/cross-synthesis-prompt.md) | ⭐ 3.2k | `research` |
 
 ## How Skills Are Organized
 
@@ -1768,5 +1798,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 11:37:34 UTC*
+*Last updated: 2026-02-28 11:39:35 UTC*
 *Automatically maintained by SkillFlow*
