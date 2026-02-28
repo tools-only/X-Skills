@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-27T22:15:34.097204",
+  "updated_at": "2026-02-28T01:37:11.359842",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -18005,6 +18005,20 @@
       "source_url": "https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md",
       "display_name": "Readme Flat Skills Updated",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "453ec41630d073410b599f20a604184e11ad3443fdd0ef815ddd2d8e70c744fa",
+      "source_path": "plexe/CODE_INDEX.md",
+      "source_repo": "plexe-ai/plexe",
+      "local_path": "development/tools/282-code_index_453ec416",
+      "category": "development/tools",
+      "name": "code_index_453ec416",
+      "indexed_at": "2026-02-28T01:37:11.359795",
+      "repo_stars": 2543,
+      "repo_updated_at": "2026-02-27T15:47:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
+      "display_name": "Code Index",
+      "tags": "[\"development\"]"
     }
   ]
 }

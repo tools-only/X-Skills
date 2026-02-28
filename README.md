@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1287 AI-powered skills** organized into 15 categories.
+A curated collection of **1288 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -18,7 +18,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Development** (306 skills)
 - **Development/Devops** (121 skills)
 - **Development/Testing** (17 skills)
-- **Development/Tools** (103 skills)
+- **Development/Tools** (104 skills)
 - **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (24 skills)
@@ -1326,9 +1326,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
 | [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_56df1e96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 20 | `development` |
-| [Flaky Rust](development/testing/flaky-rust_756dc639/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/flaky-rust.md) | ⭐ 12 | `development` |
+| [Code Index](development/testing/code_index_ed227b01/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
-### Development/Tools (103 skills)
+### Development/Tools (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1341,7 +1341,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector C Cli Data Fetch](development/tools/370-vector-c-cli-data-fetch_f11d2333/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-c-cli-data-fetch.md) | ⭐ 2.9k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_e9fd259e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.9k | `development` |
 | [Create Data Extensions](development/tools/371-create-data-extensions_2210ce14/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.9k | `development` |
-| [Code Index](development/tools/282-code_index_d1c06dc8/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Code Index](development/tools/code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Skill](development/tools/002-name-skill_ad5c103c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_b244adfc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-validator/SKILL.md) | ⭐ 20 | `development` |
 | [Vertex Realtime](development/tools/366-vertex_realtime_fdde2fa3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/vertex_realtime.md) | 🔥 36.9k | `development` |
@@ -1435,6 +1435,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_9a05b85d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 25.2k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_4c79fd6f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 25.2k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_69c00dc3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 25.2k | `development` |
+| [Code Index](development/tools/282-code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Investment (19 skills)
 
@@ -1593,5 +1594,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-27 22:16:29 UTC*
+*Last updated: 2026-02-28 01:37:11 UTC*
 *Automatically maintained by SkillFlow*
