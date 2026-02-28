@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1543 AI-powered skills** organized into 15 categories.
+A curated collection of **1524 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,16 +10,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (72 skills)
 - **Automation/Workflow** (204 skills)
-- **Commercial** (69 skills)
+- **Commercial** (68 skills)
 - **Communication** (44 skills)
 - **Content Creation** (176 skills)
-- **Daily Assistant** (103 skills)
-- **Data Analysis** (88 skills)
-- **Development** (379 skills)
+- **Daily Assistant** (101 skills)
+- **Data Analysis** (84 skills)
+- **Development** (371 skills)
 - **Development/Devops** (130 skills)
-- **Development/Testing** (26 skills)
-- **Development/Tools** (132 skills)
-- **Investment** (24 skills)
+- **Development/Testing** (25 skills)
+- **Development/Tools** (130 skills)
+- **Investment** (23 skills)
 - **Other** (2 skills)
 - **Productivity** (29 skills)
 - **Research** (65 skills)
@@ -465,9 +465,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](automation/workflow/140-architecture_0ac5c29a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-skills/references/architecture.md) | ⭐ 104 | `automation` |
 | [Base 3 Macbook](automation/workflow/141-base-3-macbook_4a04c566/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-3-macbook.md) | ⭐ 3.2k | `automation` |
 | [Hn 1 Claude Code](automation/workflow/142-hn-1-claude-code_06c8b87a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-1-claude-code.md) | ⭐ 3.2k | `automation` |
-| [Release Notes V1.5.0](automation/workflow/release_notes_v150_f1542b36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.0.md) | ⭐ 10 | `automation` |
+| [Release Notes V1.5.0](automation/workflow/142-release_notes_v150_f1542b36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.0.md) | ⭐ 10 | `automation` |
 
-### Commercial (69 skills)
+### Commercial (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -538,8 +538,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
 | [Pr Competitive Analysis](commercial/380-pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
-| [Release Notes V1.1](commercial/release_notes_v11_86408943/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.1.md) | ⭐ 10 | `commercial` |
-| [Red Teaming](commercial/red-teaming_6c649459/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/case-studies/red-teaming.md) | ⭐ 10 | `commercial` |
+| [Release Notes V1.1](commercial/383-release_notes_v11_86408943/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.1.md) | ⭐ 10 | `commercial` |
 
 ### Communication (44 skills)
 
@@ -771,7 +770,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_4fa27254/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/run-research/SKILL.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_4d664347/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-skill/SKILL.md) | ⭐ 34 | `content creation` |
 
-### Daily Assistant (103 skills)
+### Daily Assistant (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -875,11 +874,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_b5e6dde3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/SKILL.md) | ⭐ 20 | `daily assistant` |
 | [Input Resolution](daily-assistant/303-input-resolution_6f5010bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/input-resolution.md) | ⭐ 20 | `daily assistant` |
 | [Hackathon Issue Draft](daily-assistant/277-hackathon_issue_draft_9d181e98/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_ISSUE_DRAFT.md) | 🔥 10.3k | `daily assistant` |
-| [Llmnode](daily-assistant/llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
-| [Ide Master Prompt](daily-assistant/ide_master_prompt_c5ab9bbe/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/IDE_MASTER_PROMPT.md) | ⭐ 10 | `daily assistant` |
-| [Clearerrornode](daily-assistant/clearerrornode_656ea3b3/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/clearerrornode.md) | ⭐ 10 | `daily assistant` |
+| [Llmnode](daily-assistant/304-llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (88 skills)
+### Data Analysis (84 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -964,15 +961,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_b16f25d0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/plugin-creator/SKILL.md) | ⭐ 20 | `data analysis` |
 | [Environment Discovery](data-analysis/500-environment-discovery_af8cc3f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/resources/workflows/environment-discovery.md) | ⭐ 20 | `data analysis` |
 | [Hackathon Mad Combos](data-analysis/482-hackathon_mad_combos_55a31a4e/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_MAD_COMBOS.md) | 🔥 10.3k | `data analysis` |
-| [Release Notes V1.4.1](data-analysis/release_notes_v141_100b544b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.1.md) | ⭐ 10 | `data analysis` |
-| [Auditor Guide](data-analysis/auditor_guide_34e2b0ce/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance/auditor_guide.md) | ⭐ 10 | `data analysis` |
-| [3 Audit Log](data-analysis/3-audit-log_68374b0d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/3-audit-log.md) | ⭐ 10 | `data analysis` |
-| [Release Notes V1.3.1](data-analysis/release_notes_v131_83ded21d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.3.1.md) | ⭐ 10 | `data analysis` |
-| [Release Notes V1.5.1](data-analysis/release_notes_v151_bad44a92/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.1.md) | ⭐ 10 | `data analysis` |
-| [Ide Setup](data-analysis/ide_setup_8cd60a42/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/ide_setup.md) | ⭐ 10 | `data analysis` |
-| [Multi Agent Orchestration](data-analysis/multi-agent-orchestration_4562918c/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/multi-agent-orchestration.md) | ⭐ 10 | `data analysis` |
+| [Release Notes V1.4.1](data-analysis/501-release_notes_v141_100b544b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.1.md) | ⭐ 10 | `data analysis` |
+| [Auditor Guide](data-analysis/502-auditor_guide_34e2b0ce/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance/auditor_guide.md) | ⭐ 10 | `data analysis` |
+| [3 Audit Log](data-analysis/503-3-audit-log_68374b0d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/3-audit-log.md) | ⭐ 10 | `data analysis` |
 
-### Development (379 skills)
+### Development (371 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1334,27 +1327,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Structure Guide](development/3014-skill-structure-guide_3fbfd57a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/skill-structure-guide.md) | ⭐ 20 | `development` |
 | [Agent Frontmatter](development/2910-agent-frontmatter_a802b340/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-agent/references/agent-frontmatter.md) | ⭐ 34 | `development` |
 | [Third Party Notices](development/2911-third_party_notices_4251f464/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/THIRD_PARTY_NOTICES.md) | ⭐ 91 | `development` |
-| [Claude](development/claude_217d51dc/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/claude.md) | ⭐ 10 | `development` |
-| [Release Notes V1.3.2](development/release_notes_v132_45357bc2/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.3.2.md) | ⭐ 10 | `development` |
-| [Release Notes V1.4.0](development/release_notes_v140_e6e3732d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.0.md) | ⭐ 10 | `development` |
-| [Release Notes V1.6.0](development/release_notes_v160_7a8e3629/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.6.0.md) | ⭐ 10 | `development` |
-| [Compliance](development/compliance_f8276d93/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance.md) | ⭐ 10 | `development` |
-| [Batchnode](development/batchnode_5e1b1c40/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/batchnode.md) | ⭐ 10 | `development` |
-| [Dynamicnode](development/dynamicnode_82b8a91f/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/dynamicnode.md) | ⭐ 10 | `development` |
-| [1 Philosophy](development/1-philosophy_966cb09e/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/1-philosophy.md) | ⭐ 10 | `development` |
-| [10 Defensive Constraints](development/10-defensive-constraints_ec836a94/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/10-defensive-constraints.md) | ⭐ 10 | `development` |
-| [5 Reasoning Models](development/5-reasoning-models_e79682b3/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/5-reasoning-models.md) | ⭐ 10 | `development` |
-| [9 Metacognition](development/9-metacognition_2a0a1898/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/9-metacognition.md) | ⭐ 10 | `development` |
-| [Integrations](development/integrations_07122137/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/integrations.md) | ⭐ 10 | `development` |
-| [Litellm Setup](development/litellm_setup_78a9f89a/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/litellm_setup.md) | ⭐ 10 | `development` |
-| [Ide Integration Prompt](development/ide_integration_prompt_1822482e/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/IDE_INTEGRATION_PROMPT.md) | ⭐ 10 | `development` |
-| [Ide Prompt Template](development/ide_prompt_template_1c5d8bfa/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/IDE_PROMPT_TEMPLATE.md) | ⭐ 10 | `development` |
-| [Vision And Philosophy](development/vision_and_philosophy_929bc98f/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/Vision_and_Philosophy.md) | ⭐ 10 | `development` |
-| [Getting Started](development/getting-started_9ef6f2eb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/getting-started.md) | ⭐ 10 | `development` |
-| [Index](development/index_16034659/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/index.md) | ⭐ 10 | `development` |
-| [Routernode](development/routernode_3492e730/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/routernode.md) | ⭐ 10 | `development` |
-| [Toolnode](development/toolnode_ddcf4bcb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/toolnode.md) | ⭐ 10 | `development` |
-| [Self Correction Loop](development/self-correction-loop_baa0d1b6/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/self-correction-loop.md) | ⭐ 10 | `development` |
+| [Claude](development/140-claude_217d51dc/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/claude.md) | ⭐ 10 | `development` |
+| [Release Notes V1.3.2](development/3022-release_notes_v132_45357bc2/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.3.2.md) | ⭐ 10 | `development` |
+| [Release Notes V1.4.0](development/3023-release_notes_v140_e6e3732d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.0.md) | ⭐ 10 | `development` |
+| [Release Notes V1.6.0](development/3024-release_notes_v160_7a8e3629/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.6.0.md) | ⭐ 10 | `development` |
+| [Compliance](development/3025-compliance_f8276d93/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance.md) | ⭐ 10 | `development` |
+| [Batchnode](development/3026-batchnode_5e1b1c40/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/batchnode.md) | ⭐ 10 | `development` |
+| [Dynamicnode](development/3027-dynamicnode_82b8a91f/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/dynamicnode.md) | ⭐ 10 | `development` |
+| [1 Philosophy](development/3028-1-philosophy_966cb09e/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/1-philosophy.md) | ⭐ 10 | `development` |
+| [10 Defensive Constraints](development/3029-10-defensive-constraints_ec836a94/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/10-defensive-constraints.md) | ⭐ 10 | `development` |
+| [5 Reasoning Models](development/3030-5-reasoning-models_e79682b3/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/5-reasoning-models.md) | ⭐ 10 | `development` |
+| [9 Metacognition](development/3031-9-metacognition_2a0a1898/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/9-metacognition.md) | ⭐ 10 | `development` |
+| [Integrations](development/478-integrations_07122137/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/integrations.md) | ⭐ 10 | `development` |
+| [Litellm Setup](development/3032-litellm_setup_78a9f89a/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/litellm_setup.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (130 skills)
 
@@ -1489,9 +1474,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/devops/009-configuration_2d604955/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/configuration.md) | 🔥 8.4k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_3032dc4d/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/environment-setup.md) | 🔥 8.4k | `development` |
 | [Skill](development/devops/014-name-skill_ac54676e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/SKILL.md) | ⭐ 20 | `development` |
-| [Deployment](development/devops/deployment_5d04dae8/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/deployment.md) | ⭐ 10 | `development` |
+| [Deployment](development/devops/258-deployment_5d04dae8/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/deployment.md) | ⭐ 10 | `development` |
 
-### Development/Testing (26 skills)
+### Development/Testing (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1519,10 +1504,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Reference](development/testing/082-cli-reference_558f7151/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/cli-reference.md) | ⭐ 20 | `development` |
 | [Configuration Schema](development/testing/083-configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
-| [Release Notes V1.7.0](development/testing/release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
-| [Jepa Orchestration](development/testing/jepa-orchestration_5da923f5/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/jepa-orchestration.md) | ⭐ 10 | `development` |
+| [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
 
-### Development/Tools (132 skills)
+### Development/Tools (130 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1641,7 +1625,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typescript Patterns](development/tools/330-typescript-patterns_e634422e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/typescript-patterns.md) | ⭐ 14 | `development` |
 | [Router Guide](development/tools/331-router-guide_20cfc231/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/router-guide.md) | ⭐ 14 | `development` |
 | [Pr Discovery](development/tools/332-pr-discovery_626ea8cb/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-discovery.md) | ⭐ 41 | `development` |
-| [Claude](development/tools/017-claude_5fb2efdd/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Claude](development/tools/claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 | [Claude](development/tools/017-claude_6118002d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 104 | `development` |
 | [Skill](development/tools/002-name-skill_a3a20191/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-skills/SKILL.md) | ⭐ 104 | `development` |
 | [Advanced Operations](development/tools/226-advanced-operations_1aeaa2c2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 104 | `development` |
@@ -1650,16 +1634,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_5e1a8d7b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-agent/SKILL.md) | ⭐ 34 | `development` |
 | [Skill](development/tools/002-name-skill_a2714493/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/SKILL.md) | ⭐ 34 | `development` |
 | [Skill](development/tools/002-name-skill_f6494850/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/SKILL.md) | ⭐ 34 | `development` |
-| [Architecture](development/tools/architecture_5fc3966b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/ARCHITECTURE.md) | ⭐ 10 | `development` |
-| [Release Notes V1.2.0](development/tools/release_notes_v120_2db65d36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.2.0.md) | ⭐ 10 | `development` |
-| [Release Notes V1.3.0](development/tools/release_notes_v130_68452096/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.3.0.md) | ⭐ 10 | `development` |
-| [2 Architecture](development/tools/2-architecture_9b1b58f4/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/2-architecture.md) | ⭐ 10 | `development` |
-| [4 Core Patterns](development/tools/4-core-patterns_600b8150/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/4-core-patterns.md) | ⭐ 10 | `development` |
-| [Addvaluenode](development/tools/addvaluenode_26ddd90b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/addvaluenode.md) | ⭐ 10 | `development` |
-| [Topologyvalidator](development/tools/topologyvalidator_a97dc247/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/topologyvalidator.md) | ⭐ 10 | `development` |
-| [Utilities](development/tools/utilities_2eee1d6f/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/utilities.md) | ⭐ 10 | `development` |
+| [Architecture](development/tools/051-architecture_5fc3966b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/ARCHITECTURE.md) | ⭐ 10 | `development` |
+| [Release Notes V1.2.0](development/tools/349-release_notes_v120_2db65d36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.2.0.md) | ⭐ 10 | `development` |
+| [Release Notes V1.3.0](development/tools/350-release_notes_v130_68452096/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.3.0.md) | ⭐ 10 | `development` |
+| [2 Architecture](development/tools/351-2-architecture_9b1b58f4/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/2-architecture.md) | ⭐ 10 | `development` |
+| [4 Core Patterns](development/tools/352-4-core-patterns_600b8150/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/4-core-patterns.md) | ⭐ 10 | `development` |
+| [Claude](development/tools/017-claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 
-### Investment (24 skills)
+### Investment (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1686,7 +1668,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cross 3 Macbook Improved](investment/052-cross-3-macbook-improved_236dd57d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook-improved.md) | ⭐ 3.2k | `investment` |
 | [Cross 3 Macbook](investment/053-cross-3-macbook_66032292/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook.md) | ⭐ 3.2k | `investment` |
 | [Hn 3 Macbook](investment/054-hn-3-macbook_39af9db7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-3-macbook.md) | ⭐ 3.2k | `investment` |
-| [Release Notes V1.1.1](investment/release_notes_v111_bdb33278/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.1.1.md) | ⭐ 10 | `investment` |
 
 ### Other (2 skills)
 
@@ -1849,5 +1830,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 13:38:47 UTC*
+*Last updated: 2026-02-28 14:38:24 UTC*
 *Automatically maintained by SkillFlow*

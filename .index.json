@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T13:38:47.477531",
+  "updated_at": "2026-02-28T14:38:24.411493",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -21322,6 +21322,20 @@
       "repo_updated_at": "2026-01-13T00:37:03+00:00",
       "source_url": "https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/deployment.md",
       "display_name": "Deployment",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "da7ddf3c127ec7297814ac31f668b8cd9a92d5ebf4cc0023d973713b949a288f",
+      "source_path": "CLAUDE.md",
+      "source_repo": "Nevo24/claudeq",
+      "local_path": "development/tools/017-claude_da7ddf3c",
+      "category": "development/tools",
+      "name": "claude_da7ddf3c",
+      "indexed_at": "2026-02-28T14:38:24.411454",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-28T11:11:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md",
+      "display_name": "Claude",
       "tags": "[\"development\"]"
     }
   ]
