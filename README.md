@@ -654,7 +654,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_a629db3d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/content-marketer/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_f4408fa8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/context-degradation/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_bb94b383/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copy-editing/SKILL.md) | 🔥 13.9k | `content creation` |
-| [Skill](content-creation/name-skill_e1155868/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copywriting/SKILL.md) | 🔥 16.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_117f78bc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copywriting/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_c8060c6d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/create-pr/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_e5585ed5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/crewai/SKILL.md) | 🔥 13.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_4e7fd83e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/doc-coauthoring/SKILL.md) | 🔥 13.9k | `content creation` |
@@ -820,7 +820,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_1e8897da/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/url-structure/SKILL.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_da45667d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/canonical/SKILL.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_e1155868/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copywriting/SKILL.md) | 🔥 16.2k | `content creation` |
-| [Skill](content-creation/name-skill_9bc23df7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/videodb-skills/SKILL.md) | 🔥 16.2k | `content creation` |
+| [Skill](content-creation/name-skill_2efea1f4/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/skills/linkai-agent/SKILL.md) | 🔥 41.6k | `content creation` |
 
 ### Daily Assistant (102 skills)
 
@@ -1082,7 +1082,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Iproute Verify](development/2986-iproute-verify_fdf36dc1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/iproute/slash-commands/iproute-verify.md) | ⭐ 643 | `development` |
 | [Mm Folio](development/2987-mm-folio_2fa17c29/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-folio.md) | ⭐ 643 | `development` |
 | [Subsystem](development/2988-subsystem_424e4d1c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 643 | `development` |
-| [Catalog](development/catalog_56aa4100/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 16.2k | `development` |
+| [Catalog](development/126-catalog_6a96f5ba/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 13.9k | `development` |
 | [Skill Anatomy](development/984-skill_anatomy_0e01cdaf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SKILL_ANATOMY.md) | 🔥 13.9k | `react` `typescript` |
 | [Skill](development/1178-name-skill_a9f1a082/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/address-github-comments/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/1178-name-skill_9dbfc671/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/agent-orchestration-improve-agent/SKILL.md) | 🔥 13.9k | `development` |
@@ -1419,13 +1419,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_05901a5f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/robots/SKILL.md) | ⭐ 12 | `development` |
 | [Skill](development/1178-name-skill_5a867d3d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/sitemap/SKILL.md) | ⭐ 12 | `development` |
 | [Catalog](development/126-catalog_56aa4100/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 16.2k | `development` |
-| [Bundles](development/bundles_9186284b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 16.2k | `development` |
-| [Getting Started](development/getting_started_679fe9a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 16.2k | `development` |
-| [Sec Skills](development/sec_skills_255b042f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SEC_SKILLS.md) | 🔥 16.2k | `development` |
-| [Usage](development/usage_e5e4b206/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/USAGE.md) | 🔥 16.2k | `development` |
-| [Skill](development/name-skill_f7820d45/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/android_ui_verification/SKILL.md) | 🔥 16.2k | `development` |
-| [Skill](development/name-skill_cc4bd9cb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/hierarchical-agent-memory/SKILL.md) | 🔥 16.2k | `development` |
-| [Skill](development/name-skill_78139c21/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vibe-code-auditor/SKILL.md) | 🔥 16.2k | `development` |
+| [Bundles](development/2947-bundles_9186284b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 16.2k | `development` |
+| [Getting Started](development/423-getting_started_679fe9a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 16.2k | `development` |
+| [Sec Skills](development/2948-sec_skills_255b042f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SEC_SKILLS.md) | 🔥 16.2k | `development` |
+| [Usage](development/2949-usage_e5e4b206/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/USAGE.md) | 🔥 16.2k | `development` |
+| [Skill](development/1178-name-skill_f7820d45/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/android_ui_verification/SKILL.md) | 🔥 16.2k | `development` |
+| [Skill](development/1178-name-skill_cc4bd9cb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/hierarchical-agent-memory/SKILL.md) | 🔥 16.2k | `development` |
+| [Skill](development/1178-name-skill_78139c21/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vibe-code-auditor/SKILL.md) | 🔥 16.2k | `development` |
 
 ### Development/Devops (136 skills)
 
@@ -1566,7 +1566,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](development/devops/314-01-configuration_3f5c2c41/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.2k | `development` |
 | [Skill](development/devops/014-name-skill_1727c08f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexnow/SKILL.md) | ⭐ 12 | `development` |
 | [V1.81.14](development/devops/397-v18114_206ed75d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 37.1k | `development` |
-| [Kiro Integration](development/devops/kiro_integration_5e653d17/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/KIRO_INTEGRATION.md) | 🔥 16.2k | `development` |
+| [Kiro Integration](development/devops/374-kiro_integration_5e653d17/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/KIRO_INTEGRATION.md) | 🔥 16.2k | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -1934,5 +1934,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 19:36:53 UTC*
+*Last updated: 2026-02-28 19:37:41 UTC*
 *Automatically maintained by SkillFlow*
