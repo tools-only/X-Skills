@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1370 AI-powered skills** organized into 15 categories.
+A curated collection of **1375 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (70 skills)
+- **Automation/Scripting** (71 skills)
 - **Automation/Workflow** (200 skills)
 - **Commercial** (67 skills)
 - **Communication** (41 skills)
 - **Content Creation** (150 skills)
 - **Daily Assistant** (95 skills)
-- **Data Analysis** (72 skills)
-- **Development** (324 skills)
+- **Data Analysis** (73 skills)
+- **Development** (326 skills)
 - **Development/Devops** (128 skills)
 - **Development/Testing** (18 skills)
-- **Development/Tools** (115 skills)
+- **Development/Tools** (116 skills)
 - **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (27 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (70 skills)
+### Automation/Scripting (71 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -255,6 +255,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P1 Validate And Verify Orchestrator Discipline Plugin Hooks And](automation/scripting/096-p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and_0e71bf01/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and.md) | ⭐ 20 | `automation` |
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e65c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
 | [Index](automation/scripting/022-index_66d0f6a6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/scripts/INDEX.md) | ⭐ 10 | `automation` |
+| [Add Client Command](automation/scripting/add-client-command_15efc6f5/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/add-client-command.md) | ⭐ 10 | `automation` |
 
 ### Automation/Workflow (200 skills)
 
@@ -531,7 +532,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backend Development](commercial/376-backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
 | [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
-| [Pr Competitive Analysis](commercial/pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
+| [Pr Competitive Analysis](commercial/380-pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
 
 ### Communication (41 skills)
 
@@ -834,7 +835,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tools](daily-assistant/304-tools_5b2ac4a5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/TOOLS.md) | ⭐ 4.1k | `daily assistant` |
 | [Memory](daily-assistant/305-memory_64058ab0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/memory/MEMORY.md) | ⭐ 4.1k | `daily assistant` |
 
-### Data Analysis (72 skills)
+### Data Analysis (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -910,8 +911,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Overwatch Interactions](data-analysis/503-overwatch-interactions_31f94aa6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-interactions.md) | ⭐ 10 | `data analysis` |
 | [Ocr](data-analysis/505-ocr_19459d16/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/ocr.md) | 🔥 37.0k | `data analysis` |
 | [Reference](data-analysis/286-reference_5899aaea/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-analytics-data-api/REFERENCE.md) | ⭐ 105 | `data analysis` |
+| [Create Macos Icon](data-analysis/create-macos-icon_276a448e/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/create-macos-icon.md) | ⭐ 10 | `data analysis` |
 
-### Development (324 skills)
+### Development (326 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -945,7 +947,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Best Practices](development/103-best_practices_998cf88f/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/best_practices.md) | ⭐ 392 | `development` |
 | [Tools Extra](development/2945-tools_extra_469d0147/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/tools_extra.md) | ⭐ 392 | `development` |
 | [X Popular Papers](development/2946-x_popular_papers_f6579aef/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/x_popular_papers.md) | ⭐ 392 | `development` |
-| [Fix](development/2942-fix_4334049b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 12 | `development` |
+| [Fix](development/fix_7ef085bb/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 12 | `development` |
 | [Azure](development/084-azure_bb4e38b3/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/azure.md) | ⭐ 392 | `development` |
 | [Research Agent Assessment](development/2959-research-agent-assessment_c6d81a5d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/research-agent-assessment.md) | ⭐ 20 | `development` |
 | [Skill](development/1178-name-skill_9d69f716/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/SKILL.md) | ⭐ 543 | `development` |
@@ -1236,9 +1238,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Librarian](development/519-librarian_65c39309/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 81 | `development` |
 | [Risk Assessor](development/2917-risk-assessor_3a11504b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/risk-assessor.md) | ⭐ 81 | `development` |
 | [Prime](development/708-prime_f9d3f8c2/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/commands/prime.md) | ⭐ 81 | `development` |
-| [Skill](development/name-skill_dbe7caa3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/SKILL.md) | ⭐ 41 | `development` |
-| [Pr Goal Alignment](development/pr-goal-alignment_e257d136/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-goal-alignment.md) | ⭐ 41 | `development` |
-| [Pr Ux Dx Audit](development/pr-ux-dx-audit_fd468ef1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-ux-dx-audit.md) | ⭐ 41 | `development` |
+| [Skill](development/1178-name-skill_dbe7caa3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/SKILL.md) | ⭐ 41 | `development` |
+| [Pr Goal Alignment](development/2918-pr-goal-alignment_e257d136/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-goal-alignment.md) | ⭐ 41 | `development` |
+| [Pr Ux Dx Audit](development/2919-pr-ux-dx-audit_fd468ef1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-ux-dx-audit.md) | ⭐ 41 | `development` |
+| [Refactor](development/refactor_d0fe81a2/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/commands/refactor.md) | ⭐ 10 | `development` |
+| [Fix](development/2962-fix_7ef085bb/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 12 | `development` |
 
 ### Development/Devops (128 skills)
 
@@ -1396,7 +1400,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Capability Probe Spec](development/testing/083-capability-probe-spec_7c47621c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-probe-spec.md) | ⭐ 10 | `development` |
 | [Multi Cli Orchestrator Proposal](development/testing/084-multi-cli-orchestrator-proposal_43357673/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/multi-cli-orchestrator-proposal.md) | ⭐ 10 | `development` |
 
-### Development/Tools (115 skills)
+### Development/Tools (116 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1514,7 +1518,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rules Reference](development/tools/329-rules-reference_a67f7613/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/biome/references/rules-reference.md) | ⭐ 14 | `development` |
 | [Typescript Patterns](development/tools/330-typescript-patterns_e634422e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/typescript-patterns.md) | ⭐ 14 | `development` |
 | [Router Guide](development/tools/331-router-guide_20cfc231/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/router-guide.md) | ⭐ 14 | `development` |
-| [Pr Discovery](development/tools/pr-discovery_626ea8cb/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-discovery.md) | ⭐ 41 | `development` |
+| [Pr Discovery](development/tools/332-pr-discovery_626ea8cb/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-discovery.md) | ⭐ 41 | `development` |
+| [Claude](development/tools/claude_5fb2efdd/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 
 ### Investment (19 skills)
 
@@ -1577,7 +1582,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_5d80956d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/SKILL.md) | ⭐ 98 | `productivity` |
 | [Critic](productivity/174-critic_e600da33/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 81 | `productivity` |
 | [Validator](productivity/175-validator_201e59e1/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 81 | `productivity` |
-| [Pr Roadmap Planner](productivity/pr-roadmap-planner_939daac3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-roadmap-planner.md) | ⭐ 41 | `productivity` |
+| [Pr Roadmap Planner](productivity/176-pr-roadmap-planner_939daac3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-roadmap-planner.md) | ⭐ 41 | `productivity` |
 
 ### Research (42 skills)
 
@@ -1676,5 +1681,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 09:38:21 UTC*
+*Last updated: 2026-02-28 09:39:08 UTC*
 *Automatically maintained by SkillFlow*
