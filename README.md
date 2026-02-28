@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1366 AI-powered skills** organized into 15 categories.
+A curated collection of **1370 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,16 +12,16 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (200 skills)
 - **Commercial** (67 skills)
 - **Communication** (41 skills)
-- **Content Creation** (152 skills)
+- **Content Creation** (150 skills)
 - **Daily Assistant** (95 skills)
-- **Data Analysis** (73 skills)
-- **Development** (321 skills)
-- **Development/Devops** (126 skills)
+- **Data Analysis** (72 skills)
+- **Development** (324 skills)
+- **Development/Devops** (128 skills)
 - **Development/Testing** (18 skills)
-- **Development/Tools** (114 skills)
+- **Development/Tools** (115 skills)
 - **Investment** (19 skills)
 - **Other** (2 skills)
-- **Productivity** (26 skills)
+- **Productivity** (27 skills)
 - **Research** (42 skills)
 
 ## Patches - Curated Skill Bundles
@@ -531,7 +531,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backend Development](commercial/376-backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
 | [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
-| [Code Reviewer](commercial/code-reviewer_d37980bf/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 81 | `commercial` |
+| [Pr Competitive Analysis](commercial/pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
 
 ### Communication (41 skills)
 
@@ -576,10 +576,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](communication/147-reference_c0156e53/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/pylon/REFERENCE.md) | ⭐ 105 | `communication` |
 | [Reference](communication/147-reference_a324b9e1/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/sendgrid/REFERENCE.md) | ⭐ 105 | `communication` |
 | [Readme Cn](communication/260-readme_cn_02d3e493/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/README_CN.md) | ⭐ 4.1k | `communication` |
-| [Skill](communication/name-skill_6902ad1c/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/SKILL.md) | ⭐ 14 | `communication` |
-| [Query Guide](communication/query-guide_fbe1f096/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/query-guide.md) | ⭐ 14 | `communication` |
+| [Skill](communication/127-name-skill_6902ad1c/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/SKILL.md) | ⭐ 14 | `communication` |
+| [Query Guide](communication/262-query-guide_fbe1f096/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/query-guide.md) | ⭐ 14 | `communication` |
 
-### Content Creation (152 skills)
+### Content Creation (150 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -728,13 +728,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Anthropic](content-creation/390-anthropic_7343221a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/anthropic.md) | 🔥 37.0k | `content creation` |
 | [Config Settings](content-creation/391-config_settings_47afdccf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 37.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Skill](content-creation/049-name-skill_9e1f006d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/summarize/SKILL.md) | ⭐ 4.1k | `content creation` |
-| [Skill](content-creation/name-skill_696c0fd5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/biome/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_64750c9e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/SKILL.md) | ⭐ 14 | `content creation` |
-| [React 19 Features](content-creation/react-19-features_0a5d8135/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/react-19-features.md) | ⭐ 14 | `content creation` |
-| [Claude](content-creation/claude_83a3abcd/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 81 | `content creation` |
-| [Claude](content-creation/claude_e32bd05f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 81 | `content creation` |
-| [Segment Statuses](content-creation/segment-statuses_437794b0/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/editor/segment-statuses.md) | ⭐ 24 | `content creation` |
-| [Advisor](content-creation/advisor_d1716165/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/advisor.md) | ⭐ 81 | `content creation` |
+| [Skill](content-creation/049-name-skill_696c0fd5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/biome/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_64750c9e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/SKILL.md) | ⭐ 14 | `content creation` |
+| [React 19 Features](content-creation/375-react-19-features_0a5d8135/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/react-19-features.md) | ⭐ 14 | `content creation` |
+| [Claude](content-creation/007-claude_83a3abcd/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 81 | `content creation` |
+| [Claude](content-creation/007-claude_e32bd05f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 81 | `content creation` |
 
 ### Daily Assistant (95 skills)
 
@@ -836,7 +834,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tools](daily-assistant/304-tools_5b2ac4a5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/TOOLS.md) | ⭐ 4.1k | `daily assistant` |
 | [Memory](daily-assistant/305-memory_64058ab0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/memory/MEMORY.md) | ⭐ 4.1k | `daily assistant` |
 
-### Data Analysis (73 skills)
+### Data Analysis (72 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -912,9 +910,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Overwatch Interactions](data-analysis/503-overwatch-interactions_31f94aa6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-interactions.md) | ⭐ 10 | `data analysis` |
 | [Ocr](data-analysis/505-ocr_19459d16/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/ocr.md) | 🔥 37.0k | `data analysis` |
 | [Reference](data-analysis/286-reference_5899aaea/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-analytics-data-api/REFERENCE.md) | ⭐ 105 | `data analysis` |
-| [Security Auditor](data-analysis/security-auditor_f91aa2a4/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 81 | `data analysis` |
 
-### Development (321 skills)
+### Development (324 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1233,14 +1230,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bedrock](development/2834-bedrock_98618766/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/bedrock.md) | 🔥 37.0k | `development` |
 | [Reference](development/828-reference_2d2cb83c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-ads/REFERENCE.md) | ⭐ 105 | `development` |
 | [Skill](development/1178-name-skill_cb2785a1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/skill-creator/SKILL.md) | ⭐ 4.1k | `development` |
-| [Skill](development/name-skill_f57396a5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/vite/SKILL.md) | ⭐ 14 | `development` |
-| [Build Optimization](development/build-optimization_b5891ad5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/vite/references/build-optimization.md) | ⭐ 14 | `development` |
-| [Claude](development/claude_872849be/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 81 | `development` |
-| [Librarian](development/librarian_65c39309/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 81 | `development` |
-| [Risk Assessor](development/risk-assessor_3a11504b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/risk-assessor.md) | ⭐ 81 | `development` |
-| [Prime](development/prime_f9d3f8c2/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/commands/prime.md) | ⭐ 81 | `development` |
+| [Skill](development/1178-name-skill_f57396a5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/vite/SKILL.md) | ⭐ 14 | `development` |
+| [Build Optimization](development/2916-build-optimization_b5891ad5/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/vite/references/build-optimization.md) | ⭐ 14 | `development` |
+| [Claude](development/140-claude_872849be/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 81 | `development` |
+| [Librarian](development/519-librarian_65c39309/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 81 | `development` |
+| [Risk Assessor](development/2917-risk-assessor_3a11504b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/risk-assessor.md) | ⭐ 81 | `development` |
+| [Prime](development/708-prime_f9d3f8c2/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/commands/prime.md) | ⭐ 81 | `development` |
+| [Skill](development/name-skill_dbe7caa3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/SKILL.md) | ⭐ 41 | `development` |
+| [Pr Goal Alignment](development/pr-goal-alignment_e257d136/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-goal-alignment.md) | ⭐ 41 | `development` |
+| [Pr Ux Dx Audit](development/pr-ux-dx-audit_fd468ef1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-ux-dx-audit.md) | ⭐ 41 | `development` |
 
-### Development/Devops (126 skills)
+### Development/Devops (128 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1369,7 +1369,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Export Workflow](development/devops/401-export-workflow_e741832d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/export-workflow.md) | ⭐ 10 | `development` |
 | [Privacy](development/devops/396-privacy_d0d1c5dd/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/PRIVACY.md) | ⭐ 69 | `development` |
 | [Prometheus](development/devops/042-prometheus_63b6c1b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md) | 🔥 37.0k | `development` |
-| [Start Guide](development/devops/start-guide_fc294226/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/start-guide.md) | ⭐ 14 | `development` |
+| [Aden Credential Sync](development/devops/099-aden-credential-sync_b6f44550/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/aden-credential-sync.md) | 🔥 8.4k | `development` |
+| [Configuration](development/devops/009-configuration_2d604955/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/configuration.md) | 🔥 8.4k | `development` |
+| [Environment Setup](development/devops/200-environment-setup_3032dc4d/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/environment-setup.md) | 🔥 8.4k | `development` |
 
 ### Development/Testing (18 skills)
 
@@ -1394,7 +1396,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Capability Probe Spec](development/testing/083-capability-probe-spec_7c47621c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-probe-spec.md) | ⭐ 10 | `development` |
 | [Multi Cli Orchestrator Proposal](development/testing/084-multi-cli-orchestrator-proposal_43357673/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/multi-cli-orchestrator-proposal.md) | ⭐ 10 | `development` |
 
-### Development/Tools (114 skills)
+### Development/Tools (115 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1507,11 +1509,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Auth](development/tools/077-auth_4a9f580d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 105 | `development` |
 | [Skill](development/tools/002-name-skill_acea175f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/github/SKILL.md) | ⭐ 4.1k | `development` |
 | [Skill](development/tools/002-name-skill_f0caaa51/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/tmux/SKILL.md) | ⭐ 4.1k | `development` |
-| [Claude](development/tools/claude_b92e8cdd/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/.claude/CLAUDE.md) | ⭐ 14 | `development` |
-| [Skill](development/tools/name-skill_f2dfb2f3/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/shadcn-tailwind/SKILL.md) | ⭐ 14 | `development` |
-| [Rules Reference](development/tools/rules-reference_a67f7613/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/biome/references/rules-reference.md) | ⭐ 14 | `development` |
-| [Typescript Patterns](development/tools/typescript-patterns_e634422e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/typescript-patterns.md) | ⭐ 14 | `development` |
-| [Router Guide](development/tools/router-guide_20cfc231/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/router-guide.md) | ⭐ 14 | `development` |
+| [Claude](development/tools/017-claude_b92e8cdd/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/.claude/CLAUDE.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/002-name-skill_f2dfb2f3/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/shadcn-tailwind/SKILL.md) | ⭐ 14 | `development` |
+| [Rules Reference](development/tools/329-rules-reference_a67f7613/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/biome/references/rules-reference.md) | ⭐ 14 | `development` |
+| [Typescript Patterns](development/tools/330-typescript-patterns_e634422e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/typescript-patterns.md) | ⭐ 14 | `development` |
+| [Router Guide](development/tools/331-router-guide_20cfc231/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/router-guide.md) | ⭐ 14 | `development` |
+| [Pr Discovery](development/tools/pr-discovery_626ea8cb/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-discovery.md) | ⭐ 41 | `development` |
 
 ### Investment (19 skills)
 
@@ -1544,7 +1547,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
 
-### Productivity (26 skills)
+### Productivity (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1572,8 +1575,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implementation Playbook](productivity/175-implementation-playbook_2c7486bd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/temporal-golang-pro/resources/implementation-playbook.md) | 🔥 15.3k | `productivity` |
 | [Agent Definitions.Instructions](productivity/174-agent-definitionsinstructions_21fb2966/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-definitions.instructions.md) | ⭐ 98 | `productivity` |
 | [Skill](productivity/093-name-skill_5d80956d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/context-optimizer/SKILL.md) | ⭐ 98 | `productivity` |
-| [Critic](productivity/critic_e600da33/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 81 | `productivity` |
-| [Validator](productivity/validator_201e59e1/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 81 | `productivity` |
+| [Critic](productivity/174-critic_e600da33/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 81 | `productivity` |
+| [Validator](productivity/175-validator_201e59e1/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 81 | `productivity` |
+| [Pr Roadmap Planner](productivity/pr-roadmap-planner_939daac3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-roadmap-planner.md) | ⭐ 41 | `productivity` |
 
 ### Research (42 skills)
 
@@ -1672,5 +1676,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 08:37:37 UTC*
+*Last updated: 2026-02-28 09:38:21 UTC*
 *Automatically maintained by SkillFlow*
