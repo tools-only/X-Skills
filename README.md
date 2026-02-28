@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1561 AI-powered skills** organized into 15 categories.
+A curated collection of **1650 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (72 skills)
-- **Automation/Workflow** (205 skills)
-- **Commercial** (68 skills)
-- **Communication** (44 skills)
-- **Content Creation** (184 skills)
-- **Daily Assistant** (101 skills)
-- **Data Analysis** (92 skills)
-- **Development** (382 skills)
-- **Development/Devops** (133 skills)
+- **Automation/Scripting** (73 skills)
+- **Automation/Workflow** (206 skills)
+- **Commercial** (92 skills)
+- **Communication** (51 skills)
+- **Content Creation** (217 skills)
+- **Daily Assistant** (103 skills)
+- **Data Analysis** (101 skills)
+- **Development** (386 skills)
+- **Development/Devops** (134 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (130 skills)
-- **Investment** (26 skills)
+- **Development/Tools** (131 skills)
+- **Investment** (27 skills)
 - **Other** (2 skills)
-- **Productivity** (31 skills)
-- **Research** (66 skills)
+- **Productivity** (34 skills)
+- **Research** (68 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (72 skills)
+### Automation/Scripting (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -257,8 +257,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](automation/scripting/022-index_66d0f6a6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/scripts/INDEX.md) | ⭐ 10 | `automation` |
 | [Add Client Command](automation/scripting/092-add-client-command_15efc6f5/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/add-client-command.md) | ⭐ 10 | `automation` |
 | [Skill](automation/scripting/003-name-skill_b023afb4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-capability-analyzer/SKILL.md) | ⭐ 20 | `automation` |
+| [Skill](automation/scripting/name-skill_2e868c29/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/influencer/SKILL.md) | ⭐ 12 | `automation` |
 
-### Automation/Workflow (205 skills)
+### Automation/Workflow (206 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -467,8 +468,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hn 1 Claude Code](automation/workflow/142-hn-1-claude-code_06c8b87a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-1-claude-code.md) | ⭐ 3.2k | `automation` |
 | [Release Notes V1.5.0](automation/workflow/142-release_notes_v150_f1542b36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.0.md) | ⭐ 10 | `automation` |
 | [Report](automation/workflow/138-report_0d6c3de0/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/benchmark/pymc-modeling/report.md) | ⭐ 12 | `automation` |
+| [Skill](automation/workflow/name-skill_b3de0133/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexing/SKILL.md) | ⭐ 12 | `automation` |
 
-### Commercial (68 skills)
+### Commercial (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -540,8 +542,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
 | [Pr Competitive Analysis](commercial/380-pr-competitive-analysis_cd484457/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-competitive-analysis.md) | ⭐ 41 | `commercial` |
 | [Release Notes V1.1](commercial/383-release_notes_v11_86408943/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.1.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/name-skill_5e22e279/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/tracking/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_27c7bf28/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/referral/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_fe18d80c/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/popup/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_9e6c6018/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/sidebar/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_57a03b14/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/top-banner/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_ad193725/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/brand/home/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_de640ff6/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/features/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_8a2b1ebc/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/glossary/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_62219396/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/legal/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_1e1d39f6/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/privacy/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_580a8118/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/refund/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_e5d12ebe/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/terms/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_6a559d8e/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/crawlability/SKILL.md) | ⭐ 12 | `commercial` |
+| [Competitor Report](commercial/competitor-report_38467e27/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/templates/competitor-report.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_be0bd9c2/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/testimonials/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_442c916c/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/trust-badges/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_4e7615ff/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/brand/about/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_ab481f23/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/shipping/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_21baee87/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/affiliate-program/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_e54b8477/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/category-pages/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_ded94a99/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/products/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_cfc19129/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/services/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_061b42d4/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/utility/careers/SKILL.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/name-skill_aec08d72/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/content/keyword-research/SKILL.md) | ⭐ 12 | `commercial` |
 
-### Communication (44 skills)
+### Communication (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -589,8 +615,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Health](communication/261-health_472a6c36/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/health.md) | 🔥 37.0k | `communication` |
 | [Topic Routing](communication/260-topic-routing_73e6bad1/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/claw-advisor/references/topic-routing.md) | ⭐ 34 | `communication` |
 | [Sealos Devbox Guide](communication/261-sealos-devbox-guide_0cfdbe15/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/sealos-devbox-guide.md) | 🔥 10.3k | `communication` |
+| [Skill](communication/name-skill_d884d371/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/traffic/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_73c2db22/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/affiliate/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_dc0e5de9/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/creator-program/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_ff65e16a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/newsletter-signup/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_558fa34f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/strategies/integrated-marketing/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_ddea7b79/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/brand/contact/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_36507c78/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/faq/SKILL.md) | ⭐ 12 | `communication` |
 
-### Content Creation (184 skills)
+### Content Creation (217 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -773,13 +806,46 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ui Components](content-creation/369-ui_components_07a2a884/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/ui_components.md) | ⭐ 12 | `content creation` |
 | [Bart](content-creation/370-bart_c86fba81/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/bart.md) | ⭐ 12 | `content creation` |
 | [Specialized Likelihoods](content-creation/371-specialized_likelihoods_92d3879e/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/specialized_likelihoods.md) | ⭐ 12 | `content creation` |
-| [06 Extraction](content-creation/06-extraction_d11f91b8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 4.2k | `content creation` |
-| [Skill](content-creation/name-skill_ba8edf2e/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/SKILL.md) | ⭐ 311 | `content creation` |
-| [Core](content-creation/core_3a5b5010/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/core.md) | ⭐ 311 | `content creation` |
-| [Generative](content-creation/generative_24ea4738/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/generative.md) | ⭐ 311 | `content creation` |
-| [Media](content-creation/media_e54f6abc/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/media.md) | ⭐ 311 | `content creation` |
+| [06 Extraction](content-creation/320-06-extraction_d11f91b8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 4.2k | `content creation` |
+| [Skill](content-creation/name-skill_e494d2a4/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/google-search-console/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_7b9dbf59/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/seo-monitoring/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_f05943d3/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/community-forum/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_9d733015/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/directories/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_e6af6d81/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/egc/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_bf6da774/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/email-marketing/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_607c2ea2/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/breadcrumb/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_fd51769a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/footer/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_b6416a1f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/url-slug/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_8651187a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/grokipedia/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_320a668a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/linkedin/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_8933c857/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/x/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_0ad34dce/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/strategies/geo/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_9e525edc/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/article/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_eec3df7a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/blog/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_17b134e9/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/resources/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_decbe787/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/media-kit/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_1aa97ecc/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/content/content-optimization/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_02aeea45/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/content/content-strategy/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_0eefa5e6/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/off-page/link-building/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_a7a3e130/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/open-graph/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_b879dbf3/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/schema/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_1e8897da/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/url-structure/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_da45667d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/canonical/SKILL.md) | ⭐ 12 | `content creation` |
+| [Page Types Taxonomy](content-creation/page-types-taxonomy_7d44631d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/docs/page-types-taxonomy.md) | ⭐ 12 | `content creation` |
+| [Skills List](content-creation/skills-list_d315e7ac/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/docs/skills-list.md) | ⭐ 12 | `content creation` |
+| [Keyword Report](content-creation/keyword-report_15e2cd90/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/templates/keyword-report.md) | ⭐ 12 | `content creation` |
+| [Product Marketing Context](content-creation/product-marketing-context_493724f1/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/templates/product-marketing-context.md) | ⭐ 12 | `content creation` |
+| [Page Types Taxonomy](content-creation/page-types-taxonomy_15d224d8/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/page-types-taxonomy.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_15c9b2a3/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/social-share/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_f6c1807b/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/toc/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_d1c4f12d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/tiktok/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_b5e253f7/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/description/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_df8db9fe/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/heading/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_cf0e0bdd/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/internal-links/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_e341f2d2/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/title/SKILL.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/name-skill_4cbb748b/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/twitter-cards/SKILL.md) | ⭐ 12 | `content creation` |
 
-### Daily Assistant (101 skills)
+### Daily Assistant (103 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -884,8 +950,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Input Resolution](daily-assistant/303-input-resolution_6f5010bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/input-resolution.md) | ⭐ 20 | `daily assistant` |
 | [Hackathon Issue Draft](daily-assistant/277-hackathon_issue_draft_9d181e98/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_ISSUE_DRAFT.md) | 🔥 10.3k | `daily assistant` |
 | [Llmnode](daily-assistant/304-llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_e14f5eea/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/navigation-menu/SKILL.md) | ⭐ 12 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_6baf6383/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/strategies/localization/SKILL.md) | ⭐ 12 | `daily assistant` |
 
-### Data Analysis (92 skills)
+### Data Analysis (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -980,9 +1048,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Diagnostics](data-analysis/506-diagnostics_6287faf7/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/diagnostics.md) | ⭐ 12 | `data analysis` |
 | [Mixtures](data-analysis/507-mixtures_06526181/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/mixtures.md) | ⭐ 12 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_069bd6cb/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md) | ⭐ 12 | `data analysis` |
-| [Readme Cn](data-analysis/readme_cn_3041db78/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 4.2k | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_3041db78/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 4.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_396e45fa/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/brand-visual/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_ba52cef5/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/favicon/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Competitor Report Guide](data-analysis/competitor-report-guide_c5e26c38/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/tools/competitor-report-guide.md) | ⭐ 12 | `data analysis` |
+| [Keyword Report Guide](data-analysis/keyword-report-guide_5002515d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/tools/keyword-report-guide.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_7f927ec2/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/hero/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_eac49a11/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/logo/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_76e66d92/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/customer-stories/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_531c3fbe/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/utility/404/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_3a8dd40d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/metadata/SKILL.md) | ⭐ 12 | `data analysis` |
 
-### Development (382 skills)
+### Development (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1365,11 +1442,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gaussian Processes in PyMC](development/3016-gp_e424b0b2/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/gp.md) | ⭐ 12 | `development` |
 | [Troubleshooting](development/1097-troubleshooting_5c1bc2c1/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/troubleshooting.md) | ⭐ 12 | `development` |
 | [Skill](development/1178-name-skill_de15106d/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot-developer/SKILL.md) | ⭐ 12 | `development` |
-| [Contributing Cn](development/contributing_cn_067f5375/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 4.2k | `development` |
-| [06 Extraction](development/06-extraction_5ff2b36c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 4.2k | `development` |
-| [Skill](development/name-skill_57441433/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/opencode/plugin/skills/openviking/SKILL.md) | ⭐ 4.2k | `development` |
+| [Contributing Cn](development/2034-contributing_cn_067f5375/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 4.2k | `development` |
+| [06 Extraction](development/3034-06-extraction_5ff2b36c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 4.2k | `development` |
+| [Using Beyond Cursor](development/using-beyond-cursor_e1828468/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/docs/using-beyond-cursor.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_dd6c18c7/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/content/api/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_01b3ee7f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/off-page/backlink-analysis/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_05901a5f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/robots/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_5a867d3d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/sitemap/SKILL.md) | ⭐ 12 | `development` |
 
-### Development/Devops (133 skills)
+### Development/Devops (134 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1446,7 +1527,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_71341d0f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/terraform-skill/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/devops/014-name-skill_a2d598f6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vercel-deployment/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/devops/014-name-skill_73fec275/) | [databricks/databricks-agent-skills](https://raw.githubusercontent.com/databricks/databricks-agent-skills/main/skills/databricks-apps/SKILL.md) | ⭐ 13 | `development` |
-| [01 Configuration](development/devops/01-configuration_3f5c2c41/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.2k | `development` |
+| [01 Configuration](development/devops/314-01-configuration_c0375f13/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.0k | `development` |
 | [Categorization Implementation](development/devops/369-categorization_implementation_593e3c06/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/CATEGORIZATION_IMPLEMENTATION.md) | 🔥 15.3k | `development` |
 | [Skill](development/devops/014-name-skill_674bba11/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/seo-forensic-incident-response/SKILL.md) | 🔥 15.3k | `development` |
 | [Agent Evaluation](development/devops/374-agent-evaluation_7f30c26e/) | [FlorianBruniaux/claude-code-ultimate-guide](https://raw.githubusercontent.com/FlorianBruniaux/claude-code-ultimate-guide/main/guide/agent-evaluation.md) | ⭐ 396 | `agents` `testing` `guide` |
@@ -1504,8 +1585,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_ac54676e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/SKILL.md) | ⭐ 20 | `development` |
 | [Deployment](development/devops/258-deployment_5d04dae8/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/deployment.md) | ⭐ 10 | `development` |
 | [Advanced](development/devops/402-advanced_b997a65a/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/advanced.md) | ⭐ 12 | `development` |
-| [01 Configuration](development/devops/01-configuration_f22a8ff4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.2k | `development` |
+| [01 Configuration](development/devops/314-01-configuration_f22a8ff4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.2k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_3f5c2c41/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.2k | `development` |
+| [Skill](development/devops/name-skill_1727c08f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexnow/SKILL.md) | ⭐ 12 | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -1537,7 +1619,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 | [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
 
-### Development/Tools (130 skills)
+### Development/Tools (131 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1671,8 +1753,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [2 Architecture](development/tools/351-2-architecture_9b1b58f4/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/2-architecture.md) | ⭐ 10 | `development` |
 | [4 Core Patterns](development/tools/352-4-core-patterns_600b8150/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/4-core-patterns.md) | ⭐ 10 | `development` |
 | [Claude](development/tools/017-claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Skills Guide](development/tools/skills_guide_4d579a85/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/SKILLS_GUIDE.md) | ⭐ 12 | `development` |
 
-### Investment (26 skills)
+### Investment (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1702,6 +1785,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_eb1a5dc3/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md) | ⭐ 12 | `investment` |
 | [Pmm Mister](investment/051-pmm_mister_e69056b5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_mister.md) | ⭐ 12 | `investment` |
 | [Pmm V1](investment/052-pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
+| [Skill](investment/name-skill_ea63b574/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/cookie-policy/SKILL.md) | ⭐ 12 | `investment` |
 
 ### Other (2 skills)
 
@@ -1710,7 +1794,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
 
-### Productivity (31 skills)
+### Productivity (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1745,8 +1829,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hn 3 Macbook](productivity/175-hn-3-macbook_21bb2434/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-3-macbook.md) | ⭐ 3.2k | `productivity` |
 | [Inference](productivity/175-inference_1a48ad07/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/inference.md) | ⭐ 12 | `productivity` |
 | [Timeseries](productivity/176-timeseries_c126c36c/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/timeseries.md) | ⭐ 12 | `productivity` |
+| [Skill](productivity/name-skill_2586d503/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/cta/SKILL.md) | ⭐ 12 | `productivity` |
+| [Skill](productivity/name-skill_3fc43550/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/reddit/SKILL.md) | ⭐ 12 | `productivity` |
+| [Skill](productivity/name-skill_eaa50f84/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/pricing/SKILL.md) | ⭐ 12 | `productivity` |
 
-### Research (66 skills)
+### Research (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1816,6 +1903,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Eval 4 Rap](research/279-eval-4-rap_50c5bddc/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-4-rap.md) | ⭐ 3.2k | `research` |
 | [Cross Synthesis Prompt](research/280-cross-synthesis-prompt_b5346f04/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/cross-synthesis-prompt.md) | ⭐ 3.2k | `research` |
 | [Priors](research/267-priors_65edf17f/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/priors.md) | ⭐ 12 | `research` |
+| [Skill](research/name-skill_765ddf7d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/ai-traffic/SKILL.md) | ⭐ 12 | `research` |
+| [Skills Task Progress](research/skills-task-progress_053e9ee0/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/templates/skills-task-progress.md) | ⭐ 12 | `research` |
 
 ## How Skills Are Organized
 
@@ -1867,5 +1956,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 17:36:35 UTC*
+*Last updated: 2026-02-28 17:37:15 UTC*
 *Automatically maintained by SkillFlow*
