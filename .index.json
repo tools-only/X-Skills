@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T16:36:37.529725",
+  "updated_at": "2026-02-28T17:36:35.753866",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -21701,6 +21701,90 @@
       "source_url": "https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md",
       "display_name": "Pmm V1",
       "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "d11f91b8d623350079103b00c85370ab6878174344a4f3d38fd266c1fc6ef729",
+      "source_path": "docs/en/concepts/06-extraction.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "content-creation/320-06-extraction_d11f91b8",
+      "category": "content-creation",
+      "name": "06-extraction_d11f91b8",
+      "indexed_at": "2026-02-28T17:36:34.696573",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T09:58:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md",
+      "display_name": "06 Extraction",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "067f537568e081e9fa90e2893037afad5c81550fee22a2837174a05bb8b791be",
+      "source_path": "CONTRIBUTING_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2034-contributing_cn_067f5375",
+      "category": "development",
+      "name": "contributing_cn_067f5375",
+      "indexed_at": "2026-02-28T17:36:34.932102",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T10:00:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md",
+      "display_name": "Contributing Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5ff2b36cddb7f678baad90516179dcfd28f59a2a188b05f9a27b46bf8cbdbc33",
+      "source_path": "docs/zh/concepts/06-extraction.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/3034-06-extraction_5ff2b36c",
+      "category": "development",
+      "name": "06-extraction_5ff2b36c",
+      "indexed_at": "2026-02-28T17:36:35.155853",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T09:58:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md",
+      "display_name": "06 Extraction",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3041db786e395601f955132e77d07687ead8541047b3495bb2c7189c8c02136e",
+      "source_path": "README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/436-readme_cn_3041db78",
+      "category": "data-analysis",
+      "name": "readme_cn_3041db78",
+      "indexed_at": "2026-02-28T17:36:35.344980",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T13:17:38+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "f22a8ff41c1899d5aa20dc90794951929f8905d784df1c3ec3340641f5c61a0d",
+      "source_path": "docs/en/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_f22a8ff4",
+      "category": "development/devops",
+      "name": "01-configuration_f22a8ff4",
+      "indexed_at": "2026-02-28T17:36:35.539772",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T09:58:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3f5c2c410c6a41b412ace30f9ee2912ba95352ee6abe52ae5d4584b42efa21d1",
+      "source_path": "docs/zh/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_3f5c2c41",
+      "category": "development/devops",
+      "name": "01-configuration_3f5c2c41",
+      "indexed_at": "2026-02-28T17:36:35.753736",
+      "repo_stars": 4182,
+      "repo_updated_at": "2026-02-28T09:58:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"development\"]"
     }
   ]
 }
