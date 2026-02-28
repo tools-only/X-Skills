@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T06:36:42.140680",
+  "updated_at": "2026-02-28T06:38:06.168098",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -18677,6 +18677,104 @@
       "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/sendgrid/REFERENCE.md",
       "display_name": "Reference",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "02d3e4937e9f30aec979dd0c65d824c7916d6670d28cfad729bdef20a09d379b",
+      "source_path": "bot/README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "communication/260-readme_cn_02d3e493",
+      "category": "communication",
+      "name": "readme_cn_02d3e493",
+      "indexed_at": "2026-02-28T06:38:04.210177",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T03:25:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "5b2ac4a5db85f114e88c5af76a36f4dca64a27db76b9d91356d7b4e80996b8dd",
+      "source_path": "bot/workspace/TOOLS.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "daily-assistant/304-tools_5b2ac4a5",
+      "category": "daily-assistant",
+      "name": "tools_5b2ac4a5",
+      "indexed_at": "2026-02-28T06:38:04.499010",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/TOOLS.md",
+      "display_name": "Tools",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "64058ab069efec6f0a34e5b5c5cab02768bef918a70d380f5258e8eece4e29d2",
+      "source_path": "bot/workspace/memory/MEMORY.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "daily-assistant/305-memory_64058ab0",
+      "category": "daily-assistant",
+      "name": "memory_64058ab0",
+      "indexed_at": "2026-02-28T06:38:04.965530",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/memory/MEMORY.md",
+      "display_name": "Memory",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "cb2785a1133905bcc952afc5001b9bd20f92a8f473be9336fd1f9f01db05b6a0",
+      "source_path": "bot/workspace/skills/skill-creator/SKILL.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/1178-name-skill_cb2785a1",
+      "category": "development",
+      "name": "name-skill_cb2785a1",
+      "indexed_at": "2026-02-28T06:38:05.232703",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/skill-creator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "acea175fb1b4b0d68ef0bc2ad0196e5e3418a5ed4daf8ebf0432c1ee1253cc0d",
+      "source_path": "bot/workspace/skills/github/SKILL.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/tools/002-name-skill_acea175f",
+      "category": "development/tools",
+      "name": "name-skill_acea175f",
+      "indexed_at": "2026-02-28T06:38:05.593184",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/github/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f0caaa516fb99a74c2b12224a09eeda4e5acfc3dda0b2e53c39a34f6f46bf0ad",
+      "source_path": "bot/workspace/skills/tmux/SKILL.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/tools/002-name-skill_f0caaa51",
+      "category": "development/tools",
+      "name": "name-skill_f0caaa51",
+      "indexed_at": "2026-02-28T06:38:05.893284",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/tmux/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9e1f006d7e4295c73f10946651d61bd85d4f42214a65816cee15e69008ca527b",
+      "source_path": "bot/workspace/skills/summarize/SKILL.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "content-creation/049-name-skill_9e1f006d",
+      "category": "content-creation",
+      "name": "name-skill_9e1f006d",
+      "indexed_at": "2026-02-28T06:38:06.167999",
+      "repo_stars": 4123,
+      "repo_updated_at": "2026-02-28T01:36:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/bot/workspace/skills/summarize/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
