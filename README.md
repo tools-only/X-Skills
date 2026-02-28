@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1628 AI-powered skills** organized into 15 categories.
+A curated collection of **1832 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (73 skills)
-- **Automation/Workflow** (206 skills)
-- **Commercial** (81 skills)
-- **Communication** (50 skills)
-- **Content Creation** (206 skills)
-- **Daily Assistant** (102 skills)
-- **Data Analysis** (94 skills)
-- **Development** (394 skills)
+- **Automation/Scripting** (75 skills)
+- **Automation/Workflow** (209 skills)
+- **Commercial** (104 skills)
+- **Communication** (59 skills)
+- **Content Creation** (233 skills)
+- **Daily Assistant** (121 skills)
+- **Data Analysis** (117 skills)
+- **Development** (460 skills)
 - **Development/Devops** (136 skills)
-- **Development/Testing** (25 skills)
-- **Development/Tools** (131 skills)
-- **Investment** (27 skills)
-- **Other** (2 skills)
-- **Productivity** (34 skills)
-- **Research** (67 skills)
+- **Development/Testing** (26 skills)
+- **Development/Tools** (154 skills)
+- **Investment** (31 skills)
+- **Other** (3 skills)
+- **Productivity** (36 skills)
+- **Research** (68 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (73 skills)
+### Automation/Scripting (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -258,8 +258,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Add Client Command](automation/scripting/092-add-client-command_15efc6f5/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/add-client-command.md) | ⭐ 10 | `automation` |
 | [Skill](automation/scripting/003-name-skill_b023afb4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-capability-analyzer/SKILL.md) | ⭐ 20 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2e868c29/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/influencer/SKILL.md) | ⭐ 12 | `automation` |
+| [Ticket Verifier](automation/scripting/ticket-verifier_1f1bbf2a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/ticket-verifier.md) | ⭐ 10 | `automation` |
+| [Integration Guide](automation/scripting/integration-guide_fc8e2ef4/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/meeting-processing/integration-guide.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (206 skills)
+### Automation/Workflow (209 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -469,8 +471,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V1.5.0](automation/workflow/142-release_notes_v150_f1542b36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.0.md) | ⭐ 10 | `automation` |
 | [Report](automation/workflow/138-report_0d6c3de0/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/benchmark/pymc-modeling/report.md) | ⭐ 12 | `automation` |
 | [Skill](automation/workflow/002-name-skill_b3de0133/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexing/SKILL.md) | ⭐ 12 | `automation` |
+| [Quick Start](automation/workflow/quick-start_ffb4d343/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/guides/getting-up-to-speed-on-github/quick-start.md) | ⭐ 10 | `automation` |
+| [Release Notes](automation/workflow/release-notes_6ceacfa5/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/release-notes.md) | ⭐ 10 | `automation` |
+| [Claude Config](automation/workflow/claude-config_13ef5f7c/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/rules/claude-config.md) | ⭐ 10 | `automation` |
 
-### Commercial (81 skills)
+### Commercial (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -555,8 +560,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_580a8118/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/refund/SKILL.md) | ⭐ 12 | `commercial` |
 | [Skill](commercial/210-name-skill_e5d12ebe/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/terms/SKILL.md) | ⭐ 12 | `commercial` |
 | [Skill](commercial/210-name-skill_6a559d8e/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/crawlability/SKILL.md) | ⭐ 12 | `commercial` |
+| [Capability](commercial/capability_6c365d51/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/meeting-processing/CAPABILITY.md) | ⭐ 10 | `commercial` |
+| [Typical Structure](commercial/typical-structure_ac920eb6/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-structure.md) | ⭐ 10 | `commercial` |
+| [Claude](commercial/claude_df4dbade/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/config/prompts/CLAUDE.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 181805](commercial/extraction_tuning_20260208_181805_7bdef460/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181805.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 201927](commercial/extraction_tuning_20260208_201927_b891d584/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_201927.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 210707](commercial/extraction_tuning_20260208_210707_cde68389/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210707.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 210722](commercial/extraction_tuning_20260208_210722_0733b02f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210722.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 210740](commercial/extraction_tuning_20260208_210740_10384197/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210740.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 213034 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_213034_claude-sonnet-45_7e950054/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_213034_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 214148 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_214148_claude-sonnet-45_7c6d3ec4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_214148_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 222459 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_222459_claude-sonnet-45_b6398254/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_222459_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 222950 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_222950_claude-sonnet-45_a1e78401/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_222950_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 223426 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_223426_claude-sonnet-45_abc47016/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_223426_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 224908 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_224908_claude-sonnet-45_7cdb34a5/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_224908_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 225008 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_225008_claude-sonnet-45_5f2ffdf5/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_225008_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260208 225650 Claude Sonnet 4.5](commercial/extraction_tuning_20260208_225650_claude-sonnet-45_9998889b/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_225650_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260209 050500 Claude Sonnet 4.5](commercial/extraction_tuning_20260209_050500_claude-sonnet-45_2ba7f6fa/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260209_050500_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260209 051523 Claude Sonnet 4.5](commercial/extraction_tuning_20260209_051523_claude-sonnet-45_e1452d59/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260209_051523_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction Tuning 20260209 060824 Claude Sonnet 4.5](commercial/extraction_tuning_20260209_060824_claude-sonnet-45_40793ed7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260209_060824_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Fingerprint Tuning Results](commercial/fingerprint_tuning_results_edbc21df/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_results.md) | ⭐ 394 | `commercial` |
+| [Extraction 054122 Claude Sonnet 4.5](commercial/extraction_054122_claude-sonnet-45_5adfa2b5/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054122_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction 054217 Claude Sonnet 4.5](commercial/extraction_054217_claude-sonnet-45_56837127/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054217_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
+| [Extraction 054222 Claude Sonnet 4.5](commercial/extraction_054222_claude-sonnet-45_44e58390/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054222_claude-sonnet-4.5.md) | ⭐ 394 | `commercial` |
 
-### Communication (50 skills)
+### Communication (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -610,8 +638,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_ff65e16a/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/newsletter-signup/SKILL.md) | ⭐ 12 | `communication` |
 | [Skill](communication/127-name-skill_558fa34f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/strategies/integrated-marketing/SKILL.md) | ⭐ 12 | `communication` |
 | [Skill](communication/127-name-skill_ddea7b79/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/brand/contact/SKILL.md) | ⭐ 12 | `communication` |
+| [Claude](communication/claude_f7c6645d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/CLAUDE.md) | ⭐ 394 | `communication` |
+| [Claude](communication/claude_829826e0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/ui/terminal/CLAUDE.md) | ⭐ 394 | `communication` |
+| [Extraction Tuning 20260208 201908](communication/extraction_tuning_20260208_201908_27926992/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_201908.md) | ⭐ 394 | `communication` |
+| [Extraction Tuning 20260208 210655](communication/extraction_tuning_20260208_210655_b69ac178/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210655.md) | ⭐ 394 | `communication` |
+| [Extraction Tuning 20260208 210702](communication/extraction_tuning_20260208_210702_f226a3c6/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210702.md) | ⭐ 394 | `communication` |
+| [Extraction 223403 Qwen3.5 Plus 02 15](communication/extraction_223403_qwen35-plus-02-15_dc9a7513/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223403_qwen3.5-plus-02-15.md) | ⭐ 394 | `communication` |
+| [Extraction 223428 Minimax M2.5](communication/extraction_223428_minimax-m25_a3bcebca/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223428_minimax-m2.5.md) | ⭐ 394 | `communication` |
+| [Extraction 223524 Glm 5](communication/extraction_223524_glm-5_5c2cea2a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223524_glm-5.md) | ⭐ 394 | `communication` |
+| [Extraction 223814 Kimi K2.5](communication/extraction_223814_kimi-k25_59abbda0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223814_kimi-k2.5.md) | ⭐ 394 | `communication` |
 
-### Content Creation (206 skills)
+### Content Creation (233 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -820,9 +857,36 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_1e8897da/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/on-page/url-structure/SKILL.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_da45667d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/canonical/SKILL.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_e1155868/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copywriting/SKILL.md) | 🔥 16.2k | `content creation` |
-| [Skill](content-creation/name-skill_2efea1f4/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/skills/linkai-agent/SKILL.md) | 🔥 41.6k | `content creation` |
+| [Implementation Roadmap](content-creation/implementation-roadmap_7b9c7a43/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/archive/implementation-roadmap.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_c8e4a96c/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/contextualize/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_cb76816e/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/onboard/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_2c8aa9f9/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/plan/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_c338646a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/process/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_5964dbf2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/read-book/SKILL.md) | ⭐ 10 | `content creation` |
+| [Analyzer](content-creation/analyzer_bf68f4ca/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/agents/analyzer.md) | ⭐ 10 | `content creation` |
+| [Schemas](content-creation/schemas_8e887618/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/references/schemas.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_19f2957a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/claude-code-configuration/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_ade7501b/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/claude-code-configuration/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_92faff1c/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/context-ecosystem/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_f2ffce18/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/context-ecosystem/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_45bbfa47/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/craft-assessment/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_4b3a8086/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/insight-feedback-loop/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_8fecb297/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/knowledge-zones/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_3166e52e/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/knowledge-zones/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_0e59b450/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/mentor-framework/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_4fc65dac/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/mentor-framework/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_5ecf84e2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/process-evolution/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_fc92313b/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/reverse-prompting/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_d4c7a645/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/reverse-prompting/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Capability](content-creation/capability_1ab0bbdd/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/session-hygiene/CAPABILITY.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_df865df9/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/session-hygiene/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Integration Guide](content-creation/integration-guide_76e2a453/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/strategic-planning/integration-guide.md) | ⭐ 10 | `content creation` |
+| [Persona](content-creation/persona_fb233950/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/PERSONA.md) | ⭐ 10 | `content creation` |
+| [Typical Commands](content-creation/typical-commands_b7bc0a33/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-commands.md) | ⭐ 10 | `content creation` |
+| [Extraction 054150 Claude Sonnet 4.5](content-creation/extraction_054150_claude-sonnet-45_4e63b549/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054150_claude-sonnet-4.5.md) | ⭐ 394 | `content creation` |
+| [Ticket Executor](content-creation/ticket-executor_887b0ede/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/ticket-executor.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (102 skills)
+### Daily Assistant (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -928,8 +992,27 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hackathon Issue Draft](daily-assistant/277-hackathon_issue_draft_9d181e98/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_ISSUE_DRAFT.md) | 🔥 10.3k | `daily assistant` |
 | [Llmnode](daily-assistant/304-llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_e14f5eea/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/navigation-menu/SKILL.md) | ⭐ 12 | `daily assistant` |
+| [Claude](daily-assistant/claude_9b18cc61/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/config/CLAUDE.md) | ⭐ 394 | `daily assistant` |
+| [Typical Capabilities](daily-assistant/typical-capabilities_89cb05ea/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-capabilities.md) | ⭐ 10 | `daily assistant` |
+| [Claude](daily-assistant/claude_4653f3c1/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/utils/CLAUDE.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 181646](daily-assistant/extraction_tuning_20260208_181646_9e5a75a0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181646.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 181750](daily-assistant/extraction_tuning_20260208_181750_0aca9cab/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181750.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 210657](daily-assistant/extraction_tuning_20260208_210657_ab9f5799/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210657.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 210704](daily-assistant/extraction_tuning_20260208_210704_d009e1fc/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210704.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 214612 Claude Haiku 4.5](daily-assistant/extraction_tuning_20260208_214612_claude-haiku-45_089c6f21/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_214612_claude-haiku-4.5.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260208 223502 Claude Sonnet 4.5](daily-assistant/extraction_tuning_20260208_223502_claude-sonnet-45_27fbc3db/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_223502_claude-sonnet-4.5.md) | ⭐ 394 | `daily assistant` |
+| [Extraction Tuning 20260209 032750 Claude Sonnet 4.5](daily-assistant/extraction_tuning_20260209_032750_claude-sonnet-45_cd0d31bb/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260209_032750_claude-sonnet-4.5.md) | ⭐ 394 | `daily assistant` |
+| [Hyde Tuning 20260207 063419](daily-assistant/hyde_tuning_20260207_063419_0d9abc78/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_063419.md) | ⭐ 394 | `daily assistant` |
+| [Hyde Tuning 20260207 131149](daily-assistant/hyde_tuning_20260207_131149_c6e8e21e/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_131149.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 054153 Claude Sonnet 4.5](daily-assistant/extraction_054153_claude-sonnet-45_5a94c3cd/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054153_claude-sonnet-4.5.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 223405 Gemini 3 Flash Preview](daily-assistant/extraction_223405_gemini-3-flash-preview_cddb181c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223405_gemini-3-flash-preview.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 223406 Qwen3.5 Plus 02 15](daily-assistant/extraction_223406_qwen35-plus-02-15_652f6fb3/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223406_qwen3.5-plus-02-15.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 223411 Gemini 3 Flash Preview](daily-assistant/extraction_223411_gemini-3-flash-preview_8f657712/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223411_gemini-3-flash-preview.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 223439 Minimax M2.5](daily-assistant/extraction_223439_minimax-m25_a68aca89/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223439_minimax-m2.5.md) | ⭐ 394 | `daily assistant` |
+| [Extraction 223754 Kimi K2.5](daily-assistant/extraction_223754_kimi-k25_1aa5dcce/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223754_kimi-k2.5.md) | ⭐ 394 | `daily assistant` |
+| [Session Start](daily-assistant/session-start_b1dbd4cd/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/hooks/session-start.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (94 skills)
+### Data Analysis (117 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1027,8 +1110,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](data-analysis/436-readme_cn_3041db78/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 4.2k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_396e45fa/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/brand-visual/SKILL.md) | ⭐ 12 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ba52cef5/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/favicon/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Claude](data-analysis/claude_a6ccc6ea/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/infrastructure/CLAUDE.md) | ⭐ 394 | `data analysis` |
+| [Claude](data-analysis/claude_6e8d029c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/lt_memory/processing/CLAUDE.md) | ⭐ 394 | `data analysis` |
+| [How To Build A Trinket](data-analysis/how_to_build_a_trinket_cae94cc7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 394 | `data analysis` |
+| [Skill](data-analysis/name-skill_ba8bebb2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Claude](data-analysis/claude_3a3ab60f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/integration/CLAUDE.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260208 181826](data-analysis/extraction_tuning_20260208_181826_e25bc2ae/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181826.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260208 201933](data-analysis/extraction_tuning_20260208_201933_fd5ddf09/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_201933.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260208 210956](data-analysis/extraction_tuning_20260208_210956_9181a8fb/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210956.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260208 212943 Claude Sonnet 4.5](data-analysis/extraction_tuning_20260208_212943_claude-sonnet-45_e7232d3c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_212943_claude-sonnet-4.5.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260208 225315 Claude Sonnet 4.5](data-analysis/extraction_tuning_20260208_225315_claude-sonnet-45_8d49f82c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_225315_claude-sonnet-4.5.md) | ⭐ 394 | `data analysis` |
+| [Extraction Tuning 20260209 030343 Claude Sonnet 4.5](data-analysis/extraction_tuning_20260209_030343_claude-sonnet-45_a33d6e0b/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260209_030343_claude-sonnet-4.5.md) | ⭐ 394 | `data analysis` |
+| [Fingerprint Prompt Evaluation Report](data-analysis/fingerprint_prompt_evaluation_report_138f29d8/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_prompt_evaluation_report.md) | ⭐ 394 | `data analysis` |
+| [Consolidation 042902](data-analysis/consolidation_042902_f13a0379/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/consolidation/2026-02-24/md/consolidation_042902.md) | ⭐ 394 | `data analysis` |
+| [Consolidation 043323](data-analysis/consolidation_043323_7d4cfdd9/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/consolidation/2026-02-24/md/consolidation_043323.md) | ⭐ 394 | `data analysis` |
+| [Consolidation 044435](data-analysis/consolidation_044435_58140280/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/consolidation/2026-02-24/md/consolidation_044435.md) | ⭐ 394 | `data analysis` |
+| [Entity Gc 053626](data-analysis/entity_gc_053626_d80c5fc1/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/entity_gc/2026-02-24/md/entity_gc_053626.md) | ⭐ 394 | `data analysis` |
+| [Entity Gc 054350](data-analysis/entity_gc_054350_25180121/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/entity_gc/2026-02-24/md/entity_gc_054350.md) | ⭐ 394 | `data analysis` |
+| [Entity Gc 054831](data-analysis/entity_gc_054831_db9a87e5/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/entity_gc/2026-02-24/md/entity_gc_054831.md) | ⭐ 394 | `data analysis` |
+| [Extraction 054206 Claude Sonnet 4.5](data-analysis/extraction_054206_claude-sonnet-45_46eb847d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054206_claude-sonnet-4.5.md) | ⭐ 394 | `data analysis` |
+| [Extraction 215557 Claude Sonnet 4.5](data-analysis/extraction_215557_claude-sonnet-45_1bebd0da/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_215557_claude-sonnet-4.5.md) | ⭐ 394 | `data analysis` |
+| [Subcortical 214308 Gpt Oss 20B](data-analysis/subcortical_214308_gpt-oss-20b_738eb81a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/subcortical/2026-02-22/md/subcortical_214308_gpt-oss-20b.md) | ⭐ 394 | `data analysis` |
+| [Subcortical 214326 Llama 4 Scout 17B 16E Instruct](data-analysis/subcortical_214326_llama-4-scout-17b-16e-instruct_4edaf637/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/subcortical/2026-02-22/md/subcortical_214326_llama-4-scout-17b-16e-instruct.md) | ⭐ 394 | `data analysis` |
+| [Subcortical 214353 Qwen3 32B](data-analysis/subcortical_214353_qwen3-32b_0a433f4f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/subcortical/2026-02-22/md/subcortical_214353_qwen3-32b.md) | ⭐ 394 | `data analysis` |
 
-### Development (394 skills)
+### Development (460 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1426,6 +1532,72 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_f7820d45/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/android_ui_verification/SKILL.md) | 🔥 16.2k | `development` |
 | [Skill](development/1178-name-skill_cc4bd9cb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/hierarchical-agent-memory/SKILL.md) | 🔥 16.2k | `development` |
 | [Skill](development/1178-name-skill_78139c21/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vibe-code-auditor/SKILL.md) | 🔥 16.2k | `development` |
+| [Claude](development/claude_89887b97/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/clients/CLAUDE.md) | ⭐ 394 | `development` |
+| [Claude](development/claude_b8394ec2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Methodology](development/methodology_88a99b8c/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/methodology.md) | ⭐ 10 | `development` |
+| [Project Setup Plan](development/project-setup-plan_dc91e61a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/archive/project-setup-plan.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_38aae0ed/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/configure/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_417fc169/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/gaps/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_ad7fd719/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/intake/SKILL.md) | ⭐ 10 | `development` |
+| [Capability](development/capability_66f84199/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/craft-assessment/CAPABILITY.md) | ⭐ 10 | `development` |
+| [Capability](development/capability_7c6bdc25/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/insight-feedback-loop/CAPABILITY.md) | ⭐ 10 | `development` |
+| [Capability](development/capability_ee4c7bca/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/process-evolution/CAPABILITY.md) | ⭐ 10 | `development` |
+| [Capability](development/capability_5ab21e74/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/strategic-planning/CAPABILITY.md) | ⭐ 10 | `development` |
+| [Persona](development/persona_75890def/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/game-designer/PERSONA.md) | ⭐ 10 | `development` |
+| [Typical Capabilities](development/typical-capabilities_4329fd34/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/game-designer/typical-capabilities.md) | ⭐ 10 | `development` |
+| [Persona](development/persona_64710ebb/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/PERSONA.md) | ⭐ 10 | `development` |
+| [Intake Guide](development/intake-guide_522604db/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/intake-guide.md) | ⭐ 10 | `development` |
+| [Typical Capabilities](development/typical-capabilities_648cc3e8/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-capabilities.md) | ⭐ 10 | `development` |
+| [Typical Commands](development/typical-commands_b474028b/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-commands.md) | ⭐ 10 | `development` |
+| [Typical Structure](development/typical-structure_59105e23/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-structure.md) | ⭐ 10 | `development` |
+| [Extraction Tuning 20260208 181757](development/extraction_tuning_20260208_181757_a9c4c3ee/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181757.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210643](development/extraction_tuning_20260208_210643_72f54335/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210643.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 212951 Claude Sonnet 4.5](development/extraction_tuning_20260208_212951_claude-sonnet-45_5a828791/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_212951_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 213019 Claude Sonnet 4.5](development/extraction_tuning_20260208_213019_claude-sonnet-45_cfedaf8e/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_213019_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 225218 Claude Sonnet 4.5](development/extraction_tuning_20260208_225218_claude-sonnet-45_b800502f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_225218_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Fingerprint Ab Results](development/fingerprint_ab_results_13c0a47a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_ab_results.md) | ⭐ 394 | `development` |
+| [Fingerprint Retention Results](development/fingerprint_retention_results_dc480e8d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_retention_results.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 065800](development/fingerprint_tuning_20260131_065800_b43910a6/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_065800.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 065903](development/fingerprint_tuning_20260131_065903_ecb3cde7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_065903.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 152713](development/fingerprint_tuning_20260131_152713_de4d593a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_152713.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 153150](development/fingerprint_tuning_20260131_153150_e15460cf/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_153150.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 153735](development/fingerprint_tuning_20260131_153735_9ebd70c1/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_153735.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260131 154515](development/fingerprint_tuning_20260131_154515_2884a2c0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260131_154515.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 024932](development/fingerprint_tuning_20260201_024932_c3525f79/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_024932.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 031015](development/fingerprint_tuning_20260201_031015_c43d068a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_031015.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 031906](development/fingerprint_tuning_20260201_031906_5df033bb/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_031906.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 033145](development/fingerprint_tuning_20260201_033145_555b65e2/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_033145.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 033842](development/fingerprint_tuning_20260201_033842_3d867c2a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_033842.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 034507](development/fingerprint_tuning_20260201_034507_3f42d511/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_034507.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 041645](development/fingerprint_tuning_20260201_041645_a32ee7e7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_041645.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 161141](development/fingerprint_tuning_20260201_161141_519c5ba0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_161141.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 171725](development/fingerprint_tuning_20260201_171725_a0514308/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_171725.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 181813](development/fingerprint_tuning_20260201_181813_06c44907/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_181813.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 182151](development/fingerprint_tuning_20260201_182151_d6b1edcd/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_182151.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 182517](development/fingerprint_tuning_20260201_182517_6450c1d5/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_182517.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 055812](development/hyde_tuning_20260207_055812_e2a4a984/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_055812.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 060359](development/hyde_tuning_20260207_060359_aafdb147/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_060359.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 060748](development/hyde_tuning_20260207_060748_10094166/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_060748.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 062158](development/hyde_tuning_20260207_062158_a2e9f2c6/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_062158.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 062357](development/hyde_tuning_20260207_062357_3a6f601f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_062357.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 063107](development/hyde_tuning_20260207_063107_37c2c095/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_063107.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 064012](development/hyde_tuning_20260207_064012_4060ce88/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_064012.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 064455](development/hyde_tuning_20260207_064455_2b033b75/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_064455.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 065016](development/hyde_tuning_20260207_065016_b81b0b81/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_065016.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 124145](development/hyde_tuning_20260207_124145_73e0dc19/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_124145.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 125832](development/hyde_tuning_20260207_125832_d22659d8/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_125832.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 130602](development/hyde_tuning_20260207_130602_a41779b3/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_130602.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 131532](development/hyde_tuning_20260207_131532_f3bc64e0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_131532.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 170307](development/hyde_tuning_20260207_170307_a55d8c12/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_170307.md) | ⭐ 394 | `development` |
+| [Hyde Tuning 20260207 171318](development/hyde_tuning_20260207_171318_0c323405/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_20260207_171318.md) | ⭐ 394 | `development` |
+| [Hyde Tuning Findings](development/hyde_tuning_findings_b773aff6/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/hyde_tuning_findings.md) | ⭐ 394 | `development` |
+| [Consolidation 042451](development/consolidation_042451_4dd8fcfa/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/consolidation/2026-02-24/md/consolidation_042451.md) | ⭐ 394 | `development` |
+| [Evacuation 065001](development/evacuation_065001_fcfd3e9e/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/evacuation/2026-02-11/md/evacuation_065001.md) | ⭐ 394 | `development` |
+| [Extraction 054241 Claude Sonnet 4.5](development/extraction_054241_claude-sonnet-45_05eacdc4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054241_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Extraction 215557 Claude Sonnet 4.6](development/extraction_215557_claude-sonnet-46_04937370/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_215557_claude-sonnet-4.6.md) | ⭐ 394 | `development` |
+| [Extraction 215559 Claude Opus 4.6](development/extraction_215559_claude-opus-46_70b19581/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_215559_claude-opus-4.6.md) | ⭐ 394 | `development` |
+| [Subcortical 214327 Llama 4 Maverick 17B 128E Instruct](development/subcortical_214327_llama-4-maverick-17b-128e-instruct_cd5e47cf/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/subcortical/2026-02-22/md/subcortical_214327_llama-4-maverick-17b-128e-instruct.md) | ⭐ 394 | `development` |
+| [Companion Directory](development/companion-directory_3bed0005/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/rules/companion-directory.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (136 skills)
 
@@ -1568,7 +1740,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [V1.81.14](development/devops/397-v18114_206ed75d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 37.1k | `development` |
 | [Kiro Integration](development/devops/374-kiro_integration_5e653d17/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/KIRO_INTEGRATION.md) | 🔥 16.2k | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1597,8 +1769,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration Schema](development/testing/083-configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 | [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
+| [Upstream](development/testing/upstream_c56d2582/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/UPSTREAM.md) | ⭐ 10 | `development` |
 
-### Development/Tools (131 skills)
+### Development/Tools (154 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1733,8 +1906,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [4 Core Patterns](development/tools/352-4-core-patterns_600b8150/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/4-core-patterns.md) | ⭐ 10 | `development` |
 | [Claude](development/tools/017-claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 | [Skills Guide](development/tools/349-skills_guide_4d579a85/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/SKILLS_GUIDE.md) | ⭐ 12 | `development` |
+| [Claude](development/tools/claude_1530675f/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/CLAUDE.md) | ⭐ 394 | `development` |
+| [Claude](development/tools/claude_6e623341/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/lt_memory/CLAUDE.md) | ⭐ 394 | `development` |
+| [How To Build A Tool](development/tools/how_to_build_a_tool_5523635a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/tools/HOW_TO_BUILD_A_TOOL.md) | ⭐ 394 | `development` |
+| [Claude](development/tools/claude_50da211e/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/api/CLAUDE.md) | ⭐ 394 | `development` |
+| [Claude](development/tools/claude_702150da/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/core/CLAUDE.md) | ⭐ 394 | `development` |
+| [Claude](development/tools/claude_32e345de/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/services/CLAUDE.md) | ⭐ 394 | `development` |
+| [Project Analyzer](development/tools/project-analyzer_daee3003/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/project-analyzer.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/name-skill_f0635125/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/build/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/name-skill_4cd42584/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/checkpoint/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/name-skill_268b2abe/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/companion/SKILL.md) | ⭐ 10 | `development` |
+| [Getting Up To Speed On Github](development/tools/getting-up-to-speed-on-github_3bc26d78/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/guides/getting-up-to-speed-on-github/getting-up-to-speed-on-github.md) | ⭐ 10 | `development` |
+| [Extraction Tuning 20260208 210639](development/tools/extraction_tuning_20260208_210639_7c5f9140/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210639.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210650](development/tools/extraction_tuning_20260208_210650_ec94c722/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210650.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210652](development/tools/extraction_tuning_20260208_210652_bf091953/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210652.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210656](development/tools/extraction_tuning_20260208_210656_5f863217/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210656.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210716](development/tools/extraction_tuning_20260208_210716_e07248e1/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210716.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 210903](development/tools/extraction_tuning_20260208_210903_f77d4060/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_210903.md) | ⭐ 394 | `development` |
+| [Extraction Tuning 20260208 212957 Claude Sonnet 4.5](development/tools/extraction_tuning_20260208_212957_claude-sonnet-45_e6ad49df/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_212957_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Fingerprint Tuning 20260201 182314](development/tools/fingerprint_tuning_20260201_182314_76078ee9/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/fingerprint_tuning_20260201_182314.md) | ⭐ 394 | `development` |
+| [Extraction 054137 Claude Sonnet 4.5](development/tools/extraction_054137_claude-sonnet-45_880df9cd/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054137_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Extraction 054149 Claude Sonnet 4.5](development/tools/extraction_054149_claude-sonnet-45_ac487f85/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-11/md/extraction_054149_claude-sonnet-4.5.md) | ⭐ 394 | `development` |
+| [Companion Auditor](development/tools/companion-auditor_0711e3c3/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/companion-auditor.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/name-skill_bcf9cca6/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/companion-standards/SKILL.md) | ⭐ 10 | `development` |
 
-### Investment (27 skills)
+### Investment (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1765,15 +1961,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pmm Mister](investment/051-pmm_mister_e69056b5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_mister.md) | ⭐ 12 | `investment` |
 | [Pmm V1](investment/052-pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
 | [Skill](investment/021-name-skill_ea63b574/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/cookie-policy/SKILL.md) | ⭐ 12 | `investment` |
+| [Extraction 223400 Gemini 3 Flash Preview](investment/extraction_223400_gemini-3-flash-preview_50260351/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223400_gemini-3-flash-preview.md) | ⭐ 394 | `investment` |
+| [Extraction 223401 Qwen3.5 Plus 02 15](investment/extraction_223401_qwen35-plus-02-15_3158dba4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223401_qwen3.5-plus-02-15.md) | ⭐ 394 | `investment` |
+| [Extraction 223415 Minimax M2.5](investment/extraction_223415_minimax-m25_2557e815/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223415_minimax-m2.5.md) | ⭐ 394 | `investment` |
+| [Extraction 223457 Glm 5](investment/extraction_223457_glm-5_d84a8aba/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/extraction/2026-02-22/md/extraction_223457_glm-5.md) | ⭐ 394 | `investment` |
 
-### Other (2 skills)
+### Other (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
+| [Ticket Schema](other/ticket-schema_d28dd1be/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/rules/ticket-schema.md) | ⭐ 10 | `other` |
 
-### Productivity (34 skills)
+### Productivity (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1811,8 +2012,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_2586d503/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/cta/SKILL.md) | ⭐ 12 | `productivity` |
 | [Skill](productivity/093-name-skill_3fc43550/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/reddit/SKILL.md) | ⭐ 12 | `productivity` |
 | [Skill](productivity/093-name-skill_eaa50f84/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/pricing/SKILL.md) | ⭐ 12 | `productivity` |
+| [Intake Guide](productivity/intake-guide_2e77540f/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/intake-guide.md) | ⭐ 10 | `productivity` |
+| [Extraction Tuning 20260208 181630](productivity/extraction_tuning_20260208_181630_fe042059/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/data/tuning_test_results/legacy_dump/extraction_tuning_20260208_181630.md) | ⭐ 394 | `productivity` |
 
-### Research (67 skills)
+### Research (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1883,6 +2086,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cross Synthesis Prompt](research/280-cross-synthesis-prompt_b5346f04/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/cross-synthesis-prompt.md) | ⭐ 3.2k | `research` |
 | [Priors](research/267-priors_65edf17f/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/priors.md) | ⭐ 12 | `research` |
 | [Skill](research/139-name-skill_765ddf7d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/ai-traffic/SKILL.md) | ⭐ 12 | `research` |
+| [Claude](research/claude_26ccf049/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/CLAUDE.md) | ⭐ 394 | `research` |
 
 ## How Skills Are Organized
 
@@ -1934,5 +2138,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 19:37:41 UTC*
+*Last updated: 2026-02-28 20:36:47 UTC*
 *Automatically maintained by SkillFlow*
