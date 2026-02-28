@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1524 AI-powered skills** organized into 15 categories.
+A curated collection of **1525 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -14,7 +14,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (44 skills)
 - **Content Creation** (176 skills)
 - **Daily Assistant** (101 skills)
-- **Data Analysis** (84 skills)
+- **Data Analysis** (85 skills)
 - **Development** (371 skills)
 - **Development/Devops** (130 skills)
 - **Development/Testing** (25 skills)
@@ -876,7 +876,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hackathon Issue Draft](daily-assistant/277-hackathon_issue_draft_9d181e98/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_ISSUE_DRAFT.md) | 🔥 10.3k | `daily assistant` |
 | [Llmnode](daily-assistant/304-llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (84 skills)
+### Data Analysis (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -964,6 +964,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V1.4.1](data-analysis/501-release_notes_v141_100b544b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.1.md) | ⭐ 10 | `data analysis` |
 | [Auditor Guide](data-analysis/502-auditor_guide_34e2b0ce/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance/auditor_guide.md) | ⭐ 10 | `data analysis` |
 | [3 Audit Log](data-analysis/503-3-audit-log_68374b0d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/3-audit-log.md) | ⭐ 10 | `data analysis` |
+| [Technical](data-analysis/technical_37efa3df/) | [petergpt/bullshit-benchmark](https://raw.githubusercontent.com/petergpt/bullshit-benchmark/main/docs/TECHNICAL.md) | ⭐ 298 | `data analysis` |
 
 ### Development (371 skills)
 
@@ -1625,7 +1626,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typescript Patterns](development/tools/330-typescript-patterns_e634422e/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/react-typescript/references/typescript-patterns.md) | ⭐ 14 | `development` |
 | [Router Guide](development/tools/331-router-guide_20cfc231/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/frontend-dev/skills/tanstack/references/router-guide.md) | ⭐ 14 | `development` |
 | [Pr Discovery](development/tools/332-pr-discovery_626ea8cb/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-discovery.md) | ⭐ 41 | `development` |
-| [Claude](development/tools/claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Claude](development/tools/017-claude_5fb2efdd/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 | [Claude](development/tools/017-claude_6118002d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 104 | `development` |
 | [Skill](development/tools/002-name-skill_a3a20191/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-skills/SKILL.md) | ⭐ 104 | `development` |
 | [Advanced Operations](development/tools/226-advanced-operations_1aeaa2c2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 104 | `development` |
@@ -1830,5 +1831,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 14:38:24 UTC*
+*Last updated: 2026-02-28 15:37:13 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T14:38:24.411493",
+  "updated_at": "2026-02-28T15:37:12.913796",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -21337,6 +21337,20 @@
       "source_url": "https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md",
       "display_name": "Claude",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "37efa3df3af591202f6d231393b56387164bb8d046e2c9f42249a7a3d63be789",
+      "source_path": "docs/TECHNICAL.md",
+      "source_repo": "petergpt/bullshit-benchmark",
+      "local_path": "data-analysis/494-technical_37efa3df",
+      "category": "data-analysis",
+      "name": "technical_37efa3df",
+      "indexed_at": "2026-02-28T15:37:12.913742",
+      "repo_stars": 298,
+      "repo_updated_at": "2026-02-27T14:10:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/petergpt/bullshit-benchmark/main/docs/TECHNICAL.md",
+      "display_name": "Technical",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
