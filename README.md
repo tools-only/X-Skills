@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1317 AI-powered skills** organized into 15 categories.
+A curated collection of **1363 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (70 skills)
-- **Automation/Workflow** (199 skills)
-- **Commercial** (66 skills)
+- **Automation/Workflow** (201 skills)
+- **Commercial** (67 skills)
 - **Communication** (33 skills)
-- **Content Creation** (144 skills)
-- **Daily Assistant** (88 skills)
-- **Data Analysis** (74 skills)
-- **Development** (310 skills)
-- **Development/Devops** (123 skills)
-- **Development/Testing** (16 skills)
-- **Development/Tools** (107 skills)
+- **Content Creation** (142 skills)
+- **Daily Assistant** (101 skills)
+- **Data Analysis** (70 skills)
+- **Development** (330 skills)
+- **Development/Devops** (124 skills)
+- **Development/Testing** (20 skills)
+- **Development/Tools** (108 skills)
 - **Investment** (19 skills)
-- **Other** (2 skills)
+- **Other** (12 skills)
 - **Productivity** (24 skills)
 - **Research** (42 skills)
 
@@ -254,9 +254,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [P1 Sam Human Escalation Criteria](automation/scripting/091-p1-sam-human-escalation-criteria_8ba6d458/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-sam-human-escalation-criteria.md) | ⭐ 20 | `automation` |
 | [P1 Validate And Verify Orchestrator Discipline Plugin Hooks And](automation/scripting/096-p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and_0e71bf01/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and.md) | ⭐ 20 | `automation` |
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e65c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
-| [Index](automation/scripting/index_66d0f6a6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/scripts/INDEX.md) | ⭐ 10 | `automation` |
+| [Index](automation/scripting/022-index_66d0f6a6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/scripts/INDEX.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (199 skills)
+### Automation/Workflow (201 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -458,9 +458,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Releases](automation/workflow/140-readme_flat_skills_releases_a437a5c5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 25.2k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/141-readme_flat_skills_updated_d5866cf3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 25.2k | `automation` |
 | [Summary](automation/workflow/155-summary_aef17dc7/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/SUMMARY.md) | ⭐ 25 | `automation` |
-| [Icon Reference](automation/workflow/icon-reference_f216d659/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/icon-reference.md) | ⭐ 10 | `automation` |
+| [V0.1.2](automation/workflow/v012_50c8e312/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.2.md) | ⭐ 10 | `automation` |
+| [Guide](automation/workflow/guide_f412902d/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/GUIDE.md) | ⭐ 69 | `automation` |
+| [Skill](automation/workflow/name-skill_adbab905/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/skills/mco-cli/SKILL.md) | ⭐ 10 | `automation` |
 
-### Commercial (66 skills)
+### Commercial (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -530,6 +532,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backend Development](commercial/376-backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
 | [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
+| [Gate Decision](commercial/gate-decision_16467b67/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/dry-run/2026-02-26/gate-decision.md) | ⭐ 10 | `commercial` |
 
 ### Communication (33 skills)
 
@@ -569,7 +572,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workshop Checklist](communication/209-workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
 | [Business And Productivity](communication/254-business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
 
-### Content Creation (144 skills)
+### Content Creation (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -712,13 +715,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bibliography And Source Documentation](content-creation/372-bibliography-and-source-documentation_fc035430/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/bibliography-and-source-documentation.md) | ⭐ 20 | `content creation` |
 | [Linkedin Ruben Hassid](content-creation/373-linkedin-ruben-hassid_a567f189/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/linkedin-ruben-hassid.md) | ⭐ 20 | `content creation` |
 | [Overview](content-creation/423-overview_950fe24d/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/cat-tools/overview.md) | ⭐ 25 | `content creation` |
-| [Skill](content-creation/name-skill_ceb17281/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_bd7ea9b3/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/nano-banana-pro/SKILL.md) | ⭐ 10 | `content creation` |
-| [Overwatch Design System](content-creation/overwatch-design-system_fc127538/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-design-system.md) | ⭐ 10 | `content creation` |
-| [Overwatch Shaders](content-creation/overwatch-shaders_5fb51fdb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-shaders.md) | ⭐ 10 | `content creation` |
-| [Slide Templates](content-creation/slide-templates_e7b8bd82/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/slide-templates.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_ceb17281/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_bd7ea9b3/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/nano-banana-pro/SKILL.md) | ⭐ 10 | `content creation` |
+| [Readme Zh](content-creation/readme-zh_e09ed67e/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/README-ZH.md) | ⭐ 69 | `content creation` |
 
-### Daily Assistant (88 skills)
+### Daily Assistant (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -810,8 +811,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Step Procedures](daily-assistant/298-step-procedures_51ca3947/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/step-procedures.md) | ⭐ 20 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_b17e04c4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/skills/orchestrator-discipline/SKILL.md) | ⭐ 20 | `daily assistant` |
 | [Pre Existing Issues Protocol](daily-assistant/299-pre-existing-issues-protocol_207bb9e6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/pre-existing-issues-protocol.md) | ⭐ 20 | `daily assistant` |
+| [Cli Json V0.1.X](daily-assistant/cli-json-v01x_0ecd8a70/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/contracts/cli-json-v0.1.x.md) | ⭐ 10 | `daily assistant` |
+| [Step0 Interface Freeze](daily-assistant/step0-interface-freeze_9c1d524b/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/implementation/step0-interface-freeze.md) | ⭐ 10 | `daily assistant` |
+| [Dry Run Plan](daily-assistant/dry-run-plan_be09f6a0/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/dry-run-plan.md) | ⭐ 10 | `daily assistant` |
+| [Task Plan](daily-assistant/task_plan_a76b972f/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/task_plan.md) | ⭐ 10 | `daily assistant` |
+| [2026 02 26 Signoff](daily-assistant/2026-02-26-signoff_dfc461b6/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/gate/2026-02-26-signoff.md) | ⭐ 10 | `daily assistant` |
+| [Step4 Parallel Benchmark](daily-assistant/step4-parallel-benchmark_8b08afb1/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/step4-parallel-benchmark.md) | ⭐ 10 | `daily assistant` |
+| [Step5 Parallel Benchmark](daily-assistant/step5-parallel-benchmark_6843060a/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/step5-parallel-benchmark.md) | ⭐ 10 | `daily assistant` |
+| [Decision](daily-assistant/decision_b66129a9/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-31efd7af2d665057/decision.md) | ⭐ 10 | `daily assistant` |
+| [Summary](daily-assistant/summary_2c908331/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-31efd7af2d665057/summary.md) | ⭐ 10 | `daily assistant` |
+| [Decision](daily-assistant/decision_fc0895c9/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-b234caf82d5b25e0/decision.md) | ⭐ 10 | `daily assistant` |
+| [Summary](daily-assistant/summary_b4679e5b/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-b234caf82d5b25e0/summary.md) | ⭐ 10 | `daily assistant` |
+| [Decision](daily-assistant/decision_3261c7a1/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-f2bfcbb9539452bc/decision.md) | ⭐ 10 | `daily assistant` |
+| [Summary](daily-assistant/summary_81591b81/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/task-f2bfcbb9539452bc/summary.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (74 skills)
+### Data Analysis (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -877,20 +891,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Assistant Sync](data-analysis/506-assistant-sync_49662bbd/) | [pinecone-io/pinecone-claude-code-plugin](https://raw.githubusercontent.com/pinecone-io/pinecone-claude-code-plugin/main/commands/assistant-sync.md) | ⭐ 40 | `data analysis` |
 | [P2 Backlogpy Plan Field Na Blocks Work Backlog Item Step 2](data-analysis/492-p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2_339d9961/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_df1c9d46/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/group-items-to-milestone/SKILL.md) | ⭐ 20 | `data analysis` |
-| [Skill](data-analysis/name-skill_45b30a84/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/gemini-claude-resonance/SKILL.md) | ⭐ 10 | `data analysis` |
-| [2026 Best Practices](data-analysis/2026-best-practices_b2335611/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/2026-best-practices.md) | ⭐ 10 | `data analysis` |
-| [Index](data-analysis/index_3a160ccc/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/INDEX.md) | ⭐ 10 | `data analysis` |
-| [Animation Patterns](data-analysis/animation-patterns_a7904e68/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/animation-patterns.md) | ⭐ 10 | `data analysis` |
-| [Component Patterns](data-analysis/component-patterns_8a81966d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/component-patterns.md) | ⭐ 10 | `data analysis` |
-| [Data Visualization](data-analysis/data-visualization_ea426f82/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/data-visualization.md) | ⭐ 10 | `data analysis` |
-| [Ml Visualization](data-analysis/ml-visualization_cbb44eaa/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/ml-visualization.md) | ⭐ 10 | `data analysis` |
-| [Overwatch Interactions](data-analysis/overwatch-interactions_31f94aa6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-interactions.md) | ⭐ 10 | `data analysis` |
-| [Custom Asset Generation](data-analysis/custom-asset-generation_e08f7b8a/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/custom-asset-generation.md) | ⭐ 10 | `data analysis` |
-| [Design System](data-analysis/design-system_ec425c91/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/design-system.md) | ⭐ 10 | `data analysis` |
-| [Overwatch Slide Templates](data-analysis/overwatch-slide-templates_80a4e5b4/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-slide-templates.md) | ⭐ 10 | `data analysis` |
-| [Example Prompts](data-analysis/example-prompts_73e71b7a/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/nano-banana-pro/assets/example-prompts.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_45b30a84/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/gemini-claude-resonance/SKILL.md) | ⭐ 10 | `data analysis` |
+| [2026 Best Practices](data-analysis/498-2026-best-practices_b2335611/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/2026-best-practices.md) | ⭐ 10 | `data analysis` |
+| [Index](data-analysis/113-index_3a160ccc/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/INDEX.md) | ⭐ 10 | `data analysis` |
+| [Animation Patterns](data-analysis/499-animation-patterns_a7904e68/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/animation-patterns.md) | ⭐ 10 | `data analysis` |
+| [Component Patterns](data-analysis/500-component-patterns_8a81966d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/component-patterns.md) | ⭐ 10 | `data analysis` |
+| [Data Visualization](data-analysis/501-data-visualization_ea426f82/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/data-visualization.md) | ⭐ 10 | `data analysis` |
+| [Ml Visualization](data-analysis/502-ml-visualization_cbb44eaa/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/ml-visualization.md) | ⭐ 10 | `data analysis` |
+| [Overwatch Interactions](data-analysis/503-overwatch-interactions_31f94aa6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-interactions.md) | ⭐ 10 | `data analysis` |
 
-### Development (310 skills)
+### Development (330 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1201,11 +1211,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_acff1b61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/1178-name-skill_517e9de1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/SKILL.md) | ⭐ 20 | `development` |
 | [Claude](development/140-claude_ec5bc095/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/Claude.md) | ⭐ 14 | `development` |
-| [Codex Models](development/codex-models_0649a305/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `development` |
-| [Overwatch Advanced Patterns](development/overwatch-advanced-patterns_f5214536/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-advanced-patterns.md) | ⭐ 10 | `development` |
-| [Visual Qa Checklist](development/visual-qa-checklist_92b7e6f4/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/visual-qa-checklist.md) | ⭐ 10 | `development` |
+| [Codex Models](development/3013-codex-models_0649a305/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `development` |
+| [Readme.Zh Cn](development/readmezh-cn_77ca3d9c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md) | ⭐ 10 | `development` |
+| [Provider Permissions V0.1.X](development/provider-permissions-v01x_0233a5bd/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/contracts/provider-permissions-v0.1.x.md) | ⭐ 10 | `development` |
+| [Notes](development/notes_8206e669/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/notes.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_99a5a0cb/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/summary.md) | ⭐ 10 | `development` |
+| [V0.1.0](development/v010_3768a0a0/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.0.md) | ⭐ 10 | `development` |
+| [V0.1.0.Zh Cn](development/v010zh-cn_9f225985/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.0.zh-CN.md) | ⭐ 10 | `development` |
+| [V0.1.1](development/v011_9ab586d8/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.1.md) | ⭐ 10 | `development` |
+| [V0.1.1.Zh Cn](development/v011zh-cn_14b67021/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.1.zh-CN.md) | ⭐ 10 | `development` |
+| [Capability Research](development/capability-research_85e65eb1/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-research.md) | ⭐ 10 | `development` |
+| [Implementation Gate Checklist](development/implementation-gate-checklist_90e52006/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/implementation-gate-checklist.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_47741924/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/probes/2026-02-26/summary.md) | ⭐ 10 | `development` |
+| [Step1 Adapter Dryrun](development/step1-adapter-dryrun_9c65e5f1/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/step1-adapter-dryrun.md) | ⭐ 10 | `development` |
+| [Execution Log](development/execution-log_d89c0a39/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/dry-run/2026-02-26/execution-log.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_bfa80c28/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2-20260226/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_b9ac9f0c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2b-20260226/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_9352f958/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2c-20260226/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_edbaebc8/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2d-20260226/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_8df78e71/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-serial-20260226/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_9ecc1d89/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-parallel-20260226150448/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_ba35439a/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-parallel-20260226151851/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_6bef2fc3/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-serial-20260226150448/summary.md) | ⭐ 10 | `development` |
+| [Summary](development/summary_5f5d24be/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-serial-20260226151851/summary.md) | ⭐ 10 | `development` |
 
-### Development/Devops (123 skills)
+### Development/Devops (124 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1330,10 +1360,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_fc494ef6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 25.2k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_41b26467/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 25.2k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_610794ee/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 25.2k | `development` |
-| [Skill](development/devops/name-skill_cabb6274/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md) | ⭐ 10 | `development` |
-| [Export Workflow](development/devops/export-workflow_e741832d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/export-workflow.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_cabb6274/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md) | ⭐ 10 | `development` |
+| [Export Workflow](development/devops/401-export-workflow_e741832d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/export-workflow.md) | ⭐ 10 | `development` |
+| [Privacy](development/devops/privacy_d0d1c5dd/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/PRIVACY.md) | ⭐ 69 | `development` |
 
-### Development/Testing (16 skills)
+### Development/Testing (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1353,8 +1384,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
 | [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_56df1e96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 20 | `development` |
+| [Capability Probe Spec](development/testing/capability-probe-spec_7c47621c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-probe-spec.md) | ⭐ 10 | `development` |
+| [Multi Cli Orchestrator Proposal](development/testing/multi-cli-orchestrator-proposal_43357673/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/multi-cli-orchestrator-proposal.md) | ⭐ 10 | `development` |
+| [Adapter Contract Tests](development/testing/adapter-contract-tests_2e584e39/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/adapter-contract-tests.md) | ⭐ 10 | `development` |
+| [Runtime Gh Report](development/testing/runtime-gh-report_3e217e53/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/runtime-gh-report.md) | ⭐ 10 | `development` |
 
-### Development/Tools (107 skills)
+### Development/Tools (108 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1463,8 +1498,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_69c00dc3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 25.2k | `development` |
 | [Code Index](development/tools/282-code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Editing Confirming](development/tools/380-editing-confirming_78db9de5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/editor/editing-confirming.md) | ⭐ 25 | `development` |
-| [Overwatch Deck Schema](development/tools/overwatch-deck-schema_4f687885/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-deck-schema.md) | ⭐ 10 | `development` |
-| [Codex Cli](development/tools/codex-cli_85ee7112/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-cli.md) | ⭐ 10 | `development` |
+| [Overwatch Deck Schema](development/tools/348-overwatch-deck-schema_4f687885/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-deck-schema.md) | ⭐ 10 | `development` |
+| [Ci Artifact Index](development/tools/ci-artifact-index_f20254a5/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/ci-artifact-index.md) | ⭐ 10 | `development` |
+| [Step3 5Provider Baseline](development/tools/step3-5provider-baseline_ba92ceab/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/step3-5provider-baseline.md) | ⭐ 10 | `development` |
 
 ### Investment (19 skills)
 
@@ -1490,12 +1526,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Agent Guide](investment/050-multi-agent-guide_db50cf80/) | [FrancyJGLisboa/agent-skill-creator](https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/multi-agent-guide.md) | ⭐ 293 | `investment` |
 | [P1 Extract Claude Plugin Lint To Standalone Pypi Package](investment/050-p1-extract-claude-plugin-lint-to-standalone-pypi-package_1cdb3a9d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-extract-claude-plugin-lint-to-standalone-pypi-package.md) | ⭐ 20 | `investment` |
 
-### Other (2 skills)
+### Other (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
+| [V0.1.2.Zh Cn](other/v012zh-cn_89c58af4/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.2.zh-CN.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_1e955788/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2-20260226/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_41347ed3/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2b-20260226/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_771aaaf4/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2c-20260226/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_a01dc04d/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-parallel2d-20260226/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_2deb8048/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-serial-20260226/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_b1d9c665/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-parallel-20260226150448/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_34c87c9f/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-parallel-20260226151851/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_b2ca7990/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-serial-20260226150448/decision.md) | ⭐ 10 | `other` |
+| [Decision](other/decision_5d8a4d88/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/review/bench-step5-serial-20260226151851/decision.md) | ⭐ 10 | `other` |
 
 ### Productivity (24 skills)
 
@@ -1623,5 +1669,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 02:37:35 UTC*
+*Last updated: 2026-02-28 03:36:42 UTC*
 *Automatically maintained by SkillFlow*
