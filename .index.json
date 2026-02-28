@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T01:37:11.359842",
+  "updated_at": "2026-02-28T02:36:51.935115",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -18018,6 +18018,62 @@
       "repo_updated_at": "2026-02-27T15:47:29+00:00",
       "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
       "display_name": "Code Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "aef17dc78c1ff520a19916eefc5f9f3d1d46182450fcdc928245d5d9b0d472a3",
+      "source_path": "docs/superdocs/SUMMARY.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "automation/workflow/155-summary_aef17dc7",
+      "category": "automation/workflow",
+      "name": "summary_aef17dc7",
+      "indexed_at": "2026-02-28T02:36:51.391645",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-01-01T12:37:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/SUMMARY.md",
+      "display_name": "Summary",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "950fe24d081d30565c243b71eb6a687948c12065398aea70884eda5f436555ee",
+      "source_path": "docs/superdocs/cat-tools/overview.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "content-creation/423-overview_950fe24d",
+      "category": "content-creation",
+      "name": "overview_950fe24d",
+      "indexed_at": "2026-02-28T02:36:51.570798",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-01-01T20:24:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/cat-tools/overview.md",
+      "display_name": "Overview",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "78db9de5061b47b03674e8e70a8624d8f306f34f97dda05b10ed2feafd3ca6c4",
+      "source_path": "docs/superdocs/editor/editing-confirming.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/tools/380-editing-confirming_78db9de5",
+      "category": "development/tools",
+      "name": "editing-confirming_78db9de5",
+      "indexed_at": "2026-02-28T02:36:51.769916",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-01-01T20:20:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/editor/editing-confirming.md",
+      "display_name": "Editing Confirming",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ec5bc095fabd87bab8cbde7aa01e4a00a97aba4463eba5ae393031c4a1c70596",
+      "source_path": ".claude/Claude.md",
+      "source_repo": "MarcusJellinghaus/mcp-code-checker",
+      "local_path": "development/140-claude_ec5bc095",
+      "category": "development",
+      "name": "claude_ec5bc095",
+      "indexed_at": "2026-02-28T02:36:51.935071",
+      "repo_stars": 14,
+      "repo_updated_at": "2026-02-27T20:03:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/Claude.md",
+      "display_name": "Claude",
       "tags": "[\"development\"]"
     }
   ]

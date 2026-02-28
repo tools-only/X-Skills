@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1288 AI-powered skills** organized into 15 categories.
+A curated collection of **1291 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (69 skills)
-- **Automation/Workflow** (197 skills)
+- **Automation/Workflow** (198 skills)
 - **Commercial** (66 skills)
 - **Communication** (33 skills)
-- **Content Creation** (138 skills)
+- **Content Creation** (139 skills)
 - **Daily Assistant** (88 skills)
 - **Data Analysis** (62 skills)
-- **Development** (306 skills)
+- **Development** (307 skills)
 - **Development/Devops** (121 skills)
-- **Development/Testing** (17 skills)
-- **Development/Tools** (104 skills)
+- **Development/Testing** (16 skills)
+- **Development/Tools** (105 skills)
 - **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (24 skills)
@@ -255,7 +255,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P1 Validate And Verify Orchestrator Discipline Plugin Hooks And](automation/scripting/096-p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and_0e71bf01/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p1-validate-and-verify-orchestrator-discipline-plugin-hooks-and.md) | ⭐ 20 | `automation` |
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/093-p2-plan-artifact-diverges-from-implementation-without-update-me_e65c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (197 skills)
+### Automation/Workflow (198 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -456,6 +456,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Created](automation/workflow/139-readme_flat_skills_created_8c5ef21c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 25.2k | `automation` |
 | [Readme Flat Skills Releases](automation/workflow/140-readme_flat_skills_releases_a437a5c5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 25.2k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/141-readme_flat_skills_updated_d5866cf3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 25.2k | `automation` |
+| [Summary](automation/workflow/summary_aef17dc7/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/SUMMARY.md) | ⭐ 25 | `automation` |
 
 ### Commercial (66 skills)
 
@@ -566,7 +567,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workshop Checklist](communication/209-workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
 | [Business And Productivity](communication/254-business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
 
-### Content Creation (138 skills)
+### Content Creation (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -708,6 +709,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Better Creator](content-creation/371-better-creator_c0c828b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/better-creator.md) | ⭐ 20 | `content creation` |
 | [Bibliography And Source Documentation](content-creation/372-bibliography-and-source-documentation_fc035430/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/bibliography-and-source-documentation.md) | ⭐ 20 | `content creation` |
 | [Linkedin Ruben Hassid](content-creation/373-linkedin-ruben-hassid_a567f189/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/references/linkedin-ruben-hassid.md) | ⭐ 20 | `content creation` |
+| [Overview](content-creation/overview_950fe24d/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/cat-tools/overview.md) | ⭐ 25 | `content creation` |
 
 ### Daily Assistant (88 skills)
 
@@ -869,7 +871,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Backlogpy Plan Field Na Blocks Work Backlog Item Step 2](data-analysis/492-p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2_339d9961/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-backlogpy-plan-field-na-blocks-work-backlog-item-step-2.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_df1c9d46/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/group-items-to-milestone/SKILL.md) | ⭐ 20 | `data analysis` |
 
-### Development (306 skills)
+### Development (307 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1179,6 +1181,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sam Definition](development/3006-sam-definition_22348494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
 | [Skill](development/1178-name-skill_acff1b61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/1178-name-skill_517e9de1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/SKILL.md) | ⭐ 20 | `development` |
+| [Claude](development/claude_ec5bc095/) | [MarcusJellinghaus/mcp-code-checker](https://raw.githubusercontent.com/MarcusJellinghaus/mcp-code-checker/main/.claude/Claude.md) | ⭐ 14 | `development` |
 
 ### Development/Devops (121 skills)
 
@@ -1306,7 +1309,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_41b26467/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 25.2k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_610794ee/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 25.2k | `development` |
 
-### Development/Testing (17 skills)
+### Development/Testing (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1326,9 +1329,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_608ca966/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-cycle/SKILL.md) | 🔥 13.9k | `development` |
 | [Skill](development/testing/002-name-skill_3667e087/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/tdd-workflows-tdd-red/SKILL.md) | 🔥 13.9k | `development` |
 | [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_56df1e96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 20 | `development` |
-| [Code Index](development/testing/code_index_ed227b01/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
-### Development/Tools (104 skills)
+### Development/Tools (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1341,7 +1343,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector C Cli Data Fetch](development/tools/370-vector-c-cli-data-fetch_f11d2333/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-c-cli-data-fetch.md) | ⭐ 2.9k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_e9fd259e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.9k | `development` |
 | [Create Data Extensions](development/tools/371-create-data-extensions_2210ce14/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.9k | `development` |
-| [Code Index](development/tools/code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Code Index](development/tools/282-code_index_d1c06dc8/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Skill](development/tools/002-name-skill_ad5c103c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_b244adfc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-validator/SKILL.md) | ⭐ 20 | `development` |
 | [Vertex Realtime](development/tools/366-vertex_realtime_fdde2fa3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/vertex_realtime.md) | 🔥 36.9k | `development` |
@@ -1436,6 +1438,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_4c79fd6f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 25.2k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_69c00dc3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 25.2k | `development` |
 | [Code Index](development/tools/282-code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Editing Confirming](development/tools/editing-confirming_78db9de5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/editor/editing-confirming.md) | ⭐ 25 | `development` |
 
 ### Investment (19 skills)
 
@@ -1594,5 +1597,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 01:37:11 UTC*
+*Last updated: 2026-02-28 02:36:52 UTC*
 *Automatically maintained by SkillFlow*
