@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T03:36:42.526972",
+  "updated_at": "2026-02-28T06:36:24.700185",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -18481,6 +18481,90 @@
       "source_url": "https://raw.githubusercontent.com/lfenghx/skill_agent/main/README-ZH.md",
       "display_name": "Readme Zh",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "19459d1670c38ca77bba5939c97755c124bf885bf1202ac3fd8adf3b9498db01",
+      "source_path": "docs/my-website/docs/ocr.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "data-analysis/505-ocr_19459d16",
+      "category": "data-analysis",
+      "name": "ocr_19459d16",
+      "indexed_at": "2026-02-28T06:36:23.757284",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-27T18:50:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/ocr.md",
+      "display_name": "Ocr",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "c153b3a1cfd9e2c3aaea8036ae05cde11d0009c41c8ce84dc46342cf0c58df0b",
+      "source_path": "docs/my-website/docs/troubleshoot/latency_overhead.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/254-latency_overhead_c153b3a1",
+      "category": "communication",
+      "name": "latency_overhead_c153b3a1",
+      "indexed_at": "2026-02-28T06:36:23.960698",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-28T02:00:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md",
+      "display_name": "Latency Overhead",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "7343221a25a022bbc9d9e811df0b4e7986f58650cdb3a9526bbe2dde5ec09304",
+      "source_path": "docs/my-website/docs/providers/anthropic.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/390-anthropic_7343221a",
+      "category": "content-creation",
+      "name": "anthropic_7343221a",
+      "indexed_at": "2026-02-28T06:36:24.149445",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-27T22:07:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/anthropic.md",
+      "display_name": "Anthropic",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "47afdccffe9fa8189d7d898a7fb77d3cc75f04bdd86fbde093e883a013c7633b",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/391-config_settings_47afdccf",
+      "category": "content-creation",
+      "name": "config_settings_47afdccf",
+      "indexed_at": "2026-02-28T06:36:24.351830",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-27T15:48:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
+    },
+    {
+      "file_hash": "98618766d8bf3b92925e0fccd9a5abd6df2c2f1e427ed4791e66c8252d962fef",
+      "source_path": "docs/my-website/docs/providers/bedrock.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2834-bedrock_98618766",
+      "category": "development",
+      "name": "bedrock_98618766",
+      "indexed_at": "2026-02-28T06:36:24.547355",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-05T21:33:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/bedrock.md",
+      "display_name": "Bedrock",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "63b6c1b0c4b011a86dd1649765591cb4ec0e2d9562d5755de2298539b9900f0a",
+      "source_path": "docs/my-website/docs/proxy/prometheus.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/042-prometheus_63b6c1b0",
+      "category": "development/devops",
+      "name": "prometheus_63b6c1b0",
+      "indexed_at": "2026-02-28T06:36:24.699241",
+      "repo_stars": 37002,
+      "repo_updated_at": "2026-02-28T02:00:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md",
+      "display_name": "Prometheus",
+      "tags": "[\"development\"]"
     }
   ]
 }
