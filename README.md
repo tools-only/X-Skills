@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1618 AI-powered skills** organized into 15 categories.
+A curated collection of **1619 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Data Analysis** (94 skills)
 - **Development** (386 skills)
 - **Development/Devops** (136 skills)
-- **Development/Testing** (25 skills)
+- **Development/Testing** (26 skills)
 - **Development/Tools** (131 skills)
 - **Investment** (27 skills)
 - **Other** (2 skills)
@@ -1555,10 +1555,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](development/devops/314-01-configuration_f22a8ff4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 4.2k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_3f5c2c41/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 4.2k | `development` |
 | [Skill](development/devops/014-name-skill_1727c08f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexnow/SKILL.md) | ⭐ 12 | `development` |
-| [V1.81.14](development/devops/v18114_206ed75d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 37.1k | `development` |
-| [Datadog](development/devops/datadog_e50482ed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/datadog.md) | 🔥 37.1k | `development` |
+| [V1.81.14](development/devops/397-v18114_206ed75d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 37.1k | `development` |
+| [Index](development/devops/_index_80036954/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/deployment/_index.md) | 🔥 6.5k | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1587,6 +1587,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration Schema](development/testing/083-configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 | [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
+| [Release Notes](development/testing/release_notes_05652277/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 
 ### Development/Tools (131 skills)
 
@@ -1924,5 +1925,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 17:38:04 UTC*
+*Last updated: 2026-02-28 18:36:35 UTC*
 *Automatically maintained by SkillFlow*
