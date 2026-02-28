@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1525 AI-powered skills** organized into 15 categories.
+A curated collection of **1556 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (72 skills)
-- **Automation/Workflow** (204 skills)
+- **Automation/Workflow** (206 skills)
 - **Commercial** (68 skills)
 - **Communication** (44 skills)
-- **Content Creation** (176 skills)
+- **Content Creation** (179 skills)
 - **Daily Assistant** (101 skills)
-- **Data Analysis** (85 skills)
-- **Development** (371 skills)
-- **Development/Devops** (130 skills)
-- **Development/Testing** (25 skills)
+- **Data Analysis** (91 skills)
+- **Development** (380 skills)
+- **Development/Devops** (132 skills)
+- **Development/Testing** (27 skills)
 - **Development/Tools** (130 skills)
-- **Investment** (23 skills)
+- **Investment** (27 skills)
 - **Other** (2 skills)
-- **Productivity** (29 skills)
-- **Research** (65 skills)
+- **Productivity** (31 skills)
+- **Research** (66 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -258,7 +258,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Add Client Command](automation/scripting/092-add-client-command_15efc6f5/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/.claude/skills/add-client-command.md) | ⭐ 10 | `automation` |
 | [Skill](automation/scripting/003-name-skill_b023afb4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-capability-analyzer/SKILL.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (204 skills)
+### Automation/Workflow (206 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -466,6 +466,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Base 3 Macbook](automation/workflow/141-base-3-macbook_4a04c566/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/base-3-macbook.md) | ⭐ 3.2k | `automation` |
 | [Hn 1 Claude Code](automation/workflow/142-hn-1-claude-code_06c8b87a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-1-claude-code.md) | ⭐ 3.2k | `automation` |
 | [Release Notes V1.5.0](automation/workflow/142-release_notes_v150_f1542b36/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.5.0.md) | ⭐ 10 | `automation` |
+| [Report](automation/workflow/report_0d6c3de0/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/benchmark/pymc-modeling/report.md) | ⭐ 12 | `automation` |
+| [Skill](automation/workflow/name-skill_39425612/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/find-arbitrage-opps/SKILL.md) | ⭐ 12 | `automation` |
 
 ### Commercial (68 skills)
 
@@ -589,7 +591,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Topic Routing](communication/260-topic-routing_73e6bad1/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/claw-advisor/references/topic-routing.md) | ⭐ 34 | `communication` |
 | [Sealos Devbox Guide](communication/261-sealos-devbox-guide_0cfdbe15/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/sealos-devbox-guide.md) | 🔥 10.3k | `communication` |
 
-### Content Creation (176 skills)
+### Content Creation (179 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -769,6 +771,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quality Criteria](content-creation/374-quality-criteria_15715682/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/user-docs-to-ai-skill/references/quality-criteria.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_4fa27254/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/run-research/SKILL.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_4d664347/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-skill/SKILL.md) | ⭐ 34 | `content creation` |
+| [Ui Components](content-creation/ui_components_07a2a884/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/ui_components.md) | ⭐ 12 | `content creation` |
+| [Bart](content-creation/bart_c86fba81/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/bart.md) | ⭐ 12 | `content creation` |
+| [Specialized Likelihoods](content-creation/specialized_likelihoods_92d3879e/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/specialized_likelihoods.md) | ⭐ 12 | `content creation` |
 
 ### Daily Assistant (101 skills)
 
@@ -876,7 +881,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hackathon Issue Draft](daily-assistant/277-hackathon_issue_draft_9d181e98/) | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/docs/HACKATHON_ISSUE_DRAFT.md) | 🔥 10.3k | `daily assistant` |
 | [Llmnode](daily-assistant/304-llmnode_5292fdfb/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/api-reference/llmnode.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (85 skills)
+### Data Analysis (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -887,7 +892,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [System](data-analysis/498-system_4e70fd23/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/zeroize-audit/skills/zeroize-audit/prompts/system.md) | ⭐ 2.9k | `data analysis` |
 | [Compile Commands](data-analysis/499-compile-commands_ee40f46f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/zeroize-audit/skills/zeroize-audit/references/compile-commands.md) | ⭐ 2.9k | `data analysis` |
 | [Detection Strategy](data-analysis/500-detection-strategy_acdf4242/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/zeroize-audit/skills/zeroize-audit/references/detection-strategy.md) | ⭐ 2.9k | `data analysis` |
-| [Skill](data-analysis/226-name-skill_d516ab63/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Skill](data-analysis/name-skill_069bd6cb/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md) | ⭐ 12 | `data analysis` |
 | [Memory Architecture](data-analysis/377-memory_architecture_c2a7a6b8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/memory_architecture.md) | ⭐ 763 | `data analysis` |
 | [Nft Monitoring](data-analysis/495-nft-monitoring_be7eb631/) | [mensfeld/code-on-incus](https://raw.githubusercontent.com/mensfeld/code-on-incus/master/docs/NFT-MONITORING.md) | ⭐ 268 | `data analysis` |
 | [Ui Ux Pro Max Skill](data-analysis/501-ui-ux-pro-max-skill_b408db6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/ui-ux-pro-max-skill.md) | ⭐ 20 | `data analysis` |
@@ -964,9 +969,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V1.4.1](data-analysis/501-release_notes_v141_100b544b/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.4.1.md) | ⭐ 10 | `data analysis` |
 | [Auditor Guide](data-analysis/502-auditor_guide_34e2b0ce/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/compliance/auditor_guide.md) | ⭐ 10 | `data analysis` |
 | [3 Audit Log](data-analysis/503-3-audit-log_68374b0d/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/3-audit-log.md) | ⭐ 10 | `data analysis` |
-| [Technical](data-analysis/technical_37efa3df/) | [petergpt/bullshit-benchmark](https://raw.githubusercontent.com/petergpt/bullshit-benchmark/main/docs/TECHNICAL.md) | ⭐ 298 | `data analysis` |
+| [Technical](data-analysis/494-technical_37efa3df/) | [petergpt/bullshit-benchmark](https://raw.githubusercontent.com/petergpt/bullshit-benchmark/main/docs/TECHNICAL.md) | ⭐ 298 | `data analysis` |
+| [Benchmark Summary](data-analysis/benchmark_summary_0a5b323d/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/benchmark/pymc-modeling/BENCHMARK_SUMMARY.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/name-skill_caf4a706/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/SKILL.md) | ⭐ 12 | `data analysis` |
+| [Arviz](data-analysis/arviz_9490fd82/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/arviz.md) | ⭐ 12 | `data analysis` |
+| [Diagnostics](data-analysis/diagnostics_6287faf7/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/diagnostics.md) | ⭐ 12 | `data analysis` |
+| [Mixtures](data-analysis/mixtures_06526181/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/mixtures.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_069bd6cb/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/lp-agent/SKILL.md) | ⭐ 12 | `data analysis` |
 
-### Development (371 skills)
+### Development (380 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1341,8 +1352,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [9 Metacognition](development/3031-9-metacognition_2a0a1898/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/9-metacognition.md) | ⭐ 10 | `development` |
 | [Integrations](development/478-integrations_07122137/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/integrations.md) | ⭐ 10 | `development` |
 | [Litellm Setup](development/3032-litellm_setup_78a9f89a/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/litellm_setup.md) | ⭐ 10 | `development` |
+| [Claude](development/claude_1940fc05/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/.claude-plugin/CLAUDE.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_1a187ce2/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/SKILL.md) | ⭐ 12 | `development` |
+| [Caching](development/caching_ee7fe375/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/caching.md) | ⭐ 12 | `development` |
+| [Custom Models](development/custom_models_fee259c8/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/custom_models.md) | ⭐ 12 | `development` |
+| [Gotchas](development/gotchas_1719cc94/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/gotchas.md) | ⭐ 12 | `development` |
+| [Gaussian Processes in PyMC](development/gp_e424b0b2/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/gp.md) | ⭐ 12 | `development` |
+| [Troubleshooting](development/troubleshooting_5c1bc2c1/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/troubleshooting.md) | ⭐ 12 | `development` |
+| [Skill](development/name-skill_de15106d/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot-developer/SKILL.md) | ⭐ 12 | `development` |
+| [Wigglystuff](development/wigglystuff_6c4bef3e/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/wigglystuff.md) | ⭐ 12 | `development` |
 
-### Development/Devops (130 skills)
+### Development/Devops (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1476,8 +1496,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Environment Setup](development/devops/200-environment-setup_3032dc4d/) | [aden-hive/hive](https://raw.githubusercontent.com/aden-hive/hive/main/docs/environment-setup.md) | 🔥 8.4k | `development` |
 | [Skill](development/devops/014-name-skill_ac54676e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/SKILL.md) | ⭐ 20 | `development` |
 | [Deployment](development/devops/258-deployment_5d04dae8/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/guides/deployment.md) | ⭐ 10 | `development` |
+| [Advanced](development/devops/advanced_b997a65a/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/marimo-notebook/references/advanced.md) | ⭐ 12 | `development` |
+| [Skill](development/devops/name-skill_2507e8c0/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot-deploy/SKILL.md) | ⭐ 12 | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1506,6 +1528,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration Schema](development/testing/083-configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 | [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/name-skill_bd48726a/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-testing/SKILL.md) | ⭐ 12 | `development` |
+| [Patterns](development/testing/patterns_b61de2de/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-testing/references/patterns.md) | ⭐ 12 | `development` |
 
 ### Development/Tools (130 skills)
 
@@ -1642,7 +1666,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [4 Core Patterns](development/tools/352-4-core-patterns_600b8150/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/docs/core-concepts/4-core-patterns.md) | ⭐ 10 | `development` |
 | [Claude](development/tools/017-claude_da7ddf3c/) | [Nevo24/claudeq](https://raw.githubusercontent.com/Nevo24/claudeq/main/CLAUDE.md) | ⭐ 10 | `development` |
 
-### Investment (23 skills)
+### Investment (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1652,7 +1676,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Decision Frameworks](investment/049-decision-frameworks_30ceb8b9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/energy-procurement/references/decision-frameworks.md) | 🔥 15.4k | `investment` |
 | [Seven Of Cups](investment/052-seven-of-cups_852b35c0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/cups/seven-of-cups.md) | ⭐ 2.9k | `investment` |
 | [Nine Of Pentacles](investment/053-nine-of-pentacles_272b240f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/pentacles/nine-of-pentacles.md) | ⭐ 2.9k | `investment` |
-| [Skill](investment/021-name-skill_ea8c4627/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md) | ⭐ 11 | `investment` |
+| [Skill](investment/name-skill_eb1a5dc3/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md) | ⭐ 12 | `investment` |
 | [Server Functions](investment/054-server-functions_535f27be/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/cloudflare/skills/tanstack-start/references/server-functions.md) | ⭐ 543 | `investment` |
 | [Skill](investment/021-name-skill_a4c1aa27/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/carrier-relationship-management/SKILL.md) | 🔥 13.9k | `investment` |
 | [Skill](investment/021-name-skill_897e53ad/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/data-scientist/SKILL.md) | 🔥 13.9k | `investment` |
@@ -1669,6 +1693,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cross 3 Macbook Improved](investment/052-cross-3-macbook-improved_236dd57d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook-improved.md) | ⭐ 3.2k | `investment` |
 | [Cross 3 Macbook](investment/053-cross-3-macbook_66032292/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-3-macbook.md) | ⭐ 3.2k | `investment` |
 | [Hn 3 Macbook](investment/054-hn-3-macbook_39af9db7/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/hn-3-macbook.md) | ⭐ 3.2k | `investment` |
+| [Skill](investment/021-name-skill_eb1a5dc3/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/connectors-available/SKILL.md) | ⭐ 12 | `investment` |
+| [Pmm Mister](investment/pmm_mister_e69056b5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_mister.md) | ⭐ 12 | `investment` |
+| [Pmm V1](investment/pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
+| [Skill](investment/name-skill_1bb17792/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/SKILL.md) | ⭐ 12 | `investment` |
 
 ### Other (2 skills)
 
@@ -1677,7 +1705,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
 
-### Productivity (29 skills)
+### Productivity (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1710,8 +1738,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pr Roadmap Planner](productivity/176-pr-roadmap-planner_939daac3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/product-review/agents/pr-roadmap-planner.md) | ⭐ 41 | `productivity` |
 | [Cross 4 Rap Improved](productivity/174-cross-4-rap-improved_5c691f18/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/compact/cross-4-rap-improved.md) | ⭐ 3.2k | `productivity` |
 | [Hn 3 Macbook](productivity/175-hn-3-macbook_21bb2434/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/synthesis/hn-3-macbook.md) | ⭐ 3.2k | `productivity` |
+| [Inference](productivity/inference_1a48ad07/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/inference.md) | ⭐ 12 | `productivity` |
+| [Timeseries](productivity/timeseries_c126c36c/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/timeseries.md) | ⭐ 12 | `productivity` |
 
-### Research (65 skills)
+### Research (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1780,6 +1810,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Eval 3 Macbook](research/278-eval-3-macbook_67832f5a/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-3-macbook.md) | ⭐ 3.2k | `research` |
 | [Eval 4 Rap](research/279-eval-4-rap_50c5bddc/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/evaluation/eval-4-rap.md) | ⭐ 3.2k | `research` |
 | [Cross Synthesis Prompt](research/280-cross-synthesis-prompt_b5346f04/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/comparison-results/prompts/cross-synthesis-prompt.md) | ⭐ 3.2k | `research` |
+| [Priors](research/priors_65edf17f/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/priors.md) | ⭐ 12 | `research` |
 
 ## How Skills Are Organized
 
@@ -1831,5 +1862,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 15:37:13 UTC*
+*Last updated: 2026-02-28 16:36:37 UTC*
 *Automatically maintained by SkillFlow*
