@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T06:36:24.700185",
+  "updated_at": "2026-02-28T06:36:42.140680",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -18565,6 +18565,118 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md",
       "display_name": "Prometheus",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4a9f580dcbad318e25f129f08c509915db5ee84e29d58101522d373b1399981d",
+      "source_path": "connectors/facebook-marketing/AUTH.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "development/tools/077-auth_4a9f580d",
+      "category": "development/tools",
+      "name": "auth_4a9f580d",
+      "indexed_at": "2026-02-28T06:36:38.409999",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-20T02:12:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md",
+      "display_name": "Auth",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2d2cb83c469a738bbb6d26991f737c0fe0de6bc88bf837da2e9e676540f09fcf",
+      "source_path": "connectors/google-ads/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "development/828-reference_2d2cb83c",
+      "category": "development",
+      "name": "reference_2d2cb83c",
+      "indexed_at": "2026-02-28T06:36:38.971757",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-25T22:06:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-ads/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5899aaeadb6fbeef2850ff459cf4ae2ac87127a596c039fc77fa6bfe695d3578",
+      "source_path": "connectors/google-analytics-data-api/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "data-analysis/286-reference_5899aaea",
+      "category": "data-analysis",
+      "name": "reference_5899aaea",
+      "indexed_at": "2026-02-28T06:36:39.546619",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-25T02:44:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-analytics-data-api/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "ee956fa867c425f5bbf439cd03b77dabd5ca7d70d59652f4bc633fc5ead1c8d0",
+      "source_path": "connectors/granola/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "daily-assistant/109-reference_ee956fa8",
+      "category": "daily-assistant",
+      "name": "reference_ee956fa8",
+      "indexed_at": "2026-02-28T06:36:40.005508",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-26T22:38:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/granola/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "92bc02f403cef1a3e3195828480ef6813b1bb67c1b280d516b2dde2b742851a5",
+      "source_path": "connectors/intercom/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "communication/147-reference_92bc02f4",
+      "category": "communication",
+      "name": "reference_92bc02f4",
+      "indexed_at": "2026-02-28T06:36:40.588813",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-26T22:38:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "1cccd3921aa8b26245119ed20d48c479ee69aef56473ec587ae2b8c1b6c88e12",
+      "source_path": "connectors/monday/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "communication/147-reference_1cccd392",
+      "category": "communication",
+      "name": "reference_1cccd392",
+      "indexed_at": "2026-02-28T06:36:41.084957",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-26T22:38:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/monday/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "c0156e53462a821f25f8fc8a767721bdb954c42fd9a721f264523afada9e5447",
+      "source_path": "connectors/pylon/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "communication/147-reference_c0156e53",
+      "category": "communication",
+      "name": "reference_c0156e53",
+      "indexed_at": "2026-02-28T06:36:41.617192",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-20T16:35:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/pylon/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "a324b9e151ee712e5e423ab0a3fdcd67085aa0b89f3fd95ca5a6562acff49acf",
+      "source_path": "connectors/sendgrid/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "communication/147-reference_a324b9e1",
+      "category": "communication",
+      "name": "reference_a324b9e1",
+      "indexed_at": "2026-02-28T06:36:42.140620",
+      "repo_stars": 105,
+      "repo_updated_at": "2026-02-25T23:04:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/sendgrid/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"communication\"]"
     }
   ]
 }

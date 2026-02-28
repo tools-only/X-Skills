@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1328 AI-powered skills** organized into 15 categories.
+A curated collection of **1365 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (70 skills)
 - **Automation/Workflow** (200 skills)
-- **Commercial** (66 skills)
-- **Communication** (36 skills)
+- **Commercial** (67 skills)
+- **Communication** (39 skills)
 - **Content Creation** (144 skills)
-- **Daily Assistant** (92 skills)
-- **Data Analysis** (71 skills)
-- **Development** (313 skills)
+- **Daily Assistant** (93 skills)
+- **Data Analysis** (72 skills)
+- **Development** (314 skills)
 - **Development/Devops** (125 skills)
 - **Development/Testing** (18 skills)
-- **Development/Tools** (106 skills)
+- **Development/Tools** (136 skills)
 - **Investment** (19 skills)
 - **Other** (2 skills)
 - **Productivity** (24 skills)
@@ -461,7 +461,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [V0.1.2](automation/workflow/138-v012_50c8e312/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/releases/v0.1.2.md) | ⭐ 10 | `automation` |
 | [Guide](automation/workflow/139-guide_f412902d/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/GUIDE.md) | ⭐ 69 | `automation` |
 
-### Commercial (66 skills)
+### Commercial (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -531,8 +531,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backend Development](commercial/376-backend-development_0cc3f537/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/backend-development.md) | ⭐ 87 | `commercial` |
 | [Frontend Development](commercial/377-frontend-development_5390a4e5/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/frontend-development.md) | ⭐ 87 | `commercial` |
 | [Version Control And Collaboration](commercial/378-version-control-and-collaboration_8d36bd68/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/version-control-and-collaboration.md) | ⭐ 87 | `commercial` |
+| [Auth](commercial/auth_c13a539d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/AUTH.md) | ⭐ 105 | `commercial` |
 
-### Communication (36 skills)
+### Communication (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -569,9 +570,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Context Optimize.Prompt](communication/260-context-optimizeprompt_c1dd481e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/context-optimize.prompt.md) | ⭐ 98 | `communication` |
 | [Workshop Checklist](communication/209-workshop-checklist_785e560b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 98 | `communication` |
 | [Business And Productivity](communication/254-business-and-productivity_0bf96c21/) | [Chat2AnyLLM/awesome-claude-skills](https://raw.githubusercontent.com/Chat2AnyLLM/awesome-claude-skills/main/domains/business-and-productivity.md) | ⭐ 87 | `communication` |
-| [Latency Overhead](communication/latency_overhead_c153b3a1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 37.0k | `communication` |
-| [Assembly Ai](communication/assembly_ai_b39f7db3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/pass_through/assembly_ai.md) | 🔥 37.0k | `communication` |
-| [Skill](communication/name-skill_50feb092/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/tests/llm_translation/test_skills_data/slack-gif-creator/SKILL.md) | 🔥 37.0k | `communication` |
+| [Latency Overhead](communication/254-latency_overhead_c153b3a1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 37.0k | `communication` |
+| [Reference](communication/reference_92bc02f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/REFERENCE.md) | ⭐ 105 | `communication` |
+| [Reference](communication/reference_1cccd392/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/monday/REFERENCE.md) | ⭐ 105 | `communication` |
+| [Reference](communication/reference_c0156e53/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/pylon/REFERENCE.md) | ⭐ 105 | `communication` |
+| [Reference](communication/reference_a324b9e1/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/sendgrid/REFERENCE.md) | ⭐ 105 | `communication` |
+| [Auth](communication/auth_d2e1c7b7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/AUTH.md) | ⭐ 105 | `communication` |
 
 ### Content Creation (144 skills)
 
@@ -590,7 +594,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector G Eval Of Ai Output](content-creation/387-vector-g-eval-of-ai-output_b9a47a41/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-g-eval-of-ai-output.md) | ⭐ 2.9k | `content creation` |
 | [Vector I Wildcard Allowlists](content-creation/388-vector-i-wildcard-allowlists_68a4cd77/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-i-wildcard-allowlists.md) | ⭐ 2.9k | `content creation` |
 | [21 The World](content-creation/389-21-the-world_ccef15a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/21-the-world.md) | ⭐ 2.9k | `content creation` |
-| [Config Settings](content-creation/config_settings_47afdccf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 37.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](content-creation/387-config_settings_8affec2b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.9k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Models Research](content-creation/384-models_research_1bcb2c64/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/models_research.md) | ⭐ 392 | `content creation` |
 | [Johnw](content-creation/388-johnw_0c635fd9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/johnw.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_90a79ecb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/process-siren/skills/improve-processes/SKILL.md) | ⭐ 20 | `content creation` |
@@ -719,10 +723,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_ceb17281/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_bd7ea9b3/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/nano-banana-pro/SKILL.md) | ⭐ 10 | `content creation` |
 | [Readme Zh](content-creation/374-readme-zh_e09ed67e/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/README-ZH.md) | ⭐ 69 | `content creation` |
-| [Anthropic](content-creation/anthropic_7343221a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/anthropic.md) | 🔥 37.0k | `content creation` |
+| [Anthropic](content-creation/390-anthropic_7343221a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/anthropic.md) | 🔥 37.0k | `content creation` |
 | [Config Settings](content-creation/391-config_settings_47afdccf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 37.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
-### Daily Assistant (92 skills)
+### Daily Assistant (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -818,8 +822,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Step0 Interface Freeze](daily-assistant/301-step0-interface-freeze_9c1d524b/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/implementation/step0-interface-freeze.md) | ⭐ 10 | `daily assistant` |
 | [Dry Run Plan](daily-assistant/302-dry-run-plan_be09f6a0/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/dry-run-plan.md) | ⭐ 10 | `daily assistant` |
 | [Task Plan](daily-assistant/303-task_plan_a76b972f/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/task_plan.md) | ⭐ 10 | `daily assistant` |
+| [Reference](daily-assistant/reference_ee956fa8/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/granola/REFERENCE.md) | ⭐ 105 | `daily assistant` |
 
-### Data Analysis (71 skills)
+### Data Analysis (72 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -893,9 +898,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Data Visualization](data-analysis/501-data-visualization_ea426f82/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/data-visualization.md) | ⭐ 10 | `data analysis` |
 | [Ml Visualization](data-analysis/502-ml-visualization_cbb44eaa/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/ml-visualization.md) | ⭐ 10 | `data analysis` |
 | [Overwatch Interactions](data-analysis/503-overwatch-interactions_31f94aa6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-interactions.md) | ⭐ 10 | `data analysis` |
-| [Ocr](data-analysis/ocr_19459d16/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/ocr.md) | 🔥 37.0k | `data analysis` |
+| [Ocr](data-analysis/505-ocr_19459d16/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/ocr.md) | 🔥 37.0k | `data analysis` |
+| [Reference](data-analysis/reference_5899aaea/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-analytics-data-api/REFERENCE.md) | ⭐ 105 | `data analysis` |
 
-### Development (313 skills)
+### Development (314 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1211,7 +1217,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Provider Permissions V0.1.X](development/3012-provider-permissions-v01x_0233a5bd/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/contracts/provider-permissions-v0.1.x.md) | ⭐ 10 | `development` |
 | [Notes](development/3013-notes_8206e669/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/notes.md) | ⭐ 10 | `development` |
 | [Summary](development/1038-summary_99a5a0cb/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/reports/adapter-contract/2026-02-26/summary.md) | ⭐ 10 | `development` |
-| [Bedrock](development/bedrock_98618766/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/bedrock.md) | 🔥 37.0k | `development` |
+| [Bedrock](development/2834-bedrock_98618766/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/bedrock.md) | 🔥 37.0k | `development` |
+| [Reference](development/reference_2d2cb83c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-ads/REFERENCE.md) | ⭐ 105 | `development` |
 
 ### Development/Devops (125 skills)
 
@@ -1341,7 +1348,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_cabb6274/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md) | ⭐ 10 | `development` |
 | [Export Workflow](development/devops/401-export-workflow_e741832d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/export-workflow.md) | ⭐ 10 | `development` |
 | [Privacy](development/devops/396-privacy_d0d1c5dd/) | [lfenghx/skill_agent](https://raw.githubusercontent.com/lfenghx/skill_agent/main/PRIVACY.md) | ⭐ 69 | `development` |
-| [Prometheus](development/devops/prometheus_63b6c1b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md) | 🔥 37.0k | `development` |
+| [Prometheus](development/devops/042-prometheus_63b6c1b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md) | 🔥 37.0k | `development` |
 
 ### Development/Testing (18 skills)
 
@@ -1366,7 +1373,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Capability Probe Spec](development/testing/083-capability-probe-spec_7c47621c/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/capability-probe-spec.md) | ⭐ 10 | `development` |
 | [Multi Cli Orchestrator Proposal](development/testing/084-multi-cli-orchestrator-proposal_43357673/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/docs/archive/phase-2026-02/multi-cli-orchestrator-proposal.md) | ⭐ 10 | `development` |
 
-### Development/Tools (106 skills)
+### Development/Tools (136 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1476,6 +1483,36 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Index](development/tools/282-code_index_453ec416/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Editing Confirming](development/tools/380-editing-confirming_78db9de5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/editor/editing-confirming.md) | ⭐ 25 | `development` |
 | [Overwatch Deck Schema](development/tools/348-overwatch-deck-schema_4f687885/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/aldea-slidedeck/references/overwatch-deck-schema.md) | ⭐ 10 | `development` |
+| [Auth](development/tools/auth_4a9f580d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_91ba4025/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_e1149b13/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_d5ddf2d8/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_adb3b678/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/ashby/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_a4b50be6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_2a7202b5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_89ea3cb5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gmail/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_84e057a8/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_c9fff7fc/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-ads/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_ac29bfed/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-analytics-data-api/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_4ef71d66/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_a5658c97/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/granola/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_8b10e9b7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_97066536/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_a42d7e0e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_c987f315/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_a9d9f069/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_620ba60c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_895ba54c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_9d63b748/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/monday/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_901c76e7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_4c0543b3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_6da3d3d9/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/pylon/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_25663049/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_db98ec5c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/sendgrid/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_23f4dd90/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_8bcdab16/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/tiktok-marketing/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_7c23a11c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/AUTH.md) | ⭐ 105 | `development` |
+| [Auth](development/tools/auth_d198fbb7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/AUTH.md) | ⭐ 105 | `development` |
 
 ### Investment (19 skills)
 
@@ -1634,5 +1671,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 06:36:24 UTC*
+*Last updated: 2026-02-28 06:36:42 UTC*
 *Automatically maintained by SkillFlow*
