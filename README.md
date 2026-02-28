@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1717 AI-powered skills** organized into 15 categories.
+A curated collection of **1713 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (76 skills)
+- **Automation/Scripting** (75 skills)
 - **Automation/Workflow** (208 skills)
 - **Commercial** (83 skills)
 - **Communication** (53 skills)
-- **Content Creation** (240 skills)
-- **Daily Assistant** (105 skills)
+- **Content Creation** (238 skills)
+- **Daily Assistant** (104 skills)
 - **Data Analysis** (98 skills)
-- **Development** (415 skills)
+- **Development** (416 skills)
 - **Development/Devops** (136 skills)
 - **Development/Testing** (25 skills)
 - **Development/Tools** (145 skills)
 - **Investment** (27 skills)
-- **Other** (3 skills)
+- **Other** (2 skills)
 - **Productivity** (35 skills)
 - **Research** (68 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (76 skills)
+### Automation/Scripting (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -260,7 +260,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_2e868c29/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/influencer/SKILL.md) | ⭐ 12 | `automation` |
 | [Ticket Verifier](automation/scripting/097-ticket-verifier_1f1bbf2a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/ticket-verifier.md) | ⭐ 10 | `automation` |
 | [Integration Guide](automation/scripting/098-integration-guide_fc8e2ef4/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/meeting-processing/integration-guide.md) | ⭐ 10 | `automation` |
-| [Bug Report](automation/scripting/bug_report_9361863f/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 21 | `automation` |
 
 ### Automation/Workflow (208 skills)
 
@@ -473,7 +472,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Report](automation/workflow/138-report_0d6c3de0/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/benchmark/pymc-modeling/report.md) | ⭐ 12 | `automation` |
 | [Skill](automation/workflow/002-name-skill_b3de0133/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexing/SKILL.md) | ⭐ 12 | `automation` |
 | [Quick Start](automation/workflow/140-quick-start_ffb4d343/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/guides/getting-up-to-speed-on-github/quick-start.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_709f7a1f/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/browser/SKILL.md) | ⭐ 21 | `automation` |
+| [Skill](automation/workflow/002-name-skill_709f7a1f/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/browser/SKILL.md) | ⭐ 21 | `automation` |
 
 ### Commercial (83 skills)
 
@@ -619,9 +618,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_ddea7b79/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/brand/contact/SKILL.md) | ⭐ 12 | `communication` |
 | [Claude](communication/024-claude_f7c6645d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/cns/CLAUDE.md) | ⭐ 394 | `communication` |
 | [Claude](communication/024-claude_829826e0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/ui/terminal/CLAUDE.md) | ⭐ 394 | `communication` |
-| [About](communication/about_76f4f831/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/about.md) | ⭐ 21 | `communication` |
+| [About](communication/253-about_76f4f831/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/about.md) | ⭐ 21 | `communication` |
 
-### Content Creation (240 skills)
+### Content Creation (238 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -856,17 +855,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Integration Guide](content-creation/379-integration-guide_76e2a453/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/strategic-planning/integration-guide.md) | ⭐ 10 | `content creation` |
 | [Persona](content-creation/380-persona_fb233950/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/PERSONA.md) | ⭐ 10 | `content creation` |
 | [Typical Commands](content-creation/381-typical-commands_b7bc0a33/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-commands.md) | ⭐ 10 | `content creation` |
-| [Api](content-creation/api_08930e20/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/api.md) | ⭐ 21 | `content creation` |
-| [Flow](content-creation/flow_01cdc0f3/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/flow.md) | ⭐ 21 | `content creation` |
-| [Skills](content-creation/skills-skill_274abdbb/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/skills.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_af390eec/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/http-client/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_5e493be3/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/memory/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_4620eebe/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/rss-reader/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_e38cda28/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/summarize/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_c010302f/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/image-generation/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_da2db14d/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/twitter/SKILL.md) | ⭐ 21 | `content creation` |
+| [Api](content-creation/072-api_08930e20/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/api.md) | ⭐ 21 | `content creation` |
+| [Flow](content-creation/385-flow_01cdc0f3/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/flow.md) | ⭐ 21 | `content creation` |
+| [Skills](content-creation/386-skills-skill_274abdbb/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/skills.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_af390eec/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/http-client/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_5e493be3/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/memory/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_4620eebe/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/rss-reader/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_e38cda28/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/summarize/SKILL.md) | ⭐ 21 | `content creation` |
 
-### Daily Assistant (105 skills)
+### Daily Assistant (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -974,7 +971,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_e14f5eea/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/navigation-menu/SKILL.md) | ⭐ 12 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_9b18cc61/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/config/CLAUDE.md) | ⭐ 394 | `daily assistant` |
 | [Typical Capabilities](daily-assistant/306-typical-capabilities_89cb05ea/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-capabilities.md) | ⭐ 10 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_097dd8f2/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/cron/SKILL.md) | ⭐ 21 | `daily assistant` |
 
 ### Data Analysis (98 skills)
 
@@ -1079,7 +1075,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_cae94cc7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 394 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ba8bebb2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/SKILL.md) | ⭐ 10 | `data analysis` |
 
-### Development (415 skills)
+### Development (416 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1495,9 +1491,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typical Capabilities](development/3023-typical-capabilities_648cc3e8/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-capabilities.md) | ⭐ 10 | `development` |
 | [Typical Commands](development/3025-typical-commands_b474028b/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-commands.md) | ⭐ 10 | `development` |
 | [Typical Structure](development/3026-typical-structure_59105e23/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/software-developer/typical-structure.md) | ⭐ 10 | `development` |
-| [Configuration](development/configuration_cc495d0d/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/configuration.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_db7f5440/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/skill-creator/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_8a58aea0/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/weather/SKILL.md) | ⭐ 21 | `development` |
+| [Configuration](development/191-configuration_cc495d0d/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/configuration.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_db7f5440/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/skill-creator/SKILL.md) | ⭐ 21 | `development` |
+| [Agents](development/agents_18d4a25e/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 23 | `development` |
+| [Skill](development/name-skill_e90b1840/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/SKILL.md) | ⭐ 23 | `development` |
 
 ### Development/Devops (136 skills)
 
@@ -1816,9 +1813,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_4cd42584/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/checkpoint/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_268b2abe/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/companion/SKILL.md) | ⭐ 10 | `development` |
 | [Getting Up To Speed On Github](development/tools/348-getting-up-to-speed-on-github_3bc26d78/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/guides/getting-up-to-speed-on-github/getting-up-to-speed-on-github.md) | ⭐ 10 | `development` |
-| [Agents](development/tools/agents_93e8dad2/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/AGENTS.md) | ⭐ 21 | `development` |
-| [Architecture](development/tools/architecture_49f819e9/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/architecture.md) | ⭐ 21 | `development` |
-| [Tools](development/tools/tools_84fc5444/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/tools.md) | ⭐ 21 | `development` |
+| [Agents](development/tools/015-agents_93e8dad2/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/AGENTS.md) | ⭐ 21 | `development` |
+| [Architecture](development/tools/051-architecture_49f819e9/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/architecture.md) | ⭐ 21 | `development` |
+| [Tools](development/tools/300-tools_84fc5444/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/tools.md) | ⭐ 21 | `development` |
 
 ### Investment (27 skills)
 
@@ -1852,13 +1849,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pmm V1](investment/052-pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
 | [Skill](investment/021-name-skill_ea63b574/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/cookie-policy/SKILL.md) | ⭐ 12 | `investment` |
 
-### Other (3 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
-| [Other](other/other_e51c88b1/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/.github/ISSUE_TEMPLATE/other.md) | ⭐ 21 | `other` |
 
 ### Productivity (35 skills)
 
@@ -2023,5 +2019,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-28 20:37:55 UTC*
+*Last updated: 2026-02-28 20:39:38 UTC*
 *Automatically maintained by SkillFlow*

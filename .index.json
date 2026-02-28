@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-28T20:37:55.588454",
+  "updated_at": "2026-02-28T20:39:38.081149",
   "skills": [
     {
       "file_hash": "c94cab9806a233b670df0fe3f6489cb85b24ca7e378d5f85fbadb3361a0e0f7a",
@@ -23955,6 +23955,20 @@
       "source_url": "https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/browser/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "18d4a25e5067915c34d9003f008fd83d11408880b0f27b84c871a1ed0c1aede1",
+      "source_path": "AGENTS.md",
+      "source_repo": "kalibr-ai/kalibr-sdk-python",
+      "local_path": "development/028-agents_18d4a25e",
+      "category": "development",
+      "name": "agents_18d4a25e",
+      "indexed_at": "2026-02-28T20:39:38.081090",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-27T05:54:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
     }
   ]
 }
