@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1797 AI-powered skills** organized into 15 categories.
+A curated collection of **1801 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,17 +12,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (209 skills)
 - **Commercial** (84 skills)
 - **Communication** (53 skills)
-- **Content Creation** (251 skills)
+- **Content Creation** (252 skills)
 - **Daily Assistant** (112 skills)
 - **Data Analysis** (113 skills)
-- **Development** (432 skills)
+- **Development** (434 skills)
 - **Development/Devops** (141 skills)
 - **Development/Testing** (32 skills)
 - **Development/Tools** (151 skills)
 - **Investment** (28 skills)
 - **Other** (2 skills)
 - **Productivity** (37 skills)
-- **Research** (77 skills)
+- **Research** (78 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -622,7 +622,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_829826e0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/ui/terminal/CLAUDE.md) | ⭐ 394 | `communication` |
 | [About](communication/253-about_76f4f831/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/about.md) | ⭐ 21 | `communication` |
 
-### Content Creation (251 skills)
+### Content Creation (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -640,7 +640,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vector I Wildcard Allowlists](content-creation/388-vector-i-wildcard-allowlists_68a4cd77/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/agentic-actions-auditor/skills/agentic-actions-auditor/references/vector-i-wildcard-allowlists.md) | ⭐ 2.9k | `content creation` |
 | [21 The World](content-creation/389-21-the-world_ccef15a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/21-the-world.md) | ⭐ 2.9k | `content creation` |
 | [Config Settings](content-creation/387-config_settings_8affec2b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.9k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Models Research](content-creation/384-models_research_1bcb2c64/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/models_research.md) | ⭐ 392 | `content creation` |
+| [Models Research](content-creation/models_research_0d1c711d/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/models_research.md) | ⭐ 392 | `content creation` |
 | [Johnw](content-creation/388-johnw_0c635fd9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/johnw.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_90a79ecb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/process-siren/skills/improve-processes/SKILL.md) | ⭐ 20 | `content creation` |
 | [Api](content-creation/072-api_a71b2d70/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.6k | `content creation` |
@@ -877,6 +877,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Api](content-creation/388-python-api_dcdd7172/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/python-api.md) | ⭐ 2.3k | `content creation` |
 | [Troubleshooting](content-creation/110-troubleshooting_e7889707/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/troubleshooting.md) | ⭐ 2.3k | `content creation` |
 | [Skill](content-creation/049-name-skill_03a2f22c/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/src/notebooklm/data/SKILL.md) | ⭐ 2.3k | `content creation` |
+| [Models Research](content-creation/384-models_research_0d1c711d/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/models_research.md) | ⭐ 392 | `content creation` |
 
 ### Daily Assistant (112 skills)
 
@@ -1113,7 +1114,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_731047c8/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/glossary-generator/SKILL.md) | ⭐ 51 | `data analysis` |
 | [Mermaid Guide](data-analysis/143-mermaid-guide_4f8ac59a/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 51 | `data analysis` |
 
-### Development (432 skills)
+### Development (434 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1142,7 +1143,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Usage](development/047-api-usage_0fa5b854/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/user-guide/api-usage.md) | ⭐ 177 | `development` |
 | [Claude Sdk Compatibility](development/2936-claude-sdk-compatibility_2d74e6d3/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/user-guide/claude-sdk-compatibility.md) | ⭐ 177 | `development` |
 | [Codex Api](development/2937-codex-api_5ad2064a/) | [CaddyGlow/ccproxy-api](https://raw.githubusercontent.com/CaddyGlow/ccproxy-api/main/docs/user-guide/codex-api.md) | ⭐ 177 | `development` |
-| [Applications](development/2944-applications_c92cf5e8/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/applications.md) | ⭐ 392 | `development` |
+| [Applications](development/applications_f9b340d6/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/applications.md) | ⭐ 392 | `development` |
 | [Azure](development/084-azure_e856bbe7/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/azure.md) | ⭐ 392 | `development` |
 | [Best Practices](development/103-best_practices_998cf88f/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/best_practices.md) | ⭐ 392 | `development` |
 | [Tools Extra](development/2945-tools_extra_469d0147/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/tools_extra.md) | ⭐ 392 | `development` |
@@ -1549,6 +1550,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_5b83348b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-github-agent-skill/SKILL.md) | ⭐ 14 | `development` |
 | [Learning Mascot](development/2722-learning-mascot_102ee8aa/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 51 | `development` |
 | [Releasing](development/2960-releasing_9d974ea7/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/releasing.md) | ⭐ 2.3k | `development` |
+| [Applications](development/2944-applications_f9b340d6/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/applications.md) | ⭐ 392 | `development` |
+| [X Llm Papers](development/x_llm_papers_3f6d8c40/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/section/x_llm_papers.md) | ⭐ 392 | `development` |
 
 ### Development/Devops (141 skills)
 
@@ -1920,7 +1923,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pmm Mister](investment/051-pmm_mister_e69056b5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_mister.md) | ⭐ 12 | `investment` |
 | [Pmm V1](investment/052-pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
 | [Skill](investment/021-name-skill_ea63b574/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/cookie-policy/SKILL.md) | ⭐ 12 | `investment` |
-| [Bcos](investment/bcos_86adbee6/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/BCOS.md) | ⭐ 28 | `investment` |
+| [Bcos](investment/052-bcos_86adbee6/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/BCOS.md) | ⭐ 28 | `investment` |
 
 ### Other (2 skills)
 
@@ -1971,7 +1974,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_9b6373e3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/l0-skill/SKILL.md) | ⭐ 14 | `productivity` |
 | [Skill](productivity/093-name-skill_3be000f0/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microdf-skill/SKILL.md) | ⭐ 14 | `productivity` |
 
-### Research (77 skills)
+### Research (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2052,6 +2055,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_52cac450/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-organization-skill/SKILL.md) | ⭐ 14 | `research` |
 | [Skill](research/139-name-skill_bf7265ac/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-variable-patterns-skill/SKILL.md) | ⭐ 14 | `research` |
 | [Rpc Reference](research/263-rpc-reference_10aaa272/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/rpc-reference.md) | ⭐ 2.3k | `research` |
+| [Skill](research/name-skill_89aea3ef/) | [kimtth/awesome-azure-openai-llm](https://raw.githubusercontent.com/kimtth/awesome-azure-openai-llm/main/.github/skills/update-llm-pool/SKILL.md) | ⭐ 392 | `research` |
 
 ## How Skills Are Organized
 
@@ -2103,5 +2107,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-03-01 00:39:16 UTC*
+*Last updated: 2026-03-01 03:36:46 UTC*
 *Automatically maintained by SkillFlow*
