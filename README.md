@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1818 AI-powered skills** organized into 15 categories.
+A curated collection of **1797 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (77 skills)
-- **Automation/Workflow** (210 skills)
+- **Automation/Scripting** (75 skills)
+- **Automation/Workflow** (209 skills)
 - **Commercial** (84 skills)
 - **Communication** (53 skills)
-- **Content Creation** (257 skills)
-- **Daily Assistant** (114 skills)
-- **Data Analysis** (115 skills)
-- **Development** (439 skills)
+- **Content Creation** (251 skills)
+- **Daily Assistant** (112 skills)
+- **Data Analysis** (113 skills)
+- **Development** (432 skills)
 - **Development/Devops** (141 skills)
 - **Development/Testing** (32 skills)
 - **Development/Tools** (151 skills)
-- **Investment** (27 skills)
-- **Other** (3 skills)
-- **Productivity** (38 skills)
+- **Investment** (28 skills)
+- **Other** (2 skills)
+- **Productivity** (37 skills)
 - **Research** (77 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (77 skills)
+### Automation/Scripting (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -260,10 +260,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_2e868c29/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/channels/influencer/SKILL.md) | ⭐ 12 | `automation` |
 | [Ticket Verifier](automation/scripting/097-ticket-verifier_1f1bbf2a/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/agents/ticket-verifier.md) | ⭐ 10 | `automation` |
 | [Integration Guide](automation/scripting/098-integration-guide_fc8e2ef4/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/meeting-processing/integration-guide.md) | ⭐ 10 | `automation` |
-| [Skill](automation/scripting/name-skill_bd2a545d/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-simulation-mechanics-skill/SKILL.md) | ⭐ 14 | `automation` |
-| [Index Template](automation/scripting/index-template_221fe170/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/story-generator/references/index-template.md) | ⭐ 51 | `automation` |
 
-### Automation/Workflow (210 skills)
+### Automation/Workflow (209 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -475,8 +473,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_b3de0133/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexing/SKILL.md) | ⭐ 12 | `automation` |
 | [Quick Start](automation/workflow/140-quick-start_ffb4d343/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/docs/guides/getting-up-to-speed-on-github/quick-start.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_709f7a1f/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/browser/SKILL.md) | ⭐ 21 | `automation` |
-| [Create Pr](automation/workflow/create-pr_2a980089/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/create-pr.md) | ⭐ 14 | `automation` |
-| [Skill](automation/workflow/name-skill_2e27e8e7/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-data-testing-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Create Pr](automation/workflow/056-create-pr_2a980089/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/create-pr.md) | ⭐ 14 | `automation` |
 
 ### Commercial (84 skills)
 
@@ -565,7 +562,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_6a559d8e/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/crawlability/SKILL.md) | ⭐ 12 | `commercial` |
 | [Capability](commercial/379-capability_6c365d51/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/capabilities/meeting-processing/CAPABILITY.md) | ⭐ 10 | `commercial` |
 | [Typical Structure](commercial/380-typical-structure_ac920eb6/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-structure.md) | ⭐ 10 | `commercial` |
-| [Fix Pr](commercial/fix-pr_d121e9c3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/fix-pr.md) | ⭐ 14 | `commercial` |
+| [Fix Pr](commercial/372-fix-pr_d121e9c3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/fix-pr.md) | ⭐ 14 | `commercial` |
 
 ### Communication (53 skills)
 
@@ -625,7 +622,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_829826e0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/ui/terminal/CLAUDE.md) | ⭐ 394 | `communication` |
 | [About](communication/253-about_76f4f831/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/about.md) | ⭐ 21 | `communication` |
 
-### Content Creation (257 skills)
+### Content Creation (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -867,27 +864,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_5e493be3/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/memory/SKILL.md) | ⭐ 21 | `content creation` |
 | [Skill](content-creation/049-name-skill_4620eebe/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/rss-reader/SKILL.md) | ⭐ 21 | `content creation` |
 | [Skill](content-creation/049-name-skill_e38cda28/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/summarize/SKILL.md) | ⭐ 21 | `content creation` |
-| [Reference Validator](content-creation/reference-validator_9d871574/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/reference-validator.md) | ⭐ 14 | `content creation` |
-| [Document Collector](content-creation/document-collector_4daad377/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/document-collector.md) | ⭐ 14 | `content creation` |
-| [Parameter Architect](content-creation/parameter-architect_c7c8fd6a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/parameter-architect.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_ad8dca78/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-research-lookup-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_70307e51/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-standards-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_a8804e79/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-writing-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_1f5aaf9a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-parameter-patterns-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_e7c0bf95/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-app-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_7e0af190/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/story-generator/SKILL.md) | ⭐ 51 | `content creation` |
-| [Cli Reference](content-creation/cli-reference_f8e87c58/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/cli-reference.md) | ⭐ 2.3k | `content creation` |
-| [Python Api](content-creation/python-api_dcdd7172/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/python-api.md) | ⭐ 2.3k | `content creation` |
-| [Troubleshooting](content-creation/troubleshooting_e7889707/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/troubleshooting.md) | ⭐ 2.3k | `content creation` |
-| [Skill](content-creation/name-skill_03a2f22c/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/src/notebooklm/data/SKILL.md) | ⭐ 2.3k | `content creation` |
-| [Generate Content](content-creation/generate-content_acce8212/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/generate-content.md) | ⭐ 14 | `content creation` |
-| [Content Orchestrator](content-creation/content-orchestrator_476a0d4c/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/content/content-orchestrator.md) | ⭐ 14 | `content creation` |
-| [Neutrality Reviewer](content-creation/neutrality-reviewer_05017a56/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/neutrality-reviewer.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_eb39999e/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/content/content-generation-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_f5f30d5a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-user-guide-skill/SKILL.md) | ⭐ 14 | `content creation` |
-| [Todo](content-creation/todo_24fd6b93/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/TODO.md) | ⭐ 51 | `content creation` |
+| [Reference Validator](content-creation/385-reference-validator_9d871574/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/reference-validator.md) | ⭐ 14 | `content creation` |
+| [Document Collector](content-creation/386-document-collector_4daad377/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/document-collector.md) | ⭐ 14 | `content creation` |
+| [Parameter Architect](content-creation/387-parameter-architect_c7c8fd6a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/parameter-architect.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_ad8dca78/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-research-lookup-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_70307e51/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-standards-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_a8804e79/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-writing-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_1f5aaf9a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-parameter-patterns-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_e7c0bf95/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-app-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_7e0af190/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/story-generator/SKILL.md) | ⭐ 51 | `content creation` |
+| [Cli Reference](content-creation/335-cli-reference_f8e87c58/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/cli-reference.md) | ⭐ 2.3k | `content creation` |
+| [Python Api](content-creation/388-python-api_dcdd7172/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/python-api.md) | ⭐ 2.3k | `content creation` |
+| [Troubleshooting](content-creation/110-troubleshooting_e7889707/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/troubleshooting.md) | ⭐ 2.3k | `content creation` |
+| [Skill](content-creation/049-name-skill_03a2f22c/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/src/notebooklm/data/SKILL.md) | ⭐ 2.3k | `content creation` |
 
-### Daily Assistant (114 skills)
+### Daily Assistant (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -995,18 +986,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_e14f5eea/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/components/navigation-menu/SKILL.md) | ⭐ 12 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_9b18cc61/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/config/CLAUDE.md) | ⭐ 394 | `daily assistant` |
 | [Typical Capabilities](daily-assistant/306-typical-capabilities_89cb05ea/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/typical-capabilities.md) | ⭐ 10 | `daily assistant` |
-| [Branch Comparator](daily-assistant/branch-comparator_b3bd8f70/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/branch-comparator.md) | ⭐ 14 | `daily assistant` |
-| [Audit Seo](daily-assistant/audit-seo_9bb85c62/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/audit-seo.md) | ⭐ 14 | `daily assistant` |
-| [Audit State Tax](daily-assistant/audit-state-tax_d012e206/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/audit-state-tax.md) | ⭐ 14 | `daily assistant` |
-| [Ci Fixer](daily-assistant/ci-fixer_98a0a05e/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/ci-fixer.md) | ⭐ 14 | `daily assistant` |
-| [Integration Agent](daily-assistant/integration-agent_21f7d092/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/integration-agent.md) | ⭐ 14 | `daily assistant` |
-| [Pr Pusher](daily-assistant/pr-pusher_1b22db62/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/pr-pusher.md) | ⭐ 14 | `daily assistant` |
-| [Rules Engineer](daily-assistant/rules-engineer_2d50c9bc/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/rules-engineer.md) | ⭐ 14 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_05850793/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-microsimulation-skill/SKILL.md) | ⭐ 14 | `daily assistant` |
-| [Cross Program Validator](daily-assistant/cross-program-validator_62d1e8d3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/cross-program-validator.md) | ⭐ 14 | `daily assistant` |
-| [Test Creator](daily-assistant/test-creator_8304eff3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/test-creator.md) | ⭐ 14 | `daily assistant` |
+| [Branch Comparator](daily-assistant/270-branch-comparator_b3bd8f70/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/branch-comparator.md) | ⭐ 14 | `daily assistant` |
+| [Audit Seo](daily-assistant/271-audit-seo_9bb85c62/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/audit-seo.md) | ⭐ 14 | `daily assistant` |
+| [Audit State Tax](daily-assistant/272-audit-state-tax_d012e206/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/audit-state-tax.md) | ⭐ 14 | `daily assistant` |
+| [Ci Fixer](daily-assistant/273-ci-fixer_98a0a05e/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/ci-fixer.md) | ⭐ 14 | `daily assistant` |
+| [Integration Agent](daily-assistant/274-integration-agent_21f7d092/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/integration-agent.md) | ⭐ 14 | `daily assistant` |
+| [Pr Pusher](daily-assistant/275-pr-pusher_1b22db62/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/pr-pusher.md) | ⭐ 14 | `daily assistant` |
+| [Rules Engineer](daily-assistant/276-rules-engineer_2d50c9bc/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/rules-engineer.md) | ⭐ 14 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_05850793/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-microsimulation-skill/SKILL.md) | ⭐ 14 | `daily assistant` |
 
-### Data Analysis (115 skills)
+### Data Analysis (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1108,25 +1097,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_6e8d029c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/lt_memory/processing/CLAUDE.md) | ⭐ 394 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_cae94cc7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 394 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ba8bebb2/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/.claude/skills/skill-creator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Ecosystem](data-analysis/ecosystem_1ef0a4f5/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/ECOSYSTEM.md) | ⭐ 14 | `data analysis` |
-| [Pr Merge Checklist](data-analysis/pr-merge-checklist_4fc4e726/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/pr-merge-checklist.md) | ⭐ 14 | `data analysis` |
-| [Microsimulation Reform Guide](data-analysis/microsimulation_reform_guide_4eea584b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-analysis-skill/MICROSIMULATION_REFORM_GUIDE.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_e69df05d/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-analysis-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_46ad9230/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-district-analysis-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_0a281634/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microimpute-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_07416670/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/policyengine-uk-data-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_61310375/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/policyengine-us-data-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_49d571ca/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-design-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_564a52b6/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-style-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_15580e84/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/seo-checklist-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_d7e4634c/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-interactive-tools-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_1b66a1de/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-python-client-skill/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_731047c8/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/glossary-generator/SKILL.md) | ⭐ 51 | `data analysis` |
-| [Mermaid Guide](data-analysis/mermaid-guide_4f8ac59a/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 51 | `data analysis` |
-| [Seo Content Checker](data-analysis/seo-content-checker_560fc23c/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-content-checker.md) | ⭐ 14 | `data analysis` |
-| [Seo Performance Checker](data-analysis/seo-performance-checker_52a40614/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-performance-checker.md) | ⭐ 14 | `data analysis` |
+| [Ecosystem](data-analysis/496-ecosystem_1ef0a4f5/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/ECOSYSTEM.md) | ⭐ 14 | `data analysis` |
+| [Pr Merge Checklist](data-analysis/497-pr-merge-checklist_4fc4e726/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/pr-merge-checklist.md) | ⭐ 14 | `data analysis` |
+| [Microsimulation Reform Guide](data-analysis/498-microsimulation_reform_guide_4eea584b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-analysis-skill/MICROSIMULATION_REFORM_GUIDE.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e69df05d/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-analysis-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_46ad9230/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/analysis/policyengine-district-analysis-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0a281634/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microimpute-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_07416670/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/policyengine-uk-data-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_61310375/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/policyengine-us-data-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_49d571ca/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-design-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_564a52b6/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-style-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_15580e84/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/seo-checklist-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d7e4634c/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-interactive-tools-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_1b66a1de/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-python-client-skill/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_731047c8/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/glossary-generator/SKILL.md) | ⭐ 51 | `data analysis` |
+| [Mermaid Guide](data-analysis/143-mermaid-guide_4f8ac59a/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 51 | `data analysis` |
 
-### Development (439 skills)
+### Development (432 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1546,29 +1533,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_db7f5440/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/openbotx/skills/skill-creator/SKILL.md) | ⭐ 21 | `development` |
 | [Agents](development/028-agents_18d4a25e/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 23 | `development` |
 | [Readme.Zh Cn](development/822-readmezh-cn_b7c6ab97/) | [mco-org/mco](https://raw.githubusercontent.com/mco-org/mco/main/README.zh-CN.md) | ⭐ 10 | `development` |
-| [New Tool](development/new-tool_5dc13b5b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/new-tool.md) | ⭐ 14 | `development` |
-| [Setup Verbs](development/setup-verbs_ea5b8241/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/setup-verbs.md) | ⭐ 14 | `development` |
-| [Seo Meta Checker](development/seo-meta-checker_1c2821c2/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-meta-checker.md) | ⭐ 14 | `development` |
-| [Issue Manager](development/issue-manager_2a53a420/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/issue-manager.md) | ⭐ 14 | `development` |
-| [Workflow](development/workflow_1c449525/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/workflow.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_a49648cb/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microcalibrate-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_566ec37a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-healthcare-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_ade6f22d/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-uk-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_537ca215/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-us-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_20a36d37/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-period-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_c2cfba45/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-review-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_52ae1e68/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-vectorization-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_9f3504f2/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-core-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_5b83348b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-github-agent-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Learning Mascot](development/learning-mascot_102ee8aa/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 51 | `development` |
-| [Releasing](development/releasing_9d974ea7/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/releasing.md) | ⭐ 2.3k | `development` |
-| [App Reviewer](development/app-reviewer_95c67da6/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/app-reviewer.md) | ⭐ 14 | `development` |
-| [Isolation Setup](development/isolation-setup_31152678/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/isolation-setup.md) | ⭐ 14 | `development` |
-| [Model Evaluator](development/model-evaluator_82276b92/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/model-evaluator.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_ec8e8cba/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-aggregation-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_5493acfd/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-recharts-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_8c268031/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-testing-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_b1595c38/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-vercel-deployment-skill/SKILL.md) | ⭐ 14 | `development` |
+| [New Tool](development/2956-new-tool_5dc13b5b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/new-tool.md) | ⭐ 14 | `development` |
+| [Setup Verbs](development/2957-setup-verbs_ea5b8241/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/setup-verbs.md) | ⭐ 14 | `development` |
+| [Seo Meta Checker](development/2958-seo-meta-checker_1c2821c2/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-meta-checker.md) | ⭐ 14 | `development` |
+| [Issue Manager](development/2959-issue-manager_2a53a420/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/issue-manager.md) | ⭐ 14 | `development` |
+| [Workflow](development/1153-workflow_1c449525/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/workflow.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_a49648cb/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microcalibrate-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_566ec37a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-healthcare-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_ade6f22d/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-uk-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_537ca215/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-us-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_20a36d37/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-period-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_c2cfba45/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-review-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_52ae1e68/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-vectorization-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_9f3504f2/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-core-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_5b83348b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-github-agent-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Learning Mascot](development/2722-learning-mascot_102ee8aa/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 51 | `development` |
+| [Releasing](development/2960-releasing_9d974ea7/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/releasing.md) | ⭐ 2.3k | `development` |
 
 ### Development/Devops (141 skills)
 
@@ -1710,11 +1690,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1727c08f/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/seo/technical/indexnow/SKILL.md) | ⭐ 12 | `development` |
 | [V1.81.14](development/devops/397-v18114_206ed75d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 37.1k | `development` |
 | [Kiro Integration](development/devops/374-kiro_integration_5e653d17/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/KIRO_INTEGRATION.md) | 🔥 16.2k | `development` |
-| [Seo Crawlability Checker](development/devops/seo-crawlability-checker_935bf0ee/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-crawlability-checker.md) | ⭐ 14 | `development` |
-| [Isolation Enforcement](development/devops/isolation-enforcement_4034b4f7/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/isolation-enforcement.md) | ⭐ 14 | `development` |
-| [Skill](development/devops/name-skill_5a379b97/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-api-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/devops/name-skill_1a852390/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-api-v2-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Configuration](development/devops/configuration_f7d3b86e/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/configuration.md) | ⭐ 2.3k | `development` |
+| [Seo Crawlability Checker](development/devops/375-seo-crawlability-checker_935bf0ee/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/app/seo-crawlability-checker.md) | ⭐ 14 | `development` |
+| [Isolation Enforcement](development/devops/376-isolation-enforcement_4034b4f7/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/isolation-enforcement.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/014-name-skill_5a379b97/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-api-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/014-name-skill_1a852390/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/tools-and-apis/policyengine-api-v2-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Configuration](development/devops/009-configuration_f7d3b86e/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/configuration.md) | ⭐ 2.3k | `development` |
 
 ### Development/Testing (32 skills)
 
@@ -1745,13 +1725,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration Schema](development/testing/083-configuration-schema_100080da/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/configuration-schema.md) | ⭐ 20 | `development` |
 | [Environment And Modules](development/testing/084-environment-and-modules_1b816929/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/ty/references/environment-and-modules.md) | ⭐ 20 | `development` |
 | [Release Notes V1.7.0](development/testing/085-release_notes_v170_31f60610/) | [snath-ai/lar](https://raw.githubusercontent.com/snath-ai/lar/main/changelog/RELEASE_NOTES_v1.7.0.md) | ⭐ 10 | `development` |
-| [Review Pr](development/testing/review-pr_61abd5ee/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/review-pr.md) | ⭐ 14 | `development` |
-| [Review Program](development/testing/review-program_2dfc765a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/review-program.md) | ⭐ 14 | `development` |
-| [Content Architecture Options](development/testing/content-architecture-options_8513e22b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/docs/content-architecture-options.md) | ⭐ 14 | `global` `org` `featured` |
-| [Api Reviewer](development/testing/api-reviewer_9dc83ac9/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/api/api-reviewer.md) | ⭐ 14 | `development` |
-| [Claude](development/testing/claude_aa4d4b69/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/CLAUDE.md) | ⭐ 2.3k | `development` |
-| [Development](development/testing/development_77c5e9f0/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/development.md) | ⭐ 2.3k | `development` |
-| [Rpc Development](development/testing/rpc-development_bc5631dd/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/rpc-development.md) | ⭐ 2.3k | `development` |
+| [Review Pr](development/testing/083-review-pr_61abd5ee/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/review-pr.md) | ⭐ 14 | `development` |
+| [Review Program](development/testing/084-review-program_2dfc765a/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/review-program.md) | ⭐ 14 | `development` |
+| [Content Architecture Options](development/testing/085-content-architecture-options_8513e22b/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/docs/content-architecture-options.md) | ⭐ 14 | `global` `org` `featured` |
+| [Api Reviewer](development/testing/086-api-reviewer_9dc83ac9/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/api/api-reviewer.md) | ⭐ 14 | `development` |
+| [Claude](development/testing/041-claude_aa4d4b69/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/CLAUDE.md) | ⭐ 2.3k | `development` |
+| [Development](development/testing/087-development_77c5e9f0/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/development.md) | ⭐ 2.3k | `development` |
+| [Rpc Development](development/testing/088-rpc-development_bc5631dd/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/rpc-development.md) | ⭐ 2.3k | `development` |
 
 ### Development/Tools (151 skills)
 
@@ -1902,14 +1882,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_93e8dad2/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/AGENTS.md) | ⭐ 21 | `development` |
 | [Architecture](development/tools/051-architecture_49f819e9/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/architecture.md) | ⭐ 21 | `development` |
 | [Tools](development/tools/300-tools_84fc5444/) | [openbotx/openbotx](https://raw.githubusercontent.com/openbotx/openbotx/main/docs/tools.md) | ⭐ 21 | `development` |
-| [Backdate Program](development/tools/backdate-program_8fcf3159/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/backdate-program.md) | ⭐ 14 | `development` |
-| [Encode Policy](development/tools/encode-policy_5051f75f/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/encode-policy.md) | ⭐ 14 | `development` |
-| [Fetch Pdf](development/tools/fetch-pdf_360ca3de/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/fetch-pdf.md) | ⭐ 14 | `development` |
-| [Edge Case Generator](development/tools/edge-case-generator_0332596f/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/edge-case-generator.md) | ⭐ 14 | `development` |
-| [Skill](development/tools/name-skill_8cc4a4a0/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-plugin-maintenance-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Stability](development/tools/stability_8fc228e6/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/stability.md) | ⭐ 2.3k | `development` |
+| [Backdate Program](development/tools/368-backdate-program_8fcf3159/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/backdate-program.md) | ⭐ 14 | `development` |
+| [Encode Policy](development/tools/369-encode-policy_5051f75f/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/encode-policy.md) | ⭐ 14 | `development` |
+| [Fetch Pdf](development/tools/370-fetch-pdf_360ca3de/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/commands/fetch-pdf.md) | ⭐ 14 | `development` |
+| [Edge Case Generator](development/tools/371-edge-case-generator_0332596f/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/edge-case-generator.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/002-name-skill_8cc4a4a0/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-plugin-maintenance-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Stability](development/tools/372-stability_8fc228e6/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/stability.md) | ⭐ 2.3k | `development` |
 
-### Investment (27 skills)
+### Investment (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1940,16 +1920,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pmm Mister](investment/051-pmm_mister_e69056b5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_mister.md) | ⭐ 12 | `investment` |
 | [Pmm V1](investment/052-pmm_v1_3bd899e5/) | [hummingbot/skills](https://raw.githubusercontent.com/hummingbot/skills/main/skills/hummingbot/references/pmm_v1.md) | ⭐ 12 | `investment` |
 | [Skill](investment/021-name-skill_ea63b574/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/legal/cookie-policy/SKILL.md) | ⭐ 12 | `investment` |
+| [Bcos](investment/bcos_86adbee6/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/BCOS.md) | ⭐ 28 | `investment` |
 
-### Other (3 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [04 The Emperor](other/036-04-the-emperor_1b48cba1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/major/04-the-emperor.md) | ⭐ 2.9k | `other` |
 | [Eight Of Swords](other/037-eight-of-swords_24e30c87/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/let-fate-decide/skills/let-fate-decide/cards/swords/eight-of-swords.md) | ⭐ 2.9k | `other` |
-| [Changelog Template](other/changelog_template_85b54141/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/.github/changelog_template.md) | ⭐ 14 | `other` |
 
-### Productivity (38 skills)
+### Productivity (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1988,9 +1968,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3fc43550/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/platforms/reddit/SKILL.md) | ⭐ 12 | `productivity` |
 | [Skill](productivity/093-name-skill_eaa50f84/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/pages/marketing/pricing/SKILL.md) | ⭐ 12 | `productivity` |
 | [Intake Guide](productivity/174-intake-guide_2e77540f/) | [Consortium-team/project-creator](https://raw.githubusercontent.com/Consortium-team/project-creator/main/companion-kits/public-kits/personas/product-manager/intake-guide.md) | ⭐ 10 | `productivity` |
-| [Skill](productivity/name-skill_9b6373e3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/l0-skill/SKILL.md) | ⭐ 14 | `productivity` |
-| [Skill](productivity/name-skill_3be000f0/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microdf-skill/SKILL.md) | ⭐ 14 | `productivity` |
-| [Performance Optimizer](productivity/performance-optimizer_8ac9ba1f/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/performance-optimizer.md) | ⭐ 14 | `productivity` |
+| [Skill](productivity/093-name-skill_9b6373e3/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/l0-skill/SKILL.md) | ⭐ 14 | `productivity` |
+| [Skill](productivity/093-name-skill_3be000f0/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microdf-skill/SKILL.md) | ⭐ 14 | `productivity` |
 
 ### Research (77 skills)
 
@@ -2064,15 +2043,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Priors](research/267-priors_65edf17f/) | [pymc-labs/python-analytics-skills](https://raw.githubusercontent.com/pymc-labs/python-analytics-skills/main/skills/pymc-modeling/references/priors.md) | ⭐ 12 | `research` |
 | [Skill](research/139-name-skill_765ddf7d/) | [kostja94/marketing-skills](https://raw.githubusercontent.com/kostja94/marketing-skills/main/skills/analytics/ai-traffic/SKILL.md) | ⭐ 12 | `research` |
 | [Claude](research/015-claude_26ccf049/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/CLAUDE.md) | ⭐ 394 | `research` |
-| [Legislation Statute Analyzer](research/legislation-statute-analyzer_36be6d50/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/legislation-statute-analyzer.md) | ⭐ 14 | `research` |
-| [Agent Lessons](research/agent-lessons_0bbcccc1/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/lessons/agent-lessons.md) | ⭐ 14 | `research` |
-| [Documentation Enricher](research/documentation-enricher_1ab1dd01/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/documentation-enricher.md) | ⭐ 14 | `research` |
-| [Implementation Validator](research/implementation-validator_8a46e510/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/implementation-validator.md) | ⭐ 14 | `research` |
-| [Program Reviewer](research/program-reviewer_b9868616/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/program-reviewer.md) | ⭐ 14 | `research` |
-| [Policyengine Standards](research/policyengine-standards_48d7986e/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/policyengine-standards.md) | ⭐ 14 | `research` |
-| [Skill](research/name-skill_52cac450/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-organization-skill/SKILL.md) | ⭐ 14 | `research` |
-| [Skill](research/name-skill_bf7265ac/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-variable-patterns-skill/SKILL.md) | ⭐ 14 | `research` |
-| [Rpc Reference](research/rpc-reference_10aaa272/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/rpc-reference.md) | ⭐ 2.3k | `research` |
+| [Legislation Statute Analyzer](research/257-legislation-statute-analyzer_36be6d50/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/legislation-statute-analyzer.md) | ⭐ 14 | `research` |
+| [Agent Lessons](research/258-agent-lessons_0bbcccc1/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/lessons/agent-lessons.md) | ⭐ 14 | `research` |
+| [Documentation Enricher](research/259-documentation-enricher_1ab1dd01/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/documentation-enricher.md) | ⭐ 14 | `research` |
+| [Implementation Validator](research/260-implementation-validator_8a46e510/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/implementation-validator.md) | ⭐ 14 | `research` |
+| [Program Reviewer](research/261-program-reviewer_b9868616/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/country-models/program-reviewer.md) | ⭐ 14 | `research` |
+| [Policyengine Standards](research/262-policyengine-standards_48d7986e/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/agents/shared/policyengine-standards.md) | ⭐ 14 | `research` |
+| [Skill](research/139-name-skill_52cac450/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-organization-skill/SKILL.md) | ⭐ 14 | `research` |
+| [Skill](research/139-name-skill_bf7265ac/) | [PolicyEngine/policyengine-claude](https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-variable-patterns-skill/SKILL.md) | ⭐ 14 | `research` |
+| [Rpc Reference](research/263-rpc-reference_10aaa272/) | [teng-lin/notebooklm-py](https://raw.githubusercontent.com/teng-lin/notebooklm-py/main/docs/rpc-reference.md) | ⭐ 2.3k | `research` |
 
 ## How Skills Are Organized
 
@@ -2124,5 +2103,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-03-01 00:37:50 UTC*
+*Last updated: 2026-03-01 00:39:16 UTC*
 *Automatically maintained by SkillFlow*
