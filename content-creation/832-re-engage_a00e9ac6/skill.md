@@ -1,6 +1,6 @@
 ---
 description: Create re-engagement sequence for inactive contacts
-argument-hint: [brand-or-product] [inactive-criteria]
+argument-hint: "[brand-or-product] [inactive-criteria]"
 ---
 
 ## Language & Quality Standards

@@ -1,6 +1,6 @@
 ---
 description: Create or optimize popups, modals, overlays for conversion
-argument-hint: [goal-or-current-popup]
+argument-hint: "[goal-or-current-popup]"
 ---
 
 ## Language & Quality Standards

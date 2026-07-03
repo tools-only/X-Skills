@@ -1,6 +1,6 @@
 ---
 description: Create email copy with sequences
-argument-hint: [email-type] [objective]
+argument-hint: "[email-type] [objective]"
 ---
 
 ## Language & Quality Standards

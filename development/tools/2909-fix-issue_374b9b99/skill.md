@@ -1,6 +1,6 @@
 ---
 description: 修复 GitHub issue
-argument-hint: [issue-number]
+argument-hint: "[issue-number]"
 allowed-tools: Write, Read, LS, Glob, Grep, Bash(gh:*), Bash(git:*)
 ---
 

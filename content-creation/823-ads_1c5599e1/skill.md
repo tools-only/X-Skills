@@ -1,6 +1,6 @@
 ---
 description: Create ad copy for paid campaigns
-argument-hint: [platform] [objective]
+argument-hint: "[platform] [objective]"
 ---
 
 ## Language & Quality Standards

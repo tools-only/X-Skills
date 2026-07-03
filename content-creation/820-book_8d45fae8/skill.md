@@ -1,6 +1,6 @@
 ---
 description: Generate comprehensive brand book
-argument-hint: [brand-name]
+argument-hint: "[brand-name]"
 ---
 
 ## Language & Quality Standards

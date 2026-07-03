@@ -1,7 +1,7 @@
 ---
 name: codex-cto
 description: Inverted orchestration—Codex CLI acts as CTO (planning and reviewing), Claude Code executes with native tools. Use when a task benefits from external architectural oversight before and after implementation.
-argument-hint: [objective]
+argument-hint: "[objective]"
 disable-model-invocation: true
 ---
 

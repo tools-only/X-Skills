@@ -1,7 +1,7 @@
 ---
 allowed-tools: Read, Grep, Glob, Bash(git:*), Bash(find:*), Bash(grep:*), Bash(wc:*), Task
 description: Security-focused code review
-argument-hint: [files, directories, commit range, or branch]
+argument-hint: "[files, directories, commit range, or branch]"
 ---
 
 # Security Review

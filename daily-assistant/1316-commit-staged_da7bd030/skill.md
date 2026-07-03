@@ -1,6 +1,6 @@
 ---
 allowed-tools: Task, Read, Grep, SlashCommand
-argument-hint: [context]
+argument-hint: "[context]"
 description: Commit staged changes with optional context
 ---
 

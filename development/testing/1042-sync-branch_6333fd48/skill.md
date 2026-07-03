@@ -1,6 +1,6 @@
 ---
 description: Sync feature branch with the latest main branch.
-argument-hint: [target]
+argument-hint: "[target]"
 ---
 
 1. Fetch latest upstream refs: `git fetch origin --prune`.

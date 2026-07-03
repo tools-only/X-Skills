@@ -1,6 +1,6 @@
 ---
 description: 审查 GitHub pull request，提供详细的代码分析
-argument-hint: [pr-number]
+argument-hint: "[pr-number]"
 allowed-tools: Write, Read, LS, Glob, Grep, Bash(gh:*), Bash(git:*)
 ---
 

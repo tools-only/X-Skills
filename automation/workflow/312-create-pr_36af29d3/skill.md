@@ -1,6 +1,6 @@
 ---
 allowed-tools: Task, Read, Grep, SlashCommand, Bash(git checkout:*), Bash(git -C:* checkout:*)
-argument-hint: [context]
+argument-hint: "[context]"
 description: Create pull request with optional context
 ---
 

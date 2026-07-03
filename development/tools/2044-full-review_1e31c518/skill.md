@@ -1,5 +1,5 @@
 ---
-argument-hint: [--report] [--issue] [--scope <path>]
+argument-hint: "[--report] [--issue] [--scope <path>]"
 description: Run full codebase review using automatic-code-review rules
 allowed-tools: Glob, Read, Write, Bash, Task
 ---

@@ -1,6 +1,6 @@
 ---
 description: Draft a professional email using the What-Why-How framework. Use when you need to compose emails to colleagues, stakeholders, or leadership.
-argument-hint: [context or paste existing draft]
+argument-hint: "[context or paste existing draft]"
 allowed-tools: Read, AskUserQuestion
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: Generate content calendar for campaign
-argument-hint: [timeframe] - Interactive mode, user will be asked for all parameters
+argument-hint: "[timeframe] - Interactive mode, user will be asked for all parameters"
 ---
 
 ## Language & Quality Standards

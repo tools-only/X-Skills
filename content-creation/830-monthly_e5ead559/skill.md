@@ -1,6 +1,6 @@
 ---
 description: Generate client-ready monthly marketing report
-argument-hint: [client-or-project]
+argument-hint: "[client-or-project]"
 ---
 
 ## Language & Quality Standards

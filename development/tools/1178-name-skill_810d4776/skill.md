@@ -2,7 +2,7 @@
 name: api-compatibility-check
 description: API互換性を検証
 user-invocable: true
-argument-hint: [変更後のスキーマパスまたはPR番号]
+argument-hint: "[変更後のスキーマパスまたはPR番号]"
 allowed-tools: Read, Grep, Glob, Bash
 context: fork
 ---

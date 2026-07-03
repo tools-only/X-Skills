@@ -1,6 +1,6 @@
 ---
 description: Comprehensive marketing audit across all channels
-argument-hint: [brand-or-website]
+argument-hint: "[brand-or-website]"
 ---
 
 ## Language & Quality Standards

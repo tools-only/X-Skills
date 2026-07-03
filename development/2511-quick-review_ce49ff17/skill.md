@@ -1,7 +1,7 @@
 ---
 allowed-tools: Read, Grep, Glob, Bash(git:*), Bash(find:*), Bash(wc:*)
 description: Quick single-pass code review (no sub-agents, faster but less thorough)
-argument-hint: [files, commit range, or branch]
+argument-hint: "[files, commit range, or branch]"
 ---
 
 # Quick Code Review

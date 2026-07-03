@@ -1,6 +1,6 @@
 ---
 description: Add or optimize schema markup and structured data
-argument-hint: [page-type-or-url]
+argument-hint: "[page-type-or-url]"
 ---
 
 ## Language & Quality Standards

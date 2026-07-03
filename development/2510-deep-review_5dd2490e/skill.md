@@ -1,7 +1,7 @@
 ---
 allowed-tools: Read, Grep, Glob, Bash(git:*), Bash(find:*), Bash(wc:*), Task
 description: Deep multi-language code review with specialist sub-agents
-argument-hint: [files, directories, commit range, or branch name]
+argument-hint: "[files, directories, commit range, or branch name]"
 ---
 
 # Deep Code Review Coordinator
