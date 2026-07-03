@@ -1,6 +1,6 @@
 ---
 description: Complete a ticket after execution - transitions Jira to "In Review" and updates the implementation plan
-argument-hint: [ticket-key] (optional if context available)
+argument-hint: "[ticket-key] (optional if context available)"
 ---
 
 # Complete Ticket Workflow

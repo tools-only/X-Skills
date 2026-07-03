@@ -1,6 +1,6 @@
 ---
 description: ⚡⚡ Brainstorm marketing strategies and campaigns
-argument-hint: [question]
+argument-hint: "[question]"
 ---
 
 ## Language & Quality Standards

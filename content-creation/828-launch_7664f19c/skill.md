@@ -1,6 +1,6 @@
 ---
 description: Plan product launch, feature announcement, or release strategy
-argument-hint: [product-or-feature-to-launch]
+argument-hint: "[product-or-feature-to-launch]"
 ---
 
 ## Language & Quality Standards

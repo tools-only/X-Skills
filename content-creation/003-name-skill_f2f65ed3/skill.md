@@ -1,7 +1,7 @@
 ---
 name: interview-openspec
 description: Create OpenSpec artifacts (proposal, specs, design, tasks) through Socratic interview. Use when starting a new OpenSpec change that needs structured requirements elicitation.
-argument-hint: [change-name-or-description]
+argument-hint: "[change-name-or-description]"
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash, AskUserQuestion, TodoWrite
 ---
 

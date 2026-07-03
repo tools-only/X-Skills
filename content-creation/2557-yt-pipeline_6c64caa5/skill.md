@@ -1,7 +1,7 @@
 ---
 name: yt-pipeline
 description: Run the full YouTube content production pipeline
-argument-hint: [topic-or-channel-urls]
+argument-hint: "[topic-or-channel-urls]"
 allowed-tools: Read, Write, Edit, Bash, Grep, Glob, Task, WebSearch, AskUserQuestion
 model: sonnet
 ---

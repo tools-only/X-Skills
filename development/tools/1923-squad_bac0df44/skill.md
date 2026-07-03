@@ -1,6 +1,6 @@
 ---
 description: Orchestrate multiple skills to comprehensively address a request. Use when you want Claude to apply all relevant expertise.
-argument-hint: [your request]
+argument-hint: "[your request]"
 ---
 
 # Squad Deployment Protocol

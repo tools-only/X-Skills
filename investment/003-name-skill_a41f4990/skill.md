@@ -7,7 +7,7 @@ description: >
   their thinking.
 model: opus
 allowed-tools: [Read, Write, AskUserQuestion]
-argument-hint: [topic] - optional topic to interview about
+argument-hint: "[topic] - optional topic to interview about"
 ---
 
 # Thinking Partner

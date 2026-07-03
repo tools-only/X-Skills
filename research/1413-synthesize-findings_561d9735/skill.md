@@ -1,6 +1,6 @@
 ---
 description: 综合多个研究智能体的发现，生成统一的研究报告
-argument-hint: [研究结果目录]
+argument-hint: "[研究结果目录]"
 allowed-tools: Read, Write
 ---
 

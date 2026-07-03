@@ -1,6 +1,6 @@
 ---
 description: Optimize marketing page for conversions (homepage, landing, pricing, feature pages)
-argument-hint: [url-or-description]
+argument-hint: "[url-or-description]"
 ---
 
 ## Language & Quality Standards

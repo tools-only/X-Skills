@@ -1,6 +1,6 @@
 ---
 description: Build a mental model of changes by splitting them into smaller logical chunks
-argument-hint: [commit|branch|range|custom]
+argument-hint: "[commit|branch|range|custom]"
 ---
 
 # Mental Model Builder

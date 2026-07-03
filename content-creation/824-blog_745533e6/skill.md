@@ -1,6 +1,6 @@
 ---
 description: Create SEO-optimized blog post
-argument-hint: [topic]
+argument-hint: "[topic]"
 ---
 
 ## Language & Quality Standards

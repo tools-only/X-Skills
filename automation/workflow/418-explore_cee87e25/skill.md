@@ -1,6 +1,6 @@
 ---
 description: Explore a Weaviate collection's data, including property metrics and sample objects
-argument-hint: [name]
+argument-hint: "[name]"
 allowed-tools: Bash(uv:*), AskUserQuestion, Skill
 ---
 

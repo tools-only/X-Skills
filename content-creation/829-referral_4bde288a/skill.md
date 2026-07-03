@@ -1,6 +1,6 @@
 ---
 description: Design referral program, affiliate program, or word-of-mouth strategy
-argument-hint: [product-or-context]
+argument-hint: "[product-or-context]"
 ---
 
 ## Language & Quality Standards

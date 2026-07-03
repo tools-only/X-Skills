@@ -5,7 +5,7 @@ description: >
   branches", "prune stale branches", "git branch cleanup", "remove old branches",
   or wants to tidy up or purge old branches.
 model: haiku
-argument-hint: [branch-pattern] - optional pattern to filter branches
+argument-hint: "[branch-pattern] - optional pattern to filter branches"
 allowed-tools:
   - Bash
   - AskUserQuestion

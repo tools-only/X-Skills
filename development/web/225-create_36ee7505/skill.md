@@ -1,6 +1,6 @@
 ---
 description: Create a new agent skill
-argument-hint: [prompt]
+argument-hint: "[prompt]"
 ---
 
 Ultrathink.

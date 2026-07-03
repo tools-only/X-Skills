@@ -1,6 +1,6 @@
 ---
 description: Audit implementation plans for completeness
-argument-hint: [plan-file-or-folder]
+argument-hint: "[plan-file-or-folder]"
 model: opus
 ---
 

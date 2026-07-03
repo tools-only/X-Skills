@@ -1,6 +1,6 @@
 ---
 description: Deep codebase analysis to build authoritative understanding for confident collaboration
-argument-hint: [optional focus area or specific questions]
+argument-hint: "[optional focus area or specific questions]"
 ---
 
 # Deep Codebase Analysis

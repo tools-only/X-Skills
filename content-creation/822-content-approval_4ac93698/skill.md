@@ -1,6 +1,6 @@
 ---
 description: Content approval workflow for team collaboration
-argument-hint: [content-type] [approvers]
+argument-hint: "[content-type] [approvers]"
 ---
 
 ## Language & Quality Standards

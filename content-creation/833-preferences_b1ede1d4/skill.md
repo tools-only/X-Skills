@@ -1,6 +1,6 @@
 ---
 description: Configure your default preferences for AgentKits Marketing
-argument-hint: [view|set|reset] - Interactive mode, user will be asked for all parameters
+argument-hint: "[view|set|reset] - Interactive mode, user will be asked for all parameters"
 ---
 
 ## Language & Quality Standards
